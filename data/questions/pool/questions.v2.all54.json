@@ -1,0 +1,548 @@
+[
+  {
+    "id": "q01",
+    "statement": "The province should reinstate the consumer carbon tax on fuel.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Dropped 'and raise' second idea and the leading 'even if' cost clause."
+  },
+  {
+    "id": "q02",
+    "statement": "The government should cut income taxes for middle- and higher-income earners.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed the 'even if smaller public services' second idea; named the tax."
+  },
+  {
+    "id": "q03",
+    "statement": "The province should introduce a wealth tax on the largest personal fortunes.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Fixed confusion between a wealth tax and taxes on high earners."
+  },
+  {
+    "id": "q04",
+    "statement": "BC should balance the provincial budget by cutting spending.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Merged two clauses into one policy direction; dropped 'even in uncertain times'."
+  },
+  {
+    "id": "q05",
+    "statement": "The government should cap retail prices for essentials such as groceries and fuel.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed leading 'to fight the rising cost of living' framing."
+  },
+  {
+    "id": "q06",
+    "statement": "The minimum wage should rise automatically with inflation.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed the 'even if it pressures small businesses' second idea."
+  },
+  {
+    "id": "q07",
+    "statement": "BC should reduce the deficit mainly by shrinking the size of the public service.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q08",
+    "statement": "Cost-of-living relief should be delivered through targeted rebates to low-income households.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed the 'rather than broad tax cuts' second idea; one policy direction."
+  },
+  {
+    "id": "q09",
+    "statement": "The province should raise taxes on large corporations to pay for public services.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q10",
+    "statement": "The province should require higher-density housing near transit stations, even where municipal zoning rules do not allow it.",
+    "topic": "housing",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "Removed loaded verb 'force'."
+  },
+  {
+    "id": "q11",
+    "statement": "Rent controls should be expanded to cover more rental units.",
+    "topic": "housing",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed 'and' join and vague 'strengthened'."
+  },
+  {
+    "id": "q12",
+    "statement": "The provincial government should provide affordable rental housing as a public landlord.",
+    "topic": "housing",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed 'and' join and 'rather than' market contrast."
+  },
+  {
+    "id": "q13",
+    "statement": "British Columbia should increase taxes on homes that sit vacant.",
+    "topic": "housing",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Dropped loaded 'speculator-owned' category and 'and' join."
+  },
+  {
+    "id": "q14",
+    "statement": "The province should not adopt housing policies that lower existing home values.",
+    "topic": "housing",
+    "dimensions": [
+      "social",
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed leading 'protected from' framing."
+  },
+  {
+    "id": "q15",
+    "statement": "Municipalities, not the province, should have the final say over housing density in their neighbourhoods.",
+    "topic": "housing",
+    "dimensions": [
+      "social"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q16",
+    "statement": "The province should impose stricter limits on short-term rentals like Airbnb.",
+    "topic": "housing",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed leading purpose clause and emotive 'tightly'/'residents' wording."
+  },
+  {
+    "id": "q17",
+    "statement": "The province should offer direct subsidies to first-time homebuyers.",
+    "topic": "housing",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed leading purpose clause 'to help them enter the market'."
+  },
+  {
+    "id": "q18",
+    "statement": "The province should expand supportive housing even where local residents object.",
+    "topic": "housing",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "Removed 'and' join; single housing category."
+  },
+  {
+    "id": "q19",
+    "statement": "BC should allow more private, for-profit clinics to operate.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "removed leading claim that clinics reduce wait times"
+  },
+  {
+    "id": "q20",
+    "statement": "The province should speed up licensing of health-care workers trained outside Canada.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "merged two worker groups into one category; single idea"
+  },
+  {
+    "id": "q21",
+    "statement": "Public drug coverage should be expanded to pay for more prescriptions.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "dropped 'for everyone' second scope idea and generous framing"
+  },
+  {
+    "id": "q22",
+    "statement": "The province should fund more supervised consumption sites.",
+    "topic": "health",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "split 'and' join; kept one program idea"
+  },
+  {
+    "id": "q23",
+    "statement": "Medically necessary care in BC should be covered only by the public health plan.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "collapsed redundant double phrasing into one policy idea"
+  },
+  {
+    "id": "q24",
+    "statement": "The province should cover dental care under the public health plan.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "removed 'and paid for' second clause; same idea stated once"
+  },
+  {
+    "id": "q25",
+    "statement": "The province should allow overdose-prevention sites to open despite local opposition.",
+    "topic": "health",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "replaced leading 'even where residents and businesses object' framing"
+  },
+  {
+    "id": "q26",
+    "statement": "The province should require hospitals to follow minimum nurse-to-patient ratios.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "replaced loaded 'impose' with neutral wording"
+  },
+  {
+    "id": "q27",
+    "statement": "BC should allow more private diagnostic imaging clinics to operate.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "removed leading claim that it cuts waiting lists"
+  },
+  {
+    "id": "q28",
+    "statement": "BC should approve new liquefied natural gas (LNG) export projects.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed leading rationale ('to grow the export economy'); kept single policy idea."
+  },
+  {
+    "id": "q29",
+    "statement": "The province should stop logging old-growth forests.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "social",
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q30",
+    "statement": "BC should require oil and gas companies to cut their greenhouse gas emissions.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Replaced emotive 'steep emissions cuts' with a plain mandate wording."
+  },
+  {
+    "id": "q31",
+    "statement": "The province should prioritize funding for public transit over highway expansion.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Split the two-idea 'transit and rail rather than highways' into one spending-priority idea."
+  },
+  {
+    "id": "q32",
+    "statement": "Industrial carbon pricing should apply to BC's largest emitters.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q33",
+    "statement": "BC should protect at least 30% of its land and water by 2030.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "social"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q34",
+    "statement": "BC should require that all new cars sold by 2035 be electric.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q35",
+    "statement": "BC should speed up the approval of new mining projects.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed 'and resource projects' second idea and leading 'to create jobs' rationale."
+  },
+  {
+    "id": "q36",
+    "statement": "BC should end public subsidies to the fossil fuel industry.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q37",
+    "statement": "BC should implement the Declaration on the Rights of Indigenous Peoples Act (DRIPA), the 2019 law aligning provincial laws with the UN declaration.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "glossed DRIPA for casual voters; dropped hedge 'fully'"
+  },
+  {
+    "id": "q38",
+    "statement": "DRIPA should be changed so that First Nations' consent is not required for resource projects.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "removed loaded 'veto power' framing"
+  },
+  {
+    "id": "q39",
+    "statement": "The province should share resource revenue with First Nations whose territories host resource projects.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "replaced unclear 'the projects' with 'resource projects'"
+  },
+  {
+    "id": "q40",
+    "statement": "Aboriginal rights, including title, should be affirmed in provincial law.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "split compound 'title and rights' into one idea"
+  },
+  {
+    "id": "q41",
+    "statement": "BC should fund Indigenous-led child welfare services.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "replaced compound 'child and family services' with one idea"
+  },
+  {
+    "id": "q42",
+    "statement": "Land-use decisions on traditional territories should require the consent of the local First Nations.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "replaced vague 'decisive role' with a clear consent rule"
+  },
+  {
+    "id": "q43",
+    "statement": "The province should prioritise Indigenous-owned businesses in public procurement.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q44",
+    "statement": "The province should speed up treaty negotiations with First Nations.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "dropped second idea and leading 'even if' clause"
+  },
+  {
+    "id": "q45",
+    "statement": "BC should increase funding for Indigenous language programs.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "removed second idea (cultural programs) joined by 'and'"
+  },
+  {
+    "id": "q46",
+    "statement": "Public use of illegal drugs should be banned in BC.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "Split two-idea statement; kept the public-use ban only."
+  },
+  {
+    "id": "q47",
+    "statement": "It should be harder for repeat violent offenders to be released on bail.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "Clarified vague wording 'made tougher'."
+  },
+  {
+    "id": "q48",
+    "statement": "The province should expand involuntary care for people with severe addiction and mental illness.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q49",
+    "statement": "Funding for police should be increased to address street disorder.",
+    "topic": "public-safety",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q50",
+    "statement": "The province should scale back safer-supply programs that give drug users alternatives to street drugs.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "Removed second idea (shift to treatment); defined safer supply for casual readers."
+  },
+  {
+    "id": "q51",
+    "statement": "BC should create many more publicly funded treatment and recovery beds.",
+    "topic": "public-safety",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q52",
+    "statement": "Municipalities should be allowed to ban public drug use in their own bylaws.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q53",
+    "statement": "Courts should be able to order addiction treatment for repeat offenders.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q54",
+    "statement": "BC should spend more on youth programs intended to prevent crime.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "Removed 'and' join of two program ideas; single clearer statement."
+  }
+]

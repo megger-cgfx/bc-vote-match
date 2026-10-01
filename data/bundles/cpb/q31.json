@@ -1,0 +1,154 @@
+{
+  "question_id": "q31",
+  "statement": "The province should prioritize funding for public transit over highway expansion.",
+  "topic": "climate-environment",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T18:27:10Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "prioritize",
+    "funding",
+    "public",
+    "transit",
+    "highway",
+    "expansion"
+  ],
+  "sources_searched": 53,
+  "sources_missing_text": [
+    "cpb-0005"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.6414,
+      "source_id": "cpb-0031",
+      "source_type": "media",
+      "title": "The Tyee: The BC Conservative Platform - A Road Map to the 1950s",
+      "url": "https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "archive_url": "http://web.archive.org/web/20260915092040/https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "published": "2026-09-14",
+      "quote": "As for public transit, the Conservatives want to build out the SkyTrain to Newton in Surrey, put in regional rail service in the Fraser Valley and “implement a zero-tolerance policy for drug use, threats and violence on public transit.” Again, they say nothing about funding."
+    },
+    {
+      "rank": 2,
+      "score": 3.7336,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "Public Transit and Passenger Rail\n13.05 To build the public transit BC needs, the Conservative Party of BC will:\n (a) Extend SkyTrain to Newton in Surrey."
+    },
+    {
+      "rank": 3,
+      "score": 3.5463,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "To build the public transit BC needs, the Conservative Party of BC will:"
+    },
+    {
+      "rank": 4,
+      "score": 3.5188,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "Reliable funding for reliable transit\n13.07 The Conservative Party of BC will:\n (a) Fully fund TransLink for two years to maintain uninterrupted, reliable service.\n (b) Audit and reform TransLink's financial model to ensure the long-term availability of funding\n that not just maintains service, but fuels expansion for the future."
+    },
+    {
+      "rank": 5,
+      "score": 3.1541,
+      "source_id": "cpb-0031",
+      "source_type": "media",
+      "title": "The Tyee: The BC Conservative Platform - A Road Map to the 1950s",
+      "url": "https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "archive_url": "http://web.archive.org/web/20260915092040/https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "published": "2026-09-14",
+      "quote": "The logic appears to be that the full force of the law is reserved for the riff-raff using public transit, while crooked businesses cheat their customers unchallenged."
+    },
+    {
+      "rank": 6,
+      "score": 3.1434,
+      "source_id": "cpb-0004",
+      "source_type": "policy",
+      "title": "Appendix - Platform Costing 2024",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/06/Appendix_-_Platform_Costing_2024.final_.pdf",
+      "archive_url": "http://web.archive.org/web/20251017100234/https://conservativebc.ca/wp-content/uploads/2025/06/Appendix_-_Platform_Costing_2024.final_.pdf",
+      "published": "2025-06-24",
+      "quote": "• Capital Projects (capital plan)\n • Fully fund TransLink for 2 years Est. $580MM in each Budget 26 and 27\n • BC Transit service improvements\n • Transport 2050 bus expansion priorities"
+    },
+    {
+      "rank": 7,
+      "score": 3.0217,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Commit to a new Ironworkers Memorial Bridge with expanded capacity for\n both cars and public transit services. Additionally, we will immediately reverse\n plans to remove the Main St. eastbound dedicated to local traffic."
+    },
+    {
+      "rank": 8,
+      "score": 3.0036,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Implement a zero-tolerance policy for drug use, threats, and violence on\n public transit. Offences against both riders and operators will be prosecuted to\n the fullest extent of the law, and we will work with TransLink and the Transit Police\n to make sure they have all tools needed to keep the system safe."
+    },
+    {
+      "rank": 9,
+      "score": 2.7241,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "(North-south SkyTrain along the King George\n corridor).\n (b) Fund key projects in the Transport 2050 plan, working with municipal leaders and TransLink\n to identify the highest-priority projects which may include expansions of SkyTrain, Bus Rapid\n Transit, Rapid Bus, and express and local bus services.\n (c) Develop a business case to analyze Fraser Valley regional rail between Chilliwack,\n Abbotsford, the Langley SkyTrain, and Surrey.\n (d) Expand regional transit service in the Sea-to-Sky corridor and consider extending TransLink\n services to Squamish.\n (e) Work with TransLink and the City of Surrey to address the longstanding issues and service\n deficits being ignored by the NDP.\n (f)"
+    },
+    {
+      "rank": 10,
+      "score": 2.4505,
+      "source_id": "cpb-0031",
+      "source_type": "media",
+      "title": "The Tyee: The BC Conservative Platform - A Road Map to the 1950s",
+      "url": "https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "archive_url": "http://web.archive.org/web/20260915092040/https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "published": "2026-09-14",
+      "quote": "They aren’t everything the party could do, but it’s a start. Article 13 deals with transportation, which the Conservatives associate mostly with cars. They would build new bridges all over the province, including “a new Ironworkers Memorial Bridge with expanded capacity for both cars and public transit services.” And they would “replace the George Massey Tunnel as soon as possible.” How such projects would be funded is not mentioned."
+    },
+    {
+      "rank": 11,
+      "score": 1.1624,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "published": "2026-05-28",
+      "quote": "Trevor Halford : Apparently it’s funny to the Minister of Children and Families that they cancel a project in the Burnaby Hospital expansion. My question to the Premier is a simple one. Did he consult any of his Burnaby MLAs — he or the Minister of Finance — prior to making the decision to cancel the Burnaby Hospital expansion? [4:40 p.m.] Hon."
+    },
+    {
+      "rank": 12,
+      "score": 0.9689,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "The cost of doing business is too high. When costs go up for small businesses, prices go up for everyday people, and jobs are put at risk.” B.C. has already lost more than 40,000 jobs so far this year. When will this government stop ignoring small businesses and reverse their poorly timed PST expansion?"
+    }
+  ]
+}

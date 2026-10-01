@@ -1,0 +1,155 @@
+{
+  "question_id": "q28",
+  "statement": "BC should approve new liquefied natural gas (LNG) projects to grow the export economy.",
+  "topic": "climate-environment",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:21Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "approve",
+    "liquefied",
+    "natural",
+    "gas",
+    "lng",
+    "projects",
+    "grow",
+    "export",
+    "economy"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 11.056,
+      "source_id": "green-0024",
+      "source_type": "media",
+      "title": "BC Greens Plan Free Childcare Expansion and Name Greater Victoria Candidate (West Coast Current)",
+      "url": "https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+      "archive_url": "https://web.archive.org/web/20261001084218/https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+      "published": "2026-09-28",
+      "quote": "party leaders clash over liquefied natural gas targets as the provincial election campaign turns to energy production and economic affordability. Published 14 hours ago on September 30, 2026 By Current Editor B.C. Election Campaign Focuses on Natural Gas Goals Interim B.C. Conservative Leader Lorne Doerkson has announced a new platform initiative focused on expanding liquefied natural gas (LNG) output."
+    },
+    {
+      "rank": 2,
+      "score": 7.8209,
+      "source_id": "green-0020",
+      "source_type": "media",
+      "title": "BC Greens focus on renters and childcare as NDP and Conservatives roll out economic plans (Victoria Buzz)",
+      "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "archive_url": "https://web.archive.org/web/20261001084105/https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "published": "",
+      "quote": "September 29th, 2026 By Mike Kelly (Doug Clement Photography) Share Facebook X ReddIt Email Copy URL BC’s provincial election campaign is picking up pace, with the province’s three major parties rolling out a series of new commitments on housing, childcare, resource development, energy and taxes. The BC Greens have focused much of their latest campaign push on affordability, announcing new plans aimed at renters and families while also drawing a clear line between themselves and the NDP and Conservatives on liquefied natural gas (LNG) development."
+    },
+    {
+      "rank": 3,
+      "score": 4.8275,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "We also have Nanak Foods and Punjab Milk products that are opening major processing facilities and shipping to export markets around the world. Vitalus ships to Africa, China, Europe and South America, for example. We are seeking a diversified economy. That does include energy projects like LNG projects but by no means is exclusively focused in that area."
+    },
+    {
+      "rank": 4,
+      "score": 4.0045,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "Implement a windfall tax on mega-corporation to bring in British Columbians fair share and build our revenue base to pay for community health centres, transit, and reign in the provincial debt. Create a fair royalty deal for oil and gas. We will eliminate the subsidies fossil fuel companies receive, regain control over royalty rates, and ensure existing LNG projects cover their own power costs instead of leaning on the public system. Deliver stronger public returns from B.C.'s natural resources, with community and Indigenous ownership."
+    },
+    {
+      "rank": 5,
+      "score": 3.9622,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Our success here is the envy of many jurisdictions across Canada and around the world, but we do this as British Columbians to support the entire country. We are excited about the opportunities in energy — LNG Canada phase 2. Reflecting on our accounts, somewhere around $80 billion of investment related to energy projects and 5,000 new trades-training seats so British Columbians are at the front of the line to take those jobs. The happy news, just yesterday, is that our work here in British Columbia is supporting people in Germany that have shut off their access to Russian natural gas and have signed a $10 billion agreement with Ksi Lisims LNG to access B.C."
+    },
+    {
+      "rank": 6,
+      "score": 2.6446,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Is there anything that’s excluded? We’re looking at minerals; sand and gravel; natural gas; petroleum, potentially. Is there anything which would be excluded from that definition of “all subsurface resources”? Hon."
+    },
+    {
+      "rank": 7,
+      "score": 2.6323,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "We will stop public funds from being used for BC\nHydro infrastructure that supports LNG projects.\nExisting LNG projects will be required to cover their\nown electricity generation and transmission costs,\nprioritizing BC’s energy resources for residential use\nand sustainable industries."
+    },
+    {
+      "rank": 8,
+      "score": 2.0457,
+      "source_id": "green-0037",
+      "source_type": "media",
+      "title": "The Tyee: Emily Lowan on Next Steps for the BC Greens",
+      "url": "https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens",
+      "archive_url": "http://web.archive.org/web/20260112091925/https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens/",
+      "published": "2026-01-05",
+      "quote": "30 Sep 2026 BC’s Big, and Now Secret, Natural Gas Giveaway Tax credits let companies pay little for resources. What do the parties say? 30 Sep 2026 ‘There’s Still So Much Truth We Have Yet to Uncover’ Inside the race against the clock to save testimony about residential school crimes. 30 Sep 2026 DULF Wins Constitutional Challenge, Judge Applauds Their Work Compassion club co-founders Eris Nyx and Jeremy Kalicum will avoid prison and Canada told to update its drug laws."
+    },
+    {
+      "rank": 9,
+      "score": 1.2996,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "It’s a region that is export-dependent — global exports. But it could be an area where our region can open up, with more trade immediately to the east of us with our neighbouring provinces. Our resources are the foundation of our economy in the North. Our region produces lumber that builds homes across Canada, energy that powers industries, agricultural products that feed families and equipment and services that support major projects nationwide."
+    },
+    {
+      "rank": 10,
+      "score": 1.247,
+      "source_id": "green-0006",
+      "source_type": "release",
+      "title": "Statement from Emily Lowan on LNG Canada Phase 2",
+      "url": "https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+      "archive_url": "https://web.archive.org/web/20261001083232/https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+      "published": "2026-09-30",
+      "quote": "— “I’m deeply disappointed to see LNG Canada Phase 2 move ahead with the Final Investment Decision—and to see both the BC NDP, Conservatives all applaud this move, while committing to further expansion of oil and gas throughout our province. LNG Canada is an entirely foreign-owned project. It is owned by Shell, one of the most profitable companies in history, several foreign state-owned oil companies, and US private equity."
+    },
+    {
+      "rank": 11,
+      "score": 1.2413,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "of controversy, the $16 billion Site C dam—the most\nexpensive publicly funded project in BC’s history—\nwill soon provide electricity, yet much of it is already\nallocated to the LNG industry.\nA cleaner future does not require new large hydro\nor nuclear projects. With smart planning, we can\nexpand renewable energy while protecting our natural\nenvironment and our communities."
+    },
+    {
+      "rank": 12,
+      "score": 1.2282,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "Brenda Bailey : …and international capital, including a broad range of institutional investors.” We are devoted to growing our economy. That is how we overcome the debt that we are facing. Of the major projects identified by the federal government, more than 50 percent are in British Columbia. We are going to continue to build our economy aggressively, and the other side should join us."
+    }
+  ]
+}

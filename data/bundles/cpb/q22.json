@@ -1,0 +1,64 @@
+{
+  "question_id": "q22",
+  "statement": "The province should fund more supervised consumption sites.",
+  "topic": "health",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T18:27:08Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "fund",
+    "supervised",
+    "consumption",
+    "sites"
+  ],
+  "sources_searched": 53,
+  "sources_missing_text": [
+    "cpb-0005"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 10.2609,
+      "source_id": "cpb-0024",
+      "source_type": "hansard",
+      "title": "Hansard — Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "Rob Botterell : I would also like to welcome Jenna and Kaden, the interns joining the Green caucus this session. Every year interns join our caucuses to learn and contribute to the work we do in this House. Jenna completed her bachelor of arts in political science with a minor in business and her thesis on the impact of emotions and effect in the creation of flood resilience policies. Kaden recently completed his bachelor of arts with honours in political science, and his thesis examined the conditions that influence the policy stability of supervised consumption sites across Canada."
+    },
+    {
+      "rank": 2,
+      "score": 2.7247,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Make every safe consumption site a meaningful gateway to treatment —\n something the NDP refuses to prioritize. Immediate accessibility to assessment,\n detox, treatment, and recovery must be the priority."
+    },
+    {
+      "rank": 3,
+      "score": 1.9293,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "published": "2026-05-28",
+      "quote": "Provincial health authorities granted DULF special designations and exemptions even after Health Canada refused to authorize the program. The province provided significant taxpayer funding and supplied a government-owned site for DULF to operate. Officials acknowledged that procurement and distribution were not exempt under federal law, yet the operation continued with provincial blessing. The B.C."
+    },
+    {
+      "rank": 4,
+      "score": 1.5781,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "published": "2026-05-28",
+      "quote": "We are building those beds, but we have to build a lot of them, which means we have to find a way to deliver them at a much better price than $1.8 million a bed. We will deliver that care that seniors need in Delta and across the province because we’ve got 1,600 beds so far and 21 more sites to come, including, ultimately, in Delta. Trevor Halford : Well, that was quite an explanation from the Premier on a long-term-care facility where the hospital foundation had proudly raised $18 million to fund. This government couldn’t get it done."
+    }
+  ]
+}

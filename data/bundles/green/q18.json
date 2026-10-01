@@ -1,0 +1,152 @@
+{
+  "question_id": "q18",
+  "statement": "Supportive and social housing should be expanded even in neighbourhoods that object.",
+  "topic": "housing",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:19Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "supportive",
+    "social",
+    "housing",
+    "expanded",
+    "neighbourhoods",
+    "object"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.4917,
+      "source_id": "green-0037",
+      "source_type": "media",
+      "title": "The Tyee: Emily Lowan on Next Steps for the BC Greens",
+      "url": "https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens",
+      "archive_url": "http://web.archive.org/web/20260112091925/https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens/",
+      "published": "2026-01-05",
+      "quote": "A one-time 10 per cent tax on B.C.’s 650 richest households would generate as much as $13 billion that could be used to build social housing or make transit and tuition free for several years, she said. Her vision for the provincial economy is to shift so that there’s more local control and more sustainable industry. The government’s focus on creating jobs through megaprojects and increased fossil fuel exports won’t deliver what people need, she said. “It really is sort of denying the horrors that people are living through every day and the real strain that people are feeling.” Making gains will require continuing to build a grassroots movement of support, she said."
+    },
+    {
+      "rank": 2,
+      "score": 2.5618,
+      "source_id": "green-0026",
+      "source_type": "media",
+      "title": "First weekend of provincial campaigns wraps in B.C. (Yahoo/CBC)",
+      "url": "https://ca.news.yahoo.com/first-weekend-provincial-campaigns-wrap-161847057.html",
+      "archive_url": "https://web.archive.org/web/20261001084254/https://ca.news.yahoo.com/first-weekend-provincial-campaigns-wrap-161847057.html",
+      "published": "",
+      "quote": "\"What the B.C. Greens are offering is a revenue plan on how to fund the bold affordability solutions we so desperately need,\" she said. Lowan argued the province could collect more revenue from resource companies to fund programs like social housing. The leader of CentreBC, Elenore Sturko, was also out campaigning over the weekend, in her current Surrey riding."
+    },
+    {
+      "rank": 3,
+      "score": 2.5365,
+      "source_id": "green-0036",
+      "source_type": "media",
+      "title": "Times Colonist: B.C. Greens call for tax reform to ensure ultra-wealthy pay their fair share",
+      "url": "https://www.timescolonist.com/local-news/bc-greens-call-for-tax-reform-to-ensure-ultra-wealthy-pay-their-fair-share-11422743",
+      "archive_url": "http://web.archive.org/web/20251103173504/https://www.timescolonist.com/local-news/bc-greens-call-for-tax-reform-to-ensure-ultra-wealthy-pay-their-fair-share-11422743",
+      "published": "",
+      "quote": "families and workers. “We have the tools to invest in social housing, community health care, and green jobs. But only if we stop letting the ultra-rich and big corporations off the hook.” Lowan said that during its eight years in power, the B.C. NDP has barely “tinkered at the edges” of tax reform, instead of building a truly progressive tax system."
+    },
+    {
+      "rank": 4,
+      "score": 2.2822,
+      "source_id": "green-0018",
+      "source_type": "policy",
+      "title": "Lowan Calls for Bold Tax Reform (Ultra-Wealthy Fairness Tax)",
+      "url": "https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+      "archive_url": "http://web.archive.org/web/20260415200248/https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+      "published": "",
+      "quote": "government to raise the revenue needed to address the deficit and meet public service demands without further squeezing working families: Introduce three new personal income tax brackets and increase the current top two tax brackets by 1 point; Ultra-Wealthy Fairness Tax — A one-time 5% wealth tax on all centimillionaires and billionaires in the province, and reallocate funds for a good, green jobs program, community healthcare centres and social housing; Inheritance Tax —  Lifetime gifts and transfers over $5 million, including non-liquid assets (e.g. residential property, art)."
+    },
+    {
+      "rank": 5,
+      "score": 2.213,
+      "source_id": "green-0036",
+      "source_type": "media",
+      "title": "Times Colonist: B.C. Greens call for tax reform to ensure ultra-wealthy pay their fair share",
+      "url": "https://www.timescolonist.com/local-news/bc-greens-call-for-tax-reform-to-ensure-ultra-wealthy-pay-their-fair-share-11422743",
+      "archive_url": "http://web.archive.org/web/20251103173504/https://www.timescolonist.com/local-news/bc-greens-call-for-tax-reform-to-ensure-ultra-wealthy-pay-their-fair-share-11422743",
+      "published": "",
+      "quote": "They also want to increase the current top two tax brackets by one percentage point. The Greens’ new policy includes a one-time five per cent wealth tax on all centimillionaires — those with $100 million or more — and billionaires in the province to fund a green jobs program, community health-care centres and social housing. The Greens also want to see an inheritance tax — a gift and wealth transfer tax, realized during the transfer of inheritance, which would apply to lifetime gifts and transfers over $5 million, including non-liquid assets such as residential property and art."
+    },
+    {
+      "rank": 6,
+      "score": 2.1729,
+      "source_id": "green-0018",
+      "source_type": "policy",
+      "title": "Lowan Calls for Bold Tax Reform (Ultra-Wealthy Fairness Tax)",
+      "url": "https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+      "archive_url": "http://web.archive.org/web/20260415200248/https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+      "published": "",
+      "quote": "New personal income tax brackets for the province’s ultra-wealthy: New tax brackets Current tax rate Proposed tax rate $350,000 20.50% 24% $500,000 20.50% 27% $1 million 20.50% 30% Current top two brackets increased by one point: Highest current tax brackets Current tax rate Proposed tax rate $259,829 20.50% 21.50% $186,306.01 to $259,829 16.80% 17.80% Ultra-Wealthy Fairness Tax — A one-time 5% wealth tax on all centimillionaires and billionaires in the province, and reallocate funds for a good, green jobs program, community healthcare centres and social housing."
+    },
+    {
+      "rank": 7,
+      "score": 2.1129,
+      "source_id": "green-0018",
+      "source_type": "policy",
+      "title": "Lowan Calls for Bold Tax Reform (Ultra-Wealthy Fairness Tax)",
+      "url": "https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+      "archive_url": "http://web.archive.org/web/20260415200248/https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+      "published": "",
+      "quote": "As deficit-driven austerity measures squeeze BC families and workers, this call for tax justice is poised to become a defining issue in the lead-up to the next election. “We have the tools to invest in social housing, community healthcare, and green jobs,” Lowan said. “But only if we stop letting the ultra-rich and big corporations off the hook.” – 30 – Attached: Policy backgrounder (below) Media contact +1-888-473-3686 ext. 49 newsroom@bcgreens.ca Policy backgrounder Increase personal income tax for the wealthy By adding three new tax brackets for the ulta-wealthy and increasing the current top two brackets, the province can raise approximately $1.5 billion in annual revenue."
+    },
+    {
+      "rank": 8,
+      "score": 2.0412,
+      "source_id": "green-0015",
+      "source_type": "policy",
+      "title": "BC Greens propose comprehensive policies to address BC's drug poisoning crisis",
+      "url": "https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+      "archive_url": "http://web.archive.org/web/20260609052817/https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+      "published": "",
+      "quote": "“We have the solutions to end this crisis, we just need the will to act,” continued Furstenau. “The evidence-based policies that experts have long called for are within our reach, and by implementing them, we can save lives. “Addressing the root of the issue also means ensuring we are creating a province where people’s basic needs are met – stable housing, adequate food, accessible social services, and supportive communities. This is harm reduction at its core.” Quotes: Leslie McBain, Co-founder Moms Stop the Harm “ We know that the people who use drugs here in British Columbia and across the world span the spectrum of socioeconomic, racial, and health status."
+    },
+    {
+      "rank": 9,
+      "score": 1.4727,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "Many supportive housing providers already have processes for relocating tenants with their consent — sometimes to a shelter or to another supportive housing unit nearby. There may be situations where the tenant creates a safety risk that is unmanageable for the supportive housing provider and it’s not possible or reasonable for the provider to relocate the tenant to another unit. In these situations, the tenant would be expected to find their own housing during the temporary restriction. Claire Rattée : A lot of this is being left up to regulation."
+    },
+    {
+      "rank": 10,
+      "score": 1.2643,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Make existing public land available for non-profit\nhousing development and acquire new public\nland to expand affordable housing opportunities."
+    },
+    {
+      "rank": 11,
+      "score": 1.2455,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "It is not unusual, as we’re doing now, that legislation sets out the broad policy intent and then regulation specifies details. Supportive housing is a rapidly evolving model of housing with diverse tenant populations in many cases. Supportive housing providers are serving clients with more complex needs and greater vulnerability than ever before. Putting detailed provisions in the RTA would limit government’s ability to respond alongside providers to the changing needs and emerging risks, and that’s why the legislation sets out the broad policy intent."
+    },
+    {
+      "rank": 12,
+      "score": 1.1898,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Expand the EV charging infrastructure across BC\nto support the growing number of electric vehicles"
+    }
+  ]
+}

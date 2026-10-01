@@ -1,0 +1,141 @@
+{
+  "question_id": "q18",
+  "statement": "The province should expand supportive housing even where local residents object.",
+  "topic": "housing",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:41Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "supportive",
+    "housing",
+    "local",
+    "residents",
+    "object"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.8875,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "That’s our work in the Downtown Eastside, seeing tangible results for the community there and far beyond. We’re doing that work in ridings in communities all across this province, including many of the communities of members opposite, working with local leaders, working with community leaders to open winter shelters, to open supportive housing. We are focused on people, and we will continue to do that work. Funding for Vancouver Island 911 Emergency Dispatch Services Tony Luck : Earlier this year the government downloaded E-Comm 911 costs onto nine Vancouver Island ridings."
+    },
+    {
+      "rank": 2,
+      "score": 2.7912,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "We know that shelter spaces, in addition to supportive housing, are life-saving, particularly during extreme weather events. That’s why we as a government and B.C. Housing work so closely with mayors and councils across the province to provide emergency winter shelter space, year-round shelter space, to bring more people inside, where they can be safe and where they can connect with supports and resources that make them and the broader community safer."
+    },
+    {
+      "rank": 3,
+      "score": 1.1401,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "This amendment would reduce no-fault evictions, increase housing stability and preserve affordable housing across B.C. As one in three British Columbian residents are renters, this amendment would go a long way in addressing the housing affordability crisis. It’s a practical, effective and necessary tool to address our housing affordability crisis and ensure that teachers, nurses, service workers, students and seniors can afford to live in the communities they help build. If we are serious about addressing the housing affordability crisis, if we believe housing is a human right, then let’s act now to limit for-profit rent hikes and keep British Columbia livable for everyone."
+    },
+    {
+      "rank": 4,
+      "score": 1.0629,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Their current caseload is over 80 children who have never accessed services before. Other organizations like the Northern Rockies Child Development Association serve the Peace region — the South Peace Child Development Society, Thompson Nicola Family Resource Society. We have organizations all over the province that serve rural and remote communities. In addition to those organizations, we have expanded our mobile teams and expanded our teams in the Lower Mainland that may have a larger capacity to support rural and remote communities."
+    },
+    {
+      "rank": 5,
+      "score": 1.0618,
+      "source_id": "onebc-0019",
+      "source_type": "other",
+      "title": "iVoteOneBC.ca — OneBC Priorities (independent supporter summary of official 53 planks)",
+      "url": "https://ivoteonebc.ca/policies",
+      "archive_url": "http://web.archive.org/web/20261001080306/https://ivoteonebc.ca/policies",
+      "published": "2026-06-17",
+      "quote": "iVoteOneBC is an independent supporter and commentary site; all wording below is summarized from OneBC’s public page. Prosperity — 5 planks Income-tax and corporate-tax cuts, lower government costs, red-tape reduction, competitive infrastructure delivery, and removing UNDRIP / band veto barriers to investment. Housing — 6 planks Agricultural Land Commission reform, support for resource-community housing, rental-construction investment, step-code cost relief, real-estate tax review, and stable property taxation."
+    },
+    {
+      "rank": 6,
+      "score": 1.0328,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "This association represents community health centres across British Columbia — local, team-based care centres that play a vital role in our communities. They are centres that help people stay healthy, support seniors to live well, reduce emergency room visits and ensure that the most vulnerable members of our communities receive the care and support they need. [10:10 a.m.] We look forward to meeting with them later today. Please will the House join me in warmly welcoming them."
+    },
+    {
+      "rank": 7,
+      "score": 0.9882,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "As a really clear, concrete example, right now, for a family who has a child with autism, their home team might look like having a behaviour consultant and then a couple behaviour interventionists who are paraprofessionals that work under that consultant. That’s a way to expand the hours that a child receives of direct intervention. So expanding community-based care to include those types of models of service will support other children who have not had access to those types of services before. We could have a speech and language pathologist in community-based programming working alongside a speech-language therapy assistant."
+    },
+    {
+      "rank": 8,
+      "score": 0.9808,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "The speech-language pathologist creates the program. The assistant works one-on-one with the child more often than when the speech-language pathologist might work with that child. So you can expand more hours. It’s a highly utilized model of support and really effective."
+    },
+    {
+      "rank": 9,
+      "score": 0.904,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "They’ve been reaching out to us to say that government advertising should be focused on local media, and we are ensuring that we are meeting those obligations. I’m happy to brief the member on the numbers so that he has the information that we have about how we spend to support local media. We’re getting the message out to British Columbians about flu vaccines, about wildfires and other crucial information that they need to have. The Speaker : Member, supplemental."
+    },
+    {
+      "rank": 10,
+      "score": 0.8309,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "As members of this House took that pledge, just four days later a paramedic in Kamloops was punched in the face while fuelling up their vehicle. Meanwhile on Vancouver Island, two paramedics were assaulted by a driver who crashed into the ER. These are the people that dedicate their lives, outstretched hands, to support our residents. They are stating that violence is not supposed to be a part of their job."
+    },
+    {
+      "rank": 11,
+      "score": 0.4256,
+      "source_id": "onebc-0004",
+      "source_type": "policy",
+      "title": "OneBC — Party Constitution (PDF)",
+      "url": "https://framerusercontent.com/assets/zwnU2uLnvGUkRnxAXjqMBukzfRo.pdf",
+      "archive_url": "http://web.archive.org/web/20260927062020/https://framerusercontent.com/assets/zwnU2uLnvGUkRnxAXjqMBukzfRo.pdf",
+      "published": "",
+      "quote": "The maximum number of delegates must be equal for each Electoral District.\n6.7.2.In Electoral Districts with a Riding Association, the executive of the Riding\nAssociation shall appoint delegates by general resolution at a meeting held no less\nthan 30 days prior to the General Meeting.\n6.7.3. The Board shall appoint delegates in Electoral Districts without a Riding\nAssociation. Delegates must reside in the Electoral District. The Board shall select\ndelegates on a first-come, first-serve basis or using other objective criteria. The\ndelegate selection criteria shall be published no later than 30 days prior to the\nGeneral Meeting.\n6.7.4. Voting by proxy shall not be permitted.\n7. The Board\n7.1."
+    }
+  ]
+}

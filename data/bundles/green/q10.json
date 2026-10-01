@@ -1,0 +1,155 @@
+{
+  "question_id": "q10",
+  "statement": "The province should override municipal zoning rules to force more density near transit stations.",
+  "topic": "housing",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:19Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "override",
+    "municipal",
+    "zoning",
+    "rules",
+    "force",
+    "density",
+    "near",
+    "transit",
+    "stations"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 1.278,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Like other governments across Canada, we are facing fiscal pressures that require realistic and disciplined decisions to protect the services that people rely on and to maintain long-term stability, which is why, in Budget 2026, we are re-pacing the capital plan to manage debt while continuing to build critical infrastructure like schools, hospitals and transit for British Columbians. Budget 2026 projects nearly $38 billion in taxpayer-supported capital spending over the next three years."
+    },
+    {
+      "rank": 2,
+      "score": 1.1361,
+      "source_id": "green-0034",
+      "source_type": "media",
+      "title": "CBC: B.C. Greens pull out of governing accord with B.C. NDP",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-greens-pull-out-of-governing-accord-with-b-c-ndp-9.7081452",
+      "archive_url": "http://web.archive.org/web/20260217181432/https://www.cbc.ca/news/canada/british-columbia/b-c-greens-pull-out-of-governing-accord-with-b-c-ndp-9.7081452",
+      "published": "2026-02-09",
+      "quote": "NDP.” The Greens, under the leadership of Emily Lowan, who does not have a seat in the provincial legislature, said the province has not done enough to support new and existing community health centres, expand transit in underserved areas, such as the Lower Mainland’s North Shore, or explore electoral reform. “Nearly two thirds of what we agreed to has not been accomplished, and I think this raises real questions about who this government is working for in our negotiations,” Lowan told reporters on Monday. B.C. will revise DRIPA legislation to scale back court power over Indigenous rights, Eby says B.C."
+    },
+    {
+      "rank": 3,
+      "score": 0.9573,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "We can first ask all the trustees to step down, so now they absolve themselves of all responsibility, and then we can come up with a last-employer rule so that we can go and try to look out for some employers that may now be on the hook for employees that have not been under their full tenure over that period of employment, but maybe they have enough money that they can help top this fund up. That’s not the way it’s supposed to work. That’s why there’s a law that says that if you are not contributing to a plan that you’re supposed to be contributing to, there are supposed to be mechanisms in play to make sure that we force you to put into it."
+    },
+    {
+      "rank": 4,
+      "score": 0.6263,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Under division 2, particularly sections 4 and 5, the bill preserves B.C.’s authority over how goods and services are sold, used or delivered once they are in the market. It also contains carve-outs, including monopolies, taxes, Indigenous Peoples and incorporation. Now, there are legitimate reasons to preserve some post-entry rules. Nobody wants mutual recognition to override local rules in assured ways."
+    },
+    {
+      "rank": 5,
+      "score": 0.5927,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Bill 5 heavily focuses on the first concept, but the bill also very explicitly preserves B.C.’s authority over post-entry rules. Under division 2, particularly sections 4 and 5, the bill preserves B.C.’s authority over how goods and services are sold, used or delivered once they are in the market. It also contains carve-outs, including monopolies, taxes, Indigenous Peoples and incorporation. Now, there are entirely legitimate reasons to preserve some post-entry rules."
+    },
+    {
+      "rank": 6,
+      "score": 0.4854,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "The Speaker : Shhh. Hon. Nina Krieger : The B.C. extortion task force, representing an unprecedented, coordinated effort between law enforcement agencies municipally, provincially and federally…."
+    },
+    {
+      "rank": 7,
+      "score": 0.4635,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "We would love to think that they’re happening in the near, near future, but we know this is going to happen on an undetermined timeline. But does the Premier feel like those conditions are being set for this transition that we know is inevitable? I’ll just note that it’s famously said that we can’t continue to expand fossil fuel infrastructure and meet our climate targets. I’m sure that’s met the hard reality of being in government and trying to provide jobs and economic development."
+    },
+    {
+      "rank": 8,
+      "score": 0.4192,
+      "source_id": "green-0021",
+      "source_type": "media",
+      "title": "Emily Lowan's BC Greens promise to bring back vacancy control (Daily Hive)",
+      "url": "https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "archive_url": "https://web.archive.org/web/20261001084140/https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "published": "",
+      "quote": "strata battle in legal fight over parking stall... Sep 3, 2026 GET MORE URBANIZED NEWS Email Address SUBSCRIBE About Us Contact Advertise Policies & Guidelines Accessibility Masthead Send us tips Contest Rules Games Careers About Us Contact Advertise Policies & Guidelines Accessibility Masthead Send us tips Contest Rules Games Careers National News Lottery Politics News News Weather Politics Animals Movies & TV Urbanized Real Estate Development Transportation Architecture Public Art Opinions Politics Dished News Openings Closings Restaurants Best of Events Cheap Eats Specials Coffee & Tea Offside Hockey Basketball Baseball Football Soccer Events Events Guide Concerts Lifestyle Outdoors"
+    },
+    {
+      "rank": 9,
+      "score": 0.3845,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "David Eby : Here are the quotes from business leadership on the introduction of the Declaration Act. Greg D’Avignon, B.C. Business Council: “Business Council of British Columbia membership is optimistic for the long-term potential of B.C.’s UNDRIP legislation to advance meaningful reconciliation. Together, we can collectively inform the work ahead, building on the experience and success of nearly 500 agreements formed over the past two decades between business and Indigenous People, many of which incorporate UNDRIP principles."
+    },
+    {
+      "rank": 10,
+      "score": 0.3828,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Unlike the treaty, which recognizes law-making rights, the foreshore agreement is a delegation of law-making authority from the province, similar to the authority that municipalities have. There is one small nuance. I did speak about the CVRD rules not applying in respect to regional district laws. This is where the nuance is."
+    },
+    {
+      "rank": 11,
+      "score": 0.3735,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "Furthermore, the movement towards shared decision-making and co-management under DRIPA has introduced uncertainty over final authority and project timelines. When investors face unclear rules and constant strategy shifts, they delay or cancel projects — as uncertainty alone can kill investment, even before regulations do. What are the specific flaws of Bill 14? At the heart of Bill 14 is a fundamental problem."
+    },
+    {
+      "rank": 12,
+      "score": 0.368,
+      "source_id": "green-0095",
+      "source_type": "media",
+      "title": "Global Green News: Emily Lowan wins BC Green Party leadership debate as voting begins",
+      "url": "https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+      "archive_url": "http://web.archive.org/web/20260218103414/https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+      "published": "",
+      "quote": "researcher, put her experience, vision and left wing policies front and center and emerged as the clear winner of the only official debate of the BC Green Party leadership race held in Victoria on Saturday. Over the course of nearly two hours, Lowan showed confidence, conviction, and a progressive communication style that contrasted sharply with her rivals, Jonathan Kerr and Adam Bremner-Aikens. From the beginning, Lowan stood out as the candidate best able to capture and connect with the audience. Her policies were clearly left wing and her message was direct."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "coder": "ndp-coder-b",
+  "version": "v1",
+  "created_at": "2026-10-01T19:08:31Z",
+  "rows": {
+    "q01": {
+      "code": -2,
+      "confidence": "low",
+      "source_id": "ndp-0024",
+      "rationale": "The party's own record abolished the consumer carbon tax: Finance Minister Bailey (Hansard 2026-02-18) treats its removal as settled and adjusts policy to it ('so when the carbon tax was removed'). No fetched source supports reinstating; mapping a record statement to strong opposition took judgment."
+    },
+    "q03": {
+      "code": null,
+      "confidence": null,
+      "source_id": null,
+      "rationale": "No fetched source names a wealth tax on personal fortunes — the statement's instrument. The party's own words promise only unspecified taxes/'fair share' for 'those at the very top' (goal-level), and the only 'wealth tax package' language is the BC Green caucus's and its characterization of the government, both excluded by CODEBOOK §5."
+    },
+    "q04": {
+      "code": -2,
+      "confidence": "medium",
+      "source_id": "ndp-0025",
+      "rationale": "Steve Morissette's Budget 2026 speech (Hansard 2026-02-19) states plainly this is not an austerity budget and that Budget 2026 does not cut services; the 2026 campaign (ndp-0002/0003, 2026-09-22) frames 'make cuts' as the wrong choice. Document date 2026-02-19; corroborated by campaign-era material."
+    },
+    "q10": {
+      "code": 1,
+      "confidence": "medium",
+      "source_id": "ndp-0013",
+      "rationale": "Policy page 'Results for You' (document date 2024-01-04) records the province removing barriers to deliver more homes near transit hubs — housing near transit over local rules — but without the statement's 'require'/'higher-density' wording, so the weaker value. Pre-campaign document; not clearly corroborated 2026, so at most medium."
+    },
+    "q11": {
+      "code": null,
+      "confidence": null,
+      "source_id": null,
+      "rationale": "No fetched source addresses expanding rent-control coverage to more rental units. Capping rent increases well below inflation and the Rental Protection Fund (ndp-0013) are adjacent instruments, not the statement's instrument (coverage expansion), so §5 null."
+    },
+    "q18": {
+      "code": 1,
+      "confidence": "low",
+      "source_id": "ndp-0025",
+      "rationale": "Hon. Brittny Anderson (Hansard 2026-02-19) commits to 'getting more supportive housing'; no fetched source speaks to building where local residents object, so the discriminating clause is unmapped and only partial agreement is coded."
+    },
+    "q19": {
+      "code": -2,
+      "confidence": "medium",
+      "source_id": "ndp-0041",
+      "rationale": "Throne Speech reprint (speech, document date 2023-02-06) states the opposite action — private surgical centres brought back into the public system — and slams 'profits of the clinic operator'. 2026-era framing (ndp-0002: 'Americanize our health care' as the bad path) corroborates; capped at medium per §4 as the quote predates the campaign."
+    },
+    "q22": {
+      "code": 1,
+      "confidence": "low",
+      "source_id": "ndp-0027",
+      "rationale": "Health Minister Josie Osborne (Hansard 2026-04-14) defends harm reduction services (which include supervised consumption/overdose prevention sites) as lifesaving and continuing — support for the instrument family but no promise of more sites, so the mapping to 'fund more' took judgment."
+    },
+    "q24": {
+      "code": null,
+      "confidence": null,
+      "source_id": null,
+      "rationale": "No fetched NDP source mentions dental care, dentists, or oral health anywhere — the instrument is named nowhere, so §5 null."
+    },
+    "q28": {
+      "code": 2,
+      "confidence": "high",
+      "source_id": "ndp-0017",
+      "rationale": "BC NDP release (2026-09-29, campaign-era) announces the final green light for LNG Canada's expanded project — approving a new LNG export project, the statement's action itself; ndp-0008 (2026-09-28) names 'continuing to support LNG expansion'."
+    },
+    "q29": {
+      "code": 1,
+      "confidence": "medium",
+      "source_id": "ndp-0026",
+      "rationale": "Forests Minister Ravi Parmar (Hansard 2026-03-30) reports a substantive reduction in harvesting of old forests and implementation of the old-growth strategic review — partial protection (deferrals/reduction), not the statement's full stop, so the weaker value."
+    },
+    "q31": {
+      "code": -1,
+      "confidence": "low",
+      "source_id": "ndp-0021",
+      "rationale": "Eby (release 2024-10-12) co-commits to Highway 1 expansion and the SkyTrain as equal headline deliverables and attacks cancellation of either — the plan refuses the statement's transit-over-highway ranking and defends highway expansion, which maps to weak disagreement; the mapping took judgment. Document date 2024-10-12."
+    },
+    "q38": {
+      "code": 1,
+      "confidence": "low",
+      "source_id": "ndp-0028",
+      "rationale": "Premier Eby (Hansard 2026-05-27) confirms it was the government's intention to legislate suspension of key DRIPA provisions and that the same concerns about the court decision remain, with the change deferred to negotiated 'durable legislation' — direction toward the statement but conditional; linking 'key provisions' to the consent requirement took judgment."
+    },
+    "q39": {
+      "code": 1,
+      "confidence": "medium",
+      "source_id": "ndp-0028",
+      "rationale": "Indigenous Relations Minister Chandra Herbert (Hansard 2026-05-27) describes the K'ómoks treaty's resource-revenue-sharing agreement at 'the highest range' of B.C. sharing — the statement's instrument named in a concrete treaty, but scope narrower (forestry, one nation), so the weaker value."
+    },
+    "q43": {
+      "code": null,
+      "confidence": null,
+      "source_id": null,
+      "rationale": "The 2026 'Built in B.C. and Canada' procurement rules (ndp-0006) prefer B.C./Canadian suppliers; no fetched source prioritizes Indigenous-owned businesses in public procurement — the instrument is named nowhere, so §5 null."
+    },
+    "q46": {
+      "code": 1,
+      "confidence": "low",
+      "source_id": "ndp-0022",
+      "rationale": "BC NDP release (2024-06-16) lists 'giving police more power to address public drug use' among its safety actions — direction against public drug use but weaker than the statement's ban ('address' not 'banned'), so the mapping took judgment. Document date 2024-06-16."
+    },
+    "q47": {
+      "code": 2,
+      "confidence": "high",
+      "source_id": "ndp-0013",
+      "rationale": "Policy page (document date 2024-01-04) states the action itself — stricter bail rules keeping repeat violent offenders off the street; corroborated 2026-06-16 (ndp-0039, reverse-onus bail provisions 'one of B.C.'s top priorities'), so §4's cap is lifted."
+    },
+    "q48": {
+      "code": 2,
+      "confidence": "medium",
+      "source_id": "ndp-0025",
+      "rationale": "Budget 2026 speech (Hansard 2026-02-19) funds $131M including the establishment of new involuntary treatment beds (Prince George, Maple Ridge, Surrey) for complex mental health and substance use — a funded, named promise matching the statement; 2024 platform text (via ndp-0038) corroborates. Document date 2026-02-19; Hansard source capped at medium."
+    }
+  }
+}

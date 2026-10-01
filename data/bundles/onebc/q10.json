@@ -1,0 +1,134 @@
+{
+  "question_id": "q10",
+  "statement": "The province should require higher-density housing near transit stations, even where municipal zoning rules do not allow it.",
+  "topic": "housing",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:41Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "require",
+    "higher-density",
+    "housing",
+    "near",
+    "transit",
+    "stations",
+    "municipal",
+    "zoning",
+    "rules",
+    "allow"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 1.0786,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "consent and classroom transparency for parents of minor-age students Housing 1 Eliminate the Step Code that is raising housing costs with unnecessary green building requirements 2 Block municipal rent control programs that disincentivize development and new units being put up for rent Drugs & Addiction 1 Eliminate safe supply and drug consumption programs 2 Cancel all new drug consumption sites and turn current consumption sites into drug recovery centres 3 Involuntary drug rehab and housing for the severely addicted 4 Rollback all decriminalization programs and crack down on open drug use Firearms Owners 1 No provincial government participation in any federal firearms buy-back or"
+    },
+    {
+      "rank": 2,
+      "score": 0.4169,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "The office was created to provide independent oversight of municipal governments and spending. Municipal governments in British Columbia manage billions of dollars of public funds. The public wants to know how that money is spent. They oversee infrastructure, land use, utilities, emergency services and housing."
+    },
+    {
+      "rank": 3,
+      "score": 0.3951,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Losers would be families and small businesses that cannot absorb one more cost increase. It allows government to retroactively support agreements that might not have followed proper process. In plain English, if the rules didn’t fit when they made the deal, they can just change the rules afterwards to make it fit. This isn’t modernization; it’s rewriting history to justify a shortcut."
+    },
+    {
+      "rank": 4,
+      "score": 0.3565,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Clause 15 allows the commissioner to extend review timelines beyond 90 days. Currently there is a hard limit. Applicants already wait nearly a year for responses. Instead of accelerating the reviews, the government is adding flexibility to extend them."
+    },
+    {
+      "rank": 5,
+      "score": 0.3538,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I’d like to put on the record some of the types of areas that we need to work together to focus on. Housing is a human right, yet British Columbia has the highest rate of unaffordable housing in Canada. For people on social assistance, the provincial shelter allowance rate is only around one-third of the median rental price. I am not making these comments to assign responsibility."
+    },
+    {
+      "rank": 6,
+      "score": 0.3084,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Rob Botterell : My question is to the Minister of Housing. In situations where municipal governments are unable or unwilling to step up, how is her government helping people find shelter? Hon. Christine Boyle : Thank you for such an important and timely question."
+    },
+    {
+      "rank": 7,
+      "score": 0.2699,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "Housing Increase the allowable yearly cut, reduce stumpage fees for lumber companies, and speed up permit approvals to let BC’s forest industry grow. Forestry Private healthcare alongside fully-funded public healthcare, and a shift of administration spending to frontline employees and resources. Healthcare 25% tax cuts for every single tax bracket — including corporate, a 2% PST reduction, and pipeline approval to foreign markets. End DRIPA and UNDRIP."
+    },
+    {
+      "rank": 8,
+      "score": 0.2682,
+      "source_id": "onebc-0016",
+      "source_type": "media",
+      "title": "Fraser Valley News Network: OneBC leader says party will not run candidate in Fraser Valley by-election",
+      "url": "https://fraservalleynewsnetwork.com/2026/08/29/onebc-party-leader-says-her-party-will-not-run-candidate-in-upcoming-fraser-valley-provincial-by-election/",
+      "archive_url": "http://web.archive.org/web/20260831042206/https://fraservalleynewsnetwork.com/2026/08/29/onebc-party-leader-says-her-party-will-not-run-candidate-in-upcoming-fraser-valley-provincial-by-election/",
+      "published": "2026-08-29",
+      "quote": "The Vigil for Kitty Dunham was Saturday September 26 at Chilliwack Medical Emergency May Have Caused Crash at Tsawwassen Mills Mall During TRC Ceremony – 2 Dead, Others Injured Tsawwassen (Canadian Press) – Two people have been killed in a crash at the Tsawwassen Mills mall in Delta, while two other pedestrians were injured Winter Tires (and Carry Chains Where Needed) Rules Start October 1 2026 to April 30 2027 Fraser Valley – Winter tires or chains are required on most routes in British Columbia from October 1 to April 30."
+    },
+    {
+      "rank": 9,
+      "score": 0.2636,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "Halt transfers, restore Band oversight, reform the Indian Act, restore English names, and end mandatory acknowledgements. Reconciliation Crack down on repeat and violent offenders and protect our ports from international criminal smuggling. Crime & Justice Remove SOGI-123 from classrooms, restore standardized testing in reading, writing and math, and institute a Parental Bill of Rights. Education Eliminate the Step Code raising costs with unnecessary green requirements and block rent control programs that disincentivize new housing development."
+    },
+    {
+      "rank": 10,
+      "score": 0.2596,
+      "source_id": "onebc-0015",
+      "source_type": "media",
+      "title": "CTV News: OneBC pledges not to run against eight principled B.C. Conservative candidates",
+      "url": "https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates",
+      "archive_url": "http://web.archive.org/web/20261001080705/https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates/",
+      "published": "",
+      "quote": "teacher caught in ‘predator’ sting on Grindr handed 7-year ban ‘The work of reconciliation is far from finished’: Carney reflects at ceremony in Edmonton City announces permanent Indigenous Gathering Place at The Confluence Man in critical condition after crash involving motorcycle in South Keys Here’s how you can vote in the City of Ottawa municipal election ‘We’re still here’: Every Child Matters march brings Indigenous voices to Montreal streets Truck driver sentenced to 6 years for causing deadly pile-up near Montreal while playing cellphone game Video Dog’s leg amputated after run-in with private e-scooter in south Edmonton Video Canada-wide warrants issued for Alberta man accused of"
+    }
+  ]
+}

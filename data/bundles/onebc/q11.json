@@ -1,0 +1,141 @@
+{
+  "question_id": "q11",
+  "statement": "Rent controls should be expanded to cover more rental units.",
+  "topic": "housing",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:41Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "rent",
+    "controls",
+    "expanded",
+    "cover",
+    "rental",
+    "units"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 8.9208,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "consent and classroom transparency for parents of minor-age students Housing 1 Eliminate the Step Code that is raising housing costs with unnecessary green building requirements 2 Block municipal rent control programs that disincentivize development and new units being put up for rent Drugs & Addiction 1 Eliminate safe supply and drug consumption programs 2 Cancel all new drug consumption sites and turn current consumption sites into drug recovery centres 3 Involuntary drug rehab and housing for the severely addicted 4 Rollback all decriminalization programs and crack down on open drug use Firearms Owners 1 No provincial government participation in any federal firearms buy-back or"
+    },
+    {
+      "rank": 2,
+      "score": 6.6996,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "It’s my understanding that question period is allowing members to raise issues of urgent and important matters to the public of British Columbia. Is it the Speaker’s ruling that if you’ve had a bill brought in that’s defeated, you can never use any words that were used in that bill again, such as…? My friend from the Third Party has introduced a bill today about rent controls. If that bill is defeated, is he never allowed to refer to rent controls again?"
+    },
+    {
+      "rank": 3,
+      "score": 5.3924,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "We will continue to work on all fronts to keep our communities safe. Rob Botterell : Renters in B.C. are suffering without comprehensive rent control, but the usual excuse is that mom-and-pop landlords will suffer. It turns out that they only make up a small fraction of our rental housing market."
+    },
+    {
+      "rank": 4,
+      "score": 5.363,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Rob Botterell : …to do it because rent is tied to the renter, not to the unit, meaning they can increase rent as much as they want when a tenant moves out. The Speaker : Member, thank you. I think the issue is already in front of the House. That will be debated later."
+    },
+    {
+      "rank": 5,
+      "score": 3.1104,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "Halt transfers, restore Band oversight, reform the Indian Act, restore English names, and end mandatory acknowledgements. Reconciliation Crack down on repeat and violent offenders and protect our ports from international criminal smuggling. Crime & Justice Remove SOGI-123 from classrooms, restore standardized testing in reading, writing and math, and institute a Parental Bill of Rights. Education Eliminate the Step Code raising costs with unnecessary green requirements and block rent control programs that disincentivize new housing development."
+    },
+    {
+      "rank": 6,
+      "score": 0.9109,
+      "source_id": "onebc-0019",
+      "source_type": "other",
+      "title": "iVoteOneBC.ca — OneBC Priorities (independent supporter summary of official 53 planks)",
+      "url": "https://ivoteonebc.ca/policies",
+      "archive_url": "http://web.archive.org/web/20261001080306/https://ivoteonebc.ca/policies",
+      "published": "2026-06-17",
+      "quote": "iVoteOneBC is an independent supporter and commentary site; all wording below is summarized from OneBC’s public page. Prosperity — 5 planks Income-tax and corporate-tax cuts, lower government costs, red-tape reduction, competitive infrastructure delivery, and removing UNDRIP / band veto barriers to investment. Housing — 6 planks Agricultural Land Commission reform, support for resource-community housing, rental-construction investment, step-code cost relief, real-estate tax review, and stable property taxation."
+    },
+    {
+      "rank": 7,
+      "score": 0.8938,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I’d like to put on the record some of the types of areas that we need to work together to focus on. Housing is a human right, yet British Columbia has the highest rate of unaffordable housing in Canada. For people on social assistance, the provincial shelter allowance rate is only around one-third of the median rental price. I am not making these comments to assign responsibility."
+    },
+    {
+      "rank": 8,
+      "score": 0.841,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I won’t repeat the whole list that’s in the government motion, but that particular section of the human rights code adds: “or lawful source of income of that person or class of persons or of any other person or class of persons.” What that is saying is that we don’t want to see people on income assistance discriminated against in residential tenancy when they’re trying to rent or someone who is on a fixed income, like a senior."
+    },
+    {
+      "rank": 9,
+      "score": 0.8342,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "That income source can’t be a source of discrimination, and that is actually left out of the government’s original motion. I think what the Opposition House Leader has done is actually doing a service and making sure that those on income assistance, those seniors on a fixed income can’t be discriminated against when they’re trying to rent housing. I think that’s something that’s very important. That’s why it’s in the human rights code to begin with."
+    },
+    {
+      "rank": 10,
+      "score": 0.7965,
+      "source_id": "onebc-0013",
+      "source_type": "media",
+      "title": "Castanet — OneBC names candidate for riding held by former party member",
+      "url": "https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+      "archive_url": "https://web.archive.org/web/20261001084457/https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+      "published": "",
+      "quote": "(670) Vehicles (2,547) Auto Parts (1,941) Rec Vehicles (1,784) House-Home (3,076) Furniture (726) Electronics (1,229) Fashion (2,003) Kids (788) Sports-Health (2,658) Help Automall RV-Boats-Powersports Flyers Hobbies-Music (971) Library (227) Vintage-Antiques (1,400) Home Improvement (1,386) Commercial-Business (562) Farmer's Market (144) Horse-Farm-Pets (585) Services (193) Garage-Free-Auctions (758) Stores Classifieds Rate Sheet Real Estate Castanet Real Estate Listings REW Real Estate Listings Rentals Showhome Showcase Luxury Homes Luxury Homes South Luxury Homes North Investment Real Estate Open Houses Opinion Poll Letters Forums Columnists Opinion One Foot Off Center Our Town"
+    },
+    {
+      "rank": 11,
+      "score": 0.761,
+      "source_id": "onebc-0013",
+      "source_type": "media",
+      "title": "Castanet — OneBC names candidate for riding held by former party member",
+      "url": "https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+      "archive_url": "https://web.archive.org/web/20261001084457/https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+      "published": "",
+      "quote": "Okanagan Bucketlist Okanagan Edge Okanagan Biz BC Biz Get Involved Business Buzz Sports Warriors go back-to-back BCHL - 1,159 views Vees rally for Summerland WHL - 1,309 views Warriors big comeback BCHL - 2,738 views WHL BCHL KIJHL BCFC Golf Penticton Speedway Ski Big White Silver Star Apex Baldy Sun Peaks Whitewater Red Mtn Revelstoke ShowBiz Boyle picks his Bond Entertainment - 2,105 views Hall friends with Jagger Entertainment - 3,936 views 'Diddy' prison release date Entertainment - 2,372 views TV Listings Books Offbeat Around the Web Weekly Horoscopes The Tango Daily Dose Must Watch Galleries Music Classifieds Login Marketplace Live Garage Sales Jobs (251) Real Estate (673) Rentals"
+    }
+  ]
+}

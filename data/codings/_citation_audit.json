@@ -1,0 +1,68 @@
+[
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q01",
+    "action": "citation_repaired",
+    "cited_source_id": "cpb-0006",
+    "cited_file": "cpb-0006.txt",
+    "resolved_source_id": "cpb-0017",
+    "resolved_file": "cpb-0017.txt",
+    "n_candidates": 1
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q03",
+    "action": "citation_repaired",
+    "cited_source_id": "cpb-0006",
+    "cited_file": "cpb-0006.txt",
+    "resolved_source_id": "cpb-0017",
+    "resolved_file": "cpb-0017.txt",
+    "n_candidates": 2
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q28",
+    "action": "citation_repaired",
+    "cited_source_id": "cpb-0009",
+    "cited_file": "cpb-0009.txt",
+    "resolved_source_id": "cpb-0020",
+    "resolved_file": "cpb-0020.txt",
+    "n_candidates": 1
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q37",
+    "action": "citation_repaired",
+    "cited_source_id": "cpb-0014",
+    "cited_file": "cpb-0014.txt",
+    "resolved_source_id": "cpb-0012",
+    "resolved_file": "cpb-0012.txt",
+    "n_candidates": 3
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q38",
+    "action": "citation_repaired",
+    "cited_source_id": "cpb-0014",
+    "cited_file": "cpb-0014.txt",
+    "resolved_source_id": "cpb-0012",
+    "resolved_file": "cpb-0012.txt",
+    "n_candidates": 3
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q39",
+    "action": "citation_repaired",
+    "cited_source_id": "cpb-0008",
+    "cited_file": "cpb-0008.txt",
+    "resolved_source_id": "cpb-0018",
+    "resolved_file": "cpb-0018.txt",
+    "n_candidates": 3
+  }
+]

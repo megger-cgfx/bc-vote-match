@@ -1,0 +1,85 @@
+{
+  "question_id": "q47",
+  "statement": "Bail should be made tougher for repeat violent offenders.",
+  "topic": "public-safety",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:39:54Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "bail",
+    "tougher",
+    "repeat",
+    "violent",
+    "offenders"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 14.2768,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "The Speaker : Shhh. Members, please. Hon. David Eby : Public confidence in the criminal justice system across the country is under threat, and it’s under threat because repeat violent offenders have been released back to communities, because men who assault their spouses, awaiting sentencing, are released back into the community and kill their partners, bail in the court."
+    },
+    {
+      "rank": 2,
+      "score": 6.2273,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "confiscation program for legally acquired firearms 2 Provincial legal representation provided to firearms owners having their firearm rights violated by the federal government 3 Provincial firearms storage program in case federal buy-back or confiscation program risks taking a law-abiding British Columbian’s legally obtained firearms Crime and Justice 1 Crack down on repeat and violent offenders. Focus the resources of the criminal justice system on those committing most of the crime. 2 Prosecutors will be instructed to consider past charges or convictions of offenders as an indicator of future danger to the public."
+    },
+    {
+      "rank": 3,
+      "score": 5.7978,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "Halt transfers, restore Band oversight, reform the Indian Act, restore English names, and end mandatory acknowledgements. Reconciliation Crack down on repeat and violent offenders and protect our ports from international criminal smuggling. Crime & Justice Remove SOGI-123 from classrooms, restore standardized testing in reading, writing and math, and institute a Parental Bill of Rights. Education Eliminate the Step Code raising costs with unnecessary green requirements and block rent control programs that disincentivize new housing development."
+    },
+    {
+      "rank": 4,
+      "score": 4.293,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "The RCMP recommended charges, but the Crown refused to prosecute, not even for manslaughter. The man responsible is a dangerous repeat offender with a record of violent assaults that have resulted in hospitalization. Sebastian’s grandmother, Debbie, asked me something that no grandmother should ever have to ask. She said: “I saw on the news that someone in B.C."
+    },
+    {
+      "rank": 5,
+      "score": 2.167,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Niki Sharma : …to circle around repeat offenders, including extortion. It was B.C.’s leadership that changed the laws across the country to circle around extortion, circle around repeat offenders and circle around intimate-partner violence to keep those people off the streets. We will keep doing that work. Seven arrests, seven charges and more on their way."
+    },
+    {
+      "rank": 6,
+      "score": 1.2301,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Neufeld regularly accused gay and trans people of sexually abusing children. The tribunal wrote: “Mr. Neufeld says repeatedly that teaching children about sexual orientation, gender identity, non-heterosexual people and non-cisgender people confuses them and grooms them to be abused by sexual offenders.” He defended anti-gay laws in other countries as attempts to control pedophilia. That’s only a few of the examples of what Mr."
+    }
+  ]
+}

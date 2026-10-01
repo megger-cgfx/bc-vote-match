@@ -1,0 +1,120 @@
+{
+  "question_id": "q48",
+  "statement": "The province should expand involuntary care for people with severe addiction and mental illness.",
+  "topic": "public-safety",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:39:55Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "involuntary",
+    "care",
+    "severe",
+    "addiction",
+    "mental",
+    "illness"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 2.2751,
+      "source_id": "onebc-0019",
+      "source_type": "other",
+      "title": "iVoteOneBC.ca — OneBC Priorities (independent supporter summary of official 53 planks)",
+      "url": "https://ivoteonebc.ca/policies",
+      "archive_url": "http://web.archive.org/web/20261001080306/https://ivoteonebc.ca/policies",
+      "published": "2026-06-17",
+      "quote": "Law and order — 5 planks Alberta-style involuntary care, more beat cops, faster criminal processing, bail and sentencing reform pressure on Ottawa, and action against money laundering and drug trafficking. Indigenous policy / property rights — 5 planks Indian Act reform, voluntary band governance and accountability, ending voluntary race-based transfers of cash/land/control, ending mandatory land acknowledgements, and English street/place names. Small business — 4 planks Higher small-business tax-bracket ceiling, micro-business regulatory exemptions, low-risk consumer-product deregulation, and a large-retailer fairness levy."
+    },
+    {
+      "rank": 2,
+      "score": 2.1673,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "I asked the minister directly yesterday. Her answer was…. She decided to talk about the choices she’s making and two-tier health care systems. Not once did she address this program that is providing mental health, addiction support and suicide prevention."
+    },
+    {
+      "rank": 3,
+      "score": 2.0947,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "consent and classroom transparency for parents of minor-age students Housing 1 Eliminate the Step Code that is raising housing costs with unnecessary green building requirements 2 Block municipal rent control programs that disincentivize development and new units being put up for rent Drugs & Addiction 1 Eliminate safe supply and drug consumption programs 2 Cancel all new drug consumption sites and turn current consumption sites into drug recovery centres 3 Involuntary drug rehab and housing for the severely addicted 4 Rollback all decriminalization programs and crack down on open drug use Firearms Owners 1 No provincial government participation in any federal firearms buy-back or"
+    },
+    {
+      "rank": 4,
+      "score": 1.9128,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "I want to say thank you to the RCMP who responded and for the people who provide support to paramedics and other front-line workers when terrible circumstances like this unfold. The continuum of publicly funded services that this government is building out when it comes to mental health is absolutely unprecedented. This year’s budget has a $4.2 billion lift in health care, and that includes $500 million to expand the services of mental health and substance use across this province. It includes Foundry centres, interdisciplinary teams for youth."
+    },
+    {
+      "rank": 5,
+      "score": 1.7902,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "But I have a niece who has significant, challenging disabilities; needs a wheelchair, a feeding tube; cannot walk; cannot talk; and has severe self-injurious behaviour. In our current system, based on a singular diagnosis, my child has received more direct funding than my niece. That is a system that just fundamentally is unfair and does not work. Just to expand, for children who are in care currently, who have developmental disabilities, behavioural disabilities, they will receive the same supports as children in non-care."
+    },
+    {
+      "rank": 6,
+      "score": 0.6632,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Hon. Josie Osborne : …workers need to know that they are safe and feel safe, but patients in our health care system do too. That is why we’ve expanded the relational security initiative, supporting nurses in the workplace and other health care professionals, and we are seeing results. [11:00 a.m.] With over 780 of these protective officers working in health care settings, we have seen the incidents of violence come down 8 percent, and we have seen a 13 percent reduction in WorkSafeBC claims after only one year."
+    },
+    {
+      "rank": 7,
+      "score": 0.6153,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "The new model offers an opportunity to use that model team-based care approach, where you can really expand the expertise of a clinician with paraprofessionals so that families in those communities receive more service and the most effective types of services that they can receive. We have expanded virtual options for families in rural and remote communities. We also have a pediatric therapy outreach team that flies to different communities across the province that are hard to reach or that don’t necessarily have specialties in their communities. We have a really great partnership with the B.C."
+    },
+    {
+      "rank": 8,
+      "score": 0.6109,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "As a really clear, concrete example, right now, for a family who has a child with autism, their home team might look like having a behaviour consultant and then a couple behaviour interventionists who are paraprofessionals that work under that consultant. That’s a way to expand the hours that a child receives of direct intervention. So expanding community-based care to include those types of models of service will support other children who have not had access to those types of services before. We could have a speech and language pathologist in community-based programming working alongside a speech-language therapy assistant."
+    },
+    {
+      "rank": 9,
+      "score": 0.5995,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "But remembrance must live beyond a single day. It must guide the decisions we make here in this chamber. Whether it’s ensuring veterans have timely access to health care, mental health supports or the dignity of stable housing, we must continue to honour their sacrifice by how we care for them when they have returned home. As a veteran myself, I know firsthand that the call to serve never truly leaves you."
+    }
+  ]
+}

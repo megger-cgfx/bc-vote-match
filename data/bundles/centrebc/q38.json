@@ -1,0 +1,154 @@
+{
+  "question_id": "q38",
+  "statement": "DRIPA should be changed so that First Nations' consent is not required for resource projects.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:27:01Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "dripa",
+    "changed",
+    "first",
+    "nations",
+    "consent",
+    "required",
+    "resource",
+    "projects"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.5642,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "DRIPA’s strength lies not only in what it set out to do but in how it was developed — years of consultation with First Nations, culminating in unanimous support from members of this House. Amendment or repeal of DRIPA will break trust with First Nations that has taken 50 years to rebuild. Beyond the amendment, my question to the Premier is: what threshold of support does the Premier require of the over 200 First Nations in B.C. in order to consider that they have the support of nations for amendments to DRIPA — 10, 20, 100, 200?"
+    },
+    {
+      "rank": 2,
+      "score": 3.9903,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "These are not hypothetical resource projects. These are happening in the here and the now, so I’m just trying to clarify with the minister. Lookit, I’m not here to try and cast a negative light in any way, shape or form on the Tāłtān People. I’m trying to understand the thinking behind the government here as far as setting up an agreement with a First Nation that — it’s plain as day here — has the ability to say: “No, this doesn’t move ahead.” When we’re in a time here where…."
+    },
+    {
+      "rank": 3,
+      "score": 3.7591,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "I know the minister has got a lot of staff and resources that are being used for the implementation of DRIPA. We’re seeing projects like Eskay Creek go forward with this, and it makes me wonder. When the Premier came out just recently and talked about some changes that were required for DRIPA…. “Unintended consequences” I think he might have used, in terms of language."
+    },
+    {
+      "rank": 4,
+      "score": 3.2794,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "We listened and are taking action to change the dispute resolution framework — making it better able to support the process and create more predictability and certainty for industry, creating transparency and trust between all parties. The EAO has worked tirelessly over the past six months to consult with First Nations and industry alike. Hearing from proponents, First Nations organizations and project proponents, our government listened and learned, and we are taking action now. There was a strong interest in working towards early issues resolution."
+    },
+    {
+      "rank": 5,
+      "score": 2.7629,
+      "source_id": "centrebc-0052",
+      "source_type": "release",
+      "title": "Statement: Reconciliation, Certainty, and Prosperity",
+      "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+      "archive_url": "http://web.archive.org/web/20260930145033/https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+      "published": "2026-08-13",
+      "quote": "I believe, as I did then, that British Columbians deserve an honest conversation about how we can address Indigenous rights and title while also protecting communities and private land owners, supporting economic opportunity, and providing certainty for the people and businesses that call BC home. The reality is that many of the significant changes that followed came later through legislation such as the Interpretation Act amendments brought forward by David Eby’s government. Simply repealing DRIPA today would not undo those changes, nor would it address the underlying challenges facing Indigenous communities, resource projects, workers, local governments, and investors."
+    },
+    {
+      "rank": 6,
+      "score": 2.461,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "I understand that administrative capacity is one of those challenges, perhaps, but how is a project able to get done in one corner of the province, either with a single nation or a group of First Nations, without an agreement, while some seem to require them, as we’ve seen with Eskay Creek? [2:00 p.m.] Hon. Spencer Chandra Herbert : I just wonder if the member might be able to tie this a little bit more closely to the budget estimates, because we can, and it has happened in this room, go quite a ways off into another realm of debate. I’m just interested if the member can show me how that exactly relates to the ministry estimates, the budget that we’re looking at today."
+    },
+    {
+      "rank": 7,
+      "score": 2.3143,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "It started with the previous government that planned it and developed the sector. Now they’re taking credit for it. This is the same NDP government that blocked mining and natural resource projects across our province, and now the minister is even saying LNG is among the cleanest in the world. We have been saying that for years."
+    },
+    {
+      "rank": 8,
+      "score": 2.0827,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "It shapes whether infrastructure is built, whether resource projects proceed, whether employment opportunities expand and whether environmental values that define these regions are protected for our future generations. When we consider legislation that proposes changes to how environmental assessments operate, we’re not simply debating process. We’re debating how those decisions are made, and we’re debating today who participates in those decisions. We’re debating whether the framework we create today will provide the clarity British Columbians expect tomorrow."
+    },
+    {
+      "rank": 9,
+      "score": 1.9162,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "Of those ten energy projects I talked about, all of them together are majority First Nations–owned. That’s good news for B.C. [10:40 a.m.] The Ksi Lisims project is led by the Nisga’a First Nation. That’s good for B.C."
+    },
+    {
+      "rank": 10,
+      "score": 1.7287,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Over the past six months, we have done extensive consultation and cooperation with 46 First Nations and engaged with First Nations organizations, industry representatives and project proponents. We have listened. We have learned. And we have reflected."
+    },
+    {
+      "rank": 11,
+      "score": 1.5563,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "The Cedar LNG project is led by First Nations, the Haisla people. That’s good for B.C. Woodfibre LNG, an agreement with the Sḵwx̱wú7mesh First Nation — that’s good for B.C. Fortis and their work on Tilbury with the xʷməθkʷəy̓əm — that’s good for B.C."
+    },
+    {
+      "rank": 12,
+      "score": 1.4718,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "Indigenous Groups in Court Cases Claire Rattée : It is becoming clear that DRIPA is now a direct threat to our sovereignty in B.C. It has been weaponized by U.S.-based tribes and puts B.C. projects at risk. After the Gitxaała decision, the Premier admitted that at least 20 cases against the province have already been amended, and the Minister of Mining and Critical Minerals acknowledged last week that a coalition of Alaskan tribes has filed to challenge the approvals of the Eskay Creek mine, a project that this government has repeatedly pointed to as being a DRIPA success in partnership with the Tāłtān Nation."
+    }
+  ]
+}

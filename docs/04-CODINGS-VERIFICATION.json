@@ -1,0 +1,37 @@
+{
+  "artifact": "M3 v1 codings verification",
+  "generated_at": "2026-10-01T12:43:00-07:00",
+  "card": "<task-id>",
+  "run": 60,
+  "repo_commit": "a14531b",
+  "read_only": true,
+  "gates": {
+    "agents/validate_codings.py": {"files": 11, "rows": 171, "errors": 0, "warnings": 0, "result": "PASS"},
+    "quote_provenance": {"published_non_null_rows": 45, "verbatim_ok": 45, "failures": 0, "unreadable_sources": 0},
+    "scripts/validate-dataset.py": {"mode": "draft", "result": "BLOCKED", "reasons": [
+      "0 frozen questions in data/questions/questions.json",
+      "duplicate coding for party+question: data/codings/<party>.json (v0.9) coexist with codings.json",
+      "_verification.json and _citation_audit.json parsed as coding files and fail schema",
+      "34 missing questions per party (coverage measured against the 54-item pool)"
+    ]}
+  },
+  "frozen_proposal_ids": ["q01","q03","q04","q10","q11","q18","q19","q22","q26","q28","q29","q31","q37","q38","q39","q46","q47","q48"],
+  "actually_coded_ids": ["q01","q03","q04","q10","q11","q18","q19","q22","q24","q28","q29","q31","q38","q39","q43","q46","q47","q48"],
+  "id_swap": {"coded_instead_of": {"q24": "q26", "q43": "q37"}, "recorded_in_contract_file": false},
+  "swap_evidence": {
+    "q37_dripa_implement": {"ndp": "2/2", "cpb": "-2/-2", "green": "2/2", "onebc": "-2/-2", "centrebc": "-1/+1 split"},
+    "q43_indigenous_procurement": {"parties_positioned": 1, "rows": 6, "note": "only cpb coder B = +1"},
+    "q26_nurse_ratios": {"parties_positioned": 1, "note": "green 2/2"},
+    "q24_public_dental": {"parties_positioned": 0, "coder_passes": 10}
+  },
+  "recommendation": "keep the proposed 18 (q26, q37); re-code q26 and q37 (20 rows = 2 statements x 5 parties x 2 coders); archive the q24/q43 codes as a discarded variant",
+  "live_work_not_to_duplicate": [
+    "<task-id> run 61: OneBC second coder (disjoint halves at 12:39; onebc-coderB-part1.json landed 12:42) and the 6 split tie-breaks"
+  ],
+  "smaller_items": [
+    "docs/04-CODINGS.md still labelled v0.9-prefreeze/PROVISIONAL and lists q26/q37",
+    "ndp q38/q39 cite ndp-0028, marked superseded_by green-0096 (duplicate capture)",
+    "data/bundles/<party>/<party>/ nested duplicate trees; data/bundles/ uncommitted"
+  ],
+  "hotspot": "data/codings/ written concurrently by >=2 workers; serialise per-party work"
+}

@@ -1,0 +1,36 @@
+{
+  "project": "BC 2026 Vote-Compass-style VAA",
+  "compiled": "2026-10-01",
+  "version": "short-21",
+  "locked_context": {
+    "purpose": "inform voters, build confidence in the system; credible/neutral",
+    "timeline": "launch in days; agents run non-stop",
+    "product": "clean-room, pointer to Vote Compass",
+    "scope": "party-level first, then riding-level",
+    "model": "open-source, self-hosted, public contributions reviewed",
+    "outreach": "influencer + media campaign"
+  },
+  "questions": [
+    { "id": 1, "group": "A-Framing", "q": "Working name + domain?" },
+    { "id": 2, "group": "A-Framing", "q": "Confirm tool is method-neutral + fully sourced; lean lives only in outreach framing.", "rec": true },
+    { "id": 3, "group": "A-Framing", "q": "Adopt VC-style disclaimer ('educational, not how-to-vote')?", "rec": true },
+    { "id": 4, "group": "B-Scope", "q": "Confirm v1 = party-level only. Target launch date?" },
+    { "id": 5, "group": "B-Scope", "q": "Question count for v1?", "rec": "15-20" },
+    { "id": 6, "group": "B-Scope", "q": "v1 features: questionnaire + 2-D compass + alignment bars + per-question citations; EN only; mobile-first; WCAG AA; no demographics.", "rec": true },
+    { "id": 7, "group": "C-Method", "q": "Scoring: code parties -2..+2 per statement; pre-assign dimensions; alignment = normalised similarity; IRT later.", "rec": true },
+    { "id": 8, "group": "C-Method", "q": "Dimensions: economy/taxes x social (VC-style) or BC-specific axes?", "rec": "VC-style" },
+    { "id": 9, "group": "C-Method", "q": "Issue-importance weighting in v1?", "rec": false },
+    { "id": 10, "group": "C-Method", "q": "Human coding gate: 2 independent coders + adversarial agent, human tie-break, human sign-off before publish.", "rec": true },
+    { "id": 11, "group": "C-Method", "q": "Send parties self-coding request without blocking launch?", "rec": true },
+    { "id": 12, "group": "D-Data", "q": "Party list: NDP, Conservative, Green, OneBC, CentreBC; minors by rule.", "rec": true },
+    { "id": 13, "group": "D-Data", "q": "Adopt VC source-priority ladder?", "rec": true },
+    { "id": 14, "group": "D-Data", "q": "Provenance: quoting snippet + archived URL + hash per coding.", "rec": true },
+    { "id": 15, "group": "D-Data", "q": "Riding data: Elections BC + StatCan postal->riding; recode weekly + on platform release, versioned.", "rec": true },
+    { "id": 16, "group": "E-Build", "q": "Stack: static site, in-repo JSON, browser-side scoring, no DB, no PII.", "rec": true },
+    { "id": 17, "group": "E-Build", "q": "Public GitHub, permissive license (MIT?), PR review (agents + human); hosting preference (Cloudflare/Vercel/Netlify/VPS)?" },
+    { "id": 18, "group": "E-Build", "q": "Privacy/legal: PIPEDA/FIPPA-safe, no PII, disclaimer page.", "rec": true },
+    { "id": 19, "group": "F-Launch", "q": "Orchestration layers: recon -> coding -> adversarial QA -> build -> integration; human gates on codings + publish.", "rec": true },
+    { "id": 20, "group": "F-Launch", "q": "Outreach: which media partners + influencers/communities? Who writes the pitch?" },
+    { "id": 21, "group": "F-Launch", "q": "Success metric targets (completions, shares, press pickups)?" }
+  ]
+}

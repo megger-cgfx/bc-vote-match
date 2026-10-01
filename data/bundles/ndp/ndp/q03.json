@@ -1,0 +1,154 @@
+{
+  "question_id": "q03",
+  "statement": "The province should introduce a wealth tax on the largest personal fortunes.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:33Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "introduce",
+    "wealth",
+    "tax",
+    "largest",
+    "personal",
+    "fortunes"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.2751,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Whatever it is, it’s a small group of very privileged people who each have an army of tax lawyers to use every loophole in the book. Personally, I can’t get my head around the lifestyle pain that a 5 or 10 percent wealth tax would impose, but I’m not in that league. If you’ll indulge me with a bit of humour, my children are in grade 6, and their classmates seem to think that I’m the Prime Minister and that I’m very rich. I guess perception is everything."
+    },
+    {
+      "rank": 2,
+      "score": 3.118,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Organizations like Patriotic Millionaires and movements such as Proud to Pay More lobby for wealth taxes, higher estate taxes and, most importantly, closing loopholes, arguing that extreme wealth concentration is detrimental to society. [4:00 p.m.] Many in this group support taxing unrealized capital gains, implementing a wealth tax and increasing income tax rates for the highest earners. Data shows that effective tax rates for the top 400 wealthiest Americans have declined to about 24 percent, prompting calls for reform. For those who will defend the wealthiest among us, let’s have a reality check of the billionaire’s household budget."
+    },
+    {
+      "rank": 3,
+      "score": 2.693,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "I’d be very surprised if MLAs from rural communities wouldn’t join me in supporting the need for tax fairness. That’s why we proposed a wealth tax package to the government — one that would address both inequality and the deficit, one that the government refused to engage with, refused to even look at. Yet we have a $13 billion deficit coming up, and we’re not prepared to look at the tax policy side of the equation. That is just irresponsible."
+    },
+    {
+      "rank": 4,
+      "score": 1.1132,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "The base personal income tax rate increases to 5.6 percent. Income tax bracket indexation is temporarily suspended. The provincial sales tax is expanded to professional services, including accounting. Now my wife, who does accounting at home, when she sends out a bill, guess what."
+    },
+    {
+      "rank": 5,
+      "score": 1.0928,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "bcndp.ca: Eby to turn more empty condos into homes people can afford , September 25 . Put any additional speculation and vacancy tax revenue into building more affordable homes Sep 25 The change will help put more empty units into the long-term rental market, while any additional revenue will go to building more affordable homes people need. bcndp.ca: Eby to turn more empty condos into homes people can afford , September 25 . 4 more from BC NDP Introduce an Unsold Condo Tax on finished condos left empty over a year Sep 25 The BC NDP will also introduce a new Unsold Condo Tax on finished condos left empty for more than a year."
+    },
+    {
+      "rank": 6,
+      "score": 0.9809,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "Why are we afraid to look at everybody paying their fair share? We would argue, though, that tax reform needs to go further than income. It needs to include wealth, because it’s not the doctors, the engineers and the developers earning $200,000 a year, the lawyers, that are driving this inequality. It’s those who are building huge stores of wealth, who are refusing to invest in improving our productivity, those who are crowding out small businesses."
+    },
+    {
+      "rank": 7,
+      "score": 0.9033,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Budget 2026 also supports businesses directly. A temporary manufacturing and processing investment tax credit encourages investment in buildings, machinery and equipment, strengthening competitiveness and productivity. The shipbuilding and ship repair industry tax credit is extended, supporting British Columbia’s maritime sector, the largest in Canada. These targeted measures help businesses leverage new opportunities, drive growth and sustain employment across the province."
+    },
+    {
+      "rank": 8,
+      "score": 0.885,
+      "source_id": "ndp-0020",
+      "source_type": "release",
+      "title": "(2024) David Eby shares middle-class tax cut plan with families",
+      "url": "https://www.bcndp.ca/releases/david-eby-shares-middle-class-tax-cut-plan-families",
+      "archive_url": "http://web.archive.org/web/20260306141226/https://www.bcndp.ca/releases/david-eby-shares-middle-class-tax-cut-plan-families",
+      "published": "2024-10-09",
+      "quote": "Yesterday, a video surfaced showing a star Rustad candidate openly pushing tax breaks for the top 2 percent while arguing that taxes on the wealthy are a bigger affordability challenge than housing costs."
+    },
+    {
+      "rank": 9,
+      "score": 0.8735,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "bcgreens.ca: Emily Lowan announces election plans , September 23 . Also posted: Plan page, bcgreens.ca/our-plan . Implement a windfall tax on large corporations Plan page Implement a windfall tax on mega-corporation to bring in British Columbians fair share and build our revenue base to pay for community health centres, transit, and reign in the provincial debt. Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca ."
+    },
+    {
+      "rank": 10,
+      "score": 0.8728,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "In April 2021, the support rate increased by $175 per adult. That was the largest single increase in B.C.’s history. We introduced, in Budget 2023, several affordability initiatives. The maximum shelter allowance for people receiving income assistance increased by $125 per family unit per month."
+    },
+    {
+      "rank": 11,
+      "score": 0.8314,
+      "source_id": "ndp-0007",
+      "source_type": "policy",
+      "title": "Eby to turn more empty condos into homes people can afford",
+      "url": "https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+      "archive_url": "http://web.archive.org/web/20260927070507/https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+      "published": "2026-09-25",
+      "quote": "The BC NDP will also introduce a new Unsold Condo Tax on finished condos left empty for more than a year. Starting at 2 per cent, the tax will increase by 1 per cent for each additional year a condo remains unsold, pushing developers to sell finished homes at prices people can afford. The plan could unlock up to 5,000 condos for British Columbians. According to a September 2026 report by Real Property Data, these unsold units are estimated to be worth $4.45 billion."
+    },
+    {
+      "rank": 12,
+      "score": 0.8264,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "I will ask the House to please make them feel welcome. Kristina Loewen : Today I want to introduce somebody that I don’t need any notes for. I know this person quite well. In fact, I met him about 30 years ago when he was just a young 20-something and he was sporting a full beard."
+    }
+  ]
+}

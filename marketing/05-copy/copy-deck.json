@@ -1,0 +1,150 @@
+{
+  "generated": "2026-10-01",
+  "status": "draft_not_approved",
+  "publish_gate": "No piece may be published until (1) the launch preflight in docs/05-LAUNCH.md reports GO, (2) bcvotematch.ca is registered and serving, and (3) Martin personally says publish. Reddit pieces additionally require written moderator permission in the target subreddit.",
+  "gate1_reference": "docs/content/NEUTRALITY-PROTOCOL.md Rule 4 + marketing/06-review/RUBRIC.md Gate 1",
+  "numbers_sourced_from": [
+    "docs/content/METHODOLOGY.md (18 statements, 6 topics, 5-point scale, two axes, source hierarchy, corrections process)",
+    "docs/content/ABOUT.md (independence, funding, E-day date context)",
+    "src/lib/site.ts (bcvotematch.ca, no analytics/trackers)"
+  ],
+  "pieces": [
+    {
+      "id": "X-01",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "general BC public, first-contact",
+      "text": "BC Vote Match is live for the BC 2026 election. Answer 18 statements, see how your answers line up with each party's published positions, and read the quote behind every code. Free, no account, no tracking. bcvotematch.ca",
+      "gate1_note": "Announces the tool and its method only; no party named, no outcome implied.",
+      "scheduled_for": "2026-10-08"
+    },
+    {
+      "id": "X-02",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "curious first-timers who saw X-01",
+      "text": "BC Vote Match compares what you think to what the parties have actually said, in public, in their own words. 18 statements, 6 topics, every result linked to a source you can read. bcvotematch.ca",
+      "gate1_note": "Describes the comparison mechanic neutrally; parties referenced only as 'the parties'.",
+      "scheduled_for": "2026-10-09"
+    },
+    {
+      "id": "X-03",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "sceptics and journalists deciding whether to trust the tool",
+      "text": "Every code in BC Vote Match carries a verbatim quote, checked against a saved, hashed, archived copy of the source. If a quote can't be verified, the code doesn't ship. bcvotematch.ca",
+      "gate1_note": "Describes provenance of party codes; makes no claim about any party's content.",
+      "scheduled_for": "2026-10-09"
+    },
+    {
+      "id": "X-04",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "people who assume the tool fills gaps by guessing",
+      "text": "If a party hasn't stated a position, we don't guess. That question drops out of the alignment math for that party. \"No position\" is a first-class answer at BC Vote Match. bcvotematch.ca",
+      "gate1_note": "The 'no position' rule applies identically to every party; the piece names none and implies none.",
+      "scheduled_for": "2026-10-10"
+    },
+    {
+      "id": "X-05",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "anyone treating a high score as a recommendation",
+      "text": "BC Vote Match shows distances, not endorsements. It doesn't tell you how to vote and it doesn't predict your vote. Leaders, local candidates, record, and trust all sit outside the method. bcvotematch.ca",
+      "gate1_note": "Explicitly refuses to endorse or predict; lists what sits outside the method without commenting on it.",
+      "scheduled_for": "2026-10-13"
+    },
+    {
+      "id": "X-06",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "privacy-conscious users",
+      "text": "No account, no login, no demographic questions. Your answers never leave your browser. BC Vote Match has no trackers and no analytics. bcvotematch.ca",
+      "gate1_note": "Factual claims about the build (verified in METHODOLOGY.md and src/lib/site.ts); nothing about parties.",
+      "scheduled_for": "2026-10-15"
+    },
+    {
+      "id": "X-07",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "party researchers, journalists, anyone who spots an error",
+      "text": "Think we have a code wrong? Send the question id, the party, and a verbatim quote from a public source with a URL. If the quote supports a different code we recode, version it, and publish what moved. bcvotematch.ca",
+      "gate1_note": "Describes the corrections process neutrally; the same procedure applies to every party.",
+      "scheduled_for": "2026-10-16"
+    },
+    {
+      "id": "X-08",
+      "channel": "X",
+      "format": "single_post",
+      "audience": "followers who already have a result",
+      "text": "Party positions change during a campaign. When they do, BC Vote Match recodes the affected rows, versions the change, and publishes the diff. Same questions, same method, current sources. Check the version date on your result. bcvotematch.ca",
+      "gate1_note": "States the versioned recode process that applies to every party alike; never a judgement about who moved or why.",
+      "scheduled_for": "2026-10-12 and 2026-10-20 (after each recode pass lands; Oct 20 is outside the calendar window)",
+      "publish_note": "If Martin wants diff counts in the post, add them from the published coding table at publish time. Do not state numbers not yet in the table."
+    },
+    {
+      "id": "X-THREAD",
+      "channel": "X",
+      "format": "thread_5_posts",
+      "audience": "general public on launch day, second-wave reach",
+      "text": [
+        "1/5 BC Vote Match is live for the BC 2026 election. What it is and how it works, in five posts. bcvotematch.ca",
+        "2/5 You answer 18 statements on a five-point scale, with \"don't know\" if you'd rather skip. Three statements each on cost of living and taxes, housing, health, climate and environment, Indigenous reconciliation, and public safety.",
+        "3/5 We code each party on the same scale from what the parties have said in public: platforms and policy documents first, then releases and speeches, then Hansard, then media. Every code carries a verbatim quote.",
+        "4/5 Your result is the distance between your answers and each party's codes, per topic and on a two-axis map. The map is a reading aid, not a measurement of anyone. Parties stay in a fixed order. We never rank them.",
+        "5/5 The method, the full coding table, the quotes, and the code are all public. If we have something wrong, send the quote that proves it and we'll version the change. No account, no tracking. bcvotematch.ca"
+      ],
+      "gate1_note": "Explains method and limits only; names no party, scores no outcome, ends on corrections rather than a call to vote.",
+      "scheduled_for": "2026-10-08"
+    },
+    {
+      "id": "REDDIT-BC",
+      "channel": "r/britishcolumbia",
+      "format": "text_post",
+      "audience": "BC voters discussing the election",
+      "title": "We built a free, open-source tool that compares your views to BC parties' published positions, with a sourced quote behind every code. Posted with mod permission.",
+      "text": "Disclosure first: we're the small volunteer team behind this, and we're posting with moderator permission.\n\nBC Vote Match is a free, independent tool for the October 24 provincial election. You answer 18 statements on a five-point scale, \"don't know\" allowed, and it shows how your answers line up with each party's published positions, per topic and on a two-axis map.\n\nWhat it doesn't do: it doesn't tell you how to vote and it doesn't predict your vote. Parties are listed in a fixed order and never ranked.\n\nEvery code carries a verbatim quote from a source we saved and archived. The full coding table is public, including where our independent coders disagreed and how each disagreement was resolved. If we have something wrong, the fastest fix is the quote that proves it: send it and we recode, version it, and publish what moved.\n\nNo account, no login, no tracking; your answers never leave your browser. Open source, volunteer-run, and not affiliated with Elections BC, any party, any candidate, Vote Compass, or Vox Pop Labs. It accepts no money from parties, candidates, or their financial agents.\n\nbcvotematch.ca\n\nHappy to answer anything about the method.",
+      "gate1_note": "Disclosure-first, method-focused, invites corrections; no claim about any party's positions or quality.",
+      "scheduled_for": "2026-10-08",
+      "publish_note": "Modmail-cleared only. See CALENDAR.md for the verified r/britishcolumbia rules (self-promotion restriction, account age/karma gate)."
+    },
+    {
+      "id": "REDDIT-VAN",
+      "channel": "r/vancouver",
+      "format": "text_post",
+      "audience": "Metro Vancouver voters (provincial election, local relevance)",
+      "title": "For the Oct 24 provincial election: a free open-source tool comparing your answers to each party's published positions (we made it, mod permission)",
+      "text": "Disclosure: we're the volunteer team behind this and we have moderator permission to post it.\n\nThe provincial election is October 24. BC Vote Match is a free tool that shows how your answers to 18 policy statements line up with each party's published positions, per topic and on a two-axis map. Housing and cost of living are two of the six topics, which is most of the conversation in this sub right now.\n\nIt does not tell you how to vote and it does not rank the parties. Every party code carries a verbatim quote from an archived source, and the full coding table is public. Corrections welcome: send the quote that proves a change and we version it publicly.\n\nNo account, no tracking, answers stay in your browser. Not affiliated with Elections BC or any party or candidate. Open source.\n\nbcvotematch.ca",
+      "gate1_note": "Same neutral description as REDDIT-BC with a factual Metro Vancouver relevance line; no party is discussed.",
+      "scheduled_for": "2026-10-08",
+      "publish_note": "Modmail-cleared only. r/vancouver's topic rule requires Metro Vancouver relevance and puts PSAs at moderator discretion; if mods ask to drop the local line, drop it."
+    },
+    {
+      "id": "NOTE-01",
+      "channel": "site news page and repository",
+      "format": "launch_note",
+      "audience": "reviewers, journalists, people arriving from a link",
+      "text": "BC Vote Match is live for the 2026 provincial election. You answer 18 statements and see how your answers line up with each party's published positions, with the quote and source behind every code.\n\nThe method is public, the full coding table is public including coder disagreements, and the code and data are open source. \"No position\" is a real result: where a party has not stated a position, we do not guess one.\n\nCorrections are welcome and are evaluated on evidence alone. Send a verbatim quote from a public source; if it supports a different code we recode, version the change, and publish what moved. If it does not, we publish the challenge and our reason for leaving the code alone.\n\nBC Vote Match is a volunteer project. It is not affiliated with Elections BC, any political party, any candidate, Vote Compass, or Vox Pop Labs, and it accepts no money from parties, candidates, or their financial agents.",
+      "gate1_note": "Explains scope, method transparency, and funding independence; makes no statement about any party.",
+      "scheduled_for": "2026-10-08"
+    },
+    {
+      "id": "FAQ-01",
+      "channel": "site FAQ and Reddit/X comment replies",
+      "format": "faq_answer",
+      "audience": "users reading a result and asking what it means",
+      "text": "No. BC Vote Match shows distances between your answers and each party's published positions, not recommendations. Parties are listed in a fixed order and never ranked from best to worst. Plenty of people find they are closest to a party they will never vote for, and that is a perfectly good outcome. Leaders, local candidates, record in government, trust, and strategic voting all sit outside this method, and they are often what decide votes. The result is information. The vote is yours.",
+      "gate1_note": "Refuses to recommend or predict and says so plainly; 'the vote is yours' is informational, not a get-out-the-vote nudge.",
+      "scheduled_for": "2026-10-08"
+    },
+    {
+      "id": "FAQ-02",
+      "channel": "site FAQ and Reddit/X comment replies",
+      "format": "faq_answer",
+      "audience": "sceptical readers and journalists",
+      "text": "Because you can check them. Every code carries a verbatim quote from a source we saved, hashed, and archived, and quotes are verified mechanically before publication. The full coding table is published, including the places where our two independent coders disagreed and how each disagreement was resolved. The question set was frozen before coding began. The code and the data are open source. If you find an error, send the quote that proves it: if it supports a different code we recode, version it, and publish what moved; if it does not, we publish your challenge and our answer.",
+      "gate1_note": "Points at inspectable method artefacts rather than asking for trust; makes no claim about any party's honesty.",
+      "scheduled_for": "2026-10-08"
+    }
+  ]
+}

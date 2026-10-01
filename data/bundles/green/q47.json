@@ -1,0 +1,85 @@
+{
+  "question_id": "q47",
+  "statement": "Bail should be made tougher for repeat violent offenders.",
+  "topic": "public-safety",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:24Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "bail",
+    "tougher",
+    "repeat",
+    "violent",
+    "offenders"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 16.8579,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "Niki Sharma : We take this issue very seriously. It’s the reason that we led the charge on bail reform in the Criminal Code — to make sure that our Criminal Code keeps repeat violent offenders off the street, to make sure our Criminal Code respects the victims and to make sure that the courts take issues of repeat offending and repeat breaches of bail orders very seriously. I’ll be going to the Senate soon to make sure that the Senate knows that we want the bill that’s before the Legislature, that has all of our suggestions in it, to be passed — to make sure that our Criminal Code is strong enough to protect the people of this province. Interjection."
+    },
+    {
+      "rank": 2,
+      "score": 9.1388,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Fast-forward to this year, I have similar concerns. They’re kind of even more significant for me at this time because we have a lot more justice issues that we have this year versus last year. We’re dealing with such things…. In public safety, we’re dealing with the repeat violent offenders."
+    },
+    {
+      "rank": 3,
+      "score": 8.1131,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "The Speaker : Members, come to order. Hon. Nina Krieger : The work of police that they do fighting crime in communities is so significant, but the work of police jurisdictions is complemented by the integrated work of specialized teams that this government has proudly stood up and provided funding for. We will not stop this work ensuring that police have the tools and the resources that they need — whether it’s fighting repeat violent offenders, property crime or extortion."
+    },
+    {
+      "rank": 4,
+      "score": 1.5977,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "The Speaker : Member has a different question? Amelia Boultbee : Yes, thank you, Mr. Speaker. While Taig’s mother anxiously awaits justice for her murdered son, she struggles daily with grief and exhaustion as she watches the accused roam the community, openly breaching conditions of their bail, with one even going to jail on unrelated charges for yet another violent crime."
+    },
+    {
+      "rank": 5,
+      "score": 1.2932,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "We’re also dealing with repeat property offenders. In regards to public safety, we’re also dealing with the extortion crisis, which started spiking up in May of last year. We’re also dealing with issues of private property rights, particularly in Richmond, in my riding. [4:30 p.m.] There are a lot of justice issues right now, and at this time, it’s more important than ever to have the proper budget to kind of address all these crises that we’re actually seeing today."
+    },
+    {
+      "rank": 6,
+      "score": 1.1939,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Is there a differing opinion in the prosecution service of what Crown prosecutors are front-line or not? Hon. Niki Sharma : The question was differences of opinion, and I would say the opinions on this side are that all Crown counsel are front-line and are able to take on files, and do, when required. [5:00 p.m.] Steve Kooner : Back in September or October, I was just watching the news, and there was a union president for the Crown prosecutors that said that when the discussion was happening in terms of repeat property offenders, it was suggested that the Crown prosecution service needed an additional 50 front-line Crown prosecutors."
+    }
+  ]
+}

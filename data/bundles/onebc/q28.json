@@ -1,0 +1,111 @@
+{
+  "question_id": "q28",
+  "statement": "BC should approve new liquefied natural gas (LNG) projects to grow the export economy.",
+  "topic": "climate-environment",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:39:53Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "approve",
+    "liquefied",
+    "natural",
+    "gas",
+    "lng",
+    "projects",
+    "grow",
+    "export",
+    "economy"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 0.4976,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "To all farmers, ranchers, growers and food producers joining us today, welcome and thank you. You are the backbone of our communities, our economy, our food security. You remind us that no farmer means no food, and no food means no life. Across British Columbia, more than 60,000 hard-working people dedicate themselves to growing, raising and producing food we all depend on."
+    },
+    {
+      "rank": 2,
+      "score": 0.4238,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I will just end with the words and tone, just like the AG. I genuinely hope that’s where we will get to today, because too much is at stake. For too long, we have allowed this government to play political games, instead of actually working to solve the problem and the mess this government has created. I genuinely hope that today we can discuss and debate the issues that truly matter to British Columbians — the growing deficit, jobs for younger generations, senior care, long ER wait times, private property rights, growing our economy, strengthening our education system and improving public safety."
+    },
+    {
+      "rank": 3,
+      "score": 0.41,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "This bill also shrinks the role of independent oversight. Projects that once required a full public interest review through the Utilities Commission can now be approved directly by cabinet. This means fewer questions, fewer hearings, fewer chances for communities to be heard. And when you remove oversight, you remove oxygen — the oxygen of democracy, of debate."
+    },
+    {
+      "rank": 4,
+      "score": 0.3479,
+      "source_id": "onebc-0018",
+      "source_type": "other",
+      "title": "Wikipedia: OneBC (political party) - history and policy summary",
+      "url": "https://en.wikipedia.org/wiki/OneBC_(political_party)",
+      "archive_url": "http://web.archive.org/web/20260923165706/https://en.wikipedia.org/wiki/OneBC_(political_party)",
+      "published": "",
+      "quote": "sidebar hide Actions Read Edit View history General What links here Related changes Upload file Permanent link Page information Cite this page Get shortened URL Switch to legacy parser Print/export Download as PDF Printable version In other projects Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia Provincial political party in Canada OneBC Abbreviation 1BC Leader Dallas Brodie (interim) Founders Dallas Brodie and Tara Armstrong Founded June 9, 2025 ( 2025-06-09 ) Split from Conservative Party of British Columbia Headquarters 262-5525 West Boulevard Vancouver , BC V6M 3W6 Ideology Right-wing populism Social conservatism Political position Right-wing [ 1 ]"
+    },
+    {
+      "rank": 5,
+      "score": 0.3412,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Under that is archaeology, the forest investment and reporting branch, engineering, the Indigenous relations branch as well as B.C. Timber Sales, forest landscape planning and the natural resource officer service. Those responsibilities fall under that branch. I would also note that, in addition, for the changes from Budget 2025 to Budget 2026, the member will note that there was a transfer of $20.366 million from the Ministry of Jobs and Economic Growth with the movement of Forestry Innovation Investment, the Crown agency, from JEG to Forests."
+    },
+    {
+      "rank": 6,
+      "score": 0.3336,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "It gives the government and large utilities the authority to decide which industries get to access our clean electricity grid, how much they pay and how much the rest of us will have to make up for it when the math doesn’t balance out. It lets them approve massive projects, billion-dollar transmission lines and corporate power deals without the same kind of public oversight that British Columbians have always counted on to keep things fair and transparent. It is like being told, “Don’t worry; we’ve got it handled,” while they quietly move the decision-making behind closed doors. Let me make it plain."
+    },
+    {
+      "rank": 7,
+      "score": 0.3287,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "OneBC - Home OUR PARTY GET INVOLVED CONTACT JOIN DONATE OUR PARTY GET INVOLVED CONTACT JOIN DONATE Spacer Spacer Excellence in British Columbia Excellence in British Columbia Spacer Spacer Join Now Pledge Your Support Pledge your vote and help OneBC win. It takes less than a minute. PLEDGE YOUR SUPPORT → Our Plan Our Plan Learn More 25% tax cuts for every bracket, a 2% PST reduction, pipeline approval to foreign markets, and an audit of 176,000+ regulations to drive private-sector growth. Economy End DRIPA and UNDRIP."
+    },
+    {
+      "rank": 8,
+      "score": 0.3247,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "We need to send proper business signals to the market. 3 25% tax cuts for every single tax bracket — including corporate 4 2% off the Provincial Sales Tax (PST) 5 Approve a pipeline to the Port of Prince Rupert or Kitimat to get Canadian energy to foreign markets 6 Undertake an audit of British Columbia’s over 176,000 regulations to reduce bureaucratic bloat Forestry 1 Increase the allowable yearly cut to ensure our forest sector has the available wood fibre to grow and thrive 2 Reduce stumpage fees for lumber companies to make the market more competitive 3 Speed up permit approval times and consultations to let our forest industry get to work faster Generational Debt 1 Problems: Credit"
+    }
+  ]
+}

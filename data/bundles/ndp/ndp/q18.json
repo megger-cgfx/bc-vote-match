@@ -1,0 +1,154 @@
+{
+  "question_id": "q18",
+  "statement": "The province should expand supportive housing even where local residents object.",
+  "topic": "housing",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:20Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "supportive",
+    "housing",
+    "local",
+    "residents",
+    "object"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.0787,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "Connecting vulnerable people with the housing, treatment and support they need We're expanding Indigenous Justice Centres, hiring more first responders, expanding legal aid services and expanding community safety situation tables."
+    },
+    {
+      "rank": 2,
+      "score": 3.9568,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Affordable, low-income, market and supportive housing projects are underway, including a new supportive housing complex in North Vancouver developed in partnership with the community."
+    },
+    {
+      "rank": 3,
+      "score": 3.3018,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "She works at our grocery store, but she is benefiting from that type of housing. So there’s workforce housing in Nelson. We’re also going to be getting more supportive housing. We know there’s an incredible need for that."
+    },
+    {
+      "rank": 4,
+      "score": 3.1643,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "Connecting vulnerable people with the housing, treatment and support they need We're expanding Indigenous Justice Centres, hiring more first responders, expanding legal aid services and expanding community safety situation tables. Expanded Indigenous Justice Centres Indigenous People involved in criminal and child protection matters can access free, culturally appropriate legal services and holistic supports to address root causes and prevent future negative interactions with the justice system. Hired more first responders Recruiting and training more paramedics and first responders so people can get the care they need in times of crisis and medical emergency."
+    },
+    {
+      "rank": 5,
+      "score": 3.1187,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "Can you just help me better understand, within the environment of supportive housing, how that would play out? Hon. Christine Boyle : I again want to be clear. They’re not seizing items."
+    },
+    {
+      "rank": 6,
+      "score": 3.0544,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "HEART and HEARTH, the programs I was speaking to before lunch, build upon record investments and success with supportive housing that we have seen since we began this work in 2018. Budget 2026 makes a deliberate choice to keep funding the essential services and supports that we see are making a difference. We have built more than 5,000 homes, through the supportive housing fund, to help people experiencing or at risk of homelessness. Programs like HEART and HEARTH and supportive housing are part of belonging in B.C."
+    },
+    {
+      "rank": 7,
+      "score": 3.0335,
+      "source_id": "ndp-0046",
+      "source_type": "speech",
+      "title": "(2024) A stronger BC working better for people: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "published": "2024-02-20",
+      "quote": "In this session, action will be taken to protect renters from bad-faith evictions and to help more first time homebuyers get on the ownership ladder. Building the infrastructure to support a growing BC As we dramatically increase housing supply, so too must we build up the infrastructure and services to support this growth. Through the billion-dollar Growing Communities Fund, and partnerships with other levels of government, that is exactly what we are doing here in British Columbia. In Langley, construction has started on an expanded events centre that will add three new ice rinks and better support the needs of a booming population."
+    },
+    {
+      "rank": 8,
+      "score": 2.9893,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "Hon. Christine Boyle : The legislation gives housing providers a range of tools to respond to possession of a weapon. The first approach would be voluntary compliance focused on safety. As the member knows, supportive housing providers have relationships with tenants to understand and work together as a first response, where possible."
+    },
+    {
+      "rank": 9,
+      "score": 2.8374,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "But there is a specific part that says “in respect of the seizure of any personal property.” [11:35 a.m.] Hon. Christine Boyle : “Seizure” is the current language in the RTA. It just means a landlord — or housing provider, in the case of supportive housing — can’t go into your unit and take your belongings. I think that is understandable."
+    },
+    {
+      "rank": 10,
+      "score": 2.7245,
+      "source_id": "ndp-0042",
+      "source_type": "policy",
+      "title": "Strengthening response to vandalism, theft, street disorder (C-POII provincewide, Public Safety ministry)",
+      "url": "https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "archive_url": "http://web.archive.org/web/20260909045354/https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "published": "2026-07-23",
+      "quote": "Public safety and justice partners share information to support timely enforcement decisions and stronger court outcomes. People involved with repeat offending are connected with services, such as income assistance, housing, and mental-health and substance-use supports to address underlying factors contributing to offending. “Businesses and communities across British Columbia deserve to feel safe and supported,” said Nina Krieger, Minister of Public Safety and Solicitor General. “That is why we are targeting chronic property offending and dedicating more resources to proven, evidence-based initiatives that strengthen enforcement and support local businesses."
+    },
+    {
+      "rank": 11,
+      "score": 2.6118,
+      "source_id": "ndp-0009",
+      "source_type": "policy",
+      "title": "Eby to double critical mineral exports, expand Port of Prince Rupert",
+      "url": "https://www.bcndp.ca/releases/eby-double-critical-mineral-exports-expand-port-prince-rupert",
+      "archive_url": "http://web.archive.org/web/20260929023454/https://www.bcndp.ca/releases/eby-double-critical-mineral-exports-expand-port-prince-rupert",
+      "published": "2026-09-28",
+      "quote": "The BC Conservatives have opposed the agreement. A re-elected BC NDP government will also invest $5 million in the Prince Rupert Port Authority to help grow the local tourism economy. The funding will support work with the cruise terminal, local government, and businesses to expand cruise operations and build on Prince Rupert’s success as a growing destination for cruise ships, supporting good jobs for people in the community. Share Share Join the movement Join us Thanks for adding your name We're so happy to have you on David Eby's BC NDP team."
+    },
+    {
+      "rank": 12,
+      "score": 2.3875,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "farmland is either inaccessible or just doesn’t exist. The only reason we know about the American billionaire investments in Dunster, Merritt and Pemberton is because local farmers tracked the data themselves, paid out of pocket to pull land titles and drove door to door to record impacts on local residents and farmers. We need public access to agricultural data, not just to track the securing of extreme wealth but also to track the spread of avian flu and other threats to our food security. Will the Minister of Agriculture commit to providing transparency about who owns our productive B.C."
+    }
+  ]
+}

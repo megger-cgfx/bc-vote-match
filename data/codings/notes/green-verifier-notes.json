@@ -1,0 +1,34 @@
+[
+  {
+    "party_slug": "green",
+    "coder": "green-verifier",
+    "question_id": "q11",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Full-corpus blind pass 2. The party's 2026 platform 'Our Plan' (green-0009) pledges to pass vacancy control so landlords cannot raise the rent every time a tenant moves out, and the renter release green-0004 explains it keeps units under continuous rent regulation across tenancies. The direction is clearly pro-rent-control, but the named mechanism re-regulates the vacancy reset on already-covered units rather than extending control to additional units as the statement asks, so the weaker value +1 (CODEBOOK s5 adjacent-instrument tie-breaker)."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-verifier",
+    "question_id": "q22",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Full-corpus blind pass 2. The party's 2024 platform (green-0091) commits to immediately enhancing accessibility of supervised consumption services and overdose prevention sites, and to continuing the expansion of supervised consumption services. The instrument and direction match the statement, but the plank names accessibility and continuing expansion rather than funding more sites, and no 2026 source carries the plank forward as a priority, so +1 at medium confidence. Null rejected: a platform document states the position."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-verifier-pass1-window",
+    "question_id": "q11",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Narrow-window blind pass 1, independent of pass 2: vacant-units control is read as functionally extending rent regulation to units the current rules do not reach on turnover, so the statement's action is met at the same instrument and scope, as a concrete 2026 campaign commitment: +2. This was corroborated by two media passages describing the same Green plan, hence high confidence. Competing reading with pass 2 (+1)."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-verifier-pass1-window",
+    "question_id": "q22",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "Narrow-window blind pass 1, independent of pass 2: the 2024 platform plank 'Continue the expansion of supervised consumption services and evaluate mobile overdose prevention' is treated as an explicit undertaking to expand supervised consumption, matching instrument and direction, so +2; medium confidence because the 2024 platform is older than the campaign. Competing reading with pass 2 (+1)."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-verifier",
+    "question_id": "q19",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Full-corpus blind pass 2. The party's own Policy Declaration (cpb-0001, plank 5.12) commits to advancing Patient-Based Funding by expanding publicly funded partnerships with non-governmental clinics for priority procedures and diagnostics, so more non-government clinics operating is a direct commitment in the party's own voice. Coded +1 rather than +2 because the named instrument is publicly funded clinics inside a single-payer model, not the statement's private for-profit clinics (CODEBOOK s2 weaker-value tie-breaker). Corroborated by the 2026 platform text in cpb-0052."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-verifier",
+    "question_id": "q38",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "Full-corpus blind pass 2. The party's own Policy Declaration (cpb-0001, Article 16.02) makes a concrete governing promise: a Conservative government 'will repeal the Declaration of the Rights of Indigenous Peoples Act (DRIPA), which mandates alignment with the United Nations' UNDRIP'. Repeal removes the UNDRIP/consent-alignment framework more completely than the statement's amendment, so it is stronger in the same direction: +2. Corroborated by the 2026 release cpb-0012 ('repeal DRIPA') and the critic's Hansard call in cpb-0026. Medium confidence because the platform instrument is full repeal (broader) and the document predates the 2026 campaign."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-verifier-pass1-window",
+    "question_id": "q19",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Narrow-window blind pass 1, independent of pass 2: the party's own platform text in cpb-0052 promises long-term contracts to attract operators of publicly funded non-governmental clinics. +1 rather than +2 because the clinic model is publicly funded and the source is a prior general-election platform. Agrees with pass 2."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-verifier-pass1-window",
+    "question_id": "q38",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Narrow-window blind pass 1 returned null: the window's six excerpts contained the party's DRIPA release (process criticism), its 2026 energy policy promising to honour First Nations agreements, and Hansard by other speakers, but not Article 16.02. The decisive sentence was outside the window, so this null reflects the window, not the corpus. Discarded as under-powered; retained for audit."
+  }
+]

@@ -1,0 +1,14 @@
+# Build artifacts and scratch. Nothing here is a deliverable.
+__pycache__/
+*.pyc
+.raster-cache/
+
+# Raw ComfyUI output is scratch: dozens of candidates per prompt, none of them curated.
+# Keep the manifests and the chosen finals; keep the raw dumps out of git.
+assets/comfy-raw/*.png
+assets/comfy-raw/*.webp
+*.tmp
+
+# Exception: the pipeline proof is evidence, not scratch. It is the recorded output that
+# says the ComfyUI pipeline works and what its measured cost was, so it belongs in history.
+!assets/comfy-raw/pipeline-proof.png

@@ -1,0 +1,157 @@
+{
+  "question_id": "q02",
+  "statement": "The government should cut taxes for middle- and higher-income earners even if that means smaller public services.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T08:33:02Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "cut",
+    "taxes",
+    "middle",
+    "higher-income",
+    "earners",
+    "means",
+    "smaller",
+    "public",
+    "services"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.6566,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "I’ll mention to the House that a small, prominent group of wealthy Americans and billionaires, including notable figures like Warren Buffett and Bill Gates, advocate for higher taxes on the rich, citing the need to reduce inequality and bolster public services."
+    },
+    {
+      "rank": 2,
+      "score": 3.5933,
+      "source_id": "ndp-0001",
+      "source_type": "platform",
+      "title": "Action For You: David Eby releases plan to help people get ahead",
+      "url": "https://bcndp.ca/releases/action-you-david-eby-releases-plan-help-people-get-ahead",
+      "archive_url": "http://web.archive.org/web/20261001075807/https://www.bcndp.ca/releases/action-you-david-eby-releases-plan-help-people-get-ahead",
+      "published": "2024-10-03",
+      "quote": "He is pledging to cut taxes for the middle class, open the door to homes people can afford, and make sure everyone gets good quality health care when and where they need it."
+    },
+    {
+      "rank": 3,
+      "score": 3.3247,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "These are exactly the people we need to build our future, and they are voting with their feet. This budget does nothing to change that calculus. It tells them that taxes will stay high or go higher, that housing remains scarce and costly, that public services will continue to struggle and that the government’s answer to every problem is more spending today and more debt tomorrow. When a government brings down a budget titled “Securing British Columbia’s Future,” but the people who are our future are leaving, something is definitely wrong."
+    },
+    {
+      "rank": 4,
+      "score": 3.0174,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Budget 2026 raised the lowest personal income tax rate from 5.06 percent to 5.60 percent. That means every worker, from the nurse to the retail clerk, the teacher to the tradesperson, is paying more on the first dollars that they earn. Meanwhile, the government has expanded the provincial sales tax to cover services that were once exempt: accounting, bookkeeping, engineering, strata management, even security services. Small businesses that already juggle payroll, rent and overhead now face 7 percent added costs on services they cannot avoid."
+    },
+    {
+      "rank": 5,
+      "score": 2.8293,
+      "source_id": "ndp-0020",
+      "source_type": "release",
+      "title": "(2024) David Eby shares middle-class tax cut plan with families",
+      "url": "https://www.bcndp.ca/releases/david-eby-shares-middle-class-tax-cut-plan-families",
+      "archive_url": "http://web.archive.org/web/20260306141226/https://www.bcndp.ca/releases/david-eby-shares-middle-class-tax-cut-plan-families",
+      "published": "2024-10-09",
+      "quote": "I’m on the side of everyday people and families who just want to end the day a little further ahead than when they started it.” On Sunday, Rustad’s platform confirmed he opposes “income tax hikes introduced by the NDP.” The only income tax increases brought in by the BC NDP were on the top 2% of income earners. Meanwhile, net provincial taxes for middle-class families are lower now than when Rustad was in government. Background: Who Benefits from David Eby’s middle-class tax cut vs Rustad’s Long Wait – Total Benefit for 2025-2028: Share Share Join the movement Join us Thanks for adding your name We're so happy to have you on David Eby's BC NDP team. We'll be in touch soon."
+    },
+    {
+      "rank": 6,
+      "score": 2.7529,
+      "source_id": "ndp-0009",
+      "source_type": "policy",
+      "title": "Eby to double critical mineral exports, expand Port of Prince Rupert",
+      "url": "https://www.bcndp.ca/releases/eby-double-critical-mineral-exports-expand-port-prince-rupert",
+      "archive_url": "http://web.archive.org/web/20260929023454/https://www.bcndp.ca/releases/eby-double-critical-mineral-exports-expand-port-prince-rupert",
+      "published": "2026-09-28",
+      "quote": "has an abundance of critical minerals other countries need. Getting them to world markets means less dependence on the U.S. while creating family-supporting jobs and the prosperity needed to strengthen health care and public services,” said David Eby, BC NDP leader. “This is part of my plan to work with the Prime Minister and build a more independent Canada."
+    },
+    {
+      "rank": 7,
+      "score": 2.4754,
+      "source_id": "ndp-0034",
+      "source_type": "media",
+      "title": "BC NDP Unveils $2.9B Platform (2024) Amid Massive Deficit and Fiscal Concerns (Coastal Front)",
+      "url": "https://coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "archive_url": "http://web.archive.org/web/20250807230503/https://www.coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "published": "2024-10-04",
+      "quote": "BC NDP Unveils $2.9B Platform Amid Massive Deficit and Fiscal Concerns Subscribe Sign in BC NDP Unveils $2.9B Platform Amid Massive Deficit and Fiscal Concerns Reid Small Oct 04, 2024 2 1 Share Image courtesy CBC British Columbia Premier David Eby unveiled his party’s $2.9 billion election platform Thursday, promising to tackle BC's \"tough challenges\" with commitments to housing, affordability, and healthcare. With the province facing its largest-ever deficit and growing competition from the BC Conservatives, the platform promises expansive investments to boost public services while raising questions about the long-term fiscal strategy."
+    },
+    {
+      "rank": 8,
+      "score": 2.3015,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "We know that that’s the decisions we make on this side of the House — and protecting public services. We also know the decisions you’d make on that side of the House because you told us. To quote the minister from Fraser-Nicola…. Pardon me."
+    },
+    {
+      "rank": 9,
+      "score": 2.2583,
+      "source_id": "ndp-0022",
+      "source_type": "release",
+      "title": "(2024) Past MLA, advocate, and community leader Jodie Wickens nominated in Coquitlam-Burke Mountain",
+      "url": "https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+      "archive_url": "http://web.archive.org/web/20260516175202/https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+      "published": "2024-06-16",
+      "quote": "An advocate for public education and social justice, she presently holds an executive leadership position as Director of Programs and Services for Child and Youth Programs at a large non-profit. She understands that people need strong public services to live good lives. “People in Coquitlam-Burke Mountain need strong public services. And they need a government that is on their side, that will work to make life more affordable,” said Wickens."
+    },
+    {
+      "rank": 10,
+      "score": 2.2244,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "Where health care and public services are there when you need them. Where there are training opportunities for young people to pursue their dreams. Where our beautiful natural heritage is protected for future generations. Where our economy is cleaner and fairer, rewarding those who work hard and play by the rules."
+    },
+    {
+      "rank": 11,
+      "score": 2.1114,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": null,
+      "published": "2026-10-01",
+      "quote": "health worker recruitment , September 23 . Keep costs down for families Sep 22 Support workers and businesses facing tariffs, keep costs down for families and strengthen the health care and public services British Columbians rely on more than ever during a trade war. bcndp.ca: David Eby launches election with plan to build B.C. strong amid Trump’s attacks , September 22 ."
+    },
+    {
+      "rank": 12,
+      "score": 2.1085,
+      "source_id": "ndp-0046",
+      "source_type": "speech",
+      "title": "(2024) A stronger BC working better for people: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "published": "2024-02-20",
+      "quote": "As a result, the people who are providing the services we all count on – like teachers, construction workers, and nurses – are being priced out of communities. This is holding back our economy, weakening public services, and hurting all of us. It was not always this way. During the Second World War, the federal government built houses for workers so they could build warships in Esquimalt and bombers in Richmond."
+    }
+  ]
+}

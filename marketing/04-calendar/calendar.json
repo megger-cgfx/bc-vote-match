@@ -1,0 +1,204 @@
+{
+  "generated": "2026-10-01",
+  "span": "2026-10-05/2026-10-18",
+  "title": "BC Vote Match outreach calendar, 14 days",
+  "gates": {
+    "A": {"condition": "Launch preflight in docs/05-LAUNCH.md reports GO", "status_on_2026-10-01": "NO-GO (8 failures)"},
+    "B": {"condition": "bcvotematch.ca registered and site publicly serving", "status_on_2026-10-01": "not registered"},
+    "C": {"condition": "Martin personally approves publication", "status_on_2026-10-01": "not given"},
+    "D": {"condition": "Written moderator permission in the target subreddit before any Reddit post", "status_on_2026-10-01": "not requested"}
+  },
+  "fixed_dates": {
+    "2026-10-05": "soft link to trusted reviewers only; NO promotion, NO outreach",
+    "2026-10-08": "public launch target, gated on A+B+C",
+    "2026-10-12": "recode pass #1 lands",
+    "2026-10-20": "recode pass #2 lands (outside window)",
+    "2026-10-24": "E-day"
+  },
+  "reddit_rules_verified_2026-10-01": {
+    "r/britishcolumbia": {
+      "sources": [
+        {"url": "https://www.reddit.com/r/britishcolumbia", "read": "2026-10-01", "how": "search-engine index of sidebar (live page bot-walled)"},
+        {"url": "https://www.reddit.com/r/britishcolumbia/about/rules/", "read": "2026-10-01", "how": "archive.org snapshot dated 2024-11-29"}
+      ],
+      "rule_text": [
+        "Current sidebar: 'Spam, Selling and Promotion. We don't allow spam, buying/selling, and promotional activities. This includes surveys and studies, self-promotion of blogs, YouTube channels, or other social media'",
+        "Archived rules page, 'No Spam': 'What do we consider spam? 1. Surveys and studies 2. Plagiarism of text, video, photos, or other content without crediting the original creator 3. Self-promotion of blogs, YouTube channels, or other social media'",
+        "Archived rules page: 'To cut down on serial reposters, karma farming, and bots, more than five posts within 24 hours results in an instant ban.'",
+        "Archived rules page, 'New Accounts/Verified Email': 'You must verify your email on your reddit account to post or comment here. In addition, new accounts and those with low karma require moderator approval for posts and comments. Current Karma Threshold: < 100 Account age: > 7 days'",
+        "Archived rules page, rule 1: 'Must be related to British Columbia, and no editorialized submissions'"
+      ],
+      "implication": "A post linking our own tool is self-promotion of a website under the spam rule. REDDIT-BC requires explicit prior moderator permission (gate D); posting account needs verified email, age > 7 days, and 100+ karma or mod approval; max 5 posts per 24 hours.",
+      "not_verified": "Whether the mod team will actually grant permission."
+    },
+    "r/vancouver": {
+      "sources": [
+        {"url": "https://www.reddit.com/r/vancouver", "read": "2026-10-01", "how": "search-engine index of sidebar (live page bot-walled)"},
+        {"url": "https://www.reddit.com/r/vancouver/about/rules/", "read": "2026-10-01", "how": "archive.org snapshot dated 2024-12-03"},
+        {"url": "https://www.reddit.com/r/vancouver/comments/1glzo23/", "read": "2026-10-01", "how": "mod-removal boilerplate quoted in thread (2024-2025 threads consistent)"}
+      ],
+      "rule_text": [
+        "Current sidebar, rule 5: 'Spam, Selling, and Promotion. No unauthorized promotion, job-seeking, buy/sell, referral/affiliate links, crowdfunding campaigns, surveys, or petitions. We define spam as more than one promoting submission for nine unrelated pieces of content. Moderator discretion may be used when proactively identifying and actioning astroturfing and/or stealth promotion. We automatically remove low-quality domains and UTM tracking links. Abide by Reddit's content policy.'",
+        "Archived rules page (2024-12-03), rule 5 titled 'Spam, Selling, and Self-Promotion', description opens 'No unauthorized self-promotion, job-seeking, buy/sell, ...', remainder identical",
+        "Mod-removal boilerplate: 'Your content has been removed because it violates rule 5 of this subreddit, Spam, Selling, and Self-Promotion. We do not allow any self-promotional activities on the subreddit.'",
+        "Current sidebar, rule 4: 'All submissions should be relevant to Metro Vancouver and the surrounding areas. Topics and news about British Columbia or Canada may be allowed with mod discretion. Questions, rants, and PSAs are allowed with moderator discretion only.'"
+      ],
+      "implication": "REDDIT-VAN requires explicit prior moderator permission (gate D). Bare URL only, no UTM parameters (auto-removed). Posting account needs genuine non-promotional history (1 promoting submission per 9 unrelated pieces of content). One post total for the campaign. Removal boilerplate is stricter than the sidebar: be prepared for refusal.",
+      "not_verified": "Whether the mod team will actually grant permission; whether the sidebar and wiki rule lists (which differ slightly) were reconciled after the 2024 snapshot."
+    },
+    "reddit_sitewide": {
+      "sources": [
+        {"url": "https://support.reddithelp.com/hc/en-us/articles/360043504051-What-constitutes-spam-Am-I-a-spammer", "read": "2026-10-01"},
+        {"url": "https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette", "read": "2026-10-01"},
+        {"url": "https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/", "read": "2026-10-01", "how": "post text via archive.org snapshot"}
+      ],
+      "rule_text": [
+        "Spam help page: 'Post authentic content into communities where you have a personal interest.'",
+        "Spam help page: 'If your contributions to Reddit consist primarily of links to a business that you run, own, or otherwise benefit from, please be thoughtful about the frequency of posting, or consider advertising opportunities using our self-serve platform.'",
+        "Spam help page: 'If you're unsure if your content is considered spam, check to see if the community you want to engage with has specific rules in addition to the guidelines above. (Note that community moderators adjudicate what constitutes unwanted/spammy content in their communities and may take action accordingly.) You may also contact the moderators of the community if you need additional clarifications.'",
+        "r/modnews (historical admin guidance): 'For every 1 time you post self-promotional content, 9 other posts (submissions or comments) should not contain self-promotional content.'"
+      ],
+      "not_verified": "No current numeric self-promotion ratio exists in Reddit's help pages as of 2026-10-01: the Reddiquette page contains no self-promotion section and no ratio (verified by full-text search of the fetched page). The 10:1 ratio is historical admin guidance (r/modnews), not a current published rule."
+    }
+  },
+  "recheck_note": "Subreddit rules change without notice. Re-read each community's rules page and sidebar on the day of posting and re-confirm moderator permission. If a rule conflicts with this calendar, the rule wins and the post does not go out.",
+  "days": [
+    {
+      "date": "2026-10-05",
+      "weekday": "Mon",
+      "type": "soft_link_internal",
+      "items": ["Send preview link to named trusted reviewers by DM/email only"],
+      "posting": "none",
+      "gaps": false,
+      "notes": "Explicitly NO promotion, NO outreach, NO public posting anywhere including X. Martin's condition on the soft link. Log reviewer feedback."
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Tue",
+      "type": "prelaunch_internal",
+      "items": ["Modmail permission requests to r/britishcolumbia and r/vancouver mod teams (permission inquiry, not promotion)", "Verify posting account status in both subs (email verified, age > 7 days, karma >= 100 for r/britishcolumbia)"],
+      "posting": "none public",
+      "gaps": true,
+      "notes": "Include full intended post text and bare URL in modmail. Accept refusal without arguing."
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Wed",
+      "type": "prelaunch_internal",
+      "items": ["Triage Oct 5 reviewer feedback", "Re-run launch preflight, record verdict"],
+      "posting": "none",
+      "gaps": true,
+      "notes": "Wait for Martin. Everything Oct 8+ is conditional on gate C."
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Thu",
+      "type": "launch_conditional",
+      "gates_required": ["A", "B", "C"],
+      "items": [
+        "Publish NOTE-01 and FAQ (FAQ-01, FAQ-02) on site/repo",
+        "X-01 single (morning)",
+        "X-THREAD (morning, after X-01)",
+        "REDDIT-BC and REDDIT-VAN only if gate D green for that sub"
+      ],
+      "posting": "conditional",
+      "gaps": false,
+      "notes": "If any of A/B/C is red, nothing goes out and the day becomes a full gap. No teasers. Answer method questions in replies with FAQ text; never argue."
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Fri",
+      "type": "outreach",
+      "items": ["X-02", "X-03 (spaced later in the day)"],
+      "posting": "X only",
+      "gaps": false,
+      "notes": "Continue method-question replies. Anything that would judge a party gets no reply."
+    },
+    {
+      "date": "2026-10-10",
+      "weekday": "Sat",
+      "type": "outreach_light",
+      "items": ["X-04"],
+      "posting": "X only",
+      "gaps": false,
+      "notes": "Light weekend post, nothing else."
+    },
+    {
+      "date": "2026-10-11",
+      "weekday": "Sun",
+      "type": "gap",
+      "items": [],
+      "posting": "none",
+      "gaps": true,
+      "notes": "Deliberate quiet before the recode pass. Corrections inbox monitored, no outbound."
+    },
+    {
+      "date": "2026-10-12",
+      "weekday": "Mon",
+      "type": "recode_pass",
+      "items": ["X-08 only, and only after the recode diff is public in the coding table"],
+      "posting": "X only, conditional on recode landing",
+      "gaps": false,
+      "notes": "RECODE PASS #1. If the recode slips, X-08 slips with it. Never announce a recode before the change record exists. Process framing only, no commentary on who moved."
+    },
+    {
+      "date": "2026-10-13",
+      "weekday": "Tue",
+      "type": "outreach",
+      "items": ["X-05", "If gate D materialised and Reddit posts still unposted: earliest slot is this week, one post, rules and permission re-checked on the day"],
+      "posting": "X, optionally Reddit (gate D)",
+      "gaps": false,
+      "notes": "If permission never came, drop the Reddit posts and note it in the wrap-up. Do not improvise a workaround."
+    },
+    {
+      "date": "2026-10-14",
+      "weekday": "Wed",
+      "type": "gap",
+      "items": [],
+      "posting": "none",
+      "gaps": true,
+      "notes": "Reserved for recode fallout and corrections. A correction record is the content; no separate promo post."
+    },
+    {
+      "date": "2026-10-15",
+      "weekday": "Thu",
+      "type": "outreach",
+      "items": ["X-06"],
+      "posting": "X only",
+      "gaps": false,
+      "notes": "FAQ-01 used in replies where people ask what the result means."
+    },
+    {
+      "date": "2026-10-16",
+      "weekday": "Fri",
+      "type": "outreach",
+      "items": ["X-07"],
+      "posting": "X only",
+      "gaps": false,
+      "notes": "Last scheduled X single in this window."
+    },
+    {
+      "date": "2026-10-17",
+      "weekday": "Sat",
+      "type": "gap",
+      "items": [],
+      "posting": "none",
+      "gaps": true,
+      "notes": "Nothing."
+    },
+    {
+      "date": "2026-10-18",
+      "weekday": "Sun",
+      "type": "gap",
+      "items": [],
+      "posting": "none",
+      "gaps": true,
+      "notes": "Window closes quiet. No 'one week to E-day' urgency post: deadline pressure is a get-out-the-vote tilt and is rejected in NEUTRALITY-AUDIT.md (R-06, R-14)."
+    }
+  ],
+  "outside_window": [
+    {"date": "2026-10-20", "weekday": "Tue", "item": "Recode pass #2: X-08 after the diff is public. Same constraints as Oct 12."},
+    {"date": "2026-10-24", "weekday": "Sat", "item": "E-day. Nothing scheduled in this plan. Post-election messaging is Martin's call."}
+  ],
+  "gap_summary": "No-post days: Oct 5 (internal only), Oct 6, Oct 7, Oct 11, Oct 14, Oct 17, Oct 18; plus all of Oct 8 if any launch gate is red. Seven to eight of fourteen days intentionally quiet."
+}

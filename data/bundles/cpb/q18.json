@@ -1,0 +1,154 @@
+{
+  "question_id": "q18",
+  "statement": "The province should expand supportive housing even where local residents object.",
+  "topic": "housing",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T18:27:07Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "supportive",
+    "housing",
+    "local",
+    "residents",
+    "object"
+  ],
+  "sources_searched": 53,
+  "sources_missing_text": [
+    "cpb-0005"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.7723,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Christine Boyle : I think it’s important to note, and I think the member opposite would agree, there aren’t two types of supportive housing. Supportive housing operates along a spectrum. Supportive housing planning is a complex and multi-year process requiring partnerships and engagement with local governments and service providers, health authorities, B.C. Housing and the province."
+    },
+    {
+      "rank": 2,
+      "score": 5.1302,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "In fact, I cannot think of an easier amendment to support than to say that smoking or vapour within a multi-unit supportive housing or any kind of housing…. When we go back and we look back a couple of decades to where smoking was not allowed in any buildings or near buildings even…. Certainly, today you don’t see smokers in residential buildings. I think that one of the major issues that local government has around supportive housing and the current parameters of the various groups of those that are requiring the supportive housing…."
+    },
+    {
+      "rank": 3,
+      "score": 5.1202,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Is the intention to create a separate regulatory regime within the Residential Tenancy Act that’s specifically for supportive housing? The main reason I’m asking this is because I do find it interesting that we’ve effectively removed care homes from the Residential Tenancy Act, but we’ve left supportive housing within it. In my mind, based on some of the issues that we have been facing with supportive housing, or at least specific forms of supportive housing, especially ones where I think that most of the tenants would benefit significantly from care being expanded and accessible within those units…."
+    },
+    {
+      "rank": 4,
+      "score": 4.3253,
+      "source_id": "cpb-0027",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-20 pm, Issue 179 (DRIPA, supportive housing, Coastal GasLink, log exports)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "archive_url": "https://web.archive.org/web/20261001081938/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "published": "2026-05-20",
+      "quote": "Supportive Housing Sites in Vancouver and Relocation of Residents Claire Rattée : I don’t know anybody right now that has a ticket to a FIFA match except for people that are sitting on this side of the room. Not a single person that I know that can afford to go. It was recently…. Interjection."
+    },
+    {
+      "rank": 5,
+      "score": 3.936,
+      "source_id": "cpb-0027",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-20 pm, Issue 179 (DRIPA, supportive housing, Coastal GasLink, log exports)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "archive_url": "https://web.archive.org/web/20261001081938/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "published": "2026-05-20",
+      "quote": "Mike Farnworth Supportive Housing Sites in Vancouver and Relocation of Residents Claire Rattée Hon. Christine Boyle Reports from Committees Democratic and Electoral Reform Committee , Review of the 2024 Provincial General Election , May 2026 Jennifer Blatherwick Ward Stamer Orders of the Day Second Reading of Bills Bill 20 — K’ómoks Treaty Act (continued) Misty Van Popta On the amendment Misty Van Popta Scott McInnis Elenore Sturko Jeremy Valeriote John Rustad Gavin Dew Dallas Brodie Donegal Wilson On the main motion Peter Milobar Jordan Kealy Dallas Brodie Bill 17 — Housing and Municipal Affairs Statutes (Codes of Conduct) Amendment Act, 2026 Hon."
+    },
+    {
+      "rank": 6,
+      "score": 3.1443,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Housing with treatment: No more warehousing or tent cities. Current and future\n supportive housing facilities must be integrated with healthcare services as an\n integral part of their programming, not as an afterthought or absent altogether."
+    },
+    {
+      "rank": 7,
+      "score": 2.6894,
+      "source_id": "cpb-0027",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-20 pm, Issue 179 (DRIPA, supportive housing, Coastal GasLink, log exports)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "archive_url": "https://web.archive.org/web/20261001081938/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "published": "2026-05-20",
+      "quote": "As we’ve spoken about here, and I’ve certainly spoken about publicly, the province has, over many months now, been working with the housing provider and on a tenant-by-tenant basis with folks living at the Luugat to support them in finding other housing that meets their needs. That work has been largely successful. It was in partnership with and at the request of the city of Vancouver, and we have been able to find good alternative housing for those tenants so that that building, which was never intended to be supportive housing, can be closed down. Interjections."
+    },
+    {
+      "rank": 8,
+      "score": 2.5657,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "Current and future supportive housing facilities\n must be integrated with healthcare services as an integral part of their programming, not as an afterthought\n or absent altogether.\n 9.17 Build recovery communities: We will build regional recovery communities – and government will provide\n professional care and guidance to those recovering from addictions. The program will allow up to 12-month"
+    },
+    {
+      "rank": 9,
+      "score": 2.1901,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Repeal Bill 44: Local government needs the flexibility to plan in the way that works\n best for their communities. We will work with cities, not against them, to build the\n housing BC needs. Some municipalities support the provisions of Bill 44, and we\n will continue to assist them in implementation."
+    },
+    {
+      "rank": 10,
+      "score": 1.7751,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "Reducing the Costs of Growing Food\n 12.03 The Grown in BC Plan will:\n (a) Scrap the carbon tax, which has increased operational costs across the entire agricultural\n supply chain, making local food more expensive\n (b) Launch land access incentives, providing tax relief for small farmers renting land and making\n it easier for new entrants to start farming\n (c) Establish a microloan program offering low-interest loans to help small farmers purchase\n equipment, seeds, and livestock, overcoming financial barriers to growth.\n (d) Cut red tape on farm housing for agricultural workers and support increased access to\n temporary labour."
+    },
+    {
+      "rank": 11,
+      "score": 1.6908,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "The party will amend\n Bill 47 (Transit Oriented Areas) to ensure new communities have space for grocery stores, small\n businesses, and services within walking distance of homes.\n19.08 Amend the Local Government Act to stop unnecessary red tape that kills housing projects.\n19.09 Establish the BC Development Tribunal to hold regulators and politicians accountable to fair\n processes and the rule of law.\n19.10 The Conservative Party will work with BC Assessment to prevent current homeowners from being\n hit with higher tax bills due to future potential zoning changes.\n19.11 Identify land outside the Agricultural Land Reserve with potential to support new communities.\n19.12 Introduce real tax"
+    },
+    {
+      "rank": 12,
+      "score": 1.6722,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "Great Canadian Casino is owned by Apollo Management, which is a private equity firm. Their objectives are a little bit different than the objectives of the nation who’ve bought some of these assets. The objectives differ in that they are longer term for the nations. It’s really about local ownership."
+    }
+  ]
+}

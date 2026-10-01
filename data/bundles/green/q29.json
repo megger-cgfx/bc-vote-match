@@ -1,0 +1,51 @@
+{
+  "question_id": "q29",
+  "statement": "The province should stop logging old-growth forests.",
+  "topic": "climate-environment",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:21Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "stop",
+    "logging",
+    "old-growth",
+    "forests"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.0181,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Stop clearcut industrial logging and adopt logging\npractices that emulate natural disturbance regimes,\nsuch as selective logging, commercial thinning, and"
+    },
+    {
+      "rank": 2,
+      "score": 2.2809,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "Institute selective logging and value-added industries to create sustainable jobs. Fully fund old-growth deferrals, with fair compensation for First Nations and forestry communities. Modernize our mining laws to protect communities and prioritize the resources BC needs for a renewable revolution. Reject culture wars — uphold the rights of Indigenous, 2SLGBTQ+, and all vulnerable communities."
+    },
+    {
+      "rank": 3,
+      "score": 1.6515,
+      "source_id": "green-0095",
+      "source_type": "media",
+      "title": "Global Green News: Emily Lowan wins BC Green Party leadership debate as voting begins",
+      "url": "https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+      "archive_url": "http://web.archive.org/web/20260218103414/https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+      "published": "",
+      "quote": "Green Party leadership race is now open.\nFacebook\nTwitter\nLinkedin\nPrevious article\nThe Latvian Green Party rejects the Ministry of Agriculture’s proposal to further increase logging in state forests\nNext article\nItaly: Greens demand better childcare services and affordable housing for students as school year begins in South Tyrol.\nGlobal Green News\nGlobal Green News - Your source for world Green Party news, headlines and commentary.\nRELATED ARTICLES\nMORE FROM AUTHOR\nEurope\nPortugal: “Os Verdes” Sound the Alarm and Demand Closure of Almaraz Nuclear Plant\nEurope\nSerbia: Green-Left Front Demands Repeal of Law Threatening Deliblatska Peščara Nature Reserve\nEurope\nLithuania: Aurelija Kuezada"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "question_id": "q48",
+  "statement": "The province should expand involuntary care for people with severe addiction and mental illness.",
+  "topic": "public-safety",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:26Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "involuntary",
+    "care",
+    "severe",
+    "addiction",
+    "mental",
+    "illness"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 9.0725,
+      "source_id": "ndp-0038",
+      "source_type": "media",
+      "title": "New democratic promises - analysis of the NDP platform (Substack, Ryan Clayton)",
+      "url": "https://itsryanclayton.substack.com/p/ndp-promises",
+      "archive_url": "http://web.archive.org/web/20261001081933/https://itsryanclayton.substack.com/p/ndp-promises",
+      "published": "2024-11-04",
+      "quote": "For those who are struggling most — as our high rate of overdose deaths show — the NDP promises to create more access to high quality addiction treatment, building BC’s first-ever Addictions Treatment Centre for construction workers, and expanding the availability of nasal naloxone. Harm expansion Ryan Clayton · September 30, 2024 Read full story More controversially, the NDP plan on opening up secure facilities to provide secure care under the Mental Health Act — commonly known as involuntary treatment . In particular, they mention having a brain injury as a criteria for incarceration."
+    },
+    {
+      "rank": 2,
+      "score": 4.7904,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "It is expanding mental-health crisis response teams into more communities, so people in crisis get help from mental-health experts, and so police are freed up to focus on crime. When a person’s violent or disruptive behaviour results from mental health and substance use, they need treatment to get better. That’s why your government is working on a new model of addictions care. One that moves people seamlessly from detox to treatment and fills the gaps between services where people might relapse and fall through the cracks."
+    },
+    {
+      "rank": 3,
+      "score": 4.7004,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "The budget also recognizes the growing importance of mental health and addiction services, and $131 million in new investments will support intensive and specialized treatment for people facing complex mental health and substance use challenges, including the establishment of new involuntary treatment beds in communities such as Prince George, Maple Ridge and Surrey. These are compassionate and practical measures designed to address real and urgent needs. Families, too, see meaningful support. A $330 million lift to ChildCareBC protects affordable child care services, maintaining lower fees and supporting operators and educators."
+    },
+    {
+      "rank": 4,
+      "score": 4.6135,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "Vigo provides us with advice, particularly on people with acquired brain injury, who are suffering from severe mental illness, who have substance use disorder. Harm reduction works — whether it’s overdose prevention services, prescribed alternatives… The Speaker : Shhh, Members. Hon. Josie Osborne : …a LifeguardConnect app, drug testing and checking."
+    },
+    {
+      "rank": 5,
+      "score": 3.9375,
+      "source_id": "ndp-0038",
+      "source_type": "media",
+      "title": "New democratic promises - analysis of the NDP platform (Substack, Ryan Clayton)",
+      "url": "https://itsryanclayton.substack.com/p/ndp-promises",
+      "archive_url": "http://web.archive.org/web/20261001081933/https://itsryanclayton.substack.com/p/ndp-promises",
+      "published": "2024-11-04",
+      "quote": "The NDP’s commitment to involuntary care is reiterated, word-for-word, in this section as well. “By opening up secure facilities to provide involuntary care under the Mental Health Act, we can deliver help to people who are potentially a danger to themselves or others.” The party will also pressure Ottawa for stronger bail and sentencing, increase funding for police investigations, and adding red-light cameras for busy community intersections. On the subject of reckless driving, the NDP committed to tying the cost of a speeding ticket directly to the value of cars valued over $150,000."
+    },
+    {
+      "rank": 6,
+      "score": 3.5877,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "Five British Columbians are dying every single day, and despite that, this government continues to defend policies that are actively making this crisis worse. There is growing evidence linking safe supply to increased harms. Dr. Vigo also said, “Safe supply is actually a disincentive for treatment,” and that involuntary care, when there’s a person with a mental impairment, is a question of saving the person’s life."
+    },
+    {
+      "rank": 7,
+      "score": 3.5389,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "Until we flip that around, this problem will continue to get worse. The costs will continue to increase, a decision that we all will have to live with unless we make this fundamental paradigm shift in getting the support up front. We could have a lot less involuntary care. We could have a lot less in the way of mental health crises if we actually put the resources in up front."
+    },
+    {
+      "rank": 8,
+      "score": 3.3854,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Provide involuntary drug rehab and housing for the severely addicted Plan page Involuntary drug rehab and housing for the severely addicted Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities . Health care BC Green Build Community Health Centres in every region with team-based care and long-term support Plan page Build Community Health Centres in every region, with team-based care and long-term support. Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca . Finish delivering safe nurse-to-patient ratios Plan page Finish delivering safe nurse-to-patient ratios."
+    },
+    {
+      "rank": 9,
+      "score": 2.4345,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "That’s why across our whole government, we will continue to take action to make life more affordable and build a stronger, more resilient future. The pressures of cost of living and global inflation are being felt by everyone. I’m just going to end, almost end, with a recognition in one sector where that inflation has really been felt, of people offering addiction treatment and recovery centres and of people who support people challenged with mental health and addiction illnesses. I’ve heard a lot over the years about those providing supports."
+    },
+    {
+      "rank": 10,
+      "score": 2.34,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "This budget continues to strengthen health care, education and affordability while supporting progress in child care, housing, public safety, reconciliation, climate action, mental health and addiction, community well-being, gender equity and a variety of other important areas."
+    },
+    {
+      "rank": 11,
+      "score": 2.2641,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "These projects reflect the broader progress across the province, where increased housing supply has contributed to higher vacancy rates and lower rental costs. Let’s talk a little bit about mental health care. Mental health supports across the province have expanded significantly. Peer-assisted care teams, first piloted in North Vancouver, now operate in many communities, offering in-person or phone-based responses with increased hours of availability."
+    },
+    {
+      "rank": 12,
+      "score": 1.9618,
+      "source_id": "ndp-0034",
+      "source_type": "media",
+      "title": "BC NDP Unveils $2.9B Platform (2024) Amid Massive Deficit and Fiscal Concerns (Coastal Front)",
+      "url": "https://coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "archive_url": "http://web.archive.org/web/20250807230503/https://www.coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "published": "2024-10-04",
+      "quote": "Additionally, Eby reaffirmed his plan to expand child care spaces and ensure every public school has a mental health counsellor—though details on staffing and costs remain vague."
+    }
+  ]
+}

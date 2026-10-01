@@ -1,0 +1,151 @@
+{
+  "question_id": "q43",
+  "statement": "The province should prioritise Indigenous-owned businesses in public procurement.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:27:02Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "prioritise",
+    "indigenous-owned",
+    "businesses",
+    "public",
+    "procurement"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 2.8977,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "Contents Routine Business Introductions by Members Statements International Women’s Day Darlene Rotchford Introduction and First Reading of Bills Bill M233 — Public Sector Construction Projects Procurement Act Kiel Giddens Bill M234 — School Amendment Act, 2026 Jordan Kealy Bill M235 — Drug Recovery and Community Safety Act Tara Armstrong Members’ Statements International Women’s Day and Women in Canadian Navy Rosalyn Bird Organ Donation and Donor Registration Debra Toporowski / Qwulti’stunaat Mission Sunrise Rotary Club Reann Gasper Stress and Mental Health Garry Begg Balcony Solar Energy Rob Botterell International Women’s Day and Human Rights Harwinder Sandhu Speaker’s Statement Guidance"
+    },
+    {
+      "rank": 2,
+      "score": 2.4049,
+      "source_id": "centrebc-0038",
+      "source_type": "release",
+      "title": "News Release: CentreBC sets five hard conditions for any Northern Pipeline",
+      "url": "https://www.centrebc.ca/news/news-release/news-release-centrebc-sets-five-hard-conditions-for-any-northern-pipeline/",
+      "archive_url": "http://web.archive.org/web/20260927072211/https://www.centrebc.ca/news/news-release/news-release-centrebc-sets-five-hard-conditions-for-any-northern-pipeline/",
+      "published": "2025-10-23",
+      "quote": "“The public is ahead of the politicians,” Kirkpatrick added. “They want a serious plan, not performative politics.” CentreBC’s Five Conditions (see Backgrounder for full recommendations detail): Indigenous Collaboration & Co-Ownership – A Path for Shared Prosperity BC Energy Future Fund – A Sovereign Wealth Fund Safety & Climate Guardrails – Protecting Vital Ecosystems Local Jobs, Skills & Procurement – Putting BC to Work Legal Pathway & Full Transparency – De-risking any Project “CentreBC is the only party that wants to find common ground through the best ideas,” Kirkpatrick concluded. “No blank cheques, no political games."
+    },
+    {
+      "rank": 3,
+      "score": 1.7563,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "This is only tied to the procurement directive. We have engaged in round tables and continue to be asked by businesses across this province to stand up for British Columbia in this moment. It continues to be full of uncertainty for business with regard to international trade, and B.C. has continued to stand up for our businesses."
+    },
+    {
+      "rank": 4,
+      "score": 1.7059,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "International Women’s Day is this upcoming Sunday, and with the most women ever elected to this building, I think there’s value in wishing everyone on both sides of the House a happy International Women’s Day. Introduction and First Reading of Bills Bill M233 — Public Sector Construction Projects Procurement Act Kiel Giddens presented a bill intituled Public Sector Construction Projects Procurement Act. Kiel Giddens : I move that a bill intituled Public Sector Construction Projects Procurement Act, of which notice has been given in my name on the order paper, be introduced and read a first time now. This bill is about fairness and value for the people of British Columbia."
+    },
+    {
+      "rank": 5,
+      "score": 1.2869,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "Yet this budget offers little in targeted relief for mid-size urban centres like ours. We need policies that allow small businesses to thrive, not just survive, because thriving local business is what funds public services. British Columbia’s forestry sector is in crisis. As Peter Lister of the B.C."
+    },
+    {
+      "rank": 6,
+      "score": 1.2628,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "It is continuing to be a volatile climate out there with regard to U.S. trade, and it’s important for the province to counter tariffs on Canadian imports in ways that offer the potential to bring economic benefits to British Columbians and to Canadian suppliers. The procurement directives we’re working on, talking about today are a measured response to provide certainty and stability to continued insecure relations with the U.S. Peter Milobar : So what would be the trigger point, then, to publicly review these procurement rules and guidelines and processes?"
+    },
+    {
+      "rank": 7,
+      "score": 1.2141,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "If we saw public safety enforcement action, we would be seeing less fear, seeing less concern in the public — concerns about visiting religious places of worship, concerns visiting educational institutes, concerns visiting places of business. We have tools right now that have existed for some time. We have legal tools. What has been missing is consistent, visible and effective enforcement of these public safety tools."
+    },
+    {
+      "rank": 8,
+      "score": 1.2046,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Disconnected government processes, the unknown, not knowing the pathway, not understanding how permits necessarily go through decision. Yes, once they get to a certain point, they go into the timeline, but it’s all the steps prior to that that are really unknown. I think that this environmental assessment process has the ability to build public confidence if we do make it public and we do bring them along. I believe that there need to be clear participation opportunities that are understood, that communities are better able to follow the decisions that affect their regions and that transparency supports trust, not just in individual project decisions but in the broader framework overall."
+    },
+    {
+      "rank": 9,
+      "score": 1.1834,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "Here in CFB Esquimalt, one of their procurement processes is actually looking at some of the modular homes that are built right here in B.C. Not only can they build their housing faster, but they can build it with B.C. timber. All of this will be critical as we ensure people in business in B.C."
+    },
+    {
+      "rank": 10,
+      "score": 1.1732,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "This change recognizes that the PSA has strengthened its work to create a hiring culture that is transparent, accountable and upholds the principle of merit — a culture that attracts and retains top-level talent. The PSA will continue to provide public annual reports on hiring, promotions and dismissals in the public service. The avenue for public service employees with questions or complaints about promotions or dismissals is and will continue to be through the PSA. The bill also amends the Economic Stabilization (Tariff Response) Act to remove the sunset requirements for part 2 of the act related to procurement directives."
+    },
+    {
+      "rank": 11,
+      "score": 1.1463,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "This goes to supporting Indigenous communities and Indigenous businesses. Indigenous tourism is a key part of B.C.’s tourism economy. Since 2020, the province has provided more than $17 million to Indigenous Tourism B.C. to support Indigenous tourism across the province."
+    },
+    {
+      "rank": 12,
+      "score": 1.1335,
+      "source_id": "centrebc-0036",
+      "source_type": "release",
+      "title": "News Release: CentreBC Unveils 3-Step Plan to Crush Transnational Extortion Terrorizing Surrey",
+      "url": "https://www.centrebc.ca/news/news-release/centrebc-unveils-3-step-plan-to-crush-transnational-extortion-terrorizing-surrey/",
+      "archive_url": "http://web.archive.org/web/20251106213246/https://www.centrebc.ca/news/news-release/centrebc-unveils-3-step-plan-to-crush-transnational-extortion-terrorizing-surrey/",
+      "published": "2025-11-06",
+      "quote": "When incidents of violence become frequent, they erode investor confidence, deter new business development, and affect the city’s overall livability and reputation.” Immediate Calls to Action City of Surrey: commence weekly public-emergency updates Province & Ottawa: stand up the Surrey-based TEDP cell and fund Shield & Signal Businesses & Residents: report threats and preserve digital evidence via the Surrey tip line/portal (screenshots, call logs, WhatsApp exports) -30- BACKGROUNDER Trevor Loke and Anita Huberman are available for interviews."
+    }
+  ]
+}

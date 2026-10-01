@@ -1,0 +1,155 @@
+{
+  "question_id": "q28",
+  "statement": "BC should approve new liquefied natural gas (LNG) export projects.",
+  "topic": "climate-environment",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:54Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "approve",
+    "liquefied",
+    "natural",
+    "gas",
+    "lng",
+    "export",
+    "projects"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.463,
+      "source_id": "ndp-0017",
+      "source_type": "release",
+      "title": "David Eby secures largest private sector investment in Canadian history",
+      "url": "https://www.bcndp.ca/releases/david-eby-secures-largest-private-sector-investment-canadian-history",
+      "archive_url": "https://web.archive.org/web/20261001081659/https://www.bcndp.ca/releases/david-eby-secures-largest-private-sector-investment-canadian-history",
+      "published": "2026-09-29",
+      "quote": "That agreement sets British Columbia on a generational path to prosperity, unlocking jobs for workers, generating revenue for vital public services and infrastructure, and protecting the tanker ban and British Columbia’s pristine northern coast. The BC Conservatives opposed the agreement when it was signed. B.C.’s natural gas is among the lowest-emission LNG in the world. Emissions from this project are projected to be 35% lower than the world's best-performing LNG facilities and 60% lower than the global average."
+    },
+    {
+      "rank": 2,
+      "score": 5.7158,
+      "source_id": "ndp-0030",
+      "source_type": "media",
+      "title": "David Eby bets big on potential for more major projects in Build B.C. Strong platform (Vancouver Sun)",
+      "url": "https://vancouversun.com/business/david-eby-bets-big-on-potential-for-more-major-projects-in-build-b-c-strong-platform",
+      "archive_url": "https://web.archive.org/web/20261001081844/https://vancouversun.com/business/david-eby-bets-big-on-potential-for-more-major-projects-in-build-b-c-strong-platform",
+      "published": "2026-09-23",
+      "quote": "“They don’t do that when things are bad.” Article content Eby made the election call on the heels of Victoria and Ottawa granting an environmental green light for FortisBC’s $3.5 billion Tilbury liquefied natural gas expansion, which has the prospect of creating more than 1,000 jobs in the Lower Mainland during its construction and add $1.7 billion to B.C.’s gross domestic product. Advertisement 1 This advertisement has not loaded yet."
+    },
+    {
+      "rank": 3,
+      "score": 5.692,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Our success here is the envy of many jurisdictions across Canada and around the world, but we do this as British Columbians to support the entire country. We are excited about the opportunities in energy — LNG Canada phase 2. Reflecting on our accounts, somewhere around $80 billion of investment related to energy projects and 5,000 new trades-training seats so British Columbians are at the front of the line to take those jobs. The happy news, just yesterday, is that our work here in British Columbia is supporting people in Germany that have shut off their access to Russian natural gas and have signed a $10 billion agreement with Ksi Lisims LNG to access B.C."
+    },
+    {
+      "rank": 4,
+      "score": 5.6642,
+      "source_id": "ndp-0017",
+      "source_type": "release",
+      "title": "David Eby secures largest private sector investment in Canadian history",
+      "url": "https://www.bcndp.ca/releases/david-eby-secures-largest-private-sector-investment-canadian-history",
+      "archive_url": "https://web.archive.org/web/20261001081659/https://www.bcndp.ca/releases/david-eby-secures-largest-private-sector-investment-canadian-history",
+      "published": "2026-09-29",
+      "quote": "\"This is a big win that will create good jobs and generate the long-term prosperity we need to deliver stronger public services for all British Columbians,\" said David Eby. \"We are seeing real momentum in B.C., but the job isn’t done – we need to keep going. Conservative chaos, reckless cuts, and a willingness to walk away from what is clearly working would put these nation-building projects at risk and leave everyday people paying the price.\" Eby noted that projects like LNG Canada rely on strong partnerships with First Nations, and that B.C.’s low-emitting natural gas is what attracts countries like Germany, Japan, and Australia as customers."
+    },
+    {
+      "rank": 5,
+      "score": 4.9972,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "conservativebc.ca: BC Conservatives Welcome LNG Canada Phase 2: We Will Treat Energy as an Urgent Mission , September 29 . Grow natural gas production to more than double by 2032 and more than triple by 2035 New Sep 29 More than double natural gas production by 2032 and more than triple it by 2035; conservativebc.ca: BC Conservatives Welcome LNG Canada Phase 2: We Will Treat Energy as an Urgent Mission , September 29 ."
+    },
+    {
+      "rank": 6,
+      "score": 3.4916,
+      "source_id": "ndp-0046",
+      "source_type": "speech",
+      "title": "(2024) A stronger BC working better for people: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "published": "2024-02-20",
+      "quote": "It will be the largest First Nations-majority-owned energy project in the country and one of the cleanest liquified natural gas facilities in the world. In Maple Ridge, the new E-One Moli facility will create hundreds of good, local jobs for people. And it will establish BC as a leading producer of the battery components we need to power a clean energy future. At the same time, we can’t continue the old way of doing things."
+    },
+    {
+      "rank": 7,
+      "score": 2.9343,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Is there anything that’s excluded? We’re looking at minerals; sand and gravel; natural gas; petroleum, potentially. Is there anything which would be excluded from that definition of “all subsurface resources”? Hon."
+    },
+    {
+      "rank": 8,
+      "score": 2.7084,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "and the Tāłtān First Nation worked together to approve Eskay Creek. That’s a $1-billion-a-year project that’s going to create hundreds of good jobs. Cedar LNG, one of the largest First Nations majority-owned infrastructure projects in Canada, is under construction right now. Ksi Lisims LNG just signed a $10 billion agreement with the German government for off-take."
+    },
+    {
+      "rank": 9,
+      "score": 2.5677,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Conservative Pass a 120 Day Permitting Act for major projects New Sep 29 Pass a 120 Day Permitting Act for major projects; conservativebc.ca: BC Conservatives Welcome LNG Canada Phase 2: We Will Treat Energy as an Urgent Mission , September 29 . Harmonize permitting, approvals and consultation with federal Bill C-39, approving BC-led projects within one year New Sep 29 Harmonize BC’s permitting, approvals and consultation with the federal government’s Bill C-39, so that BC-led projects are approved within one year; conservativebc.ca: BC Conservatives Welcome LNG Canada Phase 2: We Will Treat Energy as an Urgent Mission , September 29 ."
+    },
+    {
+      "rank": 10,
+      "score": 2.5456,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "I think that’s why they’re heckling so much. As I’ve highlighted, we continue to make investments in our people. Our people are our superpower. Those investments are turning around into investments in our infrastructure, whether that’s mining, whether it’s natural gas, whether that’s tech or whether that’s in life sciences."
+    },
+    {
+      "rank": 11,
+      "score": 2.2992,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Regain control over oil and gas royalty rates Plan page We will eliminate the subsidies fossil fuel companies receive, regain control over royalty rates, and ensure existing LNG projects cover their own power costs instead of leaning on the public system. Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca . 1 more from BC Green Create a royalty deal for oil and gas Plan page Create a fair royalty deal for oil and gas. Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca ."
+    },
+    {
+      "rank": 12,
+      "score": 2.2813,
+      "source_id": "ndp-0040",
+      "source_type": "other",
+      "title": "Media Centre (news releases)",
+      "url": "https://www.bcndp.ca/releases",
+      "archive_url": "http://web.archive.org/web/20260930000937/https://www.bcndp.ca/releases",
+      "published": "2026-09-30",
+      "quote": "currently has five LNG projects either under construction or permitted and... more » September 28, 2026 Eby to double critical mineral exports, expand Port of Prince Rupert Conservative chaos, cuts put B.C.’s jobs plan at risk PRINCE RUPERT – Today, David Eby started rolling out his plan to create jobs and grow paycheques, pledging to double critical‑mineral exports within five years and expand the Port of Prince Rupert. “B.C. has an abundance of..."
+    }
+  ]
+}

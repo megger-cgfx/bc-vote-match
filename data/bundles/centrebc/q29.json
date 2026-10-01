@@ -1,0 +1,62 @@
+{
+  "question_id": "q29",
+  "statement": "The province should stop logging old-growth forests.",
+  "topic": "climate-environment",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:27:00Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "stop",
+    "logging",
+    "old-growth",
+    "forests"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 8.2066,
+      "source_id": "centrebc-0059",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "published": "2026-04-02",
+      "quote": "The Speaker : Member. Rob Botterell : The Conservatives are not the only ones operating in an alternate reality. The Minister of Forests says the government is protecting old growth, but every single panellist from the old-growth strategic review has written a letter to this government stating that the province is failing to protect our most valuable forests. [10:45 a.m.] Our constituency offices are flooded with letters about logging in the Tsitika Valley, big-tree old growth in a priority deferral area auctioned off by B.C."
+    },
+    {
+      "rank": 2,
+      "score": 5.4644,
+      "source_id": "centrebc-0059",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "published": "2026-04-02",
+      "quote": "Jodie Wickens Protection of Old-Growth Forests and Independent Assessment Rob Botterell Hon. Ravi Parmar Old-Growth Conservation Funding Rob Botterell Hon. Randene Neill Taylor Bridge Replacement Jordan Kealy Hon. Mike Farnworth Access to Critical Cardiac Care Services in Surrey Elenore Sturko Hon."
+    },
+    {
+      "rank": 3,
+      "score": 4.0827,
+      "source_id": "centrebc-0059",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "published": "2026-04-02",
+      "quote": "Protection of Old-Growth Forests and Independent Assessment Rob Botterell : Yesterday the Conservative member for Richmond-Queensborough and Attorney General critic called for extinguishment of Aboriginal title on private property in Richmond. In other words, ignore section 35 of the constitution, ignore the historic injustice to the Quw’utsun and abandon reconciliation. Shame on the member, and shame on the Conservatives. Interjection."
+    },
+    {
+      "rank": 4,
+      "score": 1.7806,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "I’m working on a permit or helping to represent Tsi Del Del, which is a very large logging operation in Cariboo-Chilcotin. They’re fantastic at what they do, but they’re currently in a process that started in September or October of last year. I’m grateful to the Forests Minister for help that he has offered on that file, but it’s shocking to me that they could be in that process for that many months. Of course, their biggest fear right now is the fact that even if they had the permit now, after waiting all those months, the roads are too soft to actually go do the task at hand."
+    }
+  ]
+}

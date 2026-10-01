@@ -1,0 +1,8 @@
+# bench harness local state - never committed
+.venv/
+models/
+runtime/
+results/
+__pycache__/
+*.pyc
+_smoke_eval.jsonl

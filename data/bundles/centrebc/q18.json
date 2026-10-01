@@ -1,0 +1,152 @@
+{
+  "question_id": "q18",
+  "statement": "The province should expand supportive housing even where local residents object.",
+  "topic": "housing",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:26:57Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "supportive",
+    "housing",
+    "local",
+    "residents",
+    "object"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.2938,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "It balances prudence with progress, ensuring that services remain strong while strategic investments continue. For the people of Ladysmith-Oceanside, this budget signals recognition of growth, potential and the contribution to provincial prosperity. It addresses priorities that matter locally while advancing broader provincial objectives during rapidly changing times. I stand in support of Budget 2026 and the opportunities it represents for communities throughout British Columbia and for the residents of Ladysmith-Oceanside, who I am honoured to represent."
+    },
+    {
+      "rank": 2,
+      "score": 5.9959,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Christine Boyle : I think it’s important to note, and I think the member opposite would agree, there aren’t two types of supportive housing. Supportive housing operates along a spectrum. Supportive housing planning is a complex and multi-year process requiring partnerships and engagement with local governments and service providers, health authorities, B.C. Housing and the province."
+    },
+    {
+      "rank": 3,
+      "score": 5.3384,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Is the intention to create a separate regulatory regime within the Residential Tenancy Act that’s specifically for supportive housing? The main reason I’m asking this is because I do find it interesting that we’ve effectively removed care homes from the Residential Tenancy Act, but we’ve left supportive housing within it. In my mind, based on some of the issues that we have been facing with supportive housing, or at least specific forms of supportive housing, especially ones where I think that most of the tenants would benefit significantly from care being expanded and accessible within those units…."
+    },
+    {
+      "rank": 4,
+      "score": 5.3242,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "In fact, I cannot think of an easier amendment to support than to say that smoking or vapour within a multi-unit supportive housing or any kind of housing…. When we go back and we look back a couple of decades to where smoking was not allowed in any buildings or near buildings even…. Certainly, today you don’t see smokers in residential buildings. I think that one of the major issues that local government has around supportive housing and the current parameters of the various groups of those that are requiring the supportive housing…."
+    },
+    {
+      "rank": 5,
+      "score": 3.8467,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "We support strengthening those tools. The Cullen commission laid out the scale of money laundering in our province and called for a more proactive civil forfeiture office. The core objective of Bill 8 — expanding the office’s ability to investigate independently, target high-value assets and streamline litigation — is something British Columbians and, certainly, British Columbia Conservatives can and do support. But support is not blind endorsement."
+    },
+    {
+      "rank": 6,
+      "score": 2.6343,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "[4:15 p.m.] Another example, in Nanaimo, was funded through a grant to the Island Crisis Care Society, an organization that just has such enormous capacity and reaches their arms around people in so many ways. They operate several supportive housing projects for us in community and do a lot of employment and skills development work. This particular program is called Lifeskills. Indigenous Women’s Healing Centre offers culturally rooted support for Indigenous women ages 19 to 79 in Nanaimo and Oceanside, people who have faced homelessness or housing insecurity."
+    },
+    {
+      "rank": 7,
+      "score": 2.6111,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We are growing more important sectors through Look West, including expanding aerospace capacity to support defence procurement, growing our life science sectors in support of Canada’s biodefence capacity; investing in high-tech and emerging technologies, ensuring our world-class tech companies are at the front of the line to win military and civilian use contracts; continuing to build our trade and engineering sovereignty; looking into potential to use B.C.’s mass timber to build housing on military bases; and doubling exports throughout to non-U.S. markets."
+    },
+    {
+      "rank": 8,
+      "score": 2.2969,
+      "source_id": "centrebc-0029",
+      "source_type": "release",
+      "title": "Budget 2026: Managing Decline is Not Leadership",
+      "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+      "archive_url": null,
+      "published": "2026-02-16",
+      "quote": "Housing You Can Afford: We must link housing policy to actual affordability outcomes rather than just counting units. Healthcare for Families: We will expand home care so seniors can age with dignity and reduce the paperwork for doctors so they can focus on seeing patients. A Safer Province for Everyone With a 60 per cent disapproval rating for the government’s handling of crime, British Columbians no longer feel safe in their communities. CentreBC will put people first and politics back on track by replacing slogans with evidence: Crush the Extortion Crisis: We will implement an evidence-led 3-step plan to tackle the rising extortion threats facing local businesses."
+    },
+    {
+      "rank": 9,
+      "score": 2.2506,
+      "source_id": "centrebc-0055",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-30 am: Sturko on violent crime, mental illness, community safety",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+      "archive_url": "https://web.archive.org/web/20261001085726/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+      "published": "2026-04-30",
+      "quote": "These are some of the programs just taken together around expanding and renovating, modernizing, updating acute care sites, as well as providing alternatives that can help support people, as one way of helping to manage the very issue that the member raises around flow, access and occupancy inside hospitals. Anna Kindy : The reality of the statistics is that B.C. has 1.9 beds per 1,000 residents. Canadian national average is 2.5 to 2.6 beds per 1,000, so we’re not even close to the average in Canada."
+    },
+    {
+      "rank": 10,
+      "score": 1.0952,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "Hon. Spencer Chandra Herbert : There was a lot in the member’s speech to talk about, to debate, perhaps, and to go through a lot of the different arguments he made. But what I can say very clearly is: you go talk to local governments, you go talk to local landowners in Haida Gwaii, and they were supportive of the agreement. They were supportive of what we did."
+    },
+    {
+      "rank": 11,
+      "score": 1.0894,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We’re investing $131 million to expand intensive mental health and addictions treatment, including additional involuntary care spaces for those who need the highest level of support. And for nearly 1,800 families every year, access to in vitro fertilization will now be publicly funded, providing new hope to those trying to start and grow new families. Federal contributions will also support seniors care and expand free medications for diabetes and enhanced menopausal care. This budget advances a health care system that is more accessible, more resilient and more responsive to the needs of British Columbians."
+    },
+    {
+      "rank": 12,
+      "score": 0.9393,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "That is why I cannot support a bill that expands discretion while weakening duty. This is why I cannot support a bill that asks the public to trust that the barriers will somehow produce openness. This is why I believe this House should reject Bill 9. Sharon Hartwell : I’m pleased to rise in this House to speak to Bill 9, the Freedom of Information and Protection of Privacy Amendment Act, 2026."
+    }
+  ]
+}

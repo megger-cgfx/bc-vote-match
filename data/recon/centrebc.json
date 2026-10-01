@@ -1,0 +1,301 @@
+{
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T08:09:35Z",
+  "recon_task": "<task-id>",
+  "sources_file": "data/raw/centrebc/sources.json",
+  "report": "docs/recon/centrebc.md",
+  "source_counts": {
+    "platform": 3,
+    "policy": 1,
+    "release": 31,
+    "speech": 0,
+    "hansard": 7,
+    "media": 5,
+    "other": 5
+  },
+  "total_sources": 52,
+  "archived_sources": 29,
+  "date_range": [
+    "2025-04-10",
+    "2026-09-25"
+  ],
+  "topics": {
+    "cost-of-living-taxes": {
+      "strength": "strong",
+      "codable_from_site": true,
+      "quotes": [
+        {
+          "source_id": "centrebc-0029",
+          "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+          "published": "2026-02-16",
+          "type": "release",
+          "quote": "Lower Grocery Bills: We will scrap the PST on food production and farm equipment to lower the cost of B.C.-grown food."
+        },
+        {
+          "source_id": "centrebc-0029",
+          "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+          "published": "2026-02-16",
+          "type": "release",
+          "quote": "True $10-a-Day Childcare: We will treat childcare as essential economic infrastructure to finally make the $10-a-day goal a reality for every family."
+        },
+        {
+          "source_id": "centrebc-0050",
+          "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+          "published": "2026-02-19",
+          "type": "release",
+          "quote": "The government's refusal to course-correct will bury the next generation under a mountain of debt while failing to fix the affordability and safety crises."
+        },
+        {
+          "source_id": "centrebc-0003",
+          "url": "https://www.centrebc.ca/vision/",
+          "published": "2025-07-23",
+          "type": "platform",
+          "quote": "CentreBC believes in responsible financial management-balancing the budget over the long term through smarter investments and spending."
+        }
+      ],
+      "notes": "Cut consumption taxes (PST on food production/farm equipment), make $10-a-day childcare real, balance the budget over the long term; no position on high-earner or corporate tax rates, no carbon-pricing revenue position.",
+      "primary_sources": [
+        "centrebc-0029",
+        "centrebc-0050",
+        "centrebc-0035",
+        "centrebc-0003"
+      ],
+      "hansard": [
+        "centrebc-0057"
+      ]
+    },
+    "housing": {
+      "strength": "thin",
+      "codable_from_site": false,
+      "quotes": [
+        {
+          "source_id": "centrebc-0029",
+          "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+          "published": "2026-02-16",
+          "type": "release",
+          "quote": "Housing You Can Afford: We must link housing policy to actual affordability outcomes rather than just counting units."
+        },
+        {
+          "source_id": "centrebc-0049",
+          "url": "https://www.centrebc.ca/news/bc-deserves-better-than-chaos-or-extremism/",
+          "published": "2026-07-31",
+          "type": "release",
+          "quote": "It means tackling the cost of living and housing affordability with real supply, not slogans."
+        },
+        {
+          "source_id": "centrebc-0052",
+          "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+          "published": "2026-08-13",
+          "type": "release",
+          "quote": "Develop practical sector agreements in areas such as forestry, mining, energy, infrastructure, and housing that support both reconciliation and economic development."
+        }
+      ],
+      "notes": "No release or policy page is dedicated to housing. 'Real supply' and outcome-linked affordability only; nothing on zoning/density, rent control, social housing targets, or public land. Expect code:null on a housing question.",
+      "primary_sources": [
+        "centrebc-0029",
+        "centrebc-0049",
+        "centrebc-0002",
+        "centrebc-0052"
+      ],
+      "hansard": []
+    },
+    "health": {
+      "strength": "medium",
+      "codable_from_site": true,
+      "quotes": [
+        {
+          "source_id": "centrebc-0029",
+          "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+          "published": "2026-02-16",
+          "type": "release",
+          "quote": "Healthcare for Families: We will expand home care so seniors can age with dignity and reduce the paperwork for doctors so they can focus on seeing patients."
+        },
+        {
+          "source_id": "centrebc-0047",
+          "url": "https://www.centrebc.ca/news/opinion-healthcare-crisis-was-never-a-surprise/",
+          "published": "2026-06-08",
+          "type": "release",
+          "quote": "The waitlist for a long-term care bed has tripled since 2016, from about 2,400 people to over 7,200."
+        },
+        {
+          "source_id": "centrebc-0003",
+          "url": "https://www.centrebc.ca/vision/",
+          "published": "2025-07-23",
+          "type": "platform",
+          "quote": "Accessible, well-funded healthcare and mental health supports."
+        }
+      ],
+      "notes": "Strong critique (seniors/long-term care capacity, 're-paced' hospital projects, paperwork burden) with few commitments: expand home care, cut physician admin. No position on private delivery or pharmacare.",
+      "primary_sources": [
+        "centrebc-0047",
+        "centrebc-0029",
+        "centrebc-0051",
+        "centrebc-0003"
+      ],
+      "hansard": [
+        "centrebc-0058",
+        "centrebc-0059",
+        "centrebc-0060"
+      ]
+    },
+    "climate-environment": {
+      "strength": "medium",
+      "codable_from_site": true,
+      "quotes": [
+        {
+          "source_id": "centrebc-0048",
+          "url": "https://www.centrebc.ca/news/ottawa-and-bc-just-moved-toward-centrebc-pipeline-conditions/",
+          "published": "2026-07-07",
+          "type": "release",
+          "quote": "an Indigenous participation framework, a dedicated B.C. Energy Future Fund, real safety and climate guardrails, guaranteed local jobs and procurement, and a clear legal pathway with full transparency."
+        },
+        {
+          "source_id": "centrebc-0003",
+          "url": "https://www.centrebc.ca/vision/",
+          "published": "2025-07-23",
+          "type": "platform",
+          "quote": "We are committed to responsible economic growth, supporting small business, fostering innovation, and investing in green technology-while also championing our resource industries, including mining, forestry, and energy."
+        },
+        {
+          "source_id": "centrebc-0015",
+          "url": "https://www.centrebc.ca/news/british-columbians-deserve-answers-as-wildfires-rage/",
+          "published": "2026-08-03",
+          "type": "release",
+          "quote": "Why has a Provincial State of Emergency not been declared?"
+        }
+      ],
+      "notes": "Conditional support for new pipelines (five conditions, Oct 2025) plus unconditional championing of mining/forestry/energy and 'green technology'; no emissions target, carbon price position, or conservation commitment on the record.",
+      "primary_sources": [
+        "centrebc-0048",
+        "centrebc-0038",
+        "centrebc-0015",
+        "centrebc-0003"
+      ],
+      "hansard": [
+        "centrebc-0061"
+      ]
+    },
+    "indigenous-reconciliation": {
+      "strength": "strong",
+      "codable_from_site": true,
+      "quotes": [
+        {
+          "source_id": "centrebc-0052",
+          "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+          "published": "2026-08-13",
+          "type": "release",
+          "quote": "Create a single provincial framework for treaties and reconciliation agreements"
+        },
+        {
+          "source_id": "centrebc-0052",
+          "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+          "published": "2026-08-13",
+          "type": "release",
+          "quote": "Modern treaties have already demonstrated that negotiated agreements can create stability, strengthen Indigenous communities, and provide greater certainty for everyone."
+        },
+        {
+          "source_id": "centrebc-0052",
+          "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+          "published": "2026-08-13",
+          "type": "release",
+          "quote": "Simply repealing DRIPA today would not undo those changes"
+        },
+        {
+          "source_id": "centrebc-0052",
+          "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+          "published": "2026-08-13",
+          "type": "release",
+          "quote": "When DRIPA was introduced in 2019, I was the only MLA who did not vote in favour of the legislation."
+        },
+        {
+          "source_id": "centrebc-0046",
+          "url": "https://www.centrebc.ca/news/opinion-the-hard-work-of-certainty-resolving-bcs-original-sin/",
+          "published": "2026-03-06",
+          "type": "release",
+          "quote": "This failure to address the \"Land Question\" is our province's original sin"
+        }
+      ],
+      "notes": "Most explicit commitments of any topic: single provincial treaties/reconciliation framework, sector agreements, finish modern-treaty negotiation, private-property coexistence. Leader states she was the only MLA to oppose DRIPA in 2019 and calls repeal pledges messaging.",
+      "primary_sources": [
+        "centrebc-0052",
+        "centrebc-0046",
+        "centrebc-0024",
+        "centrebc-0002",
+        "centrebc-0048"
+      ],
+      "hansard": []
+    },
+    "public-safety": {
+      "strength": "strong",
+      "codable_from_site": true,
+      "quotes": [
+        {
+          "source_id": "centrebc-0036",
+          "url": "https://www.centrebc.ca/news/news-release/centrebc-unveils-3-step-plan-to-crush-transnational-extortion-terrorizing-surrey/",
+          "published": "2025-11-06",
+          "type": "release",
+          "quote": "Establish an integrated FINTRAC-RCMP-CBSA cell in Surrey to map money flows, fast-track production orders and freeze assets within hours, not weeks."
+        },
+        {
+          "source_id": "centrebc-0036",
+          "url": "https://www.centrebc.ca/news/news-release/centrebc-unveils-3-step-plan-to-crush-transnational-extortion-terrorizing-surrey/",
+          "published": "2025-11-06",
+          "type": "release",
+          "quote": "set a 48-hour protection standard with real-time analytics to pre-empt sprees"
+        },
+        {
+          "source_id": "centrebc-0029",
+          "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+          "published": "2026-02-16",
+          "type": "release",
+          "quote": "Stronger Justice: Our public safety plan is backed by strong justice and treatment systems to ensure those who break the law face consequences while those with addictions get help."
+        },
+        {
+          "source_id": "centrebc-0054",
+          "url": "https://www.centrebc.ca/news/opinion-ending-intimate-partner-violence-requires-more-than-announcements/",
+          "published": "2026-02-11",
+          "type": "release",
+          "quote": "it needs serious action with clear timelines, measurable milestones, meaningful tracking and transparent public accountability"
+        }
+      ],
+      "notes": "Most developed file: 3-step extortion plan (FINTRAC-RCMP-CBSA cell, victim-first reporting + security micro-grants, dedicated prosecution track), enforcement-forward with treatment pairing, IPV accountability demands. No stance on bail specifics, sentencing minimums, or safe supply as distinct from treatment.",
+      "primary_sources": [
+        "centrebc-0036",
+        "centrebc-0054",
+        "centrebc-0029",
+        "centrebc-0031",
+        "centrebc-0033"
+      ],
+      "hansard": [
+        "centrebc-0055",
+        "centrebc-0056"
+      ]
+    }
+  },
+  "findings": [
+    {
+      "finding": "No platform exists; the party says pillars are still being written.",
+      "source_id": "centrebc-0009",
+      "quote": "Our Policy Committee is currently hard at work developing CentreBC's first major policy pillars."
+    },
+    {
+      "finding": "Caucus went from 8 legislators to 1; Sturko is leader and sole incumbent MLA.",
+      "source_id": "centrebc-0043",
+      "quote": "CentreBC, which was formed last year, has gone from the political margins to a viable contender with eight legislators, then back to having just one."
+    },
+    {
+      "finding": "Leader record: RCMP officer, CAF reservist, MLA since 2022; 2026 candidate in Surrey South.",
+      "source_id": "centrebc-0023",
+      "quote": "Elenore Sturko was first elected as Surrey South MLA in 2022 and for Surrey-Cloverdale in 2024. In this time, she has worked on over one thousand cases to support her constituents."
+    }
+  ],
+  "gaps": [
+    "No platform/policy pillars published as of 2026-10-01 — coding must lean on news releases and opinion statements.",
+    "Housing has no dedicated source and no stated mechanism; likely code:null.",
+    "Climate/environment has no emissions or carbon-pricing position — only pipeline conditions and resource championing.",
+    "No costed commitments; no fiscal plan document.",
+    "Hansard material is the leader's pre-CentreBC record (Conservative/Independent MLA), not party policy.",
+    "23 of 52 sources have no Wayback snapshot yet (archive.org save endpoint rate-limited); all are live-fetched and sha256-pinned locally.",
+    "Party registration/financing (Elections BC filings, donations) not covered by this recon."
+  ]
+}

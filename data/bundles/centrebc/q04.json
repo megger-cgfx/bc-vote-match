@@ -1,0 +1,151 @@
+{
+  "question_id": "q04",
+  "statement": "BC should balance the provincial budget by cutting spending.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:26:55Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "balance",
+    "provincial",
+    "budget",
+    "cutting",
+    "spending"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.1108,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We’re only seeing a fraction of that, and we haven’t seen any new money in this year’s budget — none whatsoever. Budget 2026 expands spending without adequately restoring affordability. It increases debt without a clear path to balance. The minister is famous in saying: “Well, we’re going to balance the budget someday.” Well, when is that someday?"
+    },
+    {
+      "rank": 2,
+      "score": 4.1439,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "It balances prudence with progress, ensuring that services remain strong while strategic investments continue. For the people of Ladysmith-Oceanside, this budget signals recognition of growth, potential and the contribution to provincial prosperity. It addresses priorities that matter locally while advancing broader provincial objectives during rapidly changing times. I stand in support of Budget 2026 and the opportunities it represents for communities throughout British Columbia and for the residents of Ladysmith-Oceanside, who I am honoured to represent."
+    },
+    {
+      "rank": 3,
+      "score": 3.549,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We warned them for years, yet they remained stubbornly silent until last week when they delivered the worst budget ever, quoting the Greater Vancouver Board of Trade, “while cutting service and taxing every British Columbian, yet still coming up with a $13.3 billion deficit.” [5:40 p.m.] The NDP member for Ladysmith-Oceanside questioned us in her speech this morning for criticizing the government. I quote: “Spending too much or not enough. That’s not a fiscal reality. This budget demonstrates the fiscal reality that we are in."
+    },
+    {
+      "rank": 4,
+      "score": 3.1076,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "With provincial long-term-care wait times averaging around 277 to 290 days and higher in some regions, what measured reduction in wait times does Budget 2026 project for 2026-2027 and beyond? Which specific line items deliver those reductions? Budget 2026 claims significant new health investments, including $2.8 billion over three years, yet core access metrics, family doctors, specialists, wait-lists and LTC placements are worsening, and people continue to die while waiting. How does the ministry measure and demonstrate value for money in health spending, and why haven’t outcomes improved proportionally with the billions added?"
+    },
+    {
+      "rank": 5,
+      "score": 2.958,
+      "source_id": "centrebc-0050",
+      "source_type": "release",
+      "title": "Budget 2026: A Blueprint for Bankruptcy",
+      "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+      "archive_url": null,
+      "published": "2026-02-19",
+      "quote": "With no path to balancing the budget and a record-breaking $13.3 billion deficit, this government is spending the future of BC’s children to cover their own incompetence. Under this plan, total provincial debt will nearly double to a staggering $40,935 for every single person in B.C. by 2029. No Relief, Just Higher Bills Despite 74 per cent of residents disapproving of the government’s handling of the cost of living, Budget 2026 picks the pockets of everyday families: Income Tax Hit: The government is increasing the lowest personal income tax bracket by .6% which will cost the average tax payer an extra $76 this year."
+    },
+    {
+      "rank": 6,
+      "score": 2.6188,
+      "source_id": "centrebc-0029",
+      "source_type": "release",
+      "title": "Budget 2026: Managing Decline is Not Leadership",
+      "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+      "archive_url": null,
+      "published": "2026-02-16",
+      "quote": "Everyday voters are facing a provincial debt of $19,000 per person, essentially spending our children’s future today. Having listened to British Columbians, CentreBC offers a pragmatic, moderate choice for those tired of choosing between an incompetent government and an extremist alternative. CentreBC is calling for: Real Relief for Your Daily Life CentreBC is calling for a budget that moves beyond empty promises to deliver results you can actually feel: Lower Grocery Bills: We will scrap the PST on food production and farm equipment to lower the cost of B.C.-grown food."
+    },
+    {
+      "rank": 7,
+      "score": 1.3336,
+      "source_id": "centrebc-0050",
+      "source_type": "release",
+      "title": "Budget 2026: A Blueprint for Bankruptcy",
+      "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+      "archive_url": null,
+      "published": "2026-02-19",
+      "quote": "Asking citizens to pay more for the same failing services is not a ‘Smart Province’ move; it’s a desperate grab for cash from a government that can’t manage its own books. Smoke, Mirrors, and Halted Projects The government’s claim of “protecting services” as political theatre that ignores the reality of its spending choices: Wasting Savings: The government claims it will save $625 million by cutting 15,000 public service jobs, but they have already out-spent those savings twice over with $1.2 billion in new union spending."
+    },
+    {
+      "rank": 8,
+      "score": 1.1761,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "Bill 2 consists of two parts. Part 1 of the bill makes a number of amendments in relation to non-tax measures. The bill amends the Budget Transparency and Accountability Act in three ways. First, the bill amends the Balanced Budget and Ministerial Accountability Act to include the 2028-2029 fiscal year in the period of fiscal years that may contain a deficit in the main estimates."
+    },
+    {
+      "rank": 9,
+      "score": 1.1626,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "The member might have more questions about it. Jordan Kealy : With the current health budget, what portion of ongoing spending is now dedicated to administrating and maintaining the HPOA framework? Hon. Josie Osborne : I think I just answered that the annual expenses that are budgeted for are in the order of $7 million for the Oversight Office."
+    },
+    {
+      "rank": 10,
+      "score": 1.1175,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "These positions won’t be filled any time soon, as the government is cutting the provincial rural retention incentive. The program helps retain — as you have just stated, Minister — and attract professionals across northern B.C. Will the minister reverse the cut today and extend the program to the communities that rely on it across the North? Hon."
+    },
+    {
+      "rank": 11,
+      "score": 1.0778,
+      "source_id": "centrebc-0039",
+      "source_type": "release",
+      "title": "News Release: Eby Remains Uncommitted to Workers, Rewards Friends",
+      "url": "https://www.centrebc.ca/news/news-release/news-release-eby-remains-uncommitted-to-workers-rewards-friends/",
+      "archive_url": null,
+      "published": "2025-10-16",
+      "quote": "“The Premier’s government has grown larger, more expensive and ever more self-congratulatory, yet outcomes for British Columbians keep getting worse.” Under David Eby, provincial spending has surged to record highs — but almost nothing about daily life in B.C. has improved."
+    },
+    {
+      "rank": 12,
+      "score": 1.0325,
+      "source_id": "centrebc-0027",
+      "source_type": "release",
+      "title": "Opinion: B.C.’s Legislative Gong Show: Why We Need a New Alternative Now",
+      "url": "https://www.centrebc.ca/news/opinion-bc-legislative-gong-show-why-we-need-a-new-alternative/",
+      "archive_url": "https://web.archive.org/web/20261001084614/https://www.centrebc.ca/news/opinion-bc-legislative-gong-show-why-we-need-a-new-alternative/",
+      "published": "2026-02-28",
+      "quote": "This is a budget drenched in red ink, featuring a provincial record $13.3-billion deficit and a total debt projected to double to $183.4 billion. For the average citizen, this isn’t just a ledger entry; it represents a provincial debt burden that will sky rocket to $40,935 per person by 2029. The real-world consequences are already here. The government is “re-pacing”—a polite term for halting—critical projects like Phase 2 of the Burnaby Hospital expansion and seniors’ long-term care beds."
+    }
+  ]
+}

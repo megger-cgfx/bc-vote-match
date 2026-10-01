@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q10",
+    "statement": "The province should require higher-density housing near transit stations, even where municipal zoning rules do not allow it.",
+    "topic": "housing",
+    "dimensions": ["economic", "social"],
+    "revised": true,
+    "change_reason": "Removed loaded verb 'force'."
+  },
+  {
+    "id": "q11",
+    "statement": "Rent controls should be expanded to cover more rental units.",
+    "topic": "housing",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed 'and' join and vague 'strengthened'."
+  },
+  {
+    "id": "q12",
+    "statement": "The provincial government should provide affordable rental housing as a public landlord.",
+    "topic": "housing",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed 'and' join and 'rather than' market contrast."
+  },
+  {
+    "id": "q13",
+    "statement": "British Columbia should increase taxes on homes that sit vacant.",
+    "topic": "housing",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Dropped loaded 'speculator-owned' category and 'and' join."
+  },
+  {
+    "id": "q14",
+    "statement": "The province should not adopt housing policies that lower existing home values.",
+    "topic": "housing",
+    "dimensions": ["social", "economic"],
+    "revised": true,
+    "change_reason": "Removed leading 'protected from' framing."
+  },
+  {
+    "id": "q15",
+    "statement": "Municipalities, not the province, should have the final say over housing density in their neighbourhoods.",
+    "topic": "housing",
+    "dimensions": ["social"],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q16",
+    "statement": "The province should impose stricter limits on short-term rentals like Airbnb.",
+    "topic": "housing",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed leading purpose clause and emotive 'tightly'/'residents' wording."
+  },
+  {
+    "id": "q17",
+    "statement": "The province should offer direct subsidies to first-time homebuyers.",
+    "topic": "housing",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed leading purpose clause 'to help them enter the market'."
+  },
+  {
+    "id": "q18",
+    "statement": "The province should expand supportive housing even where local residents object.",
+    "topic": "housing",
+    "dimensions": ["social"],
+    "revised": true,
+    "change_reason": "Removed 'and' join; single housing category."
+  }
+]

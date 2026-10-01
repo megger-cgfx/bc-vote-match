@@ -1,0 +1,30 @@
+{
+  "question_id": "q01",
+  "statement": "The province should reinstate the consumer carbon tax on fuel.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:40Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "reinstate",
+    "consumer",
+    "carbon",
+    "tax",
+    "fuel"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 1.3609,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "I happen to agree. It is very, very important. In there yesterday, I talked about the fact that this government went pushing companies that want to go into data centres, cryptocurrency, hydrogen production and carbon capture, synthetic fuel production and, also, new mines, all of which require electrical transmission lines and electricity to be able to do that. Yet now what they did is the classic bait-and-switch."
+    }
+  ]
+}

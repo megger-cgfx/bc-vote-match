@@ -1,0 +1,156 @@
+{
+  "question_id": "q10",
+  "statement": "The province should require higher-density housing near transit stations, even where municipal zoning rules do not allow it.",
+  "topic": "housing",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:26:56Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "require",
+    "higher-density",
+    "housing",
+    "near",
+    "transit",
+    "stations",
+    "municipal",
+    "zoning",
+    "rules",
+    "allow"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 1.2899,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "The bill requires information to be stored electronically in a secure database. That’s a good thing. It requires verification of accuracy and allows ICBC to request additional evidence of eligibility at any time. The bill establishes clear rules around electronic signatures and digital photographs."
+    },
+    {
+      "rank": 2,
+      "score": 1.1276,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "Budget 2026 includes nearly $38 billion in capital projects, ensuring B.C. continues building the schools, hospitals and transit systems we need. This includes 17 major hospitals and acute care facilities, major transit expansions like the Broadway subway and Surrey-Langley SkyTrain, 66 school upgrades or additions, 3,900 new post-secondary housing beds, the first new medical school in western Canada in almost 60 years. To keep projects sustainable and affordable, the province is adjusting timelines on select long-term and infrastructure projects to manage cost pressures while maintaining quality and safety."
+    },
+    {
+      "rank": 3,
+      "score": 1.1264,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "In fact, I cannot think of an easier amendment to support than to say that smoking or vapour within a multi-unit supportive housing or any kind of housing…. When we go back and we look back a couple of decades to where smoking was not allowed in any buildings or near buildings even…. Certainly, today you don’t see smokers in residential buildings. I think that one of the major issues that local government has around supportive housing and the current parameters of the various groups of those that are requiring the supportive housing…."
+    },
+    {
+      "rank": 4,
+      "score": 1.0031,
+      "source_id": "centrebc-0059",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "published": "2026-04-02",
+      "quote": "Hon. Christine Boyle : I move that the bill be introduced and read a first time now. I’m pleased to introduce the Housing and Municipal Affairs Statutes (Codes of Conduct) Amendment Act. This bill requires local government, elected officials, to adhere to a provincial code of conduct."
+    },
+    {
+      "rank": 5,
+      "score": 0.562,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "Interestingly enough, it’s rules the provincial government forces upon municipalities to operate that way. I don’t have an issue with that. When I say “forces upon,” I say that because the provincial government ultimately sets the rules and the laws that municipalities operate under. In this case, though, every time this government, in particular, has a chance to make their own rules, it’s always “rules for thee and not for me.” That is where we’re at again with these FOI changes in Bill 9."
+    },
+    {
+      "rank": 6,
+      "score": 0.5112,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "I would ask the government to be more clear on how they can provide assurances that the transition is adequately staffed with personnel on the front line. I would also point out that the municipal police force says it needs over 70 members to move the transition forward into our community when the RCMP is doing it with just over 30 at this time. We do welcome the transition to continue. We’re supportive of the minister wanting to advance the transition on April 1."
+    },
+    {
+      "rank": 7,
+      "score": 0.4928,
+      "source_id": "centrebc-0059",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "published": "2026-04-02",
+      "quote": "Contents Routine Business Introductions by Members Introduction and First Reading of Bills Bill 17 — Housing and Municipal Affairs Statutes (Codes of Conduct) Amendment Act, 2026 Hon. Christine Boyle Bill M240 — Transparency of Advocacy Organizations Act Tara Armstrong Bill 18 — Housing and Municipal Affairs Statutes (Parental Leave) Amendment Act, 2026 Hon."
+    },
+    {
+      "rank": 8,
+      "score": 0.4906,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Clause 2 approved. On clause 3. Claire Rattée : Why is the government introducing new definitions for “housing stability support,” “supportive housing,” “supportive housing operator,” “supportive housing rental unit” and “transitional housing”? I’m just wondering why now the decision is being made to provide definitions for those."
+    },
+    {
+      "rank": 9,
+      "score": 0.4796,
+      "source_id": "centrebc-0059",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "published": "2026-04-02",
+      "quote": "Christine Boyle presented a message from His Honour the Administrator: a bill intituled Housing and Municipal Affairs Statutes (Parental Leave) Amendment Act, 2026. Hon. Christine Boyle : I move that the bill be introduced and read a first time now. I’m pleased to introduce the Housing and Municipal Affairs Statutes (Parental Leave) Amendment Act, 2026."
+    },
+    {
+      "rank": 10,
+      "score": 0.4489,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "At the same time, individuals are entitled to notice once secrecy is no longer required. That is a reasonable safeguard. There are also some transitional and consequential clauses in this bill, as many bills usually have, towards the end of the bill. The transitional clauses ensure procedural consistency across ongoing matters."
+    },
+    {
+      "rank": 11,
+      "score": 0.4299,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "This bill establishes a clear and straightforward rule. Publicly funded construction projects must be procured through labour-neutral processes. Public sector entities would no longer be permitted to issue construction solicitations that require union-only labour or require a contractor to enter into a specific collective agreement as a condition of bidding. It would also ensure that no government, now or in the future, could require non-union-only labour."
+    },
+    {
+      "rank": 12,
+      "score": 0.3718,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "And these responses require more than criminal prosecution alone. It requires a whole-system approach. Civil forfeiture is one of the tools that allows the province to disrupt financial incentives behind these activities, because when the profits disappear, the incentives to operate also diminish. At the heart of these amendments is a simple principle that the law must evolve alongside the challenges that we face."
+    }
+  ]
+}

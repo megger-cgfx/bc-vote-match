@@ -1,0 +1,153 @@
+{
+  "question_id": "q48",
+  "statement": "The province should expand involuntary care for people with severe addiction and mental illness.",
+  "topic": "public-safety",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:24Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "involuntary",
+    "care",
+    "severe",
+    "addiction",
+    "mental",
+    "illness"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.6635,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "One-third of Canadians will experience a mental illness\nreported a decline in their mental health since the onset"
+    },
+    {
+      "rank": 2,
+      "score": 2.9155,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "recovery, with inpatient care available when\nnecessary.\nPromote early intervention in mental health care\nthrough expanded access to services and increased\npublic awareness.\nInclude six visits to a mental health professional,\nsuch as a psychologist, under the Medical Services\nPlan (MSP), ensuring early access to mental health\nsupport for all British Columbians.\nBuild on existing anti-stigma campaigns by\nincorporating feedback from mental health experts,\nstudents, and people with lived experiences to\npromote understanding, respect, and care for\npeople with mental health challenges."
+    },
+    {
+      "rank": 3,
+      "score": 2.7106,
+      "source_id": "green-0037",
+      "source_type": "media",
+      "title": "The Tyee: Emily Lowan on Next Steps for the BC Greens",
+      "url": "https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens",
+      "archive_url": "http://web.archive.org/web/20260112091925/https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens/",
+      "published": "2026-01-05",
+      "quote": "involuntary care, the inaction to end the long BC General Employees’ Union strike, the fast-tracking of fossil fuel projects and the adoption of a jobs plan that appeared lifted from an old BC Liberal plan. It all adds up to a “continued drought of political imagination,” Lowan concluded."
+    },
+    {
+      "rank": 4,
+      "score": 0.9987,
+      "source_id": "green-0095",
+      "source_type": "media",
+      "title": "Global Green News: Emily Lowan wins BC Green Party leadership debate as voting begins",
+      "url": "https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+      "archive_url": "http://web.archive.org/web/20260218103414/https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+      "published": "",
+      "quote": "He said safety comes from housing, mental health, and addiction services, but he did not challenge the role of police in schools or communities as directly as Lowan did.\n“Public safety starts with housing and with supports for people struggling with mental health and addiction. That’s where government should be putting resources.”\nKerr and Bremner-Aikens Falter\nJonathan Kerr and Adam Bremner-Aikens\nJonathan Kerr emphasized his record as a physician and councillor, stressing credibility and results. Yet his communication was uneven."
+    },
+    {
+      "rank": 5,
+      "score": 0.9045,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "care practitioners, including rural living allowances,\nattract frontline mental health workers.\nConduct a comprehensive review of the Mental\nHealth Act to ensure it meets modern standards\nand addresses the needs of individuals with mental\nhealth challenges.\n•"
+    },
+    {
+      "rank": 6,
+      "score": 0.7111,
+      "source_id": "green-0015",
+      "source_type": "policy",
+      "title": "BC Greens propose comprehensive policies to address BC's drug poisoning crisis",
+      "url": "https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+      "archive_url": "http://web.archive.org/web/20260609052817/https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+      "published": "",
+      "quote": "Occasional substance users, recreational users, and first-time users are dying or being severely injured by the toxic supply. What the other parties are proposing does nothing to end the toll that drugs being distributed by organized crime in BC is having on our communities.” To keep people safe, informed, and supported, the BC Greens will: Expand access to safer, regulated pharmaceutical alternatives by: Broadening safer supply programs: expand access to prescribed safer supply programs and Opioid Agonist Treatment (OAT), offering regulated substances like diacetylmorphine (DAM), fentanyl, benzodiazepines, and stimulants. This builds on the success of existing programs."
+    },
+    {
+      "rank": 7,
+      "score": 0.6299,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "Cover mental health care through the public system. Fight the toxic drugs crisis with effective harm reduction and real investment in voluntary care. 03 Economic Fairness for All Those who are profiting most from British Columbia should pay their fair share just like everyone else. The teacher, the trades worker, and the small business all pay their share."
+    },
+    {
+      "rank": 8,
+      "score": 0.5328,
+      "source_id": "green-0012",
+      "source_type": "release",
+      "title": "Leader's Statement: BC Greens Will Not Renew CARGA",
+      "url": "https://bcgreens.ca/leaders-statement-will-not-renew-carga/",
+      "archive_url": "http://web.archive.org/web/20260609060334/https://bcgreens.ca/leaders-statement-will-not-renew-carga/",
+      "published": "2026-02-09",
+      "quote": "Too many of those commitments have since been stalled or sidelined by the BC NDP. The Premier may think it’s acceptable to ignore review recommendations and walk away from shared projects; we do not. If the government can’t deliver on what it already promised, there’s no reason British Columbians should believe it will deliver now.” Lowan pointed to a few of the undelivered or stalled commitments from the BC NDP under CARGA: Primary Health Care: Our healthcare system is failing British Columbians, which is why CARGA secured concrete commitments to expand community-based care."
+    },
+    {
+      "rank": 9,
+      "score": 0.5215,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "We’ve increased the amount of funding to our third-party partners, who are so integral to delivering these services to people. The member knows that our budget has been raised for health care across British Columbia because we know that is one of the most important things that British Columbians depend on — that public, universal access to our health care system. The member knows that we are hiring doctors and nurses at record rates, streamlining the credentialing for physicians and nurses to come to this country, building a new medical school, expanding the seats at UBC, adding nursing seats, adding physiotherapy seats."
+    },
+    {
+      "rank": 10,
+      "score": 0.5143,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Josie Osborne : Those are, indeed, incredibly important positions throughout the health care system, to ensure that we have the ob-gyn specialists — the cancer oncologists, for example — the people who specialize in women’s health issues. That is why this government has been so focused on strengthening women’s health care by adding 128 new cancer oncologists to our system, doubling, almost, the number of gynecological oncologists here in British Columbia. Again, expanding services in Kelowna to reduce the wait times not only in the northern and central parts of the province but having a reduction in wait times down in Fraser Health and Vancouver Coastal Health…."
+    },
+    {
+      "rank": 11,
+      "score": 0.4923,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Lana Popham Government Action on Poverty Among Seniors Kristina Loewen Hon. Sheila Malcolmson Health Care Facilities and Government Management of Capital Projects Misty Van Popta Hon. Bowinn Ma Availability of Long-Term-Care Beds Brennan Day Hon. Brenda Bailey Government Response to Shootings in Tumbler Ridge and Action on Safety and Mental Health in Schools Gavin Dew Hon."
+    },
+    {
+      "rank": 12,
+      "score": 0.4686,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "And 100 million of taxpayers’ dollars went down the drain because this government is incapable of building major projects on time and on budget. Families and seniors were promised more beds, better care and expanded hospital capacity. They are now left with nothing. [2:30 p.m.] How can this minister justify wasting hundreds of millions of dollars by cancelling projects British Columbians were promised?"
+    }
+  ]
+}

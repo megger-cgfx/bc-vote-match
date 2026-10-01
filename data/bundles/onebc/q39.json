@@ -1,0 +1,155 @@
+{
+  "question_id": "q39",
+  "statement": "The province should share resource revenue with First Nations whose territories host the projects.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:39:54Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "share",
+    "resource",
+    "revenue",
+    "first",
+    "nations",
+    "whose",
+    "territories",
+    "host",
+    "projects"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.072,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "It also honours the rich cultural traditions of our local First Nations, whose partnerships have made this event even stronger and more inclusive than ever before. Each year, as I stand before more than 5,000 cheering spectators on Saturday afternoon to welcome them to Cariboo-Chilcotin, I’m reminded of just how important this event is to our region, how it brings us together year after year. [10:50 a.m.] It gives me tremendous joy to share that the Williams Lake Stampede has officially been named the best rodeo in Canada by the Canadian Professional Rodeo Association. I want to congratulate everyone that worked on the 97th annual Williams Lake Stampede."
+    },
+    {
+      "rank": 2,
+      "score": 3.205,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Is there anything to share with us on that? Hon. Ravi Parmar : I’ve just been advised by my team that we are working with that community. They’ve got a really good relationship with their First Nations."
+    },
+    {
+      "rank": 3,
+      "score": 3.0114,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "From the mountains to the rivers to the ocean and the forests, the government of British Columbia is really working hard for all British Columbians to reduce our emissions, to protect our environment and to unlock economic development opportunities. The Energy Statutes Amendment Act is to expedite the construction of the North Coast transmission line, and this will be done in full partnership with First Nations. On this side of the House, we believe in partnerships, in reconciliation, in building our economy, our projects, alongside our First Nation partners. We want to build respectful relationships with our First Nation partners."
+    },
+    {
+      "rank": 4,
+      "score": 2.7761,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "That continues to be a priority. The member was right in noting the work that my ministry has been doing over the course of the last year on this project. I hope to be able to have updates for the members in the weeks and months ahead. We’re also reviewing FCRSA as part of this, to be able to make sure that we’re aligning with First Nations tenures."
+    },
+    {
+      "rank": 5,
+      "score": 2.7456,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Ward Stamer : Does the minister believe that part of the reason why it’s taking so long for the process of the FLPs is that there has been a lack of public engagement? Does he believe that there needs to be a better emphasis on having opportunities with more meetings, more opportunities with all stakeholders, or does the minister feel that that has no bearing, whatsoever, on why it has taken FLPs to get through the process in the first place? Hon. Ravi Parmar : I would say, from my perspective, having sat at some FLP tables and having most recently met with the ʼNa̱mǥis First Nation, that historically, First Nations haven’t had a say in forestry on their traditional territories."
+    },
+    {
+      "rank": 6,
+      "score": 2.3864,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "We encourage you to come, and now we’re going to change the rules on you now that you’ve invested, in some cases, millions of dollars. Deals have been done. Lands have been purchased. Investment has been done with First Nations."
+    },
+    {
+      "rank": 7,
+      "score": 2.0382,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "In the Interior, we are investing in value-added manufacturing. In my colleague from Castlegar’s riding, we have a first-of-its-kind mass timber modular housing facility, the first of its kind in North America, here in British Columbia. These are the steps that we’re taking to ensure that we can have a strong, sustainable forest sector, and we won’t apologize for the work that we’re doing. We’ll bring First Nations and bring industry all to the same table to build that path forward."
+    },
+    {
+      "rank": 8,
+      "score": 2.0239,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "I feel very strongly, as does the Premier and those members on this side of the House, that forestry will continue to be that strong, sustainable sector that produces and creates good-paying jobs in every corner of this province. Unlike the member opposite, we are not going to pit First Nations against government. Unlike the member opposite, we are not going to cut down more old-growth trees and go back to 1950s-style clear-cutting efforts."
+    },
+    {
+      "rank": 9,
+      "score": 1.9893,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Growth here in British Columbia is moving fast. There are new and emerging industries, and the use of technology requires electricity. We know that when we work in close partnership with First Nations, we can help advance all our priorities. We’ve seen other jurisdictions struggle when growth and emerging high-load, fast-scaling industries like crypto mining, data centres, artificial intelligence centres and large-scale hydrogen facilities simply outpace the infrastructure, and we don’t want to make that mistake."
+    },
+    {
+      "rank": 10,
+      "score": 1.8607,
+      "source_id": "onebc-0015",
+      "source_type": "media",
+      "title": "CTV News: OneBC pledges not to run against eight principled B.C. Conservative candidates",
+      "url": "https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates",
+      "archive_url": "http://web.archive.org/web/20261001080705/https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates/",
+      "published": "",
+      "quote": "RCMP Video Kinew sits with First Nations leaders to honour children at school burial site Man dead, 7 injured in three Winnipeg crashes Video Brett Lauther returns to Rider Nation in trade with Redblacks Here’s what’s happening in Regina on National Day for Truth and Reconciliation Video Guelph police investigate ‘dangerous behaviour’ during unsanctioned Homecoming gathering Video Swiss court rejects Hockey Canada’s bid to block Team Canada jersey deal ‘It’s hard not to be emotional’: Residential school survivor speaks at Wanuskewin event Video ‘Absolutely no evidence’: Saskatoon judge rejects request to stop encampment clearing Video Highway 69 closure now focus of SIU investigation Crash"
+    },
+    {
+      "rank": 11,
+      "score": 1.8008,
+      "source_id": "onebc-0015",
+      "source_type": "media",
+      "title": "CTV News: OneBC pledges not to run against eight principled B.C. Conservative candidates",
+      "url": "https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates",
+      "archive_url": "http://web.archive.org/web/20261001080705/https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates/",
+      "published": "",
+      "quote": "election campaign Video When U.S. President Donald Trump renamed Lake Ontario, this company couldn’t ignore the antagonism Video Video shows moments before man killed in Mississauga, Ont., hit-and-run Nearly 1,000 children were abused at three Massachusetts dioceses, probe finds Woman accused of firing at home of Rihanna indicted on attempted murder with assault weapon Politics Trade Minister Sidhu set to speak with U.S. trade rep at G20 meeting in Wisconsin Scott Aitchison officially resigns as Conservative MP Economic reconciliation with First Nations remains elusive 11 years after Truth and Reconciliation Report Business Judge approves Paramount’s settlement with U.S."
+    },
+    {
+      "rank": 12,
+      "score": 0.226,
+      "source_id": "onebc-0013",
+      "source_type": "media",
+      "title": "Castanet — OneBC names candidate for riding held by former party member",
+      "url": "https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+      "archive_url": "https://web.archive.org/web/20261001084457/https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+      "published": "",
+      "quote": "Obituaries The Market Adopt-a-Pet Events Movies Cams Gas Prices Gallery Celebrations Contests ‹ Cities Armstrong Enderby Kamloops Kelowna Pay Parking Tickets Keremeos Lake Country Merritt Oliver Osoyoos Peachland Penticton Summerland Vernon West Kelowna Westbank First Nation RDCO RDOS TNRD Interior Health Library UBC Okanagan Okanagan College Garage Sales Food & Drink Wine Reviews Wine Maps Campus Life Okanagan Campus Life Kamloops Bus Schedule YLW Arrive / Depart Kelowna Council Crime Stoppers Crime Stoppers South Flyers Weather Kelowna Penticton Vernon Salmon Arm Kamloops Nelson Vancouver Kelowna News OneBC names candidate for riding held by former party member Tara Armstrong Wright"
+    }
+  ]
+}

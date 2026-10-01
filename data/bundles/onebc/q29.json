@@ -1,0 +1,62 @@
+{
+  "question_id": "q29",
+  "statement": "The province should stop logging old-growth forests.",
+  "topic": "climate-environment",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:39:53Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "stop",
+    "logging",
+    "old-growth",
+    "forests"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 1.9441,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "Today the industry is in ruins. The cause? A steady decline in the allowable cut. Powerful U.S.-funded environmentalists have weaponized our love of nature, using endangered species laws, so-called old-growth protection and climate scams like carbon credits to lock up productive forest land."
+    },
+    {
+      "rank": 2,
+      "score": 1.9177,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "The member opposite talked about forest stewardship and some of the work that B.C. Timber Sales is doing. He mentioned our mutual friend Liam Parfitt from Freya Logging. Liam is an outstanding leader in forestry practices."
+    },
+    {
+      "rank": 3,
+      "score": 1.5624,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Maybe some of the frustrations that the member opposite is expressing — and those that I’ve heard — around why, sometimes, it takes a long time for salvage logging or why salvaging doesn’t happen in particular areas…. When this team is in place, they’re looking for soil stability. They’re thinking about wildlife habitat, nutrients for future forests. So there are some reasons why we don’t go in and salvage in a particular area."
+    },
+    {
+      "rank": 4,
+      "score": 1.5369,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "So it’s really important for me, before I provide major comments around a report, that I engage with my colleagues to ensure the government has fully reviewed and considered it. I’d also note that, at the same time, it’s not going to stop us from doing the work that we need to do to restore confidence in the sector and stand up for workers and families right now. I would note that, in terms of data…. I noted earlier this afternoon the important work that we’re doing to be able to revitalize the state of the forests and make sure that we’re sharing transparent information around forests and the data that we have in the office of the chief forester."
+    }
+  ]
+}

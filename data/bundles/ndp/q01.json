@@ -1,0 +1,129 @@
+{
+  "question_id": "q01",
+  "statement": "The province should reinstate the consumer carbon tax on fuel.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T20:29:54Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "reinstate",
+    "consumer",
+    "carbon",
+    "tax",
+    "fuel"
+  ],
+  "sources_searched": 46,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 12.5,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "We’ve lost the consumer carbon tax. We have this 2030 net-zero requirement for LNG terminals, which is wavering in EV rebates. So despite identifying climate disasters as a major threat to the economic outlook of the province, this government continues to invest in the fossil fuel industries that drive climate change. And we’re talking about ramping up resource extraction and fast-tracking mega projects while simultaneously cutting or freezing the budgets of the ministries responsible for regulating these sectors."
+    },
+    {
+      "rank": 2,
+      "score": 9.1036,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "If we’re not honest about how we make our money, how will we ever grow our economy? As we all know, the government killed the consumer carbon tax. That led to a collapse in carbon tax revenues of $2.4 billion. We also know big polluters are paying next to nothing for their emissions, while about one-quarter of B.C.’s total emissions come from the oil and gas sector."
+    },
+    {
+      "rank": 3,
+      "score": 4.1001,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "Hon. Brenda Bailey : Thank you to the member opposite for the question. The rural homeowner grant was really designed to offset the increased costs from the carbon tax. We recognized that the carbon tax did not land evenly on everyone, that some rural communities people were transiting further in their vehicles, so when the carbon tax was removed, so too did we remove that."
+    },
+    {
+      "rank": 4,
+      "score": 3.7513,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "One of the things that’s not talked about — at least, I haven’t noticed it yet, and I may have missed this in other chapters of the treaty — is, for example, carbon emissions, carbon tax, those types of things associated with mining activity."
+    },
+    {
+      "rank": 5,
+      "score": 3.5046,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "It can’t just be any sort of mine. The provincial standards, federal standards would prevail. K’ómoks tax-making authority. When it comes to something like a carbon tax, they have the right to do a direct tax on their members but no one else in that relation."
+    },
+    {
+      "rank": 6,
+      "score": 2.639,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "What I see is the government chasing the Conservatives around to try and plug holes in their political narrative like plugging holes in a dam. We saw it most egregiously in the scrapping of the carbon tax, which I will remind the House that only this caucus opposed. It blew the most significant hole in the budget we’ve seen this year, tariff or no tariff. We’ve also seen a drift to the right on DRIPA, on involuntary treatment, on social housing and on preventive health care."
+    },
+    {
+      "rank": 7,
+      "score": 2.5144,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Obviously, when there’s a mine or where there’s some sort of extraction of a subsurface resource, often there’s CO 2 associated with it, or if, quite frankly, there’s any industrial activity, there’s CO 2 associated with it, and we have an industrial carbon tax that’s put in place. We have emission targets that have been set in place, working towards net zero and all these sorts of things. How does that apply to the treaty, and can the K’ómoks Nation override or write its own rules associated with the emission of CO 2 ? Hon."
+    },
+    {
+      "rank": 8,
+      "score": 2.4297,
+      "source_id": "ndp-0036",
+      "source_type": "media",
+      "title": "COST OF LIVING: What is each party promising British Columbians? (Western Standard, 2024)",
+      "url": "https://westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+      "archive_url": "http://web.archive.org/web/20251005125051/https://www.westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+      "published": "2024-10-17",
+      "quote": "Carbon Tax Bcpoli David Eby British Columbia Cost Of Living Bc Conservatives John Rustad Bc Ndp Poverty Sonia Furstenau Bc Greens rustad rebate Related Stories Day 6 of the 2026 BC election: Party leaders react to 'masked gathering' in Kamloops Alex Zoltan 27 Sep 2026 BRULOTTE: The rest of Canada can't afford to ignore BC election Western Standard Guest Columnist 27 Sep 2026 Day 3 of the BC election: Eby's Maple Ridge press conference goes less than swimmingly Alex Zoltan 24 Sep 2026 OSMOND-JONES: Anatomy of a meltdown inside the BC Conservatives Western Standard Guest Columnist 22 Sep 2026 © westernstandard 2026 Powered by Quintype Western Standard www.westernstandard.news INSTALL APP"
+    },
+    {
+      "rank": 9,
+      "score": 1.3416,
+      "source_id": "ndp-0003",
+      "source_type": "platform",
+      "title": "BC NDP home (2026 campaign landing page)",
+      "url": "https://www.bcndp.ca",
+      "archive_url": "http://web.archive.org/web/20241216151237/https://www.bcndp.ca/actionplan",
+      "published": "",
+      "quote": "We'll be in touch very soon. Real Progress making a Difference We’re building BC strong— protecting your family and the things that matter most to you. View all Progress For You Helping with your daily costs, instead of giving tax breaks to the top 2%. Delivering homes for people, instead of giving free rein to speculators."
+    },
+    {
+      "rank": 10,
+      "score": 0.9813,
+      "source_id": "ndp-0004",
+      "source_type": "platform",
+      "title": "(2024) An Action Plan for You - platform highlights (BC NDP platform PDF)",
+      "url": "https://www.bcndp.ca/sites/default/files/bcndp_platformhighlights_v2_printready-web_0.pdf",
+      "archive_url": "https://web.archive.org/web/20260914105138/https://www.bcndp.ca/sites/default/files/bcndp_platformhighlights_v2_printready-web_0.pdf",
+      "published": "2024-10-03",
+      "quote": "| we need every year\nMAKE BC A CLEAN-ENERGY SUPERPOWER + |\nTransitioning from a reliance on fossil fuels ‘ \\ J CRACKING DOWN ON SPECULATORS, PROVIDING SAFE, SECURE HOUSING FOR\nto affordable and reliable clean energy | 5 c ts) FLIPPERS AND BLIND BIDDING EVERYONE\nDoubling electricity generation by 2050. BUILD RESILIENCE ag Expanding our speculation tax | Bringing the Homeless Encampment\nFOR FARMERS AND FARMS Clamping down on home flipping | Action Response Temporary Housing\nLEVERAGE OUR CLEAN ENERGY T0 ATTRACT Protecting farmers’ crops and livelihoods Ending blind bidding."
+    }
+  ]
+}

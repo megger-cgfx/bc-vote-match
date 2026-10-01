@@ -1,0 +1,109 @@
+{
+  "question_id": "q19",
+  "statement": "BC should allow more private, for-profit clinics to operate.",
+  "topic": "health",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:52Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "allow",
+    "private",
+    "for-profit",
+    "clinics",
+    "operate"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 2.671,
+      "source_id": "ndp-0045",
+      "source_type": "media",
+      "title": "Eby says he will triple U.S. health worker recruitment (The Voice)",
+      "url": "https://voiceonline.com/eby-says-he-will-triple-u-s-health-worker-recruitment/",
+      "archive_url": "http://web.archive.org/web/20260928033744/https://voiceonline.com/eby-says-he-will-triple-u-s-health-worker-recruitment/",
+      "published": "2026-09-23",
+      "quote": "The new campaign, which will be triple the size of B.C.’s first successful efforts, will expand into Republican-controlled “red” states where doctors and nurses are facing laws that restrict their ability to provide life-saving reproductive care. It will highlight a clear alternative: a publicly funded health-care system where professionals can focus on caring for patients, not fighting with insurance companies in a private, for-profit system that can leave people facing catastrophic debt. “Trump’s attack on women’s health is another reason we have seen such interest from American doctors and nurses to move here,” said Eby."
+    },
+    {
+      "rank": 2,
+      "score": 1.5095,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "Pulling them out of hospitals into private surgery clinics will not solve problems for patients. It would just mean we’re paying more to pad the profits of the clinic operator instead of supporting our patients. You can count on your government to strengthen public health care and increase our ability to do surgeries, offer family doctors, and make sure people have care they can count on. Once again, our province is doing things differently by putting patients first."
+    },
+    {
+      "rank": 3,
+      "score": 1.2707,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "K’ómoks private land, as we discussed, could be default private unless K’ómoks wanted to make sure that people could continue to access that K’ómoks private land. [5:40 p.m.] To be specific, under the “Access” chapter, paragraph 21 does speak about allowing reasonable public access to K’ómoks public lands, but it does specifically say “harvesting or extracting resources owned by K’ómoks, unless authorized by K’ómoks or in accordance with the agreement” is not included. You can’t just go on to K’ómoks public land, Seal Islets or one of those parks, and just start taking stuff, which is the same as a provincial park in that sense. You can’t cause mischief or nuisance."
+    },
+    {
+      "rank": 4,
+      "score": 1.2198,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "centrebc.ca, before the writ: Budget 2026: Managing Decline is Not Leadership , February 16, 2026 . Reduce paperwork for doctors Before the writ Feb 16 We will expand home care so seniors can age with dignity and reduce the paperwork for doctors so they can focus on seeing patients. centrebc.ca, before the writ: Budget 2026: Managing Decline is Not Leadership , February 16, 2026 . Conservative No commitment on this yet OneBC Allow private healthcare alongside fully-funded public healthcare Plan page Private Healthcare alongside fully-funded public healthcare Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities ."
+    },
+    {
+      "rank": 5,
+      "score": 1.0324,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "The CBC reported that she pays roughly $1,390 less for her apartment than the average rent in the area. And because of the choices we’ve made in investing in affordable housing, Marleny’s house is safe. The CBC explained that when her building went up for sale, chances were high that a for-profit landlord would purchase it, be it a small private equity firm or a large corporation whose focus is to make a return for investors. Instead, the rental protection fund made it possible for Aunt Leah’s properties, a not-for-profit organization, to buy the building with the explicit goal of keeping rents accessible."
+    },
+    {
+      "rank": 6,
+      "score": 0.9962,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "Private surgical centres and thousands of privatized health-care workers are being brought back into the public system. Instead of privatizing, your government is working every day to achieve its vision of connecting people to strong public health care that doesn’t cost them more. Investing in new hospitals, a new medical school at SFU, and expanded medical school at UBC, and a new deal that will help more people find a family doctor. And action is being taken to get more internationally trained doctors, nurses, and health workers into our hospitals and clinics to provide care to British Columbians."
+    },
+    {
+      "rank": 7,
+      "score": 0.9187,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "As we know, a number of nations, for example, during COVID said, “We don’t want just anybody coming into our community,” so they said: “We’re going to do some restrictions on that.” We’d already discussed the issue of under the high-tide line — that that’s still accessible. That’s not impacted. We discussed a number of the parks and wood areas that will continue to allow public access. Really, when we talk about some of these areas of private access, K’ómoks-Nation-member-only access, it really will be at their discretion, as it is currently."
+    },
+    {
+      "rank": 8,
+      "score": 0.8528,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "I’m just wondering, in situations that will come up — if not this treaty, it may be in other treaties — where there is private land held that is not developed and there is a note with regards to potential access that may not have been in here, how that would be handled in terms of the guaranteed access to the lands that may not have been identified as part of the exclusion from the actual treaty land. In other words, you may have a situation where it has become treaty land. However, there may have been some commitment in prior years, prior decades, to being able to allow for access to that land. How would that be dealt with?"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "question_id": "q47",
+  "statement": "It should be harder for repeat violent offenders to be released on bail.",
+  "topic": "public-safety",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:27:03Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "harder",
+    "repeat",
+    "violent",
+    "offenders",
+    "released",
+    "bail"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 9.3822,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "We didn’t get there with the federal government, but we’ll keep at it. In terms of the data and the metrics, I think a really good example of how we would collect this data or show it is through the ReVOII results. If you look at our report that we released in December about the repeat violent offending program, it talks about the difference between that group and a control group and the control group being not in the repeat violent offender program. Some of the ways that we measured it were how we compared detention sought by the Crown in that control group versus the ones in the program and whether there was a difference."
+    },
+    {
+      "rank": 2,
+      "score": 8.9432,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "In December of 2023, the first set of federal bail reforms — Bill C-48, the bail and sentencing reform act — received royal assent and came into effect in January of 2024. Bill C-48 of 2023 was supposed to fix catch-and-release justice in B.C. The act was going to make bail stricter and harder to get, including cases of repeat and violent offending. It would also create new circumstances of reverse onus."
+    },
+    {
+      "rank": 3,
+      "score": 8.9432,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "Proposed amendments would require consecutive sentences for violent auto thefts, break and enter, extortion and arson and allow them for violent repeat offending as well, meaning that one person could serve their sentence one after another, instead of serving their sentences for multiple offences at the same time. In March of 2024, the B.C. prosecution service released a report with further data on bail. They reviewed 4,800 bail hearings between November 2022 and December of 2023."
+    },
+    {
+      "rank": 4,
+      "score": 4.7394,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We’re investing $139 million over three years in justice and community safety, including funding for repeat violent offender initiatives, timely access to justice and targeted enforcement programs. Our capital plan commits to $37.7 billion of infrastructure investments in schools, hospitals, transit, community and infrastructure. In Esquimalt-Colwood, that includes the Highway 1 bus-on-the-shoulder project between the McKenzie interchange and the Colwood exchange. This project will make transit faster and more reliable for commuters on south Vancouver Island."
+    },
+    {
+      "rank": 5,
+      "score": 2.3886,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "This includes $73 million to support the courts, sheriffs, Crown counsel, legal aid and the judiciary; $16 million for a new chronic property-offending intervention initiative, targeting vandalism and shoplifting hurting small businesses; $26 million to continue the repeat violent offending initiative, which is already reducing police interactions and speeding up charge approvals; $24 million for specialized investigative and enforcement programs to help address street disorder and connect individuals to needed services. The province continues working with federal partners to combat extortion and organized crime. Building an economy that works for everyone. Budget 2026 helps position B.C."
+    },
+    {
+      "rank": 6,
+      "score": 2.3059,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "The riding of Ladysmith-Oceanside is made up of a number of small towns in rural areas, where people choose to live the small-town life so that they can leave their doors unlocked and their car keys on the passenger seat and know their neighbour. Budget 2026 provides $139 million more over three years to reduce repeat violent offending and chronic property crime and supports timely access to justice. It includes $16 million for a new chronic property offending intervention initiative that strengthens monitoring and enforcement for crimes such as vandalism and shoplifting that are hurting businesses. We know that these measures that we’re implementing are working."
+    },
+    {
+      "rank": 7,
+      "score": 1.0751,
+      "source_id": "centrebc-0038",
+      "source_type": "release",
+      "title": "News Release: CentreBC sets five hard conditions for any Northern Pipeline",
+      "url": "https://www.centrebc.ca/news/news-release/news-release-centrebc-sets-five-hard-conditions-for-any-northern-pipeline/",
+      "archive_url": "http://web.archive.org/web/20260927072211/https://www.centrebc.ca/news/news-release/news-release-centrebc-sets-five-hard-conditions-for-any-northern-pipeline/",
+      "published": "2025-10-23",
+      "quote": "Our Values Our Policy Resources Get Involved Become a Member Make a Donation Volunteer News Contact News Release: CentreBC sets five hard conditions for any Northern Pipeline October 23, 2025 FOR IMMEDIATE RELEASE, OCT. 23, 2025, VANCOUVER BC – Today, CentreBC released a clear, measurable pass/fail framework for any proposed pipeline to the North Coast, calling on the BC Conservatives and NDP to stop feeding polarization and start building a responsible path forward in the national interest. “While the Conservatives shout ‘build at any cost’ and the NDP says ‘never’, British Columbians are saying ‘do it right, or don’t do it,’” said Karin Kirkpatrick, Leader of CentreBC."
+    },
+    {
+      "rank": 8,
+      "score": 0.9524,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "Well, business districts have been measuring what is happening. Business Improvement Areas of B.C. surveyed its members. Ninety percent say violent repeat crime has had a moderate to severe impact, and 40 percent report annual losses of $5,000, with many reporting losses in the tens of thousands."
+    },
+    {
+      "rank": 9,
+      "score": 0.8425,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "Further to those details just provided, I’m wondering if the ministry tracks repeat offenders under the act and if the minister could just update the House on the range of penalties as well as if there are gross numbers of penalties over the last year with a cumulative dollar amount, for example, under these inspections that have taken place. Hon. Jennifer Whiteside : In 2025, there were 1,780 penalties issued on corporate determinations by the branch for a dollar value of $934,000. [2:55 p.m.] The scale, with respect to the penalty, starts at $500."
+    },
+    {
+      "rank": 10,
+      "score": 0.7614,
+      "source_id": "centrebc-0046",
+      "source_type": "release",
+      "title": "Opinion: The Hard Work of Certainty: Resolving B.C.’s Original Sin",
+      "url": "https://www.centrebc.ca/news/opinion-the-hard-work-of-certainty-resolving-bcs-original-sin/",
+      "archive_url": null,
+      "published": "2026-03-06",
+      "quote": "Our Values Our Policy Resources Get Involved Become a Member Make a Donation Volunteer News Contact Opinion: The Hard Work of Certainty: Resolving B.C.’s Original Sin March 6, 2026 FOR IMMEDIATE RELEASE, MARCH 6, 2026, VANCOUVER, BC—British Columbia stands at a critical tipping point where our history of denial has finally collided with our economic future. Unlike the rest of Canada, where the Crown negotiated treaties as settlement moved west, this province was largely built on a regime that refused to recognize pre-existing Indigenous title."
+    },
+    {
+      "rank": 11,
+      "score": 0.7287,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "They repeatedly hide and evade information. Now, if this were a government that actually — I don’t know — even answered questions in question period directly, maybe people wouldn’t be as concerned about Bill 9 and changes to FOI to make it even harder to access government information. Maybe if ministers, when they were asked direct questions in budget estimates or in committee stages of bills — very straightforward, sometimes actually routine procedural questions about a piece of legislation — answered up front and it didn’t take five different questions to get a very basic answer out of them, perhaps people wouldn’t be as worried. I can think back to one time."
+    },
+    {
+      "rank": 12,
+      "score": 0.7281,
+      "source_id": "centrebc-0063",
+      "source_type": "release",
+      "title": "BC Conservatives Elect Hard Right Leader",
+      "url": "https://www.centrebc.ca/news/news-release/bc-conservatives-elect-hard-right-leader/",
+      "archive_url": "https://web.archive.org/web/20260927072716/https://www.centrebc.ca/news/news-release/bc-conservatives-elect-hard-right-leader/",
+      "published": "2026-05-30",
+      "quote": "Our Values Our Policy Resources Get Involved Become a Member Make a Donation Volunteer News Contact BC Conservatives Elect Hard Right Leader May 30, 2026 CentreBC Warns of Deeper Polarization FOR IMMEDIATE RELEASE May 30, 2026 VANCOUVER — CentreBC leader Karin Kirkpatrick today responded to the election of Kerry-Lynne Findlay as leader of the BC Conservative Party, warning that her victory signals a further shift away from the political centre at a time when British Columbia desperately needs practical, unifying leadership. “The leadership race was ultimately a choice about the future direction of the Conservative movement in British Columbia,” said Kirkpatrick."
+    }
+  ]
+}

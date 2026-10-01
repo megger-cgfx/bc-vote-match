@@ -1,0 +1,47 @@
+{
+  "version": "v1",
+  "artifact": "M3 human tie-break decisions for the four escalated coding splits",
+  "card": "<task-id>",
+  "contract": "docs/CODEBOOK.md s7.2 (a row the blind pass cannot resolve escalates to a human tie-break by the editor, whose decision is final). Each decision must equal one of the codes already read on the row (coder A, coder B, or a blind pass), so the published quote always belongs to the code it supports.",
+  "decided_at": "2026-10-01T20:28:15Z",
+  "decided_by": "flower (agent, provisional - editor sign-off pending)",
+  "note": "Provisional calls written so every conflict row has a disposition and the table is not left half-null. Martin can override any of the four by editing decision/reason here and re-running scripts/reconcile-codings.py.",
+  "decisions": [
+    {
+      "party_slug": "ndp",
+      "question_id": "q01",
+      "statement_coded": "The province should reinstate the consumer carbon tax on fuel.",
+      "decision": -2,
+      "reason": "The party's own government repealed the consumer carbon tax in 2025 and its Finance Minister defended the removal in Hansard (ndp-0024: 'when the carbon tax was removed, so too did we remove that'), giving the fairness ground that the tax 'did not land evenly' - the same cost tradeoff the statement accepts. CODEBOOK s2 counts the party's own record in government and an enacted opposite action as strong disagreement, so the code is -2 rather than the -1 both passages also weighed. Confidence stays low because the only evidence is a retrospective budget explanation, not a pledge about reinstatement (s5 Hansard inference).",
+      "adopted_pass": "B + verifier",
+      "confidence": "low"
+    },
+    {
+      "party_slug": "ndp",
+      "question_id": "q04",
+      "statement_coded": "BC should balance the provincial budget by cutting spending.",
+      "decision": -1,
+      "reason": "Budget 2026 (ndp-0025) shares a partial deficit-reduction goal ('reducing the deficit while continuing to support the housing, health care, education and social services British Columbians need') while explicitly rejecting the statement's instrument ('this is not an austerity budget. This budget does not cut the foundations of our social and economic strength'). CODEBOOK s2's weaker-value rule - the party supports the goal but names the instrument the statement excludes - gives -1, not -2; the blind pass's +1 is a goal-vs-instrument slip and is rejected.",
+      "adopted_pass": "A",
+      "confidence": "medium"
+    },
+    {
+      "party_slug": "green",
+      "question_id": "q11",
+      "statement_coded": "Rent controls should be expanded to cover more rental units.",
+      "decision": 1,
+      "reason": "The Green pledge is vacancy control (green-0009 2026 plan: 'Pass vacancy control to ensure landlords can't raise the rent every time a tenant moves out'; green-0004 explains rent is tied to the unit across tenancies). That re-regulates the vacancy reset on units already under rent control; it does not extend control to additional units, which is the statement's action. Same direction, adjacent instrument, so the weaker value +1 (CODEBOOK s2 weaker-instrument rule). The coded wording dropped the v1 word 'strengthened', which would have made the vacancy-control pledge a closer match - hence the wording flag in the report.",
+      "adopted_pass": "B + verifier",
+      "confidence": "medium"
+    },
+    {
+      "party_slug": "green",
+      "question_id": "q22",
+      "statement_coded": "The province should fund more supervised consumption sites.",
+      "decision": 1,
+      "reason": "The plank (green-0091, the 2024 platform) says 'Immediately enhance accessibility to supervised consumption services and overdose prevention sites' and 'Continue the expansion of supervised consumption services'. The direction matches, but the named actions are enhancing accessibility and continuing an expansion, not funding more sites, and no 2026 source carries the plank forward. Weaker value +1 at medium confidence; the superseded 2024 platform caps confidence at medium (CODEBOOK s4). Resolved under the coded v2 wording; the same code holds under the v1 wording that also named safer-supply programs, so the wording fault does not change this row.",
+      "adopted_pass": "A + verifier",
+      "confidence": "medium"
+    }
+  ]
+}

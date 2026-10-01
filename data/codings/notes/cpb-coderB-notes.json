@@ -1,0 +1,27 @@
+{
+  "coder": "cpb-coderB",
+  "party_slug": "cpb",
+  "version": "v1",
+  "created_at": "2026-10-01T19:12:27Z",
+  "source_date_rule": "No 2026 party platform exists (plank cards \"coming soon\"); coded per CODEBOOK §4 from the most recent dated policy documents — CPBC Policy Declaration (AGM March 2025, record published 2025-07-01), 2026 campaign releases (2026-09-23/27/28/29), and where needed the 2024 election platform \"Common Sense Change for BC\" (record undated, pre-2026). Confidence capped at medium for anything not corroborated by a 2026-era source; no older position is presented as current.",
+  "rationales": {
+    "q01": "-2: \"Scrap the Carbon Tax\" is a headline commitment of the Policy Declaration (March 2025), the exact opposite of reinstating the consumer carbon tax; the 2026-09-27 release pledges no new taxes. Instrument-specific quote predates the campaign, so confidence medium.",
+    "q03": "-2: the blanket pledge \"under my government, there will be no new taxes\" (party release 2026-09-27) rules out a new wealth tax; no fetched source names a wealth tax, so this maps a general pledge to the instrument (medium).",
+    "q04": "+1: party commits to balanced budgets (Policy Declaration March 2025 §4.03) and its stated means are dollar-for-dollar offsets, program review and growth; leader \"steered clear of talk of spending cuts\" (Hope Standard 2026-09-24) — goal shared, instrument not committed as written.",
+    "q10": "+1: keeps the province's transit-oriented density override of municipal zoning (Bill 47) but amends it toward amenities rather than raw density, plus pre-zoning and provincial step-in over city permits (Policy Declaration March 2025 §19.02–19.07).",
+    "q11": "null: no fetched CPB source takes a position on expanding rent controls (all 53 texts searched incl. Policy Declaration March 2025 and the 2024 platform); platform \"rent\" items are rebates, not controls.",
+    "q18": "+1 (low): accepts \"current and future supportive housing facilities\" conditioned on treatment integration (Policy Declaration March 2025 §9.16); never addresses siting over local objections and warns facilities must be \"good neighbours\" or lose funding — weak agreement only.",
+    "q19": "+2: commits to expanding publicly funded partnerships with non-governmental (private) clinics for priority procedures (Policy Declaration March 2025 §5.12) — the same action or stronger than allowing more private clinics.",
+    "q22": "-1: only \"some existing\" overdose prevention sites \"may be required\" as temporary gateways to treatment, with non-compliant sites shut down (2024 platform \"Common Sense Change for BC\", undated record; consistent with Policy Declaration March 2025 art. 9 and Rattée, Hansard 2026-05-26) — no support for funding more sites.",
+    "q24": "null: no fetched source commits to dental care under the public health plan; the only dental mention (2024 platform seniors section) laments unaffordable dental care while the accompanying commitments cover glasses, hearing aids and vaccines, not dental.",
+    "q28": "+2: welcomes the LNG Canada Phase 2 final investment decision and calls for many more such announcements (release 2026-09-29), on top of the 2026-09-28 plan to double LNG production by 2032.",
+    "q29": "null: no CPB source states a position on logging old-growth forests; all old-growth mentions in the corpus belong to Green/NDP MLAs in Hansard.",
+    "q31": "-1: party funds transit expansion but explicitly ranks the highway first (\"Highway 1 is the most critical transportation link in BC\", 2024 platform, consistent with Policy Declaration March 2025 art. 13 highway commitments) — it does not prioritize transit over highway expansion.",
+    "q38": "+2: \"repeal DRIPA\" is a headline campaign commitment (party release 2026-09-23) — a stronger version of changing DRIPA so consent is not required for resource projects; Policy Declaration March 2025 §16.02 agrees.",
+    "q39": "null: no fetched source commits to sharing resource revenue with host First Nations; the party's stated mechanisms are ownership/equity positions and transferring forest rights — a different instrument.",
+    "q43": "+1 (low): Conservative MLA (critic for Infrastructure) complains that \"exclusionary procurement has left out First Nations on contracts\" (Hansard 2026-04-13) — supports including First Nations businesses in public procurement, not a stated prioritisation policy.",
+    "q46": "+2: platform commits to ending the public \"free-for-all drug use near schools and playgrounds\" (2024 platform), backed by \"End decriminalization\" (Policy Declaration March 2025 §9.06) and Rattée (Hansard 2026-05-26) rejecting \"permissive structures that allow drug use\".",
+    "q47": "+2: \"Lock-up the repeat and violent offenders\" and \"Crack-down on bail offenders by toughening the Charge Assessment Guidelines\" (2024 platform; repeated in Policy Declaration March 2025 §8.02(e)) — at least as strong as making bail harder.",
+    "q48": "+2: \"Christian's Law\" commits to involuntary treatment legislation for addiction (Policy Declaration March 2025 §9.19) and §9.02 adds mandatory mental health treatment — a plain-words expansion of involuntary care."
+  }
+}

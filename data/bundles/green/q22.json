@@ -1,0 +1,62 @@
+{
+  "question_id": "q22",
+  "statement": "The province should fund more supervised consumption sites.",
+  "topic": "health",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T20:29:57Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "fund",
+    "supervised",
+    "consumption",
+    "sites"
+  ],
+  "sources_searched": 43,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 12.3197,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Immediately enhance accessibility to supervised\nconsumption services and overdose prevention\nsites to save lives and connect individuals to care\nand recovery resources."
+    },
+    {
+      "rank": 2,
+      "score": 10.8624,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "Very happy to continue that work with the member. The Speaker : Member, supplemental. [10:55 a.m.] Rob Botterell : British Columbia used to be known for its bold policy decisions and innovation in helping individuals deal with addiction, from fighting legal battles with the tobacco industry to pioneering North America’s first supervised consumption sites and at one time, actually championing the decriminalization of drugs. Approximately 6,000 people die per year from smoking."
+    },
+    {
+      "rank": 3,
+      "score": 5.9909,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Continue the expansion of supervised consumption\nservices and evaluate mobile overdose prevention"
+    },
+    {
+      "rank": 4,
+      "score": 5.1932,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Collaborate with local partners and the federal\ngovernment to pursue decriminalization, ensuring\nthe development of necessary services like safe\nconsumption sites and housing."
+    }
+  ]
+}

@@ -1,0 +1,1964 @@
+[
+  {
+    "id": "centrebc-0001",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/",
+    "sha256": "c613fab811852bc353bf6b8cb8e7dcc90b92cf1b0cc9cbfa1c4892526ab6b52a",
+    "local_path": "data/raw/centrebc/centrebc-0001.html",
+    "archive_url": "http://web.archive.org/web/20261001075713/https://www.centrebc.ca/",
+    "fetched_at": "2026-10-01T07:57:02Z"
+  },
+  {
+    "id": "centrebc-0002",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/our-core-values/",
+    "sha256": "fd09a9fea180a77a47055656e44b9b91eeab0436ca63e5e1dc0cca5d5dc6f7fa",
+    "local_path": "data/raw/centrebc/centrebc-0002.html",
+    "archive_url": "http://web.archive.org/web/20260922211528/https://www.centrebc.ca/our-core-values/",
+    "fetched_at": "2026-10-01T07:58:18Z"
+  },
+  {
+    "id": "centrebc-0003",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/vision/",
+    "sha256": "178a8ad7761c1f4deb3d8bba2a3d547726aa00c03c147819f11aeefc1eaa80b8",
+    "local_path": "data/raw/centrebc/centrebc-0003.html",
+    "archive_url": "http://web.archive.org/web/20260918220810/https://www.centrebc.ca/vision/",
+    "fetched_at": "2026-10-01T07:58:20Z"
+  },
+  {
+    "id": "centrebc-0004",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/resources/independent-adjudicator/",
+    "sha256": "ce05f255f059d4a741127ca8d30193c80b7d123620d878f045e6883988e67a7e",
+    "local_path": "data/raw/centrebc/centrebc-0004.html",
+    "archive_url": "https://web.archive.org/web/20261001084535/https://www.centrebc.ca/resources/independent-adjudicator/",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "centrebc-0005",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/candidates/",
+    "sha256": "17519ae052c0955796366a8d469d739c8bfdc5a403a73fdc97cdeb638a250eb3",
+    "local_path": "data/raw/centrebc/centrebc-0005.html",
+    "archive_url": "https://web.archive.org/web/20261001080624/https://www.centrebc.ca/candidates/",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "centrebc-0007",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/resources/",
+    "sha256": "993fffebf12f1bfdcca922ddd0e61379915d8d7b990195c7cd4f2372db8cc50b",
+    "local_path": "data/raw/centrebc/centrebc-0007.html",
+    "archive_url": "http://web.archive.org/web/20260918220804/https://www.centrebc.ca/resources/",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "centrebc-0009",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/our-policy/",
+    "sha256": "872e7f4a6b8ea817add6df10869526ae15ea9442d870946d7736409f5e0635e6",
+    "local_path": "data/raw/centrebc/centrebc-0009.html",
+    "archive_url": "http://web.archive.org/web/20260930142025/https://www.centrebc.ca/our-policy/",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "centrebc-0010",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/centrebc-announces-andrew-weaver-as-candidate-in-oak-bay-gordon-head/",
+    "sha256": "3db09546d27ee5d3f93e52bf06c3c3164d312580ef6565d85464152e51485e1a",
+    "local_path": "data/raw/centrebc/centrebc-0010.html",
+    "archive_url": "http://web.archive.org/web/20260929021937/https://www.centrebc.ca/news/news-release/centrebc-announces-andrew-weaver-as-candidate-in-oak-bay-gordon-head/",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "centrebc-0011",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/milobar-flips-again/",
+    "sha256": "172b224a2ad8bc6892ab715eee6d96620a6868553da74dc346f015cfc23aaf31",
+    "local_path": "data/raw/centrebc/centrebc-0011.html",
+    "archive_url": "http://web.archive.org/web/20260930144258/https://www.centrebc.ca/news/news-release/milobar-flips-again/",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "centrebc-0012",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/lakhwinder-jhaj-candidate-abbotsford-mission-by-election/",
+    "sha256": "80241edaff6e38254edce6ce0c3d7a34545c80d77d7ef0f9be4349de28e91424",
+    "local_path": "data/raw/centrebc/centrebc-0012.html",
+    "archive_url": "http://web.archive.org/web/20260930144733/https://www.centrebc.ca/news/news-release/lakhwinder-jhaj-candidate-abbotsford-mission-by-election/",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "centrebc-0015",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/british-columbians-deserve-answers-as-wildfires-rage/",
+    "sha256": "7c98c23c661d98b666be66af143749047af7b42cba93fe5b23f656a444e1e225",
+    "local_path": "data/raw/centrebc/centrebc-0015.html",
+    "archive_url": "http://web.archive.org/web/20260930145231/https://www.centrebc.ca/news/british-columbians-deserve-answers-as-wildfires-rage/",
+    "fetched_at": "2026-10-01T07:58:25Z"
+  },
+  {
+    "id": "centrebc-0017",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/former-cabinet-minister-mike-bernier-to-lead-centrebc/",
+    "sha256": "217965f7baafad3f1a94f1470289f56971a9b3204e0bb6d7397f08c0c6739a85",
+    "local_path": "data/raw/centrebc/centrebc-0017.html",
+    "archive_url": "http://web.archive.org/web/20260930145406/https://www.centrebc.ca/news/news-release/former-cabinet-minister-mike-bernier-to-lead-centrebc/",
+    "fetched_at": "2026-10-01T07:58:25Z"
+  },
+  {
+    "id": "centrebc-0019",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/centrebc-completes-landmark-first-agm/",
+    "sha256": "b2862bbb0d9eae28cdcb78758cfa09658b8412508d8b2326c0565df7dd78d329",
+    "local_path": "data/raw/centrebc/centrebc-0019.html",
+    "archive_url": "http://web.archive.org/web/20260930145820/https://www.centrebc.ca/news/news-release/centrebc-completes-landmark-first-agm/",
+    "fetched_at": "2026-10-01T07:58:25Z"
+  },
+  {
+    "id": "centrebc-0020",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/ai-strategy-vacuum/",
+    "sha256": "e6c7295f4219b4d77e60de59ee18aa256f86398e51b5ec188b69c27af184e841",
+    "local_path": "data/raw/centrebc/centrebc-0020.html",
+    "archive_url": "http://web.archive.org/web/20260930145837/https://www.centrebc.ca/news/ai-strategy-vacuum/",
+    "fetched_at": "2026-10-01T07:58:25Z"
+  },
+  {
+    "id": "centrebc-0021",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/statement-resurrecting-zombie-political-parties-wont-build-the-future/",
+    "sha256": "a793e0f9188bd3362737abed82a8cee40ca58a96e71e7b19d0dcf45f9efe3168",
+    "local_path": "data/raw/centrebc/centrebc-0021.html",
+    "archive_url": "http://web.archive.org/web/20260930145921/https://www.centrebc.ca/news/statement-resurrecting-zombie-political-parties-wont-build-the-future/",
+    "fetched_at": "2026-10-01T07:58:26Z"
+  },
+  {
+    "id": "centrebc-0023",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/leader/",
+    "sha256": "059719f7ed3c466c8cae835e63c2a74a39372b2e084d96e0783ff349d343d872",
+    "local_path": "data/raw/centrebc/centrebc-0023.html",
+    "archive_url": "http://web.archive.org/web/20260930001704/https://www.centrebc.ca/leader/",
+    "fetched_at": "2026-10-01T07:58:26Z"
+  },
+  {
+    "id": "centrebc-0024",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/fool-me-once/",
+    "sha256": "f2ef751c6c3f597308e59dbf8a046b2546bf20d51c727cb45898a56ac7e672fa",
+    "local_path": "data/raw/centrebc/centrebc-0024.html",
+    "archive_url": "https://web.archive.org/web/20261001080545/https://www.centrebc.ca/news/fool-me-once/",
+    "fetched_at": "2026-10-01T07:58:26Z"
+  },
+  {
+    "id": "centrebc-0025",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/centrebc-agm-next-phase-of-growth/",
+    "sha256": "ec3d743fb9f39c81b0ee4fb5c686786808caf7b93474981113d71eb135dec939",
+    "local_path": "data/raw/centrebc/centrebc-0025.html",
+    "archive_url": "http://web.archive.org/web/20260918220826/https://www.centrebc.ca/news/centrebc-agm-next-phase-of-growth/",
+    "fetched_at": "2026-10-01T07:58:26Z"
+  },
+  {
+    "id": "centrebc-0027",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-bc-legislative-gong-show-why-we-need-a-new-alternative/",
+    "sha256": "9223f16afe3928fe9bc4be76bd55e2b6ae660a54188fc65cf6540196996c3a39",
+    "local_path": "data/raw/centrebc/centrebc-0027.html",
+    "archive_url": "https://web.archive.org/web/20261001084614/https://www.centrebc.ca/news/opinion-bc-legislative-gong-show-why-we-need-a-new-alternative/",
+    "fetched_at": "2026-10-01T07:58:27Z"
+  },
+  {
+    "id": "centrebc-0029",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+    "sha256": "24e5aa40d00e1cdfd7d1993632c7e86a00613c4180f07317c3cc4b7612383f55",
+    "local_path": "data/raw/centrebc/centrebc-0029.html",
+    "archive_url": "",
+    "fetched_at": "2026-10-01T07:58:27Z"
+  },
+  {
+    "id": "centrebc-0031",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/statement-tragic-shooting-in-tumbler-ridge/",
+    "sha256": "00b609e71556e2d8e2f0910e33bf309242f45837727744c079797b361bf4e1b3",
+    "local_path": "data/raw/centrebc/centrebc-0031.html",
+    "archive_url": "",
+    "fetched_at": "2026-10-01T07:58:27Z"
+  },
+  {
+    "id": "centrebc-0032",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-facing-trump-threat-bc-needs-more-than-government-by-clickbait/",
+    "sha256": "c53923bc00a103e3fbdacc0e5ca75262fd8cfe442ccc616b4901c16b08eb24a9",
+    "local_path": "data/raw/centrebc/centrebc-0032.html",
+    "archive_url": "",
+    "fetched_at": "2026-10-01T07:58:27Z"
+  },
+  {
+    "id": "centrebc-0033",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/bc-conservatives-applaud-trump-aggression-against-another-country/",
+    "sha256": "c7a4b6535a41121dd8947adb6df665cde1204f3ce7dbc2a0336778839679f14d",
+    "local_path": "data/raw/centrebc/centrebc-0033.html",
+    "archive_url": "https://web.archive.org/web/20261001084918/https://www.centrebc.ca/news/news-release/bc-conservatives-applaud-trump-aggression-against-another-country/",
+    "fetched_at": "2026-10-01T07:58:27Z"
+  },
+  {
+    "id": "centrebc-0035",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/centrebc-slams-ndp-look-west-plan-as-more-empty-promises/",
+    "sha256": "a092db1384fcda7894249eb07118a6451e499c641ceae945c59a111ae1bc2389",
+    "local_path": "data/raw/centrebc/centrebc-0035.html",
+    "archive_url": "https://web.archive.org/web/20261001090520/https://www.centrebc.ca/news/news-release/centrebc-slams-ndp-look-west-plan-as-more-empty-promises/",
+    "fetched_at": "2026-10-01T07:58:28Z"
+  },
+  {
+    "id": "centrebc-0036",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/centrebc-unveils-3-step-plan-to-crush-transnational-extortion-terrorizing-surrey/",
+    "sha256": "daf644dbaeb0307e74ec35a5ba1d41836c132c41f00123708532d8098150f8e4",
+    "local_path": "data/raw/centrebc/centrebc-0036.html",
+    "archive_url": "http://web.archive.org/web/20251106213246/https://www.centrebc.ca/news/news-release/centrebc-unveils-3-step-plan-to-crush-transnational-extortion-terrorizing-surrey/",
+    "fetched_at": "2026-10-01T07:58:28Z"
+  },
+  {
+    "id": "centrebc-0037",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/news-release-eby-tariff-ad-upsets-team-canada-approach-to-trade/",
+    "sha256": "dea15d379ded242a029b2d58403507816660119fe0bf4f15ad6d96b87f0ecc5b",
+    "local_path": "data/raw/centrebc/centrebc-0037.html",
+    "archive_url": "http://web.archive.org/web/20251031133205/https://www.centrebc.ca/news/news-release/news-release-eby-tariff-ad-upsets-team-canada-approach-to-trade/",
+    "fetched_at": "2026-10-01T07:58:28Z"
+  },
+  {
+    "id": "centrebc-0038",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/news-release-centrebc-sets-five-hard-conditions-for-any-northern-pipeline/",
+    "sha256": "e2ee86d8769c5e5c32ef6be0788879d53c490a2f1012fe2c901003bce14f14f5",
+    "local_path": "data/raw/centrebc/centrebc-0038.html",
+    "archive_url": "http://web.archive.org/web/20260927072211/https://www.centrebc.ca/news/news-release/news-release-centrebc-sets-five-hard-conditions-for-any-northern-pipeline/",
+    "fetched_at": "2026-10-01T07:58:28Z"
+  },
+  {
+    "id": "centrebc-0039",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/news-release-eby-remains-uncommitted-to-workers-rewards-friends/",
+    "sha256": "df20f11f387766b429078914711f51690538fbbe17ea136c2cbce4f7fa1fd1cc",
+    "local_path": "data/raw/centrebc/centrebc-0039.html",
+    "archive_url": "",
+    "fetched_at": "2026-10-01T07:58:29Z"
+  },
+  {
+    "id": "centrebc-0040",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/former-mla-karin-kirkpatrick-officially-launches-centrebc/",
+    "sha256": "bb9ffd4295bef3747adf5d4fd8fe80311e8c848dbad1d3adff2f5180c167b04c",
+    "local_path": "data/raw/centrebc/centrebc-0040.html",
+    "archive_url": "http://web.archive.org/web/20260130014557/https://www.centrebc.ca/news/news-release/former-mla-karin-kirkpatrick-officially-launches-centrebc/",
+    "fetched_at": "2026-10-01T07:58:28Z"
+  },
+  {
+    "id": "centrebc-0041",
+    "party": "centrebc",
+    "url": "https://globalnews.ca/news/12072863/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc/",
+    "sha256": "4ec8a858648ccc8fd6081fc4f08aa60d4cf1f37d3de805d80238167f51a70654",
+    "local_path": "data/raw/centrebc/centrebc-0041.html",
+    "archive_url": "http://web.archive.org/web/20260926052129/https://globalnews.ca/news/12072863/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc/",
+    "fetched_at": "2026-10-01T07:58:28Z"
+  },
+  {
+    "id": "centrebc-0042",
+    "party": "centrebc",
+    "url": "https://www.ctvnews.ca/vancouver/article/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc/",
+    "sha256": "0d14cef198ed1f025170fac4dc8ff26cc1551e284e7db6403625f285c817418d",
+    "local_path": "data/raw/centrebc/centrebc-0042.html",
+    "archive_url": "http://web.archive.org/web/20260927095339/https://www.ctvnews.ca/vancouver/article/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc/",
+    "fetched_at": "2026-10-01T07:58:29Z"
+  },
+  {
+    "id": "centrebc-0043",
+    "party": "centrebc",
+    "url": "https://www.timescolonist.com/2026-bc-votes/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc-12824686",
+    "sha256": "3a80f91433457bb42639b8f37886a6cf583b16c7546e7905a94090daf776ba1e",
+    "local_path": "data/raw/centrebc/centrebc-0043.html",
+    "archive_url": "https://web.archive.org/web/20261001085148/https://www.timescolonist.com/2026-bc-votes/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc-12824686",
+    "fetched_at": "2026-10-01T07:58:29Z"
+  },
+  {
+    "id": "centrebc-0044",
+    "party": "centrebc",
+    "url": "https://coastmountainnews.com/2026/09/25/centre-bc-leader-elenore-sturko-running-in-surrey-south-for-provincial-election/",
+    "sha256": "2241aac8aee2695169229ecd25e13217014ae3743654e34544a0b5cd25f0dad7",
+    "local_path": "data/raw/centrebc/centrebc-0044.html",
+    "archive_url": "http://web.archive.org/web/20260926100500/https://coastmountainnews.com/2026/09/25/centre-bc-leader-elenore-sturko-running-in-surrey-south-for-provincial-election/",
+    "fetched_at": "2026-10-01T07:58:28Z"
+  },
+  {
+    "id": "centrebc-0045",
+    "party": "centrebc",
+    "url": "https://donshafer1.substack.com/p/bc-election-2026-a-conversation-with-acd",
+    "sha256": "52f35a3a5024a7473a9d899300288ab56ffdaa641a239ca631e7654448847a86",
+    "local_path": "data/raw/centrebc/centrebc-0045.html",
+    "archive_url": "https://web.archive.org/web/20261001085221/https://donshafer1.substack.com/p/bc-election-2026-a-conversation-with-acd",
+    "fetched_at": "2026-10-01T07:58:29Z"
+  },
+  {
+    "id": "centrebc-0046",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-the-hard-work-of-certainty-resolving-bcs-original-sin/",
+    "sha256": "a4f43328157e136e8731b5e069b12c6671bbed83575ffcd1d18b76188a0b12ae",
+    "local_path": "data/raw/centrebc/centrebc-0046.html",
+    "archive_url": "",
+    "fetched_at": "2026-10-01T07:58:30Z"
+  },
+  {
+    "id": "centrebc-0047",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-healthcare-crisis-was-never-a-surprise/",
+    "sha256": "2e7b53fc75c8e5807614c3111a9532e36dea4c5db141e862f624ea16461451c8",
+    "local_path": "data/raw/centrebc/centrebc-0047.html",
+    "archive_url": "http://web.archive.org/web/20260930150026/https://www.centrebc.ca/news/opinion-healthcare-crisis-was-never-a-surprise/",
+    "fetched_at": "2026-10-01T07:58:31Z"
+  },
+  {
+    "id": "centrebc-0048",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/ottawa-and-bc-just-moved-toward-centrebc-pipeline-conditions/",
+    "sha256": "a36812f5da14c00349cc94fbd5d47f3278e4f444332904e1f3724076298be662",
+    "local_path": "data/raw/centrebc/centrebc-0048.html",
+    "archive_url": "http://web.archive.org/web/20260930145536/https://www.centrebc.ca/news/ottawa-and-bc-just-moved-toward-centrebc-pipeline-conditions/",
+    "fetched_at": "2026-10-01T07:58:32Z"
+  },
+  {
+    "id": "centrebc-0049",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/bc-deserves-better-than-chaos-or-extremism/",
+    "sha256": "c9be226627c5239ba61f5b6a3cb5f2f2c77843018e864e94fc19e08fbce5e188",
+    "local_path": "data/raw/centrebc/centrebc-0049.html",
+    "archive_url": "http://web.archive.org/web/20260929022657/https://www.centrebc.ca/news/bc-deserves-better-than-chaos-or-extremism/",
+    "fetched_at": "2026-10-01T07:58:33Z"
+  },
+  {
+    "id": "centrebc-0050",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+    "sha256": "695b534cc18f536769aea3409a93a2b6c6a4b3ae38fb1e3880caaf091a014299",
+    "local_path": "data/raw/centrebc/centrebc-0050.html",
+    "archive_url": "",
+    "fetched_at": "2026-10-01T08:01:52Z"
+  },
+  {
+    "id": "centrebc-0051",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/ndp-marches-in-pride-parade-while-cutting-hiv-care-funding/",
+    "sha256": "0f4a2a6518e41888ca280e661b3d972aed9a7d18ca7250e7bfd9aa3c184fd734",
+    "local_path": "data/raw/centrebc/centrebc-0051.html",
+    "archive_url": "http://web.archive.org/web/20260930145052/https://www.centrebc.ca/news/ndp-marches-in-pride-parade-while-cutting-hiv-care-funding/",
+    "fetched_at": "2026-10-01T07:59:39Z"
+  },
+  {
+    "id": "centrebc-0052",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+    "sha256": "2acb64912302c9f62a7bac6ba31eee53fe282ac87d43456e63a7383b9febf80d",
+    "local_path": "data/raw/centrebc/centrebc-0052.html",
+    "archive_url": "http://web.archive.org/web/20260930145033/https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+    "fetched_at": "2026-10-01T07:59:41Z"
+  },
+  {
+    "id": "centrebc-0053",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/centrebc-demands-provincial-action-on-closure-of-crofton-mill/",
+    "sha256": "252e61166295bdb7a17b7ac2c1a96de1291be5064f90dbd622af3bd1a4827c0a",
+    "local_path": "data/raw/centrebc/centrebc-0053.html",
+    "archive_url": "https://web.archive.org/web/20261001091345/https://www.centrebc.ca/news/news-release/centrebc-demands-provincial-action-on-closure-of-crofton-mill/",
+    "fetched_at": "2026-10-01T07:59:42Z"
+  },
+  {
+    "id": "centrebc-0054",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-ending-intimate-partner-violence-requires-more-than-announcements/",
+    "sha256": "498359d1b3acfa2a56e49faa539049ab57169f0cbef5d44e0585d98bf653142c",
+    "local_path": "data/raw/centrebc/centrebc-0054.html",
+    "archive_url": "https://web.archive.org/web/20261001090810/https://www.centrebc.ca/news/opinion-ending-intimate-partner-violence-requires-more-than-announcements/",
+    "fetched_at": "2026-10-01T07:59:43Z"
+  },
+  {
+    "id": "centrebc-0055",
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+    "sha256": "22cac31143343e045bf904dc695c0d28631ff53dbac85d0665891f584e394aca",
+    "local_path": "data/raw/centrebc/centrebc-0055.html",
+    "archive_url": "https://web.archive.org/web/20261001085726/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+    "fetched_at": "2026-10-01T08:03:18Z"
+  },
+  {
+    "id": "centrebc-0056",
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+    "sha256": "9bc33e4c4ddc6ad4b7082276be6e8d958e051e91faddbe6488812a155788653f",
+    "local_path": "data/raw/centrebc/centrebc-0056.html",
+    "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+    "fetched_at": "2026-10-01T08:03:19Z"
+  },
+  {
+    "id": "centrebc-0057",
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+    "sha256": "ac0507dcd5d3eb9382640bec660d080a2e078bff5abee637afc19ad8210b60d0",
+    "local_path": "data/raw/centrebc/centrebc-0057.html",
+    "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+    "fetched_at": "2026-10-01T08:03:19Z"
+  },
+  {
+    "id": "centrebc-0058",
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+    "sha256": "806dfdb96f879b00544b4c8cfd579798743f3d197da9d829e150169e32fec7de",
+    "local_path": "data/raw/centrebc/centrebc-0058.html",
+    "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+    "fetched_at": "2026-10-01T08:03:18Z"
+  },
+  {
+    "id": "centrebc-0059",
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+    "sha256": "c24bba828a6aa2c3bac0f4a432e4e48626c5f97c447786ee5e1ca4204e61234c",
+    "local_path": "data/raw/centrebc/centrebc-0059.html",
+    "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+    "fetched_at": "2026-10-01T08:03:19Z"
+  },
+  {
+    "id": "centrebc-0060",
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+    "sha256": "5578b3976af96b359cd879dabe73ed7a63593b1372fe0af8728183192365f540",
+    "local_path": "data/raw/centrebc/centrebc-0060.html",
+    "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+    "fetched_at": "2026-10-01T08:03:19Z"
+  },
+  {
+    "id": "centrebc-0061",
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+    "sha256": "80872400dde66bfe30737faed51a32cb8906845d3ad63aaa5bc8242acd5c4111",
+    "local_path": "data/raw/centrebc/centrebc-0061.html",
+    "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+    "fetched_at": "2026-10-01T08:03:20Z"
+  },
+  {
+    "id": "centrebc-0062",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/our-team/",
+    "sha256": "03ca19802f0af34887ab0616f02c38e1acff66f81244f29ab76550dee5d243b2",
+    "local_path": "data/raw/centrebc/centrebc-0062.html",
+    "archive_url": "http://web.archive.org/web/20260930001534/https://www.centrebc.ca/our-team/",
+    "fetched_at": "2026-10-01T08:05:24Z"
+  },
+  {
+    "id": "centrebc-0063",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/bc-conservatives-elect-hard-right-leader/",
+    "sha256": "b9b3d3f509182b167c1e66a793ec3a7ec39939bc1609a235230dec2ca41e4ca6",
+    "local_path": "data/raw/centrebc/centrebc-0063.html",
+    "archive_url": "https://web.archive.org/web/20260927072716/https://www.centrebc.ca/news/news-release/bc-conservatives-elect-hard-right-leader/",
+    "fetched_at": "2026-10-01T08:05:25Z"
+  },
+  {
+    "id": "centrebc-0064",
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/path-foward-for-bc/",
+    "sha256": "178a8ad7761c1f4deb3d8bba2a3d547726aa00c03c147819f11aeefc1eaa80b8",
+    "local_path": "data/raw/centrebc/centrebc-0064.html",
+    "archive_url": "https://web.archive.org/web/20260918220810/https://www.centrebc.ca/vision/",
+    "fetched_at": "2026-10-01T08:11:25Z"
+  },
+  {
+    "id": "centrebc-0065",
+    "party": "centrebc",
+    "url": "https://vancouversun.com/news/peter-milobar-mike-bernier-announce-centre-right-alternative-bc-party",
+    "sha256": "bca011815f49f539377dde843fb3acc374e4e1fccc1c90495ad8f98d16eb1769",
+    "local_path": "data/raw/centrebc/centrebc-0065.html",
+    "archive_url": "https://web.archive.org/web/20261001090155/https://vancouversun.com/news/peter-milobar-mike-bernier-announce-centre-right-alternative-bc-party",
+    "fetched_at": "2026-10-01T08:11:27Z"
+  },
+  {
+    "id": "centrebc-0066",
+    "party": "centrebc",
+    "url": "https://vancouver.citynews.ca/2026/09/27/busyelection-week/",
+    "sha256": "aab7fcf65dd585a75abcd22fdb71b51108d49e3284216c65d845d7aa766e7168",
+    "local_path": "data/raw/centrebc/centrebc-0066.html",
+    "archive_url": "http://web.archive.org/web/20260928221252/https://vancouver.citynews.ca/2026/09/27/busyelection-week/",
+    "fetched_at": "2026-10-01T08:11:31Z"
+  },
+  {
+    "id": "centrebc-0067",
+    "party": "centrebc",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+    "sha256": "276aeb40cd7828bc241ca0674818b188622a405960753b3863e741223dce0fad",
+    "local_path": "data/raw/centrebc/centrebc-0067.html",
+    "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+    "fetched_at": "2026-10-01T08:11:34Z"
+  },
+  {
+    "id": "cpb-0001",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+    "sha256": "56845d3a503f9f6109135e04e65db41a95920eb0b5b9b20026876ab38e2cbadb",
+    "local_path": "data/raw/cpb/cpb-0001.pdf",
+    "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+    "fetched_at": "2026-10-01T08:04:00Z"
+  },
+  {
+    "id": "cpb-0002",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/our-platform/",
+    "sha256": "efd1e825aaaee9f61087428d3e62831c5ee0c58fea641c47f7e5b2a18d1478bc",
+    "local_path": "data/raw/cpb/cpb-0002.html",
+    "archive_url": "https://web.archive.org/web/20261001075506/https://conservativebc.ca/our-platform/",
+    "fetched_at": "2026-10-01T07:55:22Z"
+  },
+  {
+    "id": "cpb-0003",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/",
+    "sha256": "dec313de99381cb3505f1cacfa59fbd9828de1330e2e24d9ecf70ef38146aa43",
+    "local_path": "data/raw/cpb/cpb-0003.html",
+    "archive_url": "http://web.archive.org/web/20260930141753/https://conservativebc.ca/",
+    "fetched_at": "2026-10-01T07:58:15Z"
+  },
+  {
+    "id": "cpb-0004",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/wp-content/uploads/2025/06/Appendix_-_Platform_Costing_2024.final_.pdf",
+    "sha256": "1bc33e77404bcaf05e45253bdd43694dc0f90aabf265b71a6a488aa24d4515c3",
+    "local_path": "data/raw/cpb/cpb-0004.pdf",
+    "archive_url": "http://web.archive.org/web/20251017100234/https://conservativebc.ca/wp-content/uploads/2025/06/Appendix_-_Platform_Costing_2024.final_.pdf",
+    "fetched_at": "2026-10-01T08:04:11Z"
+  },
+  {
+    "id": "cpb-0005",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/wp-content/uploads/2026/09/BC-ENERGY-SUPERPOWER_5_compressed.pdf",
+    "sha256": "4e2712fea6da0f02cf991ffa44cf4d02354875975d1bad66378ff54775acef98",
+    "local_path": "data/raw/cpb/cpb-0005.pdf",
+    "archive_url": "http://web.archive.org/web/20260929023653/https://conservativebc.ca/wp-content/uploads/2026/09/BC-ENERGY-SUPERPOWER_5_compressed.pdf",
+    "fetched_at": "2026-10-01T08:03:59Z"
+  },
+  {
+    "id": "cpb-0006",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/banman-condemns-ndps-cruel-zero-notice-approach-to-the-cole-road-encampment-shutdown/",
+    "sha256": "f4036f251dd73cc0249a2de57804f1446eb14b19a99d443cc19bc12acdd6c4fa",
+    "local_path": "data/raw/cpb/cpb-0006.html",
+    "archive_url": "http://web.archive.org/web/20260310061346/https://conservativebc.ca/banman-condemns-ndps-cruel-zero-notice-approach-to-the-cole-road-encampment-shutdown/",
+    "fetched_at": "2026-10-01T08:11:05Z"
+  },
+  {
+    "id": "cpb-0007",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/broken-promises-failed-leadership-response-to-premier-ebys-extortion-update",
+    "sha256": "f195edefc11fbe42b5274dc719b90a77954b539f6363b6e53668c1305dbafcc2",
+    "local_path": "data/raw/cpb/cpb-0007.html",
+    "archive_url": "http://web.archive.org/web/20260515132614/https://conservativebc.ca/broken-promises-failed-leadership-response-to-premier-ebys-extortion-update/",
+    "fetched_at": "2026-10-01T08:05:30Z"
+  },
+  {
+    "id": "cpb-0008",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/advisory-committee-wont-stop-extortion-without-arrests-jail-time-and-deportations/",
+    "sha256": "a07b9038452063d4789b3cd68434dc1d46894a40f374b9991d7e8a9b0ff84a62",
+    "local_path": "data/raw/cpb/cpb-0008.html",
+    "archive_url": "http://web.archive.org/web/20260515143154/https://conservativebc.ca/advisory-committee-wont-stop-extortion-without-arrests-jail-time-and-deportations/",
+    "fetched_at": "2026-10-01T08:10:58Z"
+  },
+  {
+    "id": "cpb-0009",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/bc-conservatives-call-out-ndp-government-secrecy-on-dripa-amendments/",
+    "sha256": "0c7705e89198512fdc3ff8c7238e4189dd68c91acc8035070098159a920c7a39",
+    "local_path": "data/raw/cpb/cpb-0009.html",
+    "archive_url": "http://web.archive.org/web/20260411112953/https://conservativebc.ca/bc-conservatives-call-out-ndp-government-secrecy-on-dripa-amendments/",
+    "fetched_at": "2026-10-01T08:11:02Z"
+  },
+  {
+    "id": "cpb-0010",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/bc-nurses-vote-98-for-strike-as-ndps-healthcare-crisis-deepens/",
+    "sha256": "ff1e74fe413424420b1260c704240c5f255c4c134ee0d143e43f8ed1939700cb",
+    "local_path": "data/raw/cpb/cpb-0010.html",
+    "archive_url": "http://web.archive.org/web/20260615203248/https://conservativebc.ca/bc-nurses-vote-98-for-strike-as-ndps-healthcare-crisis-deepens/",
+    "fetched_at": "2026-10-01T08:10:48Z"
+  },
+  {
+    "id": "cpb-0011",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/4620-dead-waitlists-up-10-the-ndp-calls-this-a-health-care-system/",
+    "sha256": "d387f3e8f30b2a26f8daaae998d414b31ff0e566727e53ced3d108fec08aa6ac",
+    "local_path": "data/raw/cpb/cpb-0011.html",
+    "archive_url": "http://web.archive.org/web/20260618193855/https://conservativebc.ca/4620-dead-waitlists-up-10-the-ndp-calls-this-a-health-care-system/",
+    "fetched_at": "2026-10-01T08:10:53Z"
+  },
+  {
+    "id": "cpb-0012",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/every-conservative-party-of-bc-mla-approved-to-run-as-a-candidate/",
+    "sha256": "0add29efc0d6df04ae8ad39bb64a094e151f5ad9ca7e156147a0ad8b6c863e48",
+    "local_path": "data/raw/cpb/cpb-0012.html",
+    "archive_url": "http://web.archive.org/web/20260930005452/https://conservativebc.ca/every-conservative-party-of-bc-mla-approved-to-run-as-a-candidate/",
+    "fetched_at": "2026-10-01T07:59:56Z"
+  },
+  {
+    "id": "cpb-0013",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/standing-up-to-trump-takes-action-not-press-releases/",
+    "sha256": "0230202b821a5dc521758c719b1ec71709a7b2b54d074fd8eb694dc8a6d8eaea",
+    "local_path": "data/raw/cpb/cpb-0013.html",
+    "archive_url": "http://web.archive.org/web/20260930005355/https://conservativebc.ca/standing-up-to-trump-takes-action-not-press-releases/",
+    "fetched_at": "2026-10-01T07:59:46Z"
+  },
+  {
+    "id": "cpb-0014",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/the-ndp-called-this-election-now-they-wont-talk-about-why/",
+    "sha256": "9cbf8e697794cd75253b683aff1f767d8e5f997ce1fd1a15dd22923eb5cd37d6",
+    "local_path": "data/raw/cpb/cpb-0014.html",
+    "archive_url": "http://web.archive.org/web/20261001080730/https://conservativebc.ca/the-ndp-called-this-election-now-they-wont-talk-about-why/",
+    "fetched_at": "2026-10-01T07:59:54Z"
+  },
+  {
+    "id": "cpb-0015",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/statement-from-interim-leader-lorne-doerkson-on-the-ndps-housing-tax-plan/",
+    "sha256": "e2fd29f92720dc99abc86a2aaf11410e67a1b777e9a779eb1d88d0cf9fe569a1",
+    "local_path": "data/raw/cpb/cpb-0015.html",
+    "archive_url": "http://web.archive.org/web/20260930005222/https://conservativebc.ca/statement-from-interim-leader-lorne-doerkson-on-the-ndps-housing-tax-plan/",
+    "fetched_at": "2026-10-01T07:59:38Z"
+  },
+  {
+    "id": "cpb-0016",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/white-rock-mayor-megan-knight-to-run-for-the-conservative-party-of-british-columbia-in-surrey-south/",
+    "sha256": "a4c8045a49eecf7517f2843b27013b27d1d37c54e9e6658d0903faaed5ab965b",
+    "local_path": "data/raw/cpb/cpb-0016.html",
+    "archive_url": "http://web.archive.org/web/20260930005414/https://conservativebc.ca/white-rock-mayor-megan-knight-to-run-for-the-conservative-party-of-british-columbia-in-surrey-south/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0017",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/conservative-party-of-bc-pledges-no-new-taxes-on-british-columbians/",
+    "sha256": "80581d624b0223ae23d26deec1966537572469ac64e7a676608b3ab50bde2dcb",
+    "local_path": "data/raw/cpb/cpb-0017.html",
+    "archive_url": "http://web.archive.org/web/20260929023334/https://conservativebc.ca/conservative-party-of-bc-pledges-no-new-taxes-on-british-columbians/",
+    "fetched_at": "2026-10-01T07:59:36Z"
+  },
+  {
+    "id": "cpb-0018",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/make-british-columbia-an-energy-superpower/",
+    "sha256": "ece6bb017cc7049723145999c7425f2aae9fa7ef4a13407a73ac3fab0b1ce9d9",
+    "local_path": "data/raw/cpb/cpb-0018.html",
+    "archive_url": "http://web.archive.org/web/20260930005930/https://conservativebc.ca/make-british-columbia-an-energy-superpower/",
+    "fetched_at": "2026-10-01T07:59:39Z"
+  },
+  {
+    "id": "cpb-0019",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/conservative-party-of-bc-announces-strong-surrey-candidates-for-serious-times/",
+    "sha256": "0977961e87d7852e236b3451500731897b0164705c5758158dfbbaa9bfc4be43",
+    "local_path": "data/raw/cpb/cpb-0019.html",
+    "archive_url": "http://web.archive.org/web/20260930002035/https://conservativebc.ca/conservative-party-of-bc-announces-strong-surrey-candidates-for-serious-times/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0020",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/bc-conservatives-welcome-lng-canada-phase-2-we-will-treat-energy-as-an-urgent-mission/",
+    "sha256": "e1bf60bc873a7a3c5060f694849e6736162ffd1ee62dd75fb8a696f387e0bfd3",
+    "local_path": "data/raw/cpb/cpb-0020.html",
+    "archive_url": "http://web.archive.org/web/20260930001057/https://conservativebc.ca/bc-conservatives-welcome-lng-canada-phase-2-we-will-treat-energy-as-an-urgent-mission/",
+    "fetched_at": "2026-10-01T07:59:43Z"
+  },
+  {
+    "id": "cpb-0021",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/conservatives-to-remove-pst-from-canadian-alcohol/",
+    "sha256": "207b00c87874b2ec90a84935dab9042c84a0369c9e4152297f96f78b26c5130b",
+    "local_path": "data/raw/cpb/cpb-0021.html",
+    "archive_url": "http://web.archive.org/web/20260930002035/https://conservativebc.ca/conservatives-to-remove-pst-from-canadian-alcohol/",
+    "fetched_at": "2026-10-01T07:59:45Z"
+  },
+  {
+    "id": "cpb-0022",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/latest-news-updates/",
+    "sha256": "16347e86a1313b5d1e3c5cad68c9fd1cd1ef09cfa25dd7ecdb5d2569ca741578",
+    "local_path": "data/raw/cpb/cpb-0022.html",
+    "archive_url": "http://web.archive.org/web/20260922211501/https://conservativebc.ca/latest-news-updates/",
+    "fetched_at": "2026-10-01T07:56:25Z"
+  },
+  {
+    "id": "cpb-0023",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/conservative-party-of-bc-statement-on-national-day-of-truth-and-reconciliation/",
+    "sha256": "73ea2f482dea4ab7cb8463eeba204b1b24c2b1eb19da38412561babdca4eec4c",
+    "local_path": "data/raw/cpb/cpb-0023.html",
+    "archive_url": "http://web.archive.org/web/20261001080730/https://conservativebc.ca/conservative-party-of-bc-statement-on-national-day-of-truth-and-reconciliation/",
+    "fetched_at": "2026-10-01T07:59:48Z"
+  },
+  {
+    "id": "cpb-0024",
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+    "sha256": "6e5b2e245cd2043169412dd84ef45ce4fff93401e8720f627cb08c5b1b4ca28b",
+    "local_path": "data/raw/cpb/cpb-0024.html",
+    "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0025",
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+    "sha256": "c24bba828a6aa2c3bac0f4a432e4e48626c5f97c447786ee5e1ca4204e61234c",
+    "local_path": "data/raw/cpb/cpb-0025.html",
+    "archive_url": "http://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0026",
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+    "sha256": "276aeb40cd7828bc241ca0674818b188622a405960753b3863e741223dce0fad",
+    "local_path": "data/raw/cpb/cpb-0026.html",
+    "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+    "fetched_at": "2026-10-01T08:05:04Z"
+  },
+  {
+    "id": "cpb-0027",
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+    "sha256": "73f11a9d15b5f810c2c93f0a422725c9a3821db850acda76054635d13d80e189",
+    "local_path": "data/raw/cpb/cpb-0027.html",
+    "archive_url": "https://web.archive.org/web/20261001081938/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+    "fetched_at": "2026-10-01T08:05:10Z"
+  },
+  {
+    "id": "cpb-0028",
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+    "sha256": "a0b03da27b16d57ca2b6ffd619e596cf3a7a44413f74666b08036b7888ab3c1a",
+    "local_path": "data/raw/cpb/cpb-0028.html",
+    "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0029",
+    "party": "cpb",
+    "url": "https://www.bclaws.gov.bc.ca/civix/document/id/bills/billscurrent/2nd43rd_progress-of-bills_members",
+    "sha256": "e354c1c07a4923125c084fc5603a9266a2c796a4bce7d687136d9e51e5ca38ce",
+    "local_path": "data/raw/cpb/cpb-0029.html",
+    "archive_url": "http://web.archive.org/web/20260419094733/https://www.bclaws.gov.bc.ca/civix/document/id/bills/billscurrent/2nd43rd_progress-of-bills_members",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0030",
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+    "sha256": "42a83877791aea86e715ac99f9f4ca4f98f951be3c933ab445616641fe846aa4",
+    "local_path": "data/raw/cpb/cpb-0030.html",
+    "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+    "fetched_at": "2026-10-01T08:05:15Z"
+  },
+  {
+    "id": "cpb-0031",
+    "party": "cpb",
+    "url": "https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+    "sha256": "2f4103045d722829c506b01fbe6771b063387a99c05ab6e584c5590ea6cceef6",
+    "local_path": "data/raw/cpb/cpb-0031.html",
+    "archive_url": "http://web.archive.org/web/20260915092040/https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+    "fetched_at": "2026-10-01T08:05:16Z"
+  },
+  {
+    "id": "cpb-0032",
+    "party": "cpb",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/kerry-lynne-findlay-resigns-as-leader-of-the-b-c-conservative-party-9.7351532",
+    "sha256": "9883e6dae39db09accf405b525f3e1ed5ba29d078cdcb6649230ab5babbf5a4e",
+    "local_path": "data/raw/cpb/cpb-0032.html",
+    "archive_url": "http://web.archive.org/web/20260922213040/https://www.cbc.ca/news/canada/british-columbia/kerry-lynne-findlay-resigns-as-leader-of-the-b-c-conservative-party-9.7351532",
+    "fetched_at": "2026-10-01T08:05:24Z"
+  },
+  {
+    "id": "cpb-0033",
+    "party": "cpb",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/lorne-doerkson-named-b-c-conservatives-interim-leader-9.7352318",
+    "sha256": "75e9a0255174ed7547c4a4c6435791e545c0de0987f44b0518a01b72f754b6b1",
+    "local_path": "data/raw/cpb/cpb-0033.html",
+    "archive_url": "http://web.archive.org/web/20260922213040/https://www.cbc.ca/news/canada/british-columbia/lorne-doerkson-named-b-c-conservatives-interim-leader-9.7352318",
+    "fetched_at": "2026-10-01T08:05:27Z"
+  },
+  {
+    "id": "cpb-0034",
+    "party": "cpb",
+    "url": "https://hopestandard.com/2026/09/24/former-rodeo-rider-doerkson-seeks-to-buck-off-eby-in-b-c-election/",
+    "sha256": "5eefb2728ee0ed3f00847e7132c510b4f50a8a91577b0a3b78e51a2a404d891b",
+    "local_path": "data/raw/cpb/cpb-0034.html",
+    "archive_url": "https://web.archive.org/web/20261001083917/https://hopestandard.com/2026/09/24/former-rodeo-rider-doerkson-seeks-to-buck-off-eby-in-b-c-election/",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0035",
+    "party": "cpb",
+    "url": "https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
+    "sha256": "7ed6dd0dbf270bf5c0619e7e9f5212be3980b5a4acd060b10da973833b079c53",
+    "local_path": "data/raw/cpb/cpb-0035.html",
+    "archive_url": "https://web.archive.org/web/20261001083613/https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0036",
+    "party": "cpb",
+    "url": "https://www.theglobeandmail.com/canada/british-columbia/article-lorne-doerkson-takes-the-reins-of-bc-conservatives-with-a-party-to/",
+    "sha256": "19887f17709b3c2341ab69290f0fad61b90322a2bb792431beafebf2b879d2a6",
+    "local_path": "data/raw/cpb/cpb-0036.html",
+    "archive_url": "https://web.archive.org/web/20261001083945/https://www.theglobeandmail.com/canada/british-columbia/article-lorne-doerkson-takes-the-reins-of-bc-conservatives-with-a-party-to/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0037",
+    "party": "cpb",
+    "url": "https://cfjctoday.com/2026/09/27/b-c-conservatives-promise-no-new-taxes-if-elected-on-october-24/",
+    "sha256": "b30e094226b9519c6e4b8be86cbc778f90be40a6186ef0b25a0c22bc7a968673",
+    "local_path": "data/raw/cpb/cpb-0037.html",
+    "archive_url": "http://web.archive.org/web/20261001082019/https://cfjctoday.com/2026/09/27/b-c-conservatives-promise-no-new-taxes-if-elected-on-october-24/",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0038",
+    "party": "cpb",
+    "url": "https://vancouversun.com/news/bc-election-2026-conservatives-campain-announcement-taxes",
+    "sha256": "6da0c0fb0f025d1ef6d4c765cd3b5f22b635520c8e72c744f73ccc55f3cbec33",
+    "local_path": "data/raw/cpb/cpb-0038.html",
+    "archive_url": "http://web.archive.org/web/20261001082047/https://vancouversun.com/news/bc-election-2026-conservatives-campain-announcement-taxes",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0039",
+    "party": "cpb",
+    "url": "https://globalnews.ca/news/12075070/bc-election-september-27-conservative-platform/",
+    "sha256": "0b579c9f384acda0c8349b7a96b93b9a6078ae5993d0e305d9862d7a0c8e7c43",
+    "local_path": "data/raw/cpb/cpb-0039.html",
+    "archive_url": "http://web.archive.org/web/20260928221228/https://globalnews.ca/news/12075070/bc-election-september-27-conservative-platform/",
+    "fetched_at": "2026-10-01T08:05:17Z"
+  },
+  {
+    "id": "cpb-0040",
+    "party": "cpb",
+    "url": "https://agassizharrisonobserver.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production/",
+    "sha256": "a144eaf9e193cb7bcfeab92f09a730e790c2c3e82d2c80f16ea7e7baa6a89649",
+    "local_path": "data/raw/cpb/cpb-0040.html",
+    "archive_url": "http://web.archive.org/web/20260929022258/https://agassizharrisonobserver.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0041",
+    "party": "cpb",
+    "url": "https://globalnews.ca/news/12076424/bc-election-eby-cut-deficit-wasteful-spending/",
+    "sha256": "ad51274bf47ef530dfb7ef4549832952232edf367d3cc632254d56e48d8305a5",
+    "local_path": "data/raw/cpb/cpb-0041.html",
+    "archive_url": "http://web.archive.org/web/20260929131435/https://globalnews.ca/news/12076424/bc-election-eby-cut-deficit-wasteful-spending/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0042",
+    "party": "cpb",
+    "url": "https://vernonmorningstar.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production",
+    "sha256": "c2bac6fcf392842b45f44e0639cf5693f0d6e3891831c9eed70b633cf5d9ef1c",
+    "local_path": "data/raw/cpb/cpb-0042.html",
+    "archive_url": "http://web.archive.org/web/20260929031806/https://vernonmorningstar.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production/",
+    "fetched_at": "2026-10-01T08:05:19Z"
+  },
+  {
+    "id": "cpb-0043",
+    "party": "cpb",
+    "url": "https://vancouversun.com/news/ndp-bc-conservatives-both-take-credit-growing-lng-sector-final-investment-lng-canada-phase-2-looms",
+    "sha256": "b14db704c0880a4ac7e2eabb467a20ef593265ecc80e23554a4ffc32fd9629ae",
+    "local_path": "data/raw/cpb/cpb-0043.html",
+    "archive_url": "https://web.archive.org/web/20261001082120/https://vancouversun.com/news/ndp-bc-conservatives-both-take-credit-growing-lng-sector-final-investment-lng-canada-phase-2-looms",
+    "fetched_at": "2026-10-01T08:05:21Z"
+  },
+  {
+    "id": "cpb-0044",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/our-party/",
+    "sha256": "c8a56e28c58d507e3329b38052cf92402860c047911f38d2cf09367a27fb534f",
+    "local_path": "data/raw/cpb/cpb-0044.html",
+    "archive_url": "http://web.archive.org/web/20260513034126/https://conservativebc.ca/our-party/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0045",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_1_March_2025_Constitution.pdf",
+    "sha256": "0d8eedf5af60ee2c754479de2408203955335b2828e55099935c7b38c2d5cecd",
+    "local_path": "data/raw/cpb/cpb-0045.pdf",
+    "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_1_March_2025_Constitution.pdf",
+    "fetched_at": "2026-10-01T08:04:10Z"
+  },
+  {
+    "id": "cpb-0046",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/stakeholder-groups/",
+    "sha256": "d32bc07b1be1be530c4422466b07fe9ec848274efdbcb48b6053be91bbb94f76",
+    "local_path": "data/raw/cpb/cpb-0046.html",
+    "archive_url": "http://web.archive.org/web/20260922211627/https://conservativebc.ca/stakeholder-groups/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0047",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/wp-content/uploads/2026/05/2026-05-30-Conservative-Party-of-BC-Leadership-Results.pdf",
+    "sha256": "4a6dc635db4cea66cc70daa8b26b1de2a8fbcda32c7453cd98e3de5d51aa13a5",
+    "local_path": "data/raw/cpb/cpb-0047.pdf",
+    "archive_url": "https://web.archive.org/web/20261001081354/https://conservativebc.ca/wp-content/uploads/2026/05/2026-05-30-Conservative-Party-of-BC-Leadership-Results.pdf",
+    "fetched_at": "2026-10-01T08:14:01Z"
+  },
+  {
+    "id": "cpb-0048",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/our-leader/",
+    "sha256": "1a42515db9fe1fd9943adb266772ec7132397d093b672705f148fd121b48f7ce",
+    "local_path": "data/raw/cpb/cpb-0048.html",
+    "archive_url": "http://web.archive.org/web/20251024185418/https://conservativebc.ca/our-leader/",
+    "fetched_at": "2026-10-01T07:59:57Z"
+  },
+  {
+    "id": "cpb-0049",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/our-team/",
+    "sha256": "1b0baedb8ea6d7ccc7e98e76d712bf957586a39206d83baad3d4b821af55c470",
+    "local_path": "data/raw/cpb/cpb-0049.html",
+    "archive_url": "http://web.archive.org/web/20260930141818/https://conservativebc.ca/our-team/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "cpb-0050",
+    "party": "cpb",
+    "url": "https://bcballot.ca/platforms/conservative-party/",
+    "sha256": "91bcbe634a09ff0688d6096728357e019ac63f600424b25672d7d642442e38ae",
+    "local_path": "data/raw/cpb/cpb-0050.html",
+    "archive_url": "https://web.archive.org/web/20261001082150/https://bcballot.ca/platforms/conservative-party/",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0051",
+    "party": "cpb",
+    "url": "https://bcballot.ca/platforms/bc-ndp-vs-conservative/",
+    "sha256": "3f9f1b7d1eed555f04d66c5290e0c7df90da8327221b96fd2ccea58291672f21",
+    "local_path": "data/raw/cpb/cpb-0051.html",
+    "archive_url": "https://web.archive.org/web/20261001082211/https://bcballot.ca/platforms/bc-ndp-vs-conservative/",
+    "fetched_at": "2026-10-01T08:03:10Z"
+  },
+  {
+    "id": "cpb-0052",
+    "party": "cpb",
+    "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+    "sha256": "cb9bb3696c33f799ecd194a46e3ec177eaf2a6348480a096ed0b16a235b00b53",
+    "local_path": "data/raw/cpb/cpb-0052.pdf",
+    "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+    "fetched_at": "2026-10-01T08:14:10Z"
+  },
+  {
+    "id": "cpb-0053",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/official-documents/",
+    "sha256": "81db5b7d6b84b4833bab0146b2b8a2556f5771181ffdb8607ff8969a71ae49d6",
+    "local_path": "data/raw/cpb/cpb-0053.html",
+    "archive_url": "https://web.archive.org/web/20261001075608/https://conservativebc.ca/official-documents/",
+    "fetched_at": "2026-10-01T07:56:24Z"
+  },
+  {
+    "id": "cpb-0054",
+    "party": "cpb",
+    "url": "https://conservativebc.ca/candidate/lorne-doerkson/",
+    "sha256": "d4e0bd561a27a01285122826eb2c847598ff4f9ae3ff34d8b1f8db8ee4fce038",
+    "local_path": "data/raw/cpb/cpb-0054.html",
+    "archive_url": "http://web.archive.org/web/20260929014809/https://conservativebc.ca/candidate/lorne-doerkson/",
+    "fetched_at": "2026-10-01T08:03:09Z"
+  },
+  {
+    "id": "green-0002",
+    "party": "green",
+    "url": "https://bcgreens.ca/",
+    "sha256": "52d1e7038fb5e408b2302ba441547af8506e278dcc77a90b215948b4a059cb4d",
+    "local_path": "data/raw/green/green-0002.html",
+    "archive_url": "https://web.archive.org/web/20261001075616/https://bcgreens.ca/",
+    "fetched_at": "2026-10-01T07:56:36Z"
+  },
+  {
+    "id": "green-0003",
+    "party": "green",
+    "url": "https://bcgreens.ca/emily-lowan-announces-election-plans/",
+    "sha256": "3f19cab9005bc45829d73645e1d3e5be18ea7ac8d2aab4b316ae9198eff00733",
+    "local_path": "data/raw/green/green-0003.html",
+    "archive_url": "http://web.archive.org/web/20260930144126/https://bcgreens.ca/emily-lowan-announces-election-plans/",
+    "fetched_at": "2026-10-01T07:56:39Z"
+  },
+  {
+    "id": "green-0004",
+    "party": "green",
+    "url": "https://bcgreens.ca/announce-plan-to-support-renters-unveil-two-new-candidates-for-south-island/",
+    "sha256": "dc25ec452826153dc85c2b8bd98ddd650a7cf3c484aa1b5b5ca90ee5ca0e4c25",
+    "local_path": "data/raw/green/green-0004.html",
+    "archive_url": "http://web.archive.org/web/20260930001254/https://bcgreens.ca/announce-plan-to-support-renters-unveil-two-new-candidates-for-south-island/",
+    "fetched_at": "2026-10-01T07:56:41Z"
+  },
+  {
+    "id": "green-0005",
+    "party": "green",
+    "url": "https://bcgreens.ca/announce-plan-to-lift-the-freeze-on-10-a-day-daycare-with-universal-free-child-care-by-2031-alongside-new-candidate-for-victoria-swan-lake/",
+    "sha256": "bdf3b84a6200e4debc352034f0c052c96019c6869939d08dae7bc844255618ca",
+    "local_path": "data/raw/green/green-0005.html",
+    "archive_url": "http://web.archive.org/web/20260930010027/https://bcgreens.ca/announce-plan-to-lift-the-freeze-on-10-a-day-daycare-with-universal-free-child-care-by-2031-alongside-new-candidate-for-victoria-swan-lake/",
+    "fetched_at": "2026-10-01T07:56:43Z"
+  },
+  {
+    "id": "green-0006",
+    "party": "green",
+    "url": "https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+    "sha256": "72f4c46bfccfc9575a59a2f3dd61b72d87bc46c92c12163f3b4b6738406a64bb",
+    "local_path": "data/raw/green/green-0006.html",
+    "archive_url": "https://web.archive.org/web/20261001083232/https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+    "fetched_at": "2026-10-01T07:56:44Z"
+  },
+  {
+    "id": "green-0007",
+    "party": "green",
+    "url": "https://bcgreens.ca/call-on-government-to-implement-ten-urgent-climate-actions-supported-by-200-bc-groups/",
+    "sha256": "a37fd61070280dd0dca5f7d5b90f7a422a4cda6f4c6325b03afde42802ec7cfd",
+    "local_path": "data/raw/green/green-0007.html",
+    "archive_url": "http://web.archive.org/web/20260511002159/https://bcgreens.ca/call-on-government-to-implement-ten-urgent-climate-actions-supported-by-200-bc-groups/",
+    "fetched_at": "2026-10-01T07:56:46Z"
+  },
+  {
+    "id": "green-0008",
+    "party": "green",
+    "url": "https://bcgreens.ca/leaders-statement-wildfires-are-an-emergency-the-bc-ndp-should-act-like-it/",
+    "sha256": "023834648030696cc36d565a26d5bec936232ba6e8199655cfdf8397ccf428be",
+    "local_path": "data/raw/green/green-0008.html",
+    "archive_url": "http://web.archive.org/web/20260930145113/https://bcgreens.ca/leaders-statement-wildfires-are-an-emergency-the-bc-ndp-should-act-like-it/",
+    "fetched_at": "2026-10-01T07:56:48Z"
+  },
+  {
+    "id": "green-0009",
+    "party": "green",
+    "url": "https://bcgreens.ca/our-plan/",
+    "sha256": "645868026c893a52434fa409c2bbbbf4ce7b685298803f33ee6eb165dd18547d",
+    "local_path": "data/raw/green/green-0009.html",
+    "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+    "fetched_at": "2026-10-01T07:56:51Z"
+  },
+  {
+    "id": "green-0011",
+    "party": "green",
+    "url": "https://bcgreens.ca/2024-platform/",
+    "sha256": "5f7e5767381a31799c24101d66475de5176d2c65f7c59e48c231142e01dbcf38",
+    "local_path": "data/raw/green/green-0011.html",
+    "archive_url": "http://web.archive.org/web/20260922213746/https://bcgreens.ca/2024-platform/",
+    "fetched_at": "2026-10-01T07:56:53Z"
+  },
+  {
+    "id": "green-0012",
+    "party": "green",
+    "url": "https://bcgreens.ca/leaders-statement-will-not-renew-carga/",
+    "sha256": "cba0b8388fa3b8acb734d4e5ae1baec9ea64af7e57b20e1f0ea781a11d29a71f",
+    "local_path": "data/raw/green/green-0012.html",
+    "archive_url": "http://web.archive.org/web/20260609060334/https://bcgreens.ca/leaders-statement-will-not-renew-carga/",
+    "fetched_at": "2026-10-01T07:56:54Z"
+  },
+  {
+    "id": "green-0013",
+    "party": "green",
+    "url": "https://bcgreens.ca/candidates-2026/emily-lowan/",
+    "sha256": "9058fe799531da9a37a395f38d837a301e07336635e858ba97474f92143a6c3f",
+    "local_path": "data/raw/green/green-0013.html",
+    "archive_url": "http://web.archive.org/web/20260930143255/https://bcgreens.ca/candidates-2026/emily-lowan/",
+    "fetched_at": "2026-10-01T07:56:55Z"
+  },
+  {
+    "id": "green-0014",
+    "party": "green",
+    "url": "https://bcgreens.ca/statement-on-snap-election/",
+    "sha256": "b050084b142f25fe3bd6cf5499c31dc264ddae331f904b29427576d8968bfce7",
+    "local_path": "data/raw/green/green-0014.html",
+    "archive_url": "http://web.archive.org/web/20260930144338/https://bcgreens.ca/statement-on-snap-election/",
+    "fetched_at": "2026-10-01T07:56:56Z"
+  },
+  {
+    "id": "green-0015",
+    "party": "green",
+    "url": "https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+    "sha256": "5ba60ef2d39f13d31f1ab88c5ba740e9406cbef76633e4cbd8e468dfe9c99065",
+    "local_path": "data/raw/green/green-0015.html",
+    "archive_url": "http://web.archive.org/web/20260609052817/https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+    "fetched_at": "2026-10-01T07:56:57Z"
+  },
+  {
+    "id": "green-0016",
+    "party": "green",
+    "url": "https://bcgreens.ca/media-releases/",
+    "sha256": "a85cbfe0a1d7d9446051793c190d18a94636cc4bbf523d8bee3856989eb3d652",
+    "local_path": "data/raw/green/green-0016.html",
+    "archive_url": "http://web.archive.org/web/20260913071539/https://bcgreens.ca/media-releases/",
+    "fetched_at": "2026-10-01T07:56:57Z"
+  },
+  {
+    "id": "green-0017",
+    "party": "green",
+    "url": "https://bcgreens.ca/emily-lowan-leader/",
+    "sha256": "754224624a1ec218dc3a06c63ef87d156a12651a40dbe1e62423c0917c4eb295",
+    "local_path": "data/raw/green/green-0017.html",
+    "archive_url": "http://web.archive.org/web/20260930141907/https://bcgreens.ca/emily-lowan-leader/",
+    "fetched_at": "2026-10-01T07:56:59Z"
+  },
+  {
+    "id": "green-0018",
+    "party": "green",
+    "url": "https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+    "sha256": "c21cf91ec1edf13a27115613b82964d4adae3b374fbe261a8e834d3c7a5634c0",
+    "local_path": "data/raw/green/green-0018.html",
+    "archive_url": "http://web.archive.org/web/20260415200248/https://bcgreens.ca/lowan-calls-for-bold-tax-reform/",
+    "fetched_at": "2026-10-01T07:57:08Z"
+  },
+  {
+    "id": "green-0019",
+    "party": "green",
+    "url": "https://bcgreens.ca/announce-candidates-for-victoria-beacon-hill-and-juan-de-fuca-malahat/",
+    "sha256": "10759f8e336ae02993ad1126bf470fce5bfffd573ad36ff21c866d59b1936b05",
+    "local_path": "data/raw/green/green-0019.html",
+    "archive_url": "http://web.archive.org/web/20261001075752/https://bcgreens.ca/announce-candidates-for-victoria-beacon-hill-and-juan-de-fuca-malahat/",
+    "fetched_at": "2026-10-01T07:57:54Z"
+  },
+  {
+    "id": "green-0020",
+    "party": "green",
+    "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+    "sha256": "b0405146fd66d2fa62214da6b4c8a71befc42bebf7fd1a4bb04a496b96a2d53f",
+    "local_path": "data/raw/green/green-0020.html",
+    "archive_url": "https://web.archive.org/web/20261001084105/https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+    "fetched_at": "2026-10-01T07:57:59Z"
+  },
+  {
+    "id": "green-0021",
+    "party": "green",
+    "url": "https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+    "sha256": "d716da7dec98296c66bb76a889d2ce4f91b00990bdd1452231681cda8c4dd181",
+    "local_path": "data/raw/green/green-0021.html",
+    "archive_url": "https://web.archive.org/web/20261001084140/https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+    "fetched_at": "2026-10-01T07:58:00Z"
+  },
+  {
+    "id": "green-0022",
+    "party": "green",
+    "url": "https://westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+    "sha256": "f3ee29bb3d9e26b2599e31febec1511d0d6be7c68b2070c8259b623b4d8a7a53",
+    "local_path": "data/raw/green/green-0022.html",
+    "archive_url": "http://web.archive.org/web/20251005125051/https://www.westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+    "fetched_at": "2026-10-01T07:58:01Z"
+  },
+  {
+    "id": "green-0023",
+    "party": "green",
+    "url": "https://cheknews.ca/bc-greens-wont-renew-accord-with-ndp-citing-stalled-undelivered-vows-1304504",
+    "sha256": "dd0040b965c12a869be0ca1df432d1f534b2a4b66c79fbacac17ad2a60a1484f",
+    "local_path": "data/raw/green/green-0023.html",
+    "archive_url": "http://web.archive.org/web/20260211045139/https://cheknews.ca/bc-greens-wont-renew-accord-with-ndp-citing-stalled-undelivered-vows-1304504/",
+    "fetched_at": "2026-10-01T07:58:08Z"
+  },
+  {
+    "id": "green-0024",
+    "party": "green",
+    "url": "https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+    "sha256": "0d010e3f9d22340710106db6e6d2ff2c4451ec8526ff7aed156d9f0a2dd15935",
+    "local_path": "data/raw/green/green-0024.html",
+    "archive_url": "https://web.archive.org/web/20261001084218/https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+    "fetched_at": "2026-10-01T07:58:11Z"
+  },
+  {
+    "id": "green-0025",
+    "party": "green",
+    "url": "https://en.wikipedia.org/wiki/Emily_Lowan",
+    "sha256": "c79ab74b1662512b84b63f1811e6aa2056723fd92ba3ad39e8bef41c721c6b7c",
+    "local_path": "data/raw/green/green-0025.html",
+    "archive_url": "http://web.archive.org/web/20260908223402/https://en.wikipedia.org/wiki/Emily_Lowan",
+    "fetched_at": "2026-10-01T07:58:14Z"
+  },
+  {
+    "id": "green-0026",
+    "party": "green",
+    "url": "https://ca.news.yahoo.com/first-weekend-provincial-campaigns-wrap-161847057.html",
+    "sha256": "a0900d1459a5df669923b4dc94baeb0206886cee46a3d0dd6e8a7aca3c069c25",
+    "local_path": "data/raw/green/green-0026.html",
+    "archive_url": "https://web.archive.org/web/20261001084254/https://ca.news.yahoo.com/first-weekend-provincial-campaigns-wrap-161847057.html",
+    "fetched_at": "2026-10-01T07:58:46Z"
+  },
+  {
+    "id": "green-0028",
+    "party": "green",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+    "sha256": "b28ea724435ca8c5d835a8e0556d1faef0a79785e489571394e1ead1d2c14910",
+    "local_path": "data/raw/green/green-0028.html",
+    "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+    "fetched_at": "2026-10-01T07:59:44Z"
+  },
+  {
+    "id": "green-0029",
+    "party": "green",
+    "url": "https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+    "sha256": "ffad69445acb4081368c74b4862f60233ab669fc8d79cc8c274bcad98a9fe7bc",
+    "local_path": "data/raw/green/green-0029.html",
+    "archive_url": "http://web.archive.org/web/20261001080835/https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+    "fetched_at": "2026-10-01T07:59:38Z"
+  },
+  {
+    "id": "green-0033",
+    "party": "green",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+    "sha256": "dfc549f151f957c5e506090daad9b0814a2a6e3946c93d85226ad471fd10ae4f",
+    "local_path": "data/raw/green/green-0033.html",
+    "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+    "fetched_at": "2026-10-01T07:59:49Z"
+  },
+  {
+    "id": "green-0034",
+    "party": "green",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-greens-pull-out-of-governing-accord-with-b-c-ndp-9.7081452",
+    "sha256": "6433b272d4eb8635e407d21e7891c3680cf4b9f2e0096f0e74bd258d05ff36df",
+    "local_path": "data/raw/green/green-0034.html",
+    "archive_url": "http://web.archive.org/web/20260217181432/https://www.cbc.ca/news/canada/british-columbia/b-c-greens-pull-out-of-governing-accord-with-b-c-ndp-9.7081452",
+    "fetched_at": "2026-10-01T08:00:29Z"
+  },
+  {
+    "id": "green-0035",
+    "party": "green",
+    "url": "https://www.nationalobserver.com/2026/02/09/news/bc-greens-wont-renew-accord-ndp-citing-stalled-undelivered-vows",
+    "sha256": "9a18f0ed6077335789db9d4e9a7335f698f8e50ea420c4c4ababdeb225ed04ca",
+    "local_path": "data/raw/green/green-0035.html",
+    "archive_url": "https://web.archive.org/web/20261001080924/https://www.nationalobserver.com/2026/02/09/news/bc-greens-wont-renew-accord-ndp-citing-stalled-undelivered-vows",
+    "fetched_at": "2026-10-01T08:00:30Z"
+  },
+  {
+    "id": "green-0036",
+    "party": "green",
+    "url": "https://www.timescolonist.com/local-news/bc-greens-call-for-tax-reform-to-ensure-ultra-wealthy-pay-their-fair-share-11422743",
+    "sha256": "6127fe00a29ba8b5fdd25b0ec78be8f80f9c620064b65f8caa9f6a3bb5afd709",
+    "local_path": "data/raw/green/green-0036.html",
+    "archive_url": "http://web.archive.org/web/20251103173504/https://www.timescolonist.com/local-news/bc-greens-call-for-tax-reform-to-ensure-ultra-wealthy-pay-their-fair-share-11422743",
+    "fetched_at": "2026-10-01T08:00:31Z"
+  },
+  {
+    "id": "green-0037",
+    "party": "green",
+    "url": "https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens",
+    "sha256": "9da876a342de3fac3ce754ec70cc88f0ddcde7a0ceb80e73358d77e8f10bdbf0",
+    "local_path": "data/raw/green/green-0037.html",
+    "archive_url": "http://web.archive.org/web/20260112091925/https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens/",
+    "fetched_at": "2026-10-01T08:00:32Z"
+  },
+  {
+    "id": "green-0038",
+    "party": "green",
+    "url": "https://www.thisisvancolour.com/blog/2026/4/17/bc-greens-leader-emily-lowan-defends-dripa",
+    "sha256": "0cbb7dcde94bea5f29e9da9b5773559a887ad3ce2e309efc13553195d09523b3",
+    "local_path": "data/raw/green/green-0038.html",
+    "archive_url": "http://web.archive.org/web/20260502054739/https://www.thisisvancolour.com/blog/2026/4/17/bc-greens-leader-emily-lowan-defends-dripa",
+    "fetched_at": "2026-10-01T08:00:34Z"
+  },
+  {
+    "id": "green-0039",
+    "party": "green",
+    "url": "https://www.youtube.com/watch?v=rP2kp9GW8rE",
+    "sha256": "da391c8970bb44a75ba0aa6af2bdc633f9d72bcdcc55511b08b032033bbb658a",
+    "local_path": "data/raw/green/green-0039.html",
+    "archive_url": "http://web.archive.org/web/20260918042148/https://www.youtube.com/watch?v=rP2kp9GW8rE&feature=youtu.be",
+    "fetched_at": "2026-10-01T08:01:07Z"
+  },
+  {
+    "id": "green-0040",
+    "party": "green",
+    "url": "https://www.youtube.com/watch?v=UpLxOoyXOB4",
+    "sha256": "48804607a80c3937725f99d14973349648ffa459eca8b5d7e4b51ddad3cb2417",
+    "local_path": "data/raw/green/green-0040.html",
+    "archive_url": "http://web.archive.org/web/20260924002722/https://www.youtube.com/watch?si=FbBj1MJmNwWiR56I&v=UpLxOoyXOB4",
+    "fetched_at": "2026-10-01T08:01:09Z"
+  },
+  {
+    "id": "green-0091",
+    "party": "green",
+    "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+    "sha256": "20e4acd1d64be44f0ad86330c4ad56e132dc7014e8671934de44f1dcef83ce65",
+    "local_path": "data/raw/green/green-0091.pdf",
+    "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+    "fetched_at": "2026-10-01T08:01:55Z"
+  },
+  {
+    "id": "green-0092",
+    "party": "green",
+    "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Public-Safety-2024.pdf",
+    "sha256": "6505c7e8ba20f4e5dd2377410d1edd997ed3bf7398014785cababebe6f361cec",
+    "local_path": "data/raw/green/green-0092.pdf",
+    "archive_url": "http://web.archive.org/web/20260611075559/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Public-Safety-2024.pdf",
+    "fetched_at": "2026-10-01T08:01:55Z"
+  },
+  {
+    "id": "green-0093",
+    "party": "green",
+    "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Indigenous-Relations-2024.pdf",
+    "sha256": "e0ef09704c8dfb8a69c35fbf42e34bbdabadf7bb6ad6cc0947dc8f70c39b6526",
+    "local_path": "data/raw/green/green-0093.pdf",
+    "archive_url": "http://web.archive.org/web/20260306235534/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Indigenous-Relations-2024.pdf",
+    "fetched_at": "2026-10-01T08:01:56Z"
+  },
+  {
+    "id": "green-0095",
+    "party": "green",
+    "url": "https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+    "sha256": "306eece72211803d7e48fbfb88cc5d8041174bd9a46db5fbefeafd758860aeb9",
+    "local_path": "data/raw/green/green-0095.html",
+    "archive_url": "http://web.archive.org/web/20260218103414/https://globalgreen.news/en/emily-lowan-wins-bc-green-party-leadership-debate-as-voting-begins/",
+    "fetched_at": "2026-10-01T08:06:14Z"
+  },
+  {
+    "id": "green-0096",
+    "party": "green",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+    "sha256": "5e7275057fe35a64c1d4570fabf4039232315248bd1ac2073a960cc92f0a684e",
+    "local_path": "data/raw/green/green-0096.html",
+    "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+    "fetched_at": "2026-10-01T08:06:38Z"
+  },
+  {
+    "id": "green-0097",
+    "party": "green",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+    "sha256": "c4c0b6e28886338dc2393ecde84310a95d1deb314a1240bc85f3680df7f49a0b",
+    "local_path": "data/raw/green/green-0097.html",
+    "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+    "fetched_at": "2026-10-01T08:06:39Z"
+  },
+  {
+    "id": "green-0098",
+    "party": "green",
+    "url": "https://bcgreencaucus.ca/bc-greens-lng-canada-phase-2-fid-may",
+    "sha256": "3418c681471dfc02582801bdce5214aa145dfd1d5a419a59b01cee1d238b0dbe",
+    "local_path": "data/raw/green/green-0098.html",
+    "archive_url": "http://web.archive.org/web/20261001081235/https://bcgreencaucus.ca/bc-greens-lng-canada-phase-2-fid-may/",
+    "fetched_at": "2026-10-01T08:12:45Z"
+  },
+  {
+    "id": "green-0099",
+    "party": "green",
+    "url": "https://bcgreencaucus.ca/bc-greens-auditor-general-lost-gas-royalties/",
+    "sha256": "7b9b19af3166c57eb9f23a66962edfa046138fc937461af89171e08a73b42e1e",
+    "local_path": "data/raw/green/green-0099.html",
+    "archive_url": "http://web.archive.org/web/20261001075955/https://bcgreencaucus.ca/bc-greens-auditor-general-lost-gas-royalties/",
+    "fetched_at": "2026-10-01T08:12:47Z"
+  },
+  {
+    "id": "green-0100",
+    "party": "green",
+    "url": "https://bcgreens.ca/calls-on-auditor-general-to-investigate-lost-gas-royalties-and-pause-new-royalty-framework",
+    "sha256": "1e5c4193c193dcc1e3872707b36888e5c6ab5007eaed2a16ad8fcd84701cec8e",
+    "local_path": "data/raw/green/green-0100.html",
+    "archive_url": "",
+    "fetched_at": "2026-10-01T19:46:27Z"
+  },
+  {
+    "id": "ndp-0001",
+    "party": "ndp",
+    "url": "https://bcndp.ca/releases/action-you-david-eby-releases-plan-help-people-get-ahead",
+    "sha256": "e5bc28c7b6cda4e8e2fae5e5b787b58c6a50a04572cec51908a8f00813bfbd14",
+    "local_path": "data/raw/ndp/ndp-0001.html",
+    "archive_url": "http://web.archive.org/web/20261001075807/https://www.bcndp.ca/releases/action-you-david-eby-releases-plan-help-people-get-ahead",
+    "fetched_at": "2026-10-01T08:04:02Z"
+  },
+  {
+    "id": "ndp-0002",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/david-eby-launches-election-plan-build-bc-strong-amid-trumps-attacks",
+    "sha256": "6ce782c69bad7045cbf2f0fcbd7b3a858e6698f270d6a72ee6c8cff948f4c684",
+    "local_path": "data/raw/ndp/ndp-0002.html",
+    "archive_url": "http://web.archive.org/web/20261001080100/https://www.bcndp.ca/releases/david-eby-launches-election-plan-build-bc-strong-amid-trumps-attacks",
+    "fetched_at": "2026-10-01T08:04:02Z"
+  },
+  {
+    "id": "ndp-0003",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca",
+    "sha256": "82581ec78efad434b66d82bde6bd3cfe3e156c07ff7acd238882bec19e4221bd",
+    "local_path": "data/raw/ndp/ndp-0003.html",
+    "archive_url": "http://web.archive.org/web/20241216151237/https://www.bcndp.ca/actionplan",
+    "fetched_at": "2026-10-01T07:58:24Z"
+  },
+  {
+    "id": "ndp-0004",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/sites/default/files/bcndp_platformhighlights_v2_printready-web_0.pdf",
+    "sha256": "2c5c7dbf7de867407cef7e3e8fdef87d99ed26cd163b45f9f8ac948b10eef2c8",
+    "local_path": "data/raw/ndp/ndp-0004.pdf",
+    "archive_url": "https://web.archive.org/web/20260914105138/https://www.bcndp.ca/sites/default/files/bcndp_platformhighlights_v2_printready-web_0.pdf",
+    "fetched_at": "2026-10-01T08:02:35Z"
+  },
+  {
+    "id": "ndp-0005",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/latest/our-platform-out-heres-why-you-should-get-behind-it",
+    "sha256": "05c63f217a3c6ca35d0d5c06897801e734badf7e3bc39a69e5621ccd0a0818b8",
+    "local_path": "data/raw/ndp/ndp-0005.html",
+    "archive_url": "https://web.archive.org/web/20261001080442/https://www.bcndp.ca/latest/our-platform-out-heres-why-you-should-get-behind-it",
+    "fetched_at": "2026-10-01T07:56:43Z"
+  },
+  {
+    "id": "ndp-0006",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/eby-pledges-new-built-bc-and-canada-buying-rules",
+    "sha256": "809b0357bb10a2733fcd770a3acf5a0209c9eb53d1cdf5fbf2d550c275f8093c",
+    "local_path": "data/raw/ndp/ndp-0006.html",
+    "archive_url": "http://web.archive.org/web/20260927060753/https://www.bcndp.ca/releases/eby-pledges-new-built-bc-and-canada-buying-rules",
+    "fetched_at": "2026-10-01T08:01:18Z"
+  },
+  {
+    "id": "ndp-0007",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+    "sha256": "fe31d45a43cd54cb6ff4d032d33f7e94e49153c217e71ff4050b71e30b1eeaf1",
+    "local_path": "data/raw/ndp/ndp-0007.html",
+    "archive_url": "http://web.archive.org/web/20260927070507/https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+    "fetched_at": "2026-10-01T08:01:17Z"
+  },
+  {
+    "id": "ndp-0008",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/bc-conservatives-lng-plan-out-step-reality",
+    "sha256": "372059a9a6e9dfefbab5203ecbf5ef7ac1662d425be8cafc26e490267451960c",
+    "local_path": "data/raw/ndp/ndp-0008.html",
+    "archive_url": "http://web.archive.org/web/20260929023351/https://www.bcndp.ca/releases/bc-conservatives-lng-plan-out-step-reality",
+    "fetched_at": "2026-10-01T08:01:21Z"
+  },
+  {
+    "id": "ndp-0009",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/eby-double-critical-mineral-exports-expand-port-prince-rupert",
+    "sha256": "0bd51a5f242585185834e4f2373fcf244cec725bedcf411186dec97080930adb",
+    "local_path": "data/raw/ndp/ndp-0009.html",
+    "archive_url": "http://web.archive.org/web/20260929023454/https://www.bcndp.ca/releases/eby-double-critical-mineral-exports-expand-port-prince-rupert",
+    "fetched_at": "2026-10-01T08:01:20Z"
+  },
+  {
+    "id": "ndp-0010",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/about-david",
+    "sha256": "a5888b93cfd363588162e68f04072060d35062d3fb091ccc3600efc9465d86cf",
+    "local_path": "data/raw/ndp/ndp-0010.html",
+    "archive_url": "https://web.archive.org/web/20261001075553/https://www.bcndp.ca/about-david",
+    "fetched_at": "2026-10-01T07:56:08Z"
+  },
+  {
+    "id": "ndp-0011",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/latest/climate-change-real-and-happening-now-heres-how-were-taking-action-people",
+    "sha256": "dee4c473cd2d81ddb33f4a5795a62e765fa356e1074af0b9c0266263ea831ef2",
+    "local_path": "data/raw/ndp/ndp-0011.html",
+    "archive_url": "http://web.archive.org/web/20251206082641/https://www.bcndp.ca/latest/climate-change-real-and-happening-now-heres-how-were-taking-action-people",
+    "fetched_at": "2026-10-01T07:56:45Z"
+  },
+  {
+    "id": "ndp-0012",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/latest/reconciliation-respect-and-better-future",
+    "sha256": "1f4bb2694a151a8daad51f5ff4e081cecd7e6a40804019012b528462553ff11f",
+    "local_path": "data/raw/ndp/ndp-0012.html",
+    "archive_url": "http://web.archive.org/web/20250904044022/https://www.bcndp.ca/latest/reconciliation-respect-and-better-future",
+    "fetched_at": "2026-10-01T07:57:48Z"
+  },
+  {
+    "id": "ndp-0013",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/action-for-you",
+    "sha256": "190e72048ebfeee5647d74e9bbbffe742ce531cbf760c3718f6db913970a4fdf",
+    "local_path": "data/raw/ndp/ndp-0013.html",
+    "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+    "fetched_at": "2026-10-01T07:56:36Z"
+  },
+  {
+    "id": "ndp-0014",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/onebc-platform-would-raise-deficit-10-billion-force-massive-cuts",
+    "sha256": "f8d43d9b8c6933fef730cdf004d133bf2f2008da4d8e803d2c8a1a4c10659dc4",
+    "local_path": "data/raw/ndp/ndp-0014.html",
+    "archive_url": "http://web.archive.org/web/20260927065825/https://www.bcndp.ca/releases/onebc-platform-would-raise-deficit-10-billion-force-massive-cuts",
+    "fetched_at": "2026-10-01T08:01:18Z"
+  },
+  {
+    "id": "ndp-0015",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/doerksons-first-campaign-commitment-confirms-healthcare-take-brunt-their-cuts",
+    "sha256": "71b7a524d516a43634cf32e73b19b7e2cfddc0b716365d12960970564c8bc7bb",
+    "local_path": "data/raw/ndp/ndp-0015.html",
+    "archive_url": "http://web.archive.org/web/20260928142318/https://www.bcndp.ca/releases/doerksons-first-campaign-commitment-confirms-healthcare-take-brunt-their-cuts",
+    "fetched_at": "2026-10-01T08:01:19Z"
+  },
+  {
+    "id": "ndp-0016",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/bc-conservative-promise-points-again-healthcare-cuts-higher-costs",
+    "sha256": "ec3c9edae9ac5c2790cda4da7de7897b0b6b92b68c2337e7a163ac5e35a8081c",
+    "local_path": "data/raw/ndp/ndp-0016.html",
+    "archive_url": "https://web.archive.org/web/20261001080549/https://www.bcndp.ca/releases/bc-conservative-promise-points-again-healthcare-cuts-higher-costs",
+    "fetched_at": "2026-10-01T08:01:24Z"
+  },
+  {
+    "id": "ndp-0017",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/david-eby-secures-largest-private-sector-investment-canadian-history",
+    "sha256": "0936b564a0f7af6511f4d68f6ec3f9905fc399c1cec5cc07f2924423e134f9f1",
+    "local_path": "data/raw/ndp/ndp-0017.html",
+    "archive_url": "https://web.archive.org/web/20261001081659/https://www.bcndp.ca/releases/david-eby-secures-largest-private-sector-investment-canadian-history",
+    "fetched_at": "2026-10-01T08:01:22Z"
+  },
+  {
+    "id": "ndp-0018",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/statement-bc-ndp-leader-david-eby-marking-national-day-truth-and-reconciliation-and-orange",
+    "sha256": "f8fed664d4eb9548d91f83071a25b9dba508b646959c5ae7c9a944901527fc45",
+    "local_path": "data/raw/ndp/ndp-0018.html",
+    "archive_url": "https://web.archive.org/web/20261001080505/https://www.bcndp.ca/releases/statement-bc-ndp-leader-david-eby-marking-national-day-truth-and-reconciliation-and-orange",
+    "fetched_at": "2026-10-01T08:01:24Z"
+  },
+  {
+    "id": "ndp-0019",
+    "party": "ndp",
+    "url": "https://bcndp.ca/releases/david-eby-and-bc-ndp-will-build-new-school-campbell-river",
+    "sha256": "af94738e4cc944c6b506c0340668df7846bc0b04a8cbc4ae1911340b1c814486",
+    "local_path": "data/raw/ndp/ndp-0019.html",
+    "archive_url": "http://web.archive.org/web/20260321131926/https://www.bcndp.ca/releases/david-eby-and-bc-ndp-will-build-new-school-campbell-river",
+    "fetched_at": "2026-10-01T07:58:26Z"
+  },
+  {
+    "id": "ndp-0020",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/david-eby-shares-middle-class-tax-cut-plan-families",
+    "sha256": "b47879c5d896ec0f5ca1f32b042b65113e9ae881714e4b85dc8dcd014b5ad8fa",
+    "local_path": "data/raw/ndp/ndp-0020.html",
+    "archive_url": "http://web.archive.org/web/20260306141226/https://www.bcndp.ca/releases/david-eby-shares-middle-class-tax-cut-plan-families",
+    "fetched_at": "2026-10-01T07:56:47Z"
+  },
+  {
+    "id": "ndp-0021",
+    "party": "ndp",
+    "url": "https://bcndp.ca/releases/eby-deliver-transportation-infrastructure-including-building-skytrain-langley-ubc",
+    "sha256": "78a4575733199a51f05d80c0338fce35542b10fb3686f41706ecd21d5363fcfa",
+    "local_path": "data/raw/ndp/ndp-0021.html",
+    "archive_url": "http://web.archive.org/web/20241211224802/https://www.bcndp.ca/releases/eby-deliver-transportation-infrastructure-including-building-skytrain-langley-ubc",
+    "fetched_at": "2026-10-01T07:58:29Z"
+  },
+  {
+    "id": "ndp-0022",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+    "sha256": "a8d8a92124a82c87c10870de2317cabed0deeb48a09791af4795e8bb6701e1de",
+    "local_path": "data/raw/ndp/ndp-0022.html",
+    "archive_url": "http://web.archive.org/web/20260516175202/https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+    "fetched_at": "2026-10-01T07:57:52Z"
+  },
+  {
+    "id": "ndp-0023",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases/rustads-semi-costed-platform-fails-impress",
+    "sha256": "2cf2af3ca2af3789d03e2e0788bb3dfe6d6c6fd5c6352b0643378740c9aae17f",
+    "local_path": "data/raw/ndp/ndp-0023.html",
+    "archive_url": "http://web.archive.org/web/20241024182310/https://www.bcndp.ca/releases/rustads-semi-costed-platform-fails-impress",
+    "fetched_at": "2026-10-01T07:57:11Z"
+  },
+  {
+    "id": "ndp-0024",
+    "party": "ndp",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+    "sha256": "6e5b2e245cd2043169412dd84ef45ce4fff93401e8720f627cb08c5b1b4ca28b",
+    "local_path": "data/raw/ndp/ndp-0024.html",
+    "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+    "fetched_at": "2026-10-01T07:57:23Z"
+  },
+  {
+    "id": "ndp-0025",
+    "party": "ndp",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+    "sha256": "7c48d3fc45b0dad686e5402a71fe775dfdecafee9a745de20883d63f6a3f9ff4",
+    "local_path": "data/raw/ndp/ndp-0025.html",
+    "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+    "fetched_at": "2026-10-01T07:57:46Z"
+  },
+  {
+    "id": "ndp-0026",
+    "party": "ndp",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+    "sha256": "c8598b686387e1dee097d645f8f80144b7cde8f3d2eb91c822b5ffd66da3efa2",
+    "local_path": "data/raw/ndp/ndp-0026.html",
+    "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+    "fetched_at": "2026-10-01T07:57:25Z"
+  },
+  {
+    "id": "ndp-0027",
+    "party": "ndp",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+    "sha256": "108a949d6b930653a3b0938a8e9da2934235c4848f2ecd827eeb3e3095070be4",
+    "local_path": "data/raw/ndp/ndp-0027.html",
+    "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+    "fetched_at": "2026-10-01T07:57:45Z"
+  },
+  {
+    "id": "ndp-0028",
+    "party": "ndp",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+    "sha256": "5e7275057fe35a64c1d4570fabf4039232315248bd1ac2073a960cc92f0a684e",
+    "local_path": "data/raw/ndp/ndp-0028.html",
+    "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+    "fetched_at": "2026-10-01T08:04:24Z"
+  },
+  {
+    "id": "ndp-0029",
+    "party": "ndp",
+    "url": "https://infonews.ca/news/4372098/bc-ndp-unveils-election-platform-focusing-on-tough-challenges-and-john-rustad",
+    "sha256": "54dda89513cf790e69ab25b6dea15ce795b708b3b7bae16549b46d34dd077012",
+    "local_path": "data/raw/ndp/ndp-0029.html",
+    "archive_url": "https://web.archive.org/web/20261001081819/https://infonews.ca/news/4372098/bc-ndp-unveils-election-platform-focusing-on-tough-challenges-and-john-rustad/",
+    "fetched_at": "2026-10-01T08:01:51Z"
+  },
+  {
+    "id": "ndp-0030",
+    "party": "ndp",
+    "url": "https://vancouversun.com/business/david-eby-bets-big-on-potential-for-more-major-projects-in-build-b-c-strong-platform",
+    "sha256": "c6cce1547380a330d6aa2cf84650a05f5b225a91d72cd5f8d519c81b172b0178",
+    "local_path": "data/raw/ndp/ndp-0030.html",
+    "archive_url": "https://web.archive.org/web/20261001081844/https://vancouversun.com/business/david-eby-bets-big-on-potential-for-more-major-projects-in-build-b-c-strong-platform",
+    "fetched_at": "2026-10-01T08:03:30Z"
+  },
+  {
+    "id": "ndp-0031",
+    "party": "ndp",
+    "url": "https://www.ctvnews.ca/vancouver/article/eby-says-bc-ndp-would-tax-new-unsold-condos-and-raise-speculation-vacancy-fees",
+    "sha256": "1b5a0dbe8e7600fe512417b5c3a1694588af1b972ff79bee8afc4729837b10f6",
+    "local_path": "data/raw/ndp/ndp-0031.html",
+    "archive_url": "http://web.archive.org/web/20261001080114/https://www.ctvnews.ca/vancouver/article/eby-says-bc-ndp-would-tax-new-unsold-condos-and-raise-speculation-vacancy-fees/",
+    "fetched_at": "2026-10-01T08:01:50Z"
+  },
+  {
+    "id": "ndp-0032",
+    "party": "ndp",
+    "url": "https://vancouver.citynews.ca/2026/09/25/b-c-s-eby-says-ndp-would-tax-new-unsold-condos-raise-speculation-vacancy-fees/",
+    "sha256": "57158342be6cad9f6f8d6d3a6de1fd8593dd0499af6a0952c1c85be0226f926d",
+    "local_path": "data/raw/ndp/ndp-0032.html",
+    "archive_url": "http://web.archive.org/web/20260930020147/https://vancouver.citynews.ca/2026/09/25/b-c-s-eby-says-ndp-would-tax-new-unsold-condos-raise-speculation-vacancy-fees/",
+    "fetched_at": "2026-10-01T08:01:10Z"
+  },
+  {
+    "id": "ndp-0033",
+    "party": "ndp",
+    "url": "https://cheknews.ca/b-c-ndp-to-unveil-election-platform-conservatives-promise-to-end-insurance-monopoly-1217385",
+    "sha256": "85e2d0660eb798aecd98368aa80348387e5836108d748cc242f90e9fba2a4edb",
+    "local_path": "data/raw/ndp/ndp-0033.html",
+    "archive_url": "http://web.archive.org/web/20250217155938/https://cheknews.ca/b-c-ndp-to-unveil-election-platform-conservatives-promise-to-end-insurance-monopoly-1217385/",
+    "fetched_at": "2026-10-01T07:58:57Z"
+  },
+  {
+    "id": "ndp-0034",
+    "party": "ndp",
+    "url": "https://coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+    "sha256": "e3091095e328f06947dbf3e5f4bdfbfbfb49fd08cc5c4514003b73f7439fffca",
+    "local_path": "data/raw/ndp/ndp-0034.html",
+    "archive_url": "http://web.archive.org/web/20250807230503/https://www.coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+    "fetched_at": "2026-10-01T07:58:54Z"
+  },
+  {
+    "id": "ndp-0035",
+    "party": "ndp",
+    "url": "https://bcballot.ca/platforms/",
+    "sha256": "49be4ca8227760f744d0ebe3db78162dbd273e19dfbe9bfd92673abdd37165b4",
+    "local_path": "data/raw/ndp/ndp-0035.html",
+    "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+    "fetched_at": "2026-10-01T07:57:14Z"
+  },
+  {
+    "id": "ndp-0036",
+    "party": "ndp",
+    "url": "https://westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+    "sha256": "b79981be04cd270c2fe86d09d4e606978df399ee2ce5c923be9efefcb7408104",
+    "local_path": "data/raw/ndp/ndp-0036.html",
+    "archive_url": "http://web.archive.org/web/20251005125051/https://www.westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+    "fetched_at": "2026-10-01T08:01:52Z"
+  },
+  {
+    "id": "ndp-0037",
+    "party": "ndp",
+    "url": "https://vancouver.citynews.ca/2026/04/21/dripa-reversal-npd-government-hot-seat-question-period",
+    "sha256": "9ef6bd0908f695ba3f48a78868824643212ae23b01231ad6cc18f462e7482039",
+    "local_path": "data/raw/ndp/ndp-0037.html",
+    "archive_url": "http://web.archive.org/web/20260521143111/https://vancouver.citynews.ca/2026/04/21/dripa-reversal-npd-government-hot-seat-question-period/",
+    "fetched_at": "2026-10-01T07:57:57Z"
+  },
+  {
+    "id": "ndp-0038",
+    "party": "ndp",
+    "url": "https://itsryanclayton.substack.com/p/ndp-promises",
+    "sha256": "59d43157d8cc38d082f58797905a7d4ef4d61bc65daa9f568013cfeaf497cee7",
+    "local_path": "data/raw/ndp/ndp-0038.html",
+    "archive_url": "http://web.archive.org/web/20261001081933/https://itsryanclayton.substack.com/p/ndp-promises",
+    "fetched_at": "2026-10-01T08:01:53Z"
+  },
+  {
+    "id": "ndp-0039",
+    "party": "ndp",
+    "url": "https://news.gov.bc.ca/releases/2026AG0040-000711",
+    "sha256": "da54ac806eb421b360451333c506940f24dea9e333aa908ce882cdbfcf84f665",
+    "local_path": "data/raw/ndp/ndp-0039.html",
+    "archive_url": "http://web.archive.org/web/20260927130252/https://news.gov.bc.ca/releases/2026AG0040-000711",
+    "fetched_at": "2026-10-01T07:57:53Z"
+  },
+  {
+    "id": "ndp-0040",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/releases",
+    "sha256": "9918bc78013f31bfe998341aa8dc8b115d99bb95e787f257e2735a3d4688f3ac",
+    "local_path": "data/raw/ndp/ndp-0040.html",
+    "archive_url": "http://web.archive.org/web/20260930000937/https://www.bcndp.ca/releases",
+    "fetched_at": "2026-10-01T07:56:39Z"
+  },
+  {
+    "id": "ndp-0041",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+    "sha256": "bf59ac81e3600fba8ba5ebc5604c4b4b4c49218a8ff1554dafdf3181fd8a6303",
+    "local_path": "data/raw/ndp/ndp-0041.html",
+    "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+    "fetched_at": "2026-10-01T08:10:28Z"
+  },
+  {
+    "id": "ndp-0042",
+    "party": "ndp",
+    "url": "https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+    "sha256": "0f652d7e0483eff26538eaeb9d9ada8eabd148ebb26dc353729602d5520a63c4",
+    "local_path": "data/raw/ndp/ndp-0042.html",
+    "archive_url": "http://web.archive.org/web/20260909045354/https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+    "fetched_at": "2026-10-01T08:10:30Z"
+  },
+  {
+    "id": "ndp-0043",
+    "party": "ndp",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/british-columbia-snap-election-2026-ndp-leader-david-eby-9.7349059",
+    "sha256": "5c88dcf76c1e5a58c64a4ee4b40e9dcb8cab284a6494a10ea72da55ab5cd1d91",
+    "local_path": "data/raw/ndp/ndp-0043.html",
+    "archive_url": "http://web.archive.org/web/20260924205451/https://www.cbc.ca/news/canada/british-columbia/livestory/british-columbia-snap-election-2026-ndp-leader-david-eby-9.7349059",
+    "fetched_at": "2026-10-01T08:10:31Z"
+  },
+  {
+    "id": "ndp-0044",
+    "party": "ndp",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/family-doctors-bc-ndp-9.7356810",
+    "sha256": "fecc7fa5cddd870639c5b1a114e1298565292f6eba8d15eeb488ad553b2f3993",
+    "local_path": "data/raw/ndp/ndp-0044.html",
+    "archive_url": "http://web.archive.org/web/20260927043839/https://www.cbc.ca/news/canada/british-columbia/family-doctors-bc-ndp-9.7356810",
+    "fetched_at": "2026-10-01T08:10:37Z"
+  },
+  {
+    "id": "ndp-0045",
+    "party": "ndp",
+    "url": "https://voiceonline.com/eby-says-he-will-triple-u-s-health-worker-recruitment/",
+    "sha256": "aae4953a0b093ba492f82e1a8f636df25822b4a97b8ddce9834441a9479d4386",
+    "local_path": "data/raw/ndp/ndp-0045.html",
+    "archive_url": "http://web.archive.org/web/20260928033744/https://voiceonline.com/eby-says-he-will-triple-u-s-health-worker-recruitment/",
+    "fetched_at": "2026-10-01T08:10:38Z"
+  },
+  {
+    "id": "ndp-0046",
+    "party": "ndp",
+    "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+    "sha256": "b13a1f1d6764a4838d1b5d071a7d437bc532eab0c953ebd3d8fbe4ad65afa0de",
+    "local_path": "data/raw/ndp/ndp-0046.html",
+    "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+    "fetched_at": "2026-10-01T08:13:56Z"
+  },
+  {
+    "id": "onebc-0001",
+    "party": "onebc",
+    "url": "https://1bc.ca/priorities",
+    "sha256": "3c589632c6b31ff6dfe87a97b0cab701ea25b42f617589e029b7b70e1c8bd0a4",
+    "local_path": "data/raw/onebc/onebc-0001.html",
+    "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+    "fetched_at": "2026-10-01T07:57:43Z"
+  },
+  {
+    "id": "onebc-0002",
+    "party": "onebc",
+    "url": "https://1bc.ca/",
+    "sha256": "86500dea2974b9f1cee9a2afdde83332072eb5ec7bd8748691e31d5c375f3fc6",
+    "local_path": "data/raw/onebc/onebc-0002.html",
+    "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+    "fetched_at": "2026-10-01T07:57:44Z"
+  },
+  {
+    "id": "onebc-0003",
+    "party": "onebc",
+    "url": "https://1bc.ca/constitution",
+    "sha256": "1f96adad72835aa0f923324382964396b29ff0cf6b579f97bb6e82899e892fa0",
+    "local_path": "data/raw/onebc/onebc-0003.html",
+    "archive_url": "http://web.archive.org/web/20260930142236/https://1bc.ca/constitution",
+    "fetched_at": "2026-10-01T07:57:45Z"
+  },
+  {
+    "id": "onebc-0004",
+    "party": "onebc",
+    "url": "https://framerusercontent.com/assets/zwnU2uLnvGUkRnxAXjqMBukzfRo.pdf",
+    "sha256": "041023acbb2d3fc017f8d4fa1ccb4d9d71137bfafdc76060d40dcc08cf4dc4da",
+    "local_path": "data/raw/onebc/onebc-0004.pdf",
+    "archive_url": "http://web.archive.org/web/20260927062020/https://framerusercontent.com/assets/zwnU2uLnvGUkRnxAXjqMBukzfRo.pdf",
+    "fetched_at": "2026-10-01T07:57:45Z"
+  },
+  {
+    "id": "onebc-0005",
+    "party": "onebc",
+    "url": "https://1bc.ca/leadership",
+    "sha256": "c1027fc7c5214cf5425472d0c9cba61325794b245c41631b22e347ef9ebbd4d9",
+    "local_path": "data/raw/onebc/onebc-0005.html",
+    "archive_url": "http://web.archive.org/web/20260930142140/https://1bc.ca/leadership",
+    "fetched_at": "2026-10-01T07:57:46Z"
+  },
+  {
+    "id": "onebc-0006",
+    "party": "onebc",
+    "url": "https://1bc.ca/candidates",
+    "sha256": "1259bf452aa667a2cd2a654b8575fd46c85df1369d11c811023ea95b0cc5d303",
+    "local_path": "data/raw/onebc/onebc-0006.html",
+    "archive_url": "http://web.archive.org/web/20260930142057/https://1bc.ca/candidates",
+    "fetched_at": "2026-10-01T07:57:47Z"
+  },
+  {
+    "id": "onebc-0007",
+    "party": "onebc",
+    "url": "https://1bc.ca/petitions",
+    "sha256": "f44e63c3d0677d86945858fe75998c8de74174f37f973db39a7702241ca3b57e",
+    "local_path": "data/raw/onebc/onebc-0007.html",
+    "archive_url": "http://web.archive.org/web/20260930002130/https://1bc.ca/petitions",
+    "fetched_at": "2026-10-01T07:57:47Z"
+  },
+  {
+    "id": "onebc-0008",
+    "party": "onebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+    "sha256": "cc30fbb92d0e0a86090604d2b2ba0031f29d8d6e1b8738ce222b72f5f8b69480",
+    "local_path": "data/raw/onebc/onebc-0008.html",
+    "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+    "fetched_at": "2026-10-01T08:01:15Z"
+  },
+  {
+    "id": "onebc-0009",
+    "party": "onebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+    "sha256": "1e005b5a5a78c93069dc108a329a0411ddddf346889a6064748f4b8ed8b8ecdd",
+    "local_path": "data/raw/onebc/onebc-0009.html",
+    "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+    "fetched_at": "2026-10-01T08:01:13Z"
+  },
+  {
+    "id": "onebc-0010",
+    "party": "onebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+    "sha256": "e158bcbed457334e611243d2fe86808c2c1951b81c9a831fde971431488668bf",
+    "local_path": "data/raw/onebc/onebc-0010.html",
+    "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+    "fetched_at": "2026-10-01T08:01:12Z"
+  },
+  {
+    "id": "onebc-0011",
+    "party": "onebc",
+    "url": "https://www.leg.bc.ca/hansard-content/Debates/43rd2nd/20260423am-Hansard-n161.html",
+    "sha256": "aa505aaed219dcf5124cc641eab7d19542a5adf087f4df8aa67e9454e813a596",
+    "local_path": "data/raw/onebc/onebc-0011.html",
+    "archive_url": "https://web.archive.org/web/20261001080246/https://www.leg.bc.ca/hansard-content/Debates/43rd2nd/20260423am-Hansard-n161.html",
+    "fetched_at": "2026-10-01T08:03:08Z"
+  },
+  {
+    "id": "onebc-0012",
+    "party": "onebc",
+    "url": "https://surreynowleader.com/2026/09/22/surrey-south-mla-chapman-leaving-b-c-conservatives-for-one-bc",
+    "sha256": "311c1d799f7d0a4a1cb55c5c39bb33b3433cebd1f7c871bb967e2fdd4ab5ab1f",
+    "local_path": "data/raw/onebc/onebc-0012.html",
+    "archive_url": "http://web.archive.org/web/20260923014355/https://surreynowleader.com/2026/09/22/surrey-south-mla-chapman-leaving-b-c-conservatives-for-one-bc/",
+    "fetched_at": "2026-10-01T08:06:58Z"
+  },
+  {
+    "id": "onebc-0013",
+    "party": "onebc",
+    "url": "https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+    "sha256": "81da97a105915d66eb79a0d01cd364559ede55390ab196610428dbe43c9cd4f8",
+    "local_path": "data/raw/onebc/onebc-0013.html",
+    "archive_url": "https://web.archive.org/web/20261001084457/https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+    "fetched_at": "2026-10-01T08:00:56Z"
+  },
+  {
+    "id": "onebc-0014",
+    "party": "onebc",
+    "url": "https://www.timescolonist.com/2026-bc-votes/onebc-overwhelmed-with-candidates-but-fails-to-get-party-status-12821173",
+    "sha256": "532e880d480b27609ac988f6fd2779ce7b4219473583d1ced47ddc8bf59af690",
+    "local_path": "data/raw/onebc/onebc-0014.html",
+    "archive_url": "http://web.archive.org/web/20260925032402/https://www.timescolonist.com/2026-bc-votes/onebc-overwhelmed-with-candidates-but-fails-to-get-party-status-12821173",
+    "fetched_at": "2026-10-01T08:07:00Z"
+  },
+  {
+    "id": "onebc-0015",
+    "party": "onebc",
+    "url": "https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates",
+    "sha256": "6084db9b106283f0250475f94932b23bad2fbab2e866de455015c93a726c7acc",
+    "local_path": "data/raw/onebc/onebc-0015.html",
+    "archive_url": "http://web.archive.org/web/20261001080705/https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates/",
+    "fetched_at": "2026-10-01T08:07:32Z"
+  },
+  {
+    "id": "onebc-0016",
+    "party": "onebc",
+    "url": "https://fraservalleynewsnetwork.com/2026/08/29/onebc-party-leader-says-her-party-will-not-run-candidate-in-upcoming-fraser-valley-provincial-by-election/",
+    "sha256": "92a6f11e0e4872e4cb8e1fc7f17e1bf7cbd104bf204afbcf121e5d26711aab50",
+    "local_path": "data/raw/onebc/onebc-0016.html",
+    "archive_url": "http://web.archive.org/web/20260831042206/https://fraservalleynewsnetwork.com/2026/08/29/onebc-party-leader-says-her-party-will-not-run-candidate-in-upcoming-fraser-valley-provincial-by-election/",
+    "fetched_at": "2026-10-01T08:07:34Z"
+  },
+  {
+    "id": "onebc-0017",
+    "party": "onebc",
+    "url": "https://www.theepochtimes.com/world/onebc-promises-not-to-challenge-candidates-it-calls-true-conservatives-6096966",
+    "sha256": "54a629aa3467665882a3f644af74ff2cb29577b610f0c93e852077a1bca23803",
+    "local_path": "data/raw/onebc/onebc-0017.html",
+    "archive_url": "http://web.archive.org/web/20261001084521/https://www.theepochtimes.com/world/onebc-promises-not-to-challenge-candidates-it-calls-true-conservatives-6096966",
+    "fetched_at": "2026-10-01T07:57:53Z"
+  },
+  {
+    "id": "onebc-0018",
+    "party": "onebc",
+    "url": "https://en.wikipedia.org/wiki/OneBC_(political_party)",
+    "sha256": "bcdb2f26774519a6cdaaa80605f69c0331d27c54886751d10948e95369e2c023",
+    "local_path": "data/raw/onebc/onebc-0018.html",
+    "archive_url": "http://web.archive.org/web/20260923165706/https://en.wikipedia.org/wiki/OneBC_(political_party)",
+    "fetched_at": "2026-10-01T08:07:36Z"
+  },
+  {
+    "id": "onebc-0019",
+    "party": "onebc",
+    "url": "https://ivoteonebc.ca/policies",
+    "sha256": "15007c90bedc3ddb5e77bc72c4890466cdd5716770b1e4f49babd10d26325191",
+    "local_path": "data/raw/onebc/onebc-0019.html",
+    "archive_url": "http://web.archive.org/web/20261001080306/https://ivoteonebc.ca/policies",
+    "fetched_at": "2026-10-01T08:01:03Z"
+  }
+]

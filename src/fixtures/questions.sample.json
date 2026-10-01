@@ -1,0 +1,146 @@
+[
+  {
+    "id": "q01",
+    "statement": "The province should raise taxes on the highest earners to fund public services.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "status": "candidate",
+    "notes": "Classic left-right economic divider; every major party has said something on the record."
+  },
+  {
+    "id": "q02",
+    "statement": "The provincial sales tax should be cut, even if it means smaller surpluses or program reductions.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "status": "candidate",
+    "notes": "Tests the tax-cut vs. services tradeoff in the opposite direction from q01."
+  },
+  {
+    "id": "q03",
+    "statement": "Government should cap the price of basic groceries and other essentials.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic", "social"],
+    "status": "candidate",
+    "notes": "Splits the field differently from tax questions: interventionism rather than left/right."
+  },
+  {
+    "id": "q04",
+    "statement": "Governments should set binding home-building targets and override local zoning that blocks density.",
+    "topic": "housing",
+    "dimensions": ["economic"],
+    "status": "candidate",
+    "notes": "Housing supply is the top BC issue; parties differ on provincial override of municipalities."
+  },
+  {
+    "id": "q05",
+    "statement": "Rent increases should be capped below inflation for existing tenants.",
+    "topic": "housing",
+    "dimensions": ["economic", "social"],
+    "status": "candidate",
+    "notes": "Tenant-protection axis, distinct from the supply question (q04)."
+  },
+  {
+    "id": "q06",
+    "statement": "Public money should fund below-market rental housing built by non-profits and co-ops.",
+    "topic": "housing",
+    "dimensions": ["economic"],
+    "status": "candidate",
+    "notes": "Distinguishes social-housing support from market-led approaches."
+  },
+  {
+    "id": "q07",
+    "statement": "BC should expand the role of private clinics for procedures covered by MSP.",
+    "topic": "health",
+    "dimensions": ["economic", "social"],
+    "status": "candidate",
+    "notes": "The sharpest health-policy divider in BC; tied to the Canada Health Act debate."
+  },
+  {
+    "id": "q08",
+    "statement": "The province should spend more on mental health and addictions treatment, including involuntary care for severe cases.",
+    "topic": "health",
+    "dimensions": ["social"],
+    "status": "candidate",
+    "notes": "Tests the care-vs-coercion split that crosses party lines."
+  },
+  {
+    "id": "q09",
+    "statement": "Every BC resident should have a family doctor or nurse practitioner within two years, funded through recruitment and training expansion.",
+    "topic": "health",
+    "dimensions": ["economic", "social"],
+    "status": "candidate",
+    "notes": "Broad agreement likely; useful as a low-discrimination control question."
+  },
+  {
+    "id": "q10",
+    "statement": "BC should keep the carbon tax and increase it on schedule.",
+    "topic": "climate-environment",
+    "dimensions": ["economic"],
+    "status": "candidate",
+    "notes": "The single most-cited climate divider in BC since the 2024 federal retreat."
+  },
+  {
+    "id": "q11",
+    "statement": "The province should approve new oil and gas projects when they meet environmental standards.",
+    "topic": "climate-environment",
+    "dimensions": ["economic"],
+    "status": "candidate",
+    "notes": "Pairs with a phase-out framing to separate 'standards' from 'stop'."
+  },
+  {
+    "id": "q12",
+    "statement": "Old-growth forests should be protected even where it costs forestry jobs.",
+    "topic": "climate-environment",
+    "dimensions": ["economic", "social"],
+    "status": "candidate",
+    "notes": "Value tradeoff that parties code differently in writing vs. in the legislature."
+  },
+  {
+    "id": "q13",
+    "statement": "BC should implement the Declaration on the Rights of Indigenous Peoples Act fully, including the consent standard for major projects.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": ["social"],
+    "status": "candidate",
+    "notes": "DRIPA/UNDRIP consent standard is the live reconciliation divider."
+  },
+  {
+    "id": "q14",
+    "statement": "First Nations should receive a greater share of resource revenue from their territories.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": ["economic", "social"],
+    "status": "candidate",
+    "notes": "Revenue-sharing is coded more often than consent language in party platforms."
+  },
+  {
+    "id": "q15",
+    "statement": "Provincial funding for Indigenous-led child welfare and healing services should be expanded.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": ["social"],
+    "status": "candidate",
+    "notes": "Low-salience separator; included to keep the topic from being one question deep."
+  },
+  {
+    "id": "q16",
+    "statement": "Sentences for repeat violent offenders should be longer, with less use of bail.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "status": "candidate",
+    "notes": "The defining social-conservative/progressive divider in BC's 2024–2026 cycle."
+  },
+  {
+    "id": "q17",
+    "statement": "BC should expand involuntary treatment for people with severe addiction who are a danger to themselves or others.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "status": "candidate",
+    "notes": "Crosses the usual left/right line; overlaps q08 by design — compare the two codings."
+  },
+  {
+    "id": "q18",
+    "statement": "Police funding should be redirected toward community and mental-health crisis response teams.",
+    "topic": "public-safety",
+    "dimensions": ["economic", "social"],
+    "status": "candidate",
+    "notes": "Direct counterweight to q16; keeps the safety topic two-sided."
+  }
+]

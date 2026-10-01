@@ -1,0 +1,280 @@
+{
+  "generated": "2026-10-01",
+  "answers": "Martin's open question: which image-generation model(s) for the shared RTX 3090, per asset class",
+  "box": {
+    "instance": "vast.ai <instance-id>",
+    "gpu": "1x RTX 3090, 24GB VRAM, shared with an LLM benchmark job (assume partial availability, jobs queue)",
+    "image": "vastai/comfy:v0.37.0-cuda-13.2-py312",
+    "currently_installed": ["sd_xl_turbo_1.0_fp16.safetensors", "v1-5-pruned-emaonly-fp16.safetensors"]
+  },
+  "licence_gate": {
+    "rule": "MIT-licensed project, published artwork: model must permit commercial use AND derivative works, no registration, no payment. Gated HF repos flagged (change download path). Failing models go to rejects with the clause.",
+    "provenance_legend": {
+      "card": "licence text or model-card statement read directly on the model's own repo",
+      "card_metadata": "model-card YAML/README frontmatter read via HF API, licence text not read clause-by-clause",
+      "secondary": "third-party or vendor page only; flagged in unverified"
+    }
+  },
+  "candidates": [
+    {
+      "name": "FLUX.1-schnell fp8 (Comfy-Org all-in-one checkpoint)",
+      "repo": "Comfy-Org/flux1-schnell",
+      "upstream": "black-forest-labs/FLUX.1-schnell",
+      "licence": "Apache-2.0",
+      "licence_source": "card",
+      "licence_url": "https://github.com/black-forest-labs/flux/blob/main/model_licenses/LICENSE-FLUX1-schnell",
+      "licence_quote": "each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.",
+      "commercial_use": true,
+      "derivative_works": true,
+      "gated": "upstream repo gated:auto (account + contact sharing); Comfy-Org repack NOT gated — download path is the repack",
+      "size_gb": 17.24,
+      "files": "flux1-schnell-fp8.safetensors (single file, bundles diffusion model + T5 + CLIP + VAE)",
+      "vram_fp8": "~12-16 GB at 1024x1024 (estimate, community reports; not measured)",
+      "vram_fp16": "full fp16 flux1-schnell.safetensors (23.78 GB) needs ~20-24 GB (estimate) — effectively the whole card, not viable while shared",
+      "loader": "CheckpointLoaderSimple (standard checkpoint loader, no extra nodes)",
+      "sampler_settings": "4 steps, cfg 1.0, sampler euler, scheduler simple, denoise 1.0 (read from official template flux_schnell.json)",
+      "comfyui_template": "flux_schnell.json; flux_schnell_full_text_to_image.json (Comfy-Org/workflow_templates)",
+      "verdict": "recommended — first choice for background plates and landscape plates",
+      "notes": "Negative prompts ineffective at cfg 1.0. Apache-2.0 places no claim on outputs."
+    },
+    {
+      "name": "FLUX.1-dev",
+      "repo": "black-forest-labs/FLUX.1-dev",
+      "licence": "FLUX.1 [dev] Non-Commercial License v1.1.1",
+      "licence_source": "card",
+      "licence_url": "https://github.com/black-forest-labs/flux/blob/main/model_licenses/LICENSE-FLUX1-dev",
+      "licence_quote": "Company grants you a non-exclusive, worldwide, non-transferable, non-sublicensable, revocable, royalty free and limited license to access, use, create Derivatives of, and Distribute the FLUX.1 [dev] Models and Derivatives solely for your Non-Commercial Purposes.",
+      "commercial_use": false,
+      "derivative_works": "only for non-commercial purposes",
+      "gated": "gated:auto on HF",
+      "size_gb": 23.8,
+      "loader": "CheckpointLoaderSimple",
+      "comfyui_template": "flux_dev_checkpoint_example.json, flux_dev_full_text_to_image.json (exist but unusable for us)",
+      "verdict": "REJECTED — non-commercial licence; also taints every FLUX.1-dev LoRA/derivative",
+      "notes": "Outputs clause ('Outputs are not considered Derivatives') does not save us: running the model for funded production output is the restricted act. Covering note: paid BFL Self-Hosted Commercial License exists (June 2025) — not pursued."
+    },
+    {
+      "name": "Chroma1-HD fp8mixed",
+      "repo": "Comfy-Org/Chroma1-HD_repackaged",
+      "upstream": "lodestones/Chroma1-HD",
+      "licence": "Apache-2.0",
+      "licence_source": "card",
+      "licence_url": "https://huggingface.co/lodestones/Chroma1-HD",
+      "licence_quote": "Chroma1-HD is an 8.9B parameter text-to-image foundational model based on FLUX.1-schnell. It is fully Apache 2.0 licensed, ensuring that anyone can use, modify, and build upon it.",
+      "commercial_use": true,
+      "derivative_works": true,
+      "gated": false,
+      "size_gb": 9.19,
+      "support_files": [
+        "t5xxl_fp8_e4m3fn_scaled.safetensors 5.16 GB (comfyanonymous/flux_text_encoders, apache-2.0 metadata) -> models/text_encoders/",
+        "ae.safetensors 0.34 GB FLUX VAE (Comfy-Org/Lumina_Image_2.0_Repackaged split_files/vae/) -> models/vae/"
+      ],
+      "vram_fp8": "~10-14 GB total incl. fp8 T5 (estimate; not measured)",
+      "vram_fp16": "bf16 Chroma1-HD.safetensors 17.80 GB + T5 fp16 -> ~18-22 GB (estimate)",
+      "loader": "UNETLoader (diffusion_models dir) + CLIPLoader type=chroma + VAELoader — stock nodes, no custom nodes",
+      "sampler_settings": "26 steps, cfg 3.5, sampler euler, scheduler beta, shift 1.0 (ModelSamplingAuraFlow), negative prompt supported (read from official template image_chroma_text_to_image.json)",
+      "comfyui_template": "image_chroma_text_to_image.json; image_chroma1_radiance_text_to_image.json",
+      "verdict": "recommended — fallback for plates; line-art alternative for illustration",
+      "notes": "8.9B params, FLUX.1-schnell lineage (clean). Takes negative prompts. Older lodestones/Chroma repo is deprecated. Chroma1-Flash (CFG-baked fast variant, 17.80 GB bf16) exists for speed if we adopt Chroma seriously."
+    },
+    {
+      "name": "SDXL 1.0 base",
+      "repo": "stabilityai/stable-diffusion-xl-base-1.0",
+      "licence": "CreativeML Open RAIL++-M (dated July 26, 2023)",
+      "licence_source": "card",
+      "licence_url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md",
+      "licence_quote": "The Output You Generate. Except as set forth herein, Licensor claims no rights in the Output You generate using the Model. You are accountable for the Output you generate and its subsequent uses. | Use-based restrictions: The restrictions set forth in Attachment A are considered Use-based restrictions. Therefore You cannot use the Model and the Derivatives of the Model for the specified restricted uses.",
+      "commercial_use": true,
+      "derivative_works": "yes, with Attachment A use-restrictions flowing down (LoRAs/fine-tunes are Derivatives under the licence definition)",
+      "gated": false,
+      "size_gb": 6.94,
+      "vram_fp16": "~8 GB at 1024x1024 (estimate) — safest model for a contended card",
+      "loader": "CheckpointLoaderSimple",
+      "sampler_settings": "25 steps, cfg 7, sampler dpmpp_2m, scheduler karras (read from official template image_sdxl_simple.json)",
+      "comfyui_template": "image_sdxl_simple.json",
+      "verdict": "recommended — first choice for flat editorial illustration (with LoRA); VRAM-cheap fallback for plates",
+      "notes": "Attachment A bans disinformation/PII-harm etc. — compatible with a neutral civic tool; must flow down if we ever distribute a LoRA."
+    },
+    {
+      "name": "minimal_flat_illustration,_emotional_scene.safetensors (style LoRA, SDXL)",
+      "repo": "ramel2/emotional-flat-illustration-sdxl-lora",
+      "licence": "CreativeML OpenRAIL-M (declared in card frontmatter)",
+      "licence_source": "card_metadata",
+      "licence_url": "https://huggingface.co/ramel2/emotional-flat-illustration-sdxl-lora",
+      "licence_quote": "frontmatter: license: creativeml-openrail-m (licence text file not read clause-by-clause)",
+      "commercial_use": true,
+      "derivative_works": "OpenRAIL-M permits derivatives with use-restriction flow-down; LoRA is a Derivative of its SDXL base, chain is coherent",
+      "gated": false,
+      "size_gb": 0.4565,
+      "loader": "LoraLoader after CheckpointLoaderSimple",
+      "sampler_settings": "with SDXL base: 25 steps, cfg 7, dpmpp_2m/karras, lora weight 0.6-0.8 (to be tuned)",
+      "comfyui_template": "n/a (LoraLoader wires into image_sdxl_simple workflow)",
+      "verdict": "recommended with caveats — only licence-declared flat-illustration LoRA found; must pass object-only benchmark (trained on emotional human scenes)",
+      "notes": "Trigger words: 'minimal flat illustration', 'emotional scene'. Fallback = SDXL prompt-only. Rejected alternatives: Shakker/Muapi/simple-flat-illustration-shakker etc. have license=None; FLUX-dev LoRAs are non-commercial."
+    },
+    {
+      "name": "Real-ESRGAN x4plus (upscaler)",
+      "repo": "amd/realesrgan-x4plus (mirror) / xinntao/Real-ESRGAN (upstream)",
+      "licence": "BSD 3-Clause",
+      "licence_source": "secondary (mirror card states weights BSD-3; upstream code LICENSE is BSD-3; corroborated by OpenModelDB rights page)",
+      "licence_url": "https://huggingface.co/amd/realesrgan-x4plus",
+      "licence_quote": "These weights are distributed under the BSD 3-Clause License, Copyright (c) 2021 Xintao Wang (upstream LICENSE).",
+      "commercial_use": true,
+      "derivative_works": true,
+      "gated": false,
+      "size_gb": 0.0639,
+      "vram_fp16": "<2 GB (estimate)",
+      "loader": "UpscaleModelLoader -> models/upscale_models",
+      "sampler_settings": "n/a; x4 then Lanczos-downsample to target",
+      "comfyui_template": "none local (workflow_templates only has API-based upscale templates)",
+      "verdict": "recommended — first choice upscaler",
+      "notes": "Fallback 4x-UltraSharp: quality-liked but licence undeclared, use only if ESRGAN fails the plate test."
+    },
+    {
+      "name": "Playground v2.5",
+      "repo": "playgroundai/playground-v2.5-1024px-aesthetic",
+      "licence": "Playground v2.5 Community License",
+      "licence_source": "card",
+      "licence_url": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic/blob/main/LICENSE.md",
+      "licence_quote": "this permissive license is available for free for research and commercial use (by an entity or individual) | Additional Commercial Terms trigger if image generation is a core business and products exceed 1 million monthly unique users",
+      "commercial_use": true,
+      "derivative_works": true,
+      "gated": false,
+      "size_gb": "13.88 (fp16 single-file 6.94 available)",
+      "loader": "CheckpointLoaderSimple",
+      "sampler_settings": "typical SDXL-class: 25 steps, cfg 3-5 (community norm; not read from a template)",
+      "comfyui_template": "none",
+      "verdict": "considered, not recommended — passes gate at our scale but custom licence with redistribution pass-through duty; aesthetic-tuned (cinematic), wrong register for civic editorial; redundant with SDXL + schnell"
+    },
+    {
+      "name": "PixArt-Sigma (XL-2-1024-MS)",
+      "repo": "PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+      "licence": "CreativeML OpenRAIL++-M (card metadata)",
+      "licence_source": "card_metadata",
+      "licence_url": "https://huggingface.co/PixArt-alpha/PixArt-Sigma-XL-2-1024-MS",
+      "commercial_use": true,
+      "derivative_works": true,
+      "gated": false,
+      "verdict": "considered, not recommended — needs its own T5 stack, weaker LoRA-style-consistency ecosystem than SDXL"
+    },
+    {
+      "name": "Lumina-Image 2.0",
+      "repo": "Alpha-VLLM/Lumina-Image-2.0",
+      "licence": "Apache-2.0 (card metadata)",
+      "licence_source": "card_metadata",
+      "licence_url": "https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0",
+      "commercial_use": true,
+      "derivative_works": true,
+      "gated": false,
+      "size_gb": "10.62 all-in-one (Comfy-Org/Lumina_Image_2.0_Repackaged)",
+      "comfyui_template": "image_netayume_lumina_t2i.json (variant)",
+      "verdict": "reserve — clean licence and Comfy-Org repack exists, but unproven for our register"
+    },
+    {
+      "name": "Sana",
+      "repo": "Efficient-Large-Model/Sana_1600M_1024px_BF16_diffusers",
+      "licence": "Apache-2.0 (card metadata)",
+      "licence_source": "card_metadata",
+      "licence_url": "https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px_BF16_diffusers",
+      "commercial_use": true,
+      "derivative_works": true,
+      "gated": false,
+      "verdict": "considered, not recommended — efficient but less predictable editorial-register output"
+    },
+    {
+      "name": "SD3.5 Medium / Large",
+      "repo": "stabilityai/stable-diffusion-3.5-large (and -medium)",
+      "licence": "Stability AI Community License",
+      "licence_source": "secondary (repos gated; raw LICENSE returns 401 unauthenticated; clause read on stability.ai/license)",
+      "licence_url": "https://stability.ai/license",
+      "licence_quote": "free for research, non-commercial, and commercial use. You only need a paid Enterprise license if your yearly revenues exceed USD$1M and you use Stability AI models in commercial products or services",
+      "commercial_use": "yes, revenue-contingent (< $1M/yr) and revocable",
+      "derivative_works": "yes, same conditions",
+      "gated": "gated:auto",
+      "verdict": "REJECTED for our purposes — passes at our revenue but revenue-contingent + revocable + gated when permissive Apache-2.0 alternatives exist"
+    },
+    {
+      "name": "Kolors",
+      "repo": "Kwai-Kolors/Kolors",
+      "licence": "weights: custom (registration required for commercial use); code: Apache-2.0",
+      "licence_source": "card",
+      "licence_url": "https://huggingface.co/Kwai-Kolors/Kolors",
+      "licence_quote": "Kolors are fully open-sourced for academic research. For commercial use, please fill out this questionnaire ... and sent it to kwai-kolors@kuaishou.com for registration.",
+      "commercial_use": "only after registration with Kwai",
+      "derivative_works": true,
+      "gated": false,
+      "verdict": "REJECTED — commercial use requires registration; note the frontmatter says apache-2.0 but the card's License section restricts the WEIGHTS (Apache-2.0 covers code)"
+    },
+    {
+      "name": "HunyuanDiT",
+      "repo": "Tencent-Hunyuan/HunyuanDiT",
+      "licence": "Tencent Hunyuan Community License (custom)",
+      "licence_source": "card_metadata",
+      "licence_url": "https://huggingface.co/Tencent-Hunyuan/HunyuanDiT/blob/main/LICENSE.txt",
+      "commercial_use": "unverified",
+      "verdict": "REJECTED by default — custom licence terms not read, cannot clear gate"
+    }
+  ],
+  "rejects_summary": [
+    "FLUX.1-dev + all dev-based LoRAs/derivatives — Non-Commercial License v1.1.1 ('solely for your Non-Commercial Purposes')",
+    "Kolors weights — commercial use requires Kwai registration (card License section, despite apache-2.0 frontmatter)",
+    "SD3.5 Medium/Large — Stability Community Licence is revenue-contingent and revocable, repos gated; unnecessary when Apache-2.0 options exist",
+    "HunyuanDiT — custom Tencent community licence, terms unverified",
+    "Flat-illustration LoRAs with license=None on HF (Shakker re-uploads, Muapi line, simple-flat-illustration-shakker) — commercial/derivative rights unverifiable",
+    "4x-UltraSharp and most OpenModelDB ESRGAN upscalers — no declared licence"
+  ],
+  "recommendation_by_asset": {
+    "background_plates": {
+      "job": "abstract institutional/paper/grain textures, soft gradients, subtle geometry; must survive 40-60% darkening under text",
+      "first": "FLUX.1-schnell fp8 — clean abstract composition and prompt adherence at 4 steps; fast iteration for many-candidate curation",
+      "fallback": "Chroma1-HD fp8mixed — cfg 3.5 + negative prompt ('text, letters, watermark, signage, structures') when plates drift busy"
+    },
+    "landscape_plates": {
+      "job": "generic BC geography (coastal rainforest, mountains, interior plateau, river valley), not a specific town, not a campaign photo",
+      "first": "FLUX.1-schnell fp8 — photographic register at 4 steps; 'no buildings, no people, no roads, no signage' prompts hold",
+      "fallback": "Chroma1-HD fp8mixed (negatives suppress people/signage) or SDXL when the shared box is VRAM-contended (~8 GB vs ~12-16 GB)"
+    },
+    "flat_illustration": {
+      "job": "ballot box, document, compass, magnifier, scales, shield — restrained editorial, not cute, not corporate-memphis, not anime; series consistency across 6-8 icons",
+      "first": "SDXL 1.0 base + ramel2 flat-illustration LoRA @ 0.6-0.8, 25 steps cfg 7 dpmpp_2m/karras, fixed negative block; only licence-declared LoRA found, chain coherent with OpenRAIL++-M",
+      "fallback": "SDXL prompt-only (strengthen style block); second fallback Chroma1-HD for line-art look"
+    },
+    "upscaling": {
+      "job": "1200x630 share cards and 1080x1350 carousel slides from ~half-target generations",
+      "first": "Real-ESRGAN x4plus (BSD-3) — generate 1216x576 / 864x1080, x4, Lanczos downsample to target",
+      "fallback": "4x-UltraSharp (licence undeclared — use only if ESRGAN fails the plate test, record the trade-off)"
+    }
+  },
+  "benchmark_plan": {
+    "test_order": ["FLUX.1-schnell-fp8", "SDXL base + LoRA", "Chroma1-HD-fp8mixed"],
+    "prompts": {
+      "background_plate": "Abstract institutional background texture, pale grey-green paper grain, soft diagonal gradient, faint embossed geometric grid lines, subtle fibre texture, flat even lighting, muted desaturated palette, minimal, no objects, no text, editorial print aesthetic",
+      "landscape_coast": "Wide photograph of a coastal rainforest valley in British Columbia, low soft overcast light, layered mountain ridges fading into mist, dark evergreen forest, calm water, no buildings, no people, no roads, no signage, muted natural colours, large-format landscape photography",
+      "landscape_interior": "Wide photograph of an interior plateau river valley in British Columbia, dry golden grasslands, rolling hills, braided river, big sky, late afternoon light, no buildings, no people, no roads, no signage, muted natural colours, large-format landscape photography",
+      "illustration_ballot_box": "Minimal flat editorial illustration of a ballot box with a single folded ballot paper, thin uniform outlines, limited palette of navy, warm grey and off-white, flat vector shapes, no shading, no gradients, plain off-white background, generous negative space, restrained civic infographic style",
+      "illustration_variants": "Same prompt with object swapped: a single-page document; a compass; a magnifying glass; paired scales; a shield",
+      "negative_block_sdxl": "text, letters, words, watermark, logo, mascot, cartoon face, cute, kawaii, anime, 3D render, drop shadow, gradient mesh, corporate memphis, human figure, face, hands"
+    },
+    "measure": [
+      "text-incidence rate: 8 samples/class, any legible glyph = defect, target 0",
+      "darkened-plate test: overlay candidates at 50% black + white text at final size, side-by-side intentional? judgement",
+      "series consistency: 4 icons per config, rate palette/line-weight/corner variance (LoRA on vs off)",
+      "prohibited-content audit: faces, figures, flags, party symbols, outcome-implying imagery",
+      "ops: VRAM peak via nvidia-smi + wall time per image, measured under LLM-benchmark contention",
+      "upscale pass: one grain plate + one illustration through Real-ESRGAN x4 -> 1200x630 and 1080x1350; check halos and grain survival"
+    ],
+    "targets": {
+      "share_card": "generate 1216x576 -> x4 -> 2432x1152 -> resize 1200x630",
+      "carousel_slide": "generate 864x1080 -> x4 -> 1728x2160 -> resize 1080x1350"
+    }
+  },
+  "unverified": [
+    "All VRAM figures are estimates (est) from community sources — nothing executed on the GPU yet",
+    "Real-ESRGAN weights-are-BSD-3 rests on the AMD mirror card + OpenModelDB, not a weight licence file in the upstream release",
+    "SD3.5 community-licence clause read on stability.ai/license (secondary) — SD3.5 repos are gated and raw LICENSE returned 401",
+    "ramel2 LoRA licence read at card-metadata level (creativeml-openrail-m declared), not clause level",
+    "PixArt-Sigma / Lumina / Sana / Kolors / HunyuanDiT licences read at model-card metadata level only (Kolors README licence section read in full)",
+    "Sampler settings for Playground v2.5 are community norms, not from an official template",
+    "Chroma1-HD prompt behaviour (photographic landscapes, flat illustration) untested — benchmark covers this"
+  ]
+}

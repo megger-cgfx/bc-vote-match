@@ -1,0 +1,151 @@
+{
+  "question_id": "q24",
+  "statement": "The province should cover dental care under the public health plan.",
+  "topic": "health",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:41Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "cover",
+    "dental",
+    "care",
+    "public",
+    "health"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 8.4269,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "This bill requires new residents who are not yet Canadian citizens or permanent residents to pay an annual health registration fee of $7,500 per person as a condition of coverage under the Medicare Protection Act. That amount reflects the average annual cost of publicly funded health care in B.C. [10:30 a.m.] The fee will be adjusted for inflation each year and will cease once the individual becomes a permanent resident or a Canadian citizen. All revenues will go into a dedicated health cost recovery account, used only to administer the act and fund health services for new residents."
+    },
+    {
+      "rank": 2,
+      "score": 4.7033,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "The member talks about the short-term actions that we have to take and that health authorities continue to focus on to provide what we all have as a common goal, which is stable maternity services for women and families across British Columbia. Those short-term actions are essential to make sure that the care is there and can be delivered. It also speaks to why we have to continue the work that we are doing in the creation of a new medical school here in British Columbia to train the next generation of doctors, to reach out to jurisdictions like California, Washington and Oregon to invite physicians to move here to British Columbia to practise in our universal public health care system."
+    },
+    {
+      "rank": 3,
+      "score": 3.3343,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "I want to say thank you to the RCMP who responded and for the people who provide support to paramedics and other front-line workers when terrible circumstances like this unfold. The continuum of publicly funded services that this government is building out when it comes to mental health is absolutely unprecedented. This year’s budget has a $4.2 billion lift in health care, and that includes $500 million to expand the services of mental health and substance use across this province. It includes Foundry centres, interdisciplinary teams for youth."
+    },
+    {
+      "rank": 4,
+      "score": 3.2761,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "Most new arrivals, earning modest incomes as they get established, naturally contribute far less in taxes at first, yet their care is just as costly. This bill closes that gap fairly and transparently so that everyone who receives publicly funded health care also helps pay to keep it strong for the future. The Speaker : Members, the question is first reading of the bill. Division has been called."
+    },
+    {
+      "rank": 5,
+      "score": 3.0539,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "Housing Increase the allowable yearly cut, reduce stumpage fees for lumber companies, and speed up permit approvals to let BC’s forest industry grow. Forestry Private healthcare alongside fully-funded public healthcare, and a shift of administration spending to frontline employees and resources. Healthcare 25% tax cuts for every single tax bracket — including corporate, a 2% PST reduction, and pipeline approval to foreign markets. End DRIPA and UNDRIP."
+    },
+    {
+      "rank": 6,
+      "score": 2.7468,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "Downgrades, High Interests Cost, Increases unaffordability 2 Tax dollars spent on debt servicing is tax dollars not spent on healthcare 3 Balanced budgets within 4 years, with an aim towards running surplus budgets 4 A portion of budget surpluses will be put towards debt repayment to quickly reduce the costs of debt servicing in the budget Healthcare 1 Private Healthcare alongside fully-funded public healthcare 2 Shift administration/HR spending to frontline employees and resources Education 1 Bring back standardized testing — Focus on reading, writing and mathematics 2 Remove SOGI-123 and politicized content from classrooms 3 Institute a Parental Bill of Rights guaranteeing informed"
+    },
+    {
+      "rank": 7,
+      "score": 1.5923,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Hon. Josie Osborne : …workers need to know that they are safe and feel safe, but patients in our health care system do too. That is why we’ve expanded the relational security initiative, supporting nurses in the workplace and other health care professionals, and we are seeing results. [11:00 a.m.] With over 780 of these protective officers working in health care settings, we have seen the incidents of violence come down 8 percent, and we have seen a 13 percent reduction in WorkSafeBC claims after only one year."
+    },
+    {
+      "rank": 8,
+      "score": 1.4985,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Well, I can assure her that a quick google, a quick check on the internet or a quick conversation would tell her that, indeed, they are. If that was a concern, I would hope that members would do research before coming into the debate, because these words matter. To suggest that people with health conditions aren’t covered by the code doesn’t tell the reality of what actually is covered. She wanted clarity on words."
+    },
+    {
+      "rank": 9,
+      "score": 1.393,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "Equalize funding for public, private, and homeschool education, and legislate education as an essential service. Overhaul BC’s disastrous healthcare system to align it with best practices worldwide and to help all British Columbians live longer, happier, and healthier lives. Meet Dallas Brodie Meet Dallas Brodie Meet Dallas Brodie OneBC is on a mission to lower your taxes, defend families, reform our democracy, preserve our environment, and to bring you world-class healthcare, education, and public infrastructure."
+    },
+    {
+      "rank": 10,
+      "score": 1.2978,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "I asked the minister directly yesterday. Her answer was…. She decided to talk about the choices she’s making and two-tier health care systems. Not once did she address this program that is providing mental health, addiction support and suicide prevention."
+    },
+    {
+      "rank": 11,
+      "score": 1.1923,
+      "source_id": "onebc-0019",
+      "source_type": "other",
+      "title": "iVoteOneBC.ca — OneBC Priorities (independent supporter summary of official 53 planks)",
+      "url": "https://ivoteonebc.ca/policies",
+      "archive_url": "http://web.archive.org/web/20261001080306/https://ivoteonebc.ca/policies",
+      "published": "2026-06-17",
+      "quote": "It is not authorized by, affiliated with, endorsed by, or funded by OneBC, Dallas Brodie, or any candidate. Source links are provided for public-interest political commentary. iVoteOneBC.ca · Positive accountability coverage for British Columbia · Research monitor"
+    },
+    {
+      "rank": 12,
+      "score": 1.1604,
+      "source_id": "onebc-0011",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-23: Brodie debate on repealing DRIPA",
+      "url": "https://www.leg.bc.ca/hansard-content/Debates/43rd2nd/20260423am-Hansard-n161.html",
+      "archive_url": "https://web.archive.org/web/20261001080246/https://www.leg.bc.ca/hansard-content/Debates/43rd2nd/20260423am-Hansard-n161.html",
+      "published": "2026-04-23",
+      "quote": "Public Tours Group Tours Self-Guided Tours Go to Visit Programs & Events Parliamentary Plays Special Programs Mobile Menu About Go to About Welcome from the Speaker Reconciliation Organizational Governance & Administration Accountability Go to Accountability Legislative Assembly Reports Members' Disclosures Go to Member Disclosures Public Disclosure Statements MLA Remuneration Legislative Assembly Employee's Disclosures Archive Disclosure Reports Policy Suite Careers Go to Careers Members Find My MLA Find MLA by Community Find MLA by Constituency Current Party Standings Executive Council Parliamentary Business Go to Parliamentary Business Parliamentary Calendar Broadcasts & Webcasts"
+    }
+  ]
+}

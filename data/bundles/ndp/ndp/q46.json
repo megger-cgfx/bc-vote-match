@@ -1,0 +1,153 @@
+{
+  "question_id": "q46",
+  "statement": "Public use of illegal drugs should be banned in BC.",
+  "topic": "public-safety",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:24Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "public",
+    "use",
+    "illegal",
+    "drugs",
+    "banned"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.4141,
+      "source_id": "ndp-0022",
+      "source_type": "release",
+      "title": "(2024) Past MLA, advocate, and community leader Jodie Wickens nominated in Coquitlam-Burke Mountain",
+      "url": "https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+      "archive_url": "http://web.archive.org/web/20260516175202/https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+      "published": "2024-06-16",
+      "quote": "$445, cutting childcare fees in half, and making birth control free; and Keeping communities safe by hiring 250 more police officers, giving police more power to address public drug use, cracking down on repeat violent offenders, and taking on organized crime - including seizing Hells Angels clubhouses and many other proceeds of crime. “Jodie and I served together in opposition, and as an MLA she was a remarkable advocate for women, for young children and for public education. I’m so glad she is running with us again,” said Premier David Eby."
+    },
+    {
+      "rank": 2,
+      "score": 1.8135,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Crack down on open drug use Plan page Rollback all decriminalization programs and crack down on open drug use Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities . Keep the province out of any federal buy-back or confiscation program for legally acquired firearms Plan page No provincial government participation in any federal firearms buy-back or confiscation program for legally acquired firearms Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities ."
+    },
+    {
+      "rank": 3,
+      "score": 1.5512,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "[2:15 p.m.] To the Premier, why is the Premier creating one standard of court review for Indigenous rights and another for everyone else? Hon. Spencer Chandra Herbert : I respect the role of the court, and I respect the role that First Nations can use that court. As you’ll know, there was a time when our House and the federal parliament banned the use of courts."
+    },
+    {
+      "rank": 4,
+      "score": 1.5328,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "The misinformation here is that toxic drugs and substance use disorder are a criminal justice issue, not the health issue that they really are. [10:35 a.m.] That’s why we undertake initiatives like prescribed alternatives, where people have access to something that they are physiologically addicted to. Yet if they’re not provided with a safe way to be interrupted from a toxic drug supply…. Interjections."
+    },
+    {
+      "rank": 5,
+      "score": 1.3359,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "11 more from OneBC Roll back all decriminalization programs Plan page Rollback all decriminalization programs and crack down on open drug use Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities ."
+    },
+    {
+      "rank": 6,
+      "score": 1.2595,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "But yesterday the provincial health officer confirmed she still supports legalizing illicit drug use in our communities. Let’s be clear. This experiment…. British Columbia saw record deaths of almost 2,600 people in 2023 alone, the worst year on record."
+    },
+    {
+      "rank": 7,
+      "score": 1.2031,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "strong amid Trump’s attacks , September 22 . CentreBC No commitment on this yet Conservative No commitment on this yet OneBC No commitment on this yet Public safety BC Green Fight the toxic drugs crisis with harm reduction and investment in voluntary care Plan page Fight the toxic drugs crisis with effective harm reduction and real investment in voluntary care. Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca . BC NDP No commitment on this yet CentreBC Implement a 3-step plan to tackle extortion threats facing local businesses Before the writ Feb 16 We will implement an evidence-led 3-step plan to tackle the rising extortion threats facing local businesses."
+    },
+    {
+      "rank": 8,
+      "score": 1.2015,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "Vigo provides us with advice, particularly on people with acquired brain injury, who are suffering from severe mental illness, who have substance use disorder. Harm reduction works — whether it’s overdose prevention services, prescribed alternatives… The Speaker : Shhh, Members. Hon. Josie Osborne : …a LifeguardConnect app, drug testing and checking."
+    },
+    {
+      "rank": 9,
+      "score": 1.1673,
+      "source_id": "ndp-0042",
+      "source_type": "policy",
+      "title": "Strengthening response to vandalism, theft, street disorder (C-POII provincewide, Public Safety ministry)",
+      "url": "https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "archive_url": "http://web.archive.org/web/20260909045354/https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "published": "2026-07-23",
+      "quote": "safer September 1, 2026 2:30 PM B.C., Washington officials continue to work together to strengthen public safety Read More Unregulated drug toxicity claims 138 lives in June 2026 August 25, 2026 9:30 AM ALL NEWS FROM THIS MINISTRY More from this Ministry Factsheets & Opinion Editorials Search News Minister's Bio Skip to main content Skip to footer Print Public Safety and Solicitor General British Columbia News Strengthening response to vandalism, theft, street disorder throughout Lower Mainland https://news.gov.bc.ca/34070 Thursday, July 23, 2026 10:15 AM Provincewide program will tackle chronic property crime, public disorder Translations 简体中文 繁體中文 Français ਪੰਜਾਬੀ Share News Release"
+    },
+    {
+      "rank": 10,
+      "score": 1.1364,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "She did on her own. But because she has now done that, the public deserves an answer. What is the percentage of the mandate cost that is higher than what the government anticipated? If you use $100 as a representative example, if the government was assuming they could use $100 to solve the mandate, is it now $110, so a 10 percent difference?"
+    },
+    {
+      "rank": 11,
+      "score": 1.0391,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "Made medication more affordable We led Canada in expanding the use of biosimilar medications, which cost up to 50% less than the original drug. This is saving health care $732 million over 5 years, which is reinvested into BC PharmaCare to provide coverage for additional medications and medical devices, including continuous and flash glucose monitors for people with diabetes. Capped ferry fare increases We invested $500 million this year to cap ferry fare increases for the next four years."
+    },
+    {
+      "rank": 12,
+      "score": 1.0104,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "That public land…. You can use it, but you can’t go harvesting mushrooms. Sorry. Maybe K’ómoks would change their mind if you asked very kindly."
+    }
+  ]
+}

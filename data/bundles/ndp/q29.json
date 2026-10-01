@@ -1,0 +1,130 @@
+{
+  "question_id": "q29",
+  "statement": "The province should stop logging old-growth forests.",
+  "topic": "climate-environment",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:54Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "stop",
+    "logging",
+    "old-growth",
+    "forests"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.4235,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "That’s not going to work, and we’re going to have unmanageable damages and costs in the future. For many in this room, we won’t experience the full impact, but our children and our grandchildren will. We’re failing them by not taking this seriously. Budget 2026 includes no new funding for many other key environmental commitments: endangered ecosystems like old-growth forests and habitat of at-risk species, or getting us closer to the promised provincial biodiversity law."
+    },
+    {
+      "rank": 2,
+      "score": 3.1791,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "Those are two areas that are well known for their old-growth forests and two areas that have been highly publicized due to the police responses and injunctions that have been levied at peaceful protesters and Indigenous land defenders. We all know that in order to reach a resolution that will last, you need to build consensus, not division. So the minister, with my support, held a meeting in January of this year with representatives of various First Nations, including Huu-ay-aht, including paaʔčiidʔatx̣, including the B.C. First Nations Forestry Council, conservation groups, industry associations and industry."
+    },
+    {
+      "rank": 3,
+      "score": 3.0094,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "To fight climate change now and protect this beautiful place for future generations, BC will work with Indigenous Peoples, the federal government, industry, workers and communities to protect 30% of our land and water by 2030. You will see accelerated work on your government’s plan to protect more of BC’s old-growth forests in partnership with First Nations rights holders in the months to come. And you will see work with First Nations, communities and stakeholders to help protect our watersheds—our clean water sources—now and for future generations. Climate readiness As we take action to protect the environment, we also must prepare for a stark reality: climate change is happening now."
+    },
+    {
+      "rank": 4,
+      "score": 2.2255,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "Bill 14, in addition to what I’ve already talked about, also has consequential amendments to the Forest and Range Practices Act. These changes ensure that contract logging activities align with stewardship requirements. They ensure that public engagement continues to be a key part of decision-making. My colleague across the way from the Cariboo talked about this in the context of the fact that we’re actually doing forest landscape planning in the Cariboo."
+    },
+    {
+      "rank": 5,
+      "score": 2.1753,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "Old growth is part of that future, and having a certainty of fibre supply and a certainty of knowing what the forest land base can sustain is a major part of that. Last spring, Minister, you stated for the record that you were implementing the recommendations of the old-growth strategic review, saying that your ministry was working to ensure that B.C. has a strong, robust and sustainable forest sector that includes protecting old growth. That’s certainly something we share."
+    },
+    {
+      "rank": 6,
+      "score": 2.1317,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "Forest Practices Board; Shannon Janzen, principal, Hypha Consulting, former chief forester for Western Forest Products; Laurie Kremsitter, RPF, professional biologist and RPBio; Garry Merkel, who chaired the old-growth strategic review and is the director of the Centre of Indigenous Land Stewardship; Harry Nelson, associate professor, faculty of forestry; Hugh Scorah, consultant, post-doctoral fellow at UBC; and an ex officio special adviser being Norah White, deputy chief forester. This well-respected independent council brought forward ten recommendations to look at the long-term transformation of forestry in B.C."
+    },
+    {
+      "rank": 7,
+      "score": 1.919,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "We’ve also invested in their mill. When we look at the work that that community forest is doing, they’re working on protecting their watershed. They’re working on FireSmarting their community. They are making sure that they’re protecting their biodiversity and their ecosystems, and they’re logging."
+    },
+    {
+      "rank": 8,
+      "score": 1.7203,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Trucking firms that depend on the forest sector struggle to stay afloat. If you’ve got a logging truck, there’s not much else you can do with it but haul logs, and they’re all sitting idle right now. Small businesses that rely on mill paycheques — the local grocery stores, the coffee shops, the auto shops — are all hurting. When I go to my town, there’s a feeling of despair."
+    },
+    {
+      "rank": 9,
+      "score": 1.6977,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "But they are at the table, and they’re leading the work at the table. So First Nations, local governments, industry, loggers, contractors, environmental organizations — everyone at the table and ensuring that when we’re talking about forestry, we’re talking about it in the long-term sense. [11:40 a.m.] The consequential amendments to the Forest and Range Practices Act ensure that all of our contract logging opportunities and activities align with stewardship requirements."
+    },
+    {
+      "rank": 10,
+      "score": 1.5786,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "I worry about people like Dan Peron and other companies that have had challenges. I know that I mentioned Tsi Del Del yesterday and gave thanks to the Forests Minister for helping to move that permit up. The effect of that permit holding up is on hundreds of people that work for Tsi Del Del, which is one of the largest logging operations in the Cariboo — definitely a little bit concerning. I think the other thing that’s going to be greatly talked about during committee is the actual dispute resolution process itself."
+    }
+  ]
+}

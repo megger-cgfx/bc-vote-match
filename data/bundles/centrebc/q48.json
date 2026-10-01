@@ -1,0 +1,153 @@
+{
+  "question_id": "q48",
+  "statement": "The province should expand involuntary care for people with severe addiction and mental illness.",
+  "topic": "public-safety",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:27:04Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "expand",
+    "involuntary",
+    "care",
+    "severe",
+    "addiction",
+    "mental",
+    "illness"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 14.3982,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "Hon. Josie Osborne : …mental health and addictions treatment — including ACT teams, including expansion of involuntary services for those people experiencing the most severe and concurrent disorders. It is incumbent on this government to help people who are not in a position to access care for themselves to help them do just that. We are actively working on expanding those beds in Surrey, in Prince George, looking at other locations around the province, because, again, we know that it is important to invest in the entire continuum."
+    },
+    {
+      "rank": 2,
+      "score": 11.7292,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We’re investing $131 million to expand intensive mental health and addictions treatment, including additional involuntary care spaces for those who need the highest level of support. And for nearly 1,800 families every year, access to in vitro fertilization will now be publicly funded, providing new hope to those trying to start and grow new families. Federal contributions will also support seniors care and expand free medications for diabetes and enhanced menopausal care. This budget advances a health care system that is more accessible, more resilient and more responsive to the needs of British Columbians."
+    },
+    {
+      "rank": 3,
+      "score": 7.2005,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "I think it is a good model. We need to have, even beyond mental health and other types of health care, better integration into our correctional system, so we can end the cycle of criminal entanglements for people with, particularly, mental health, addictions issues and other health care issues. [3:25 p.m.] I do have a concern that maybe we’re not acting fast enough. We’re about to settle $60 million in a lawsuit for keeping people with mental illnesses segregated."
+    },
+    {
+      "rank": 4,
+      "score": 7.0295,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We’re expanding involuntary care beds for those with complex needs. We’re not just talking about the problem. We’re building the beds, and we’re hiring the staff. Foundries are integral to youth mental health with wraparound support needs."
+    },
+    {
+      "rank": 5,
+      "score": 5.2253,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "I just find this absolutely mind-blowing, mind-boggling that the government would…. It’s created a situation, through, as I said earlier, underfunding in mental health services, underfunding in addiction services, underfunding in a collaboration between our correctional institutions and our law enforcement and health care, dealing with people with severe mental health and addiction…. They’ve created this perfect storm where the business community is facing rampant shoplifting, people coming into their businesses causing a disturbance. We know London Drugs is closing because their staff had feces being thrown at them, people threatening them on a daily basis."
+    },
+    {
+      "rank": 6,
+      "score": 5.0285,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "We can come back to it. I actually don’t have that many questions left, to be honest. But I am interested in having that, so whether it comes today or whether they get back to me, to my office, I’m very keen to see how those changes might be carried out and that we could make sure that we’re taking good care of individuals with sometimes severe mental illness that come into our criminal justice system. [Mable Elmore in the chair.] This is related to the Review Board of British Columbia, but I’m not necessarily, in this case, looking for a resourcing answer, and I probably will take these questions also through a lens of resourcing to the Solicitor General."
+    },
+    {
+      "rank": 7,
+      "score": 4.9938,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "And I have very limited time. If the minister could please limit her answer to answering the specific question. Are there still patients being held in segregation with apparent mental illnesses who are waiting for care, who must wait in segregation with mental illness? Hon."
+    },
+    {
+      "rank": 8,
+      "score": 4.1248,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "Waiting in segregation and self-harming…. It is a practice that we’ve carried out for far too long in British Columbia. I know it didn’t originate with this government, so I do appreciate the work that’s been done. But I think often the severe mental illnesses of people, particularly those who are violent, get overlooked."
+    },
+    {
+      "rank": 9,
+      "score": 3.5105,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "Some of the other notables were 53 percent of people say they fear for the safety of their family and their community. Over half of British Columbians, 56 percent, said that there are areas in their community that they actively avoid because they fear for their own safety. For 87 percent, addiction and mental illness contributed significantly to crime and public issues in their communities. Ninety percent said that they believe crimes go unreported in the province, and 48 percent of those were victims who confirmed that they hadn’t reported."
+    },
+    {
+      "rank": 10,
+      "score": 3.4334,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Somebody that is a young single mother that is struggling to get by and needs to access supportive housing to be able to shelter themselves and their children or a senior on a fixed income that needs to access supportive housing for shelter is very different from somebody that needs to access supportive housing because they have a brain injury or they’re suffering from a severe mental illness or they’re struggling with substance use but they don’t want to go to treatment or they haven’t been able to access treatment, which is quite commonly the case."
+    },
+    {
+      "rank": 11,
+      "score": 3.0031,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "A claims period has just been opened for people who were placed in segregation for 15 days or more or for people who were placed in segregation while suffering from a mental illness — or what they should have known was a mental illness — without treatment for a sustained period while in B.C. correctional centres."
+    },
+    {
+      "rank": 12,
+      "score": 2.5838,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "To anyone on that side of the House that is planning on taking responsibility, will they please stand up? Hon. Josie Osborne : As the member may have missed, there is $131 million in this year’s budget to help build out the involuntary care treatment system… Interjections. The Speaker : Shhh."
+    }
+  ]
+}

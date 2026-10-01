@@ -1,0 +1,154 @@
+{
+  "question_id": "q47",
+  "statement": "It should be harder for repeat violent offenders to be released on bail.",
+  "topic": "public-safety",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:57Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "harder",
+    "repeat",
+    "violent",
+    "offenders",
+    "released",
+    "bail"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 15.2314,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "Breaking the cycle of gender-based violence Our Gender-Based Violence Action Plan outlines how we’re taking action to support survivors with victim-centered and trauma-informed programs, end isolation, stigma and apathy, and promote gender equity so every person is able to live free from violence. Keeping repeat violent offenders off the street We’re keeping repeat violent offenders off the street with stricter bail rules and stronger enforcement. Championed and secured stricter federal bail rules Like other jurisdictions, BC saw an increase in repeat violent crime, in part due to changes the federal government made to the bail process."
+    },
+    {
+      "rank": 2,
+      "score": 14.0774,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "Stopping repeat violent offenders Created 12 intervention hubs to monitor repeat violent offenders and connect them to supports to break the cycle of crime. They focus on holding people accountable through better monitoring and enforcement, ensuring prosecutors have the information they need to make informed decisions from bail to sentencing, and coordinating supports to address root causes of crime, like homelessness, addiction and mental health challenges. Reduced the risk of reoffending To reduce the risk of reoffending, we’ve brought in new teams to monitor repeat offenders."
+    },
+    {
+      "rank": 3,
+      "score": 13.6025,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "The last time they were in government, right-wing leaders ignored money laundering that fueled gangs, guns and toxic drugs on our streets. And they cut crime prevention and victims services funding. That's the wrong way to keep you feeling safe and supported in your community. Here's our approach instead: INNER Keeping repeat violent offenders off the street We’re keeping repeat violent offenders off the street with stricter bail rules and stronger enforcement."
+    },
+    {
+      "rank": 4,
+      "score": 8.7877,
+      "source_id": "ndp-0039",
+      "source_type": "other",
+      "title": "BC welcomes Bail and Sentencing Reform Act receiving royal assent (gov.bc.ca)",
+      "url": "https://news.gov.bc.ca/releases/2026AG0040-000711",
+      "archive_url": "http://web.archive.org/web/20260927130252/https://news.gov.bc.ca/releases/2026AG0040-000711",
+      "published": "2026-06-16",
+      "quote": "We look forward to the federal government advancing Bill C-16, the Protecting Victims Act, as soon as possible so we can continue protecting vulnerable people and communities.” Krieger said: “I am pleased that Bill C-14, the Bail and Sentencing Reform Act, has received royal assent as it is an important step in keeping repeat offenders off our streets. “For years, our government has been advocating for meaningful changes to the Criminal Code to address serious issues, such as repeat violent offending, extortion, organized retail theft and harms to businesses and critical infrastructure."
+    },
+    {
+      "rank": 5,
+      "score": 7.615,
+      "source_id": "ndp-0039",
+      "source_type": "other",
+      "title": "BC welcomes Bail and Sentencing Reform Act receiving royal assent (gov.bc.ca)",
+      "url": "https://news.gov.bc.ca/releases/2026AG0040-000711",
+      "archive_url": "http://web.archive.org/web/20260927130252/https://news.gov.bc.ca/releases/2026AG0040-000711",
+      "published": "2026-06-16",
+      "quote": "These changes will help better protect people before harm occurs. “In cases involving choking, suffocation or strangulation, the burden is now on the accused to justify whether they should be released on bail, rather than on prosecutors to argue for detention. The new law also closes a gap that allowed some convicted offenders to reoffend again while out on bail awaiting sentencing. Together, these changes are an important step toward better protecting people, especially victims of intimate-partner violence, and communities impacted by repeat offending."
+    },
+    {
+      "rank": 6,
+      "score": 7.4709,
+      "source_id": "ndp-0042",
+      "source_type": "policy",
+      "title": "Strengthening response to vandalism, theft, street disorder (C-POII provincewide, Public Safety ministry)",
+      "url": "https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "archive_url": "http://web.archive.org/web/20260909045354/https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "published": "2026-07-23",
+      "quote": "“I’ve been touring communities throughout the province to hear directly from business owners and residents, and they’ve been clear they want stronger action. Expanding C-POII throughout the Lower Mainland and provincewide will help reduce repeat property crime and improve community safety.” The program is modelled after the Repeat Violent Offending Intervention Initiative (ReVOII), which has reduced offending, increased charge approvals for high-risk violent offenders and strengthened justice-system responses for people in that program."
+    },
+    {
+      "rank": 7,
+      "score": 7.1521,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "There seems to be a failure to recognize that there’s a widespread public safety crisis that we are dealing with throughout this province. Whether that involves repeat property offenders or repeat violent offenders, or we have people that want to create fear, create harassment or create criminal impediments for students, it all seems to come down to the same rubric. It comes down to an issue of public safety. If you are dealing with an issue of public safety, you have to deal with enforcement mechanisms."
+    },
+    {
+      "rank": 8,
+      "score": 6.8767,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "Getting repeat violent offenders off our streets What we do know is this: Being compassionate for those on the street and taking action on mental health does not mean we accept repeated criminal behaviour or violence. Your government will not rest until every British Columbian feels safe. In this legislative session, you will see new measures to keep people and communities safe. Legislation will be introduced to crack down on gangs and money laundering."
+    },
+    {
+      "rank": 9,
+      "score": 6.6994,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Crack down on repeat and violent offenders Plan page Crack down on repeat and violent offenders. Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities . Focus criminal justice resources on those committing most of the crime Plan page Focus the resources of the criminal justice system on those committing most of the crime. Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities ."
+    },
+    {
+      "rank": 10,
+      "score": 6.3115,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "As part of its Safer Communities Action Plan , your government is implementing new response teams to track, arrest and jail repeat violent offenders. These teams are made up of police, dedicated prosecutors, and probation officers. It is investing to ensure the RCMP can operate to its full capacity to keep people safe, particularly in rural British Columbia. Because when people facing violence call 911, they need to know help is on the way."
+    },
+    {
+      "rank": 11,
+      "score": 5.8619,
+      "source_id": "ndp-0022",
+      "source_type": "release",
+      "title": "(2024) Past MLA, advocate, and community leader Jodie Wickens nominated in Coquitlam-Burke Mountain",
+      "url": "https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+      "archive_url": "http://web.archive.org/web/20260516175202/https://www.bcndp.ca/releases/past-mla-advocate-and-community-leader-jodie-wickens-nominated-coquitlam-burke-mountain",
+      "published": "2024-06-16",
+      "quote": "$445, cutting childcare fees in half, and making birth control free; and Keeping communities safe by hiring 250 more police officers, giving police more power to address public drug use, cracking down on repeat violent offenders, and taking on organized crime - including seizing Hells Angels clubhouses and many other proceeds of crime. “Jodie and I served together in opposition, and as an MLA she was a remarkable advocate for women, for young children and for public education. I’m so glad she is running with us again,” said Premier David Eby."
+    },
+    {
+      "rank": 12,
+      "score": 5.7944,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "The BC Prosecution Service has been directed to strengthen their bail policy. The public needs to have confidence that bail rules for violent offenders make sense and keep everyone safe. And your government is joining with all provinces and territories to press for urgent reforms to Criminal Code bail rules. Taking action on mental health and homelessness Your government’s plan also focuses on getting supports to people living on our streets."
+    }
+  ]
+}

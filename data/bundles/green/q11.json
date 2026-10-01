@@ -1,0 +1,130 @@
+{
+  "question_id": "q11",
+  "statement": "Rent controls should be expanded to cover more rental units.",
+  "topic": "housing",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T20:29:56Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "rent",
+    "controls",
+    "expanded",
+    "cover",
+    "rental",
+    "units"
+  ],
+  "sources_searched": 43,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 12.3726,
+      "source_id": "green-0020",
+      "source_type": "media",
+      "title": "BC Greens focus on renters and childcare as NDP and Conservatives roll out economic plans (Victoria Buzz)",
+      "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "archive_url": "https://web.archive.org/web/20261001084105/https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "published": "",
+      "quote": "Under vacancy control, allowable rent increases would be tied to a rental unit rather than the individual tenant. Currently, annual rent increases are regulated while a tenant remains in a unit, but landlords can generally set a new rent when a tenant moves out. ★ Buzzworthy Business 💙 Bluebird Self Storage Professional Services It’s Not Just Your Stuff —It’s Your Life 📍 Victoria Visit Website → The Greens say the change would reduce the financial incentive to remove existing tenants in order to charge higher rents to new occupants."
+    },
+    {
+      "rank": 2,
+      "score": 11.0817,
+      "source_id": "green-0004",
+      "source_type": "release",
+      "title": "BC Greens announce plan to support renters, unveil two new candidates for South Island",
+      "url": "https://bcgreens.ca/announce-plan-to-support-renters-unveil-two-new-candidates-for-south-island/",
+      "archive_url": "http://web.archive.org/web/20260930001254/https://bcgreens.ca/announce-plan-to-support-renters-unveil-two-new-candidates-for-south-island/",
+      "published": "2026-09-29",
+      "quote": "Currently, rental increases are allowed once per year—unless there is a change of tenant. Vacancy control ties increases in rent to a unit, rather than a tenant, reducing the incentive for landlords to evict tenants without fault. Annual increases will continue to be determined by the Residential Tenancy Branch. Amend the Residential Tenancy Act to prohibit blanket no pets clauses in rental contracts."
+    },
+    {
+      "rank": 3,
+      "score": 9.9246,
+      "source_id": "green-0021",
+      "source_type": "media",
+      "title": "Emily Lowan's BC Greens promise to bring back vacancy control (Daily Hive)",
+      "url": "https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "archive_url": "https://web.archive.org/web/20261001084140/https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "published": "",
+      "quote": "That’s why the BC Greens are stepping up with a plan to deliver affordability for renters and protect them from the people trying to profit off of the housing crisis.” Vacancy control In B.C., landlords and property managers are allowed to increase rent for current tenants once per year . However, once that tenant leaves, they can then raise the price as much as they want, typically to the market rate. “Vacancy control ties increases in rent to a unit, rather than a tenant, reducing the incentive for landlords to evict tenants without fault,” reads the BC Greens’ policy brief. They said that the Residential Tenancy Branch would continue to determine annual increases."
+    },
+    {
+      "rank": 4,
+      "score": 9.8464,
+      "source_id": "green-0021",
+      "source_type": "media",
+      "title": "Emily Lowan's BC Greens promise to bring back vacancy control (Daily Hive)",
+      "url": "https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "archive_url": "https://web.archive.org/web/20261001084140/https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "published": "",
+      "quote": "“In 1973, BC NDP Premier Dave Barrett passed vacancy control, which ties allowable rent increases to units, not individual tenants, to fight a spiralling cost-of-living crisis and low vacancy rates. It was effective and popular, yet was stripped away by the following conservative government,” said Lowan. In 2025, the BC Greens introduced a bill to bring vacancy control back to the province, but it was unsuccessful. In 2023, Daily Hive Urbanized asked then-Housing Minister Ravi Kahlon his thoughts on this tool for keeping rent costs down, and he said that their approach was instead to build more housing supply."
+    },
+    {
+      "rank": 5,
+      "score": 8.2986,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Introduce measures to protect renters, including\nrequiring cooling systems in existing rental\nbuildings or setting a maximum allowable\ntemperature for rental units."
+    },
+    {
+      "rank": 6,
+      "score": 7.9013,
+      "source_id": "green-0021",
+      "source_type": "media",
+      "title": "Emily Lowan's BC Greens promise to bring back vacancy control (Daily Hive)",
+      "url": "https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "archive_url": "https://web.archive.org/web/20261001084140/https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+      "published": "",
+      "quote": "The party said this would encourage developers to lower their asking prices and push owners of vacant properties to find long-term tenants. However, Lorne Doerkson, the leader of the Conservative Party, criticized this plan , saying that NDP taxes and red tape “are the reason homes are too expensive, and every new tax on housing ends up in the price a family pays.” He said they would bring down the cost of building so more homes get built. You might also like: Advocates call on B.C. to scrap no-pet clauses in rental units 'No limits': Greens introduce bill to return vacancy control to B.C."
+    },
+    {
+      "rank": 7,
+      "score": 7.2114,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "The BC Greens will: Build and protect 26,000 permanently affordable, non-market homes a year, and make it easier and quicker to build all forms of housing. Make transit fast, frequent, and free. Pass vacancy control to ensure landlords can’t raise the rent every time a tenant moves out. Restart the stalled $10-a-day childcare pledge as we chart a path towards universal coverage, with fair pay for early childhood educators."
+    },
+    {
+      "rank": 8,
+      "score": 7.159,
+      "source_id": "green-0004",
+      "source_type": "release",
+      "title": "BC Greens announce plan to support renters, unveil two new candidates for South Island",
+      "url": "https://bcgreens.ca/announce-plan-to-support-renters-unveil-two-new-candidates-for-south-island/",
+      "archive_url": "http://web.archive.org/web/20260930001254/https://bcgreens.ca/announce-plan-to-support-renters-unveil-two-new-candidates-for-south-island/",
+      "published": "2026-09-29",
+      "quote": "That’s why the BC Greens are stepping up with a plan to deliver affordability for renters and protect them from the people trying to profit off of the housing crisis.” “In 1973, BC NDP Premier Dave Barrett passed vacancy control, which ties allowable rent increases to units, not individual tenants, to fight a spiralling cost-of-living crisis and low vacancy rates. It was effective and popular, yet was stripped away by the following conservative government,” said Lowan. “The BC Greens have proposed this same legislation, yet have been shut down by Eby’s BC NDP, the same government that cancelled the Community Housing Fund and broke its promise to end pet bans."
+    },
+    {
+      "rank": 9,
+      "score": 7.0438,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "existing affordable rental units. Mandate\nequitable distribution."
+    },
+    {
+      "rank": 10,
+      "score": 5.9409,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Shelter Aid for Elderly Renters (SHELTER) and Rental\nAssistance Program (RAP). Raise the rent ceilings,\nindex them to inflation, and expand eligibility to\nbetter support low-income renters."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "question_id": "q02",
+  "statement": "The government should cut taxes for middle- and higher-income earners even if that means smaller public services.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T08:33:05Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "cut",
+    "taxes",
+    "middle",
+    "higher-income",
+    "earners",
+    "means",
+    "smaller",
+    "public",
+    "services"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.2307,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": null,
+      "published": "2026-02-26",
+      "quote": "Exporters will be able to expand into new domestic markets, but they’ll also be able to benefit from new domestic and foreign investment. This benefits all of us in British Columbia. It means more jobs. It means higher wages, greater consumer choice as well as the stronger public services that come with increased provincial revenues."
+    },
+    {
+      "rank": 2,
+      "score": 2.1359,
+      "source_id": "green-0024",
+      "source_type": "media",
+      "title": "BC Greens Plan Free Childcare Expansion and Name Greater Victoria Candidate (West Coast Current)",
+      "url": "https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+      "archive_url": null,
+      "published": "2026-09-28",
+      "quote": "Carolyn Howe Announced for Victoria-Swan Lake During a Sept. 28 event at Browning Park in Saanich, the party formally introduced Carolyn Howe as its candidate for Victoria-Swan Lake. Howe, a teacher who has served as president of the Greater Victoria Teachers’ Association for nearly three years, spoke on local economic pressures and public services. She highlighted that B.C."
+    },
+    {
+      "rank": 3,
+      "score": 2.0263,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "The reordering of relationships around the globe is significant and ongoing. Through big, big challenges, this team has stuck together. It has not always been easy, but it has been crucial. We share a dedication to making lives better for British Columbians in whatever ways possible, ensuring that the economy works for people, that there are strong public services and that we’re supporting families with the challenges they face."
+    },
+    {
+      "rank": 4,
+      "score": 1.9992,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": null,
+      "published": "2026-02-26",
+      "quote": "We will uphold regulations concerning health and safety, the environment and consumer standards. We will also protect our critical public services, like ICBC. It is plain to see that not only is interprovincial trade economically beneficial for business, workers and consumers alike, but it’s also possible to do it without sacrificing the values we hold dear. Our government’s Look West strategy has established a clear plan for growth in B.C."
+    },
+    {
+      "rank": 5,
+      "score": 1.9992,
+      "source_id": "green-0020",
+      "source_type": "media",
+      "title": "BC Greens focus on renters and childcare as NDP and Conservatives roll out economic plans (Victoria Buzz)",
+      "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "archive_url": null,
+      "published": "",
+      "quote": "LNG Canada describes phase two as one of the largest private-sector investments in Canadian history. Reuters reported the expansion represents an investment of approximately $33 billion. The company says construction could support up to 4,000 jobs in Kitimat, while expansion work associated with the Coastal GasLink pipeline could involve approximately 2,100 additional construction workers. The NDP says revenue generated from LNG development can also help fund public services and climate initiatives."
+    },
+    {
+      "rank": 6,
+      "score": 1.9674,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": null,
+      "published": "2026-02-26",
+      "quote": "to high-speed internet services is a priority. As of January 2026, 97 percent of homes across the province have high-speed internet; 80 percent of rural homes now have high-speed internet, compared to only 57 percent when we took office in 2017; and 88 percent of homes in First Nations communities now have access, compared to only 66 percent in 2017. We’re also working on important mandate items, such as strengthening our digital systems across government so that people can receive trusted and connected public services online. Connected Services B.C."
+    },
+    {
+      "rank": 7,
+      "score": 1.9193,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "In fact, this uncertainty has spurred all of us as Canadians to do more. That is the commitment I made at the table with the western Premiers yesterday and I will continue to make on behalf of all British Columbians — that we will ensure this province is strong, that our public services are strong and are all in service to British Columbians and Canadians. I will admit frustration to seeing the opposition voting no to key measures that will strengthen our provincial economy and our independence, like the North Coast transmission line."
+    },
+    {
+      "rank": 8,
+      "score": 1.7639,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "The first is the broader public sector, and that’s the bigger number because the public sector is bigger and includes the SUCH sector. Then there’s the public service. The public service is a smaller number. That’s core government, ministries, service delivery by the provincial government and that kind of thing."
+    },
+    {
+      "rank": 9,
+      "score": 1.2872,
+      "source_id": "green-0025",
+      "source_type": "other",
+      "title": "Emily Lowan (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Emily_Lowan",
+      "archive_url": "http://web.archive.org/web/20260908223402/https://en.wikipedia.org/wiki/Emily_Lowan",
+      "published": "",
+      "quote": "[ 12 ] Shortly after being elected leader in September 2025, Lowan held the Fight the Oligarchs Tour. The two-month-long tour took her across the province visiting small communities, meeting with community leaders, Green Party members, and the general public. [ 14 ] [ 15 ] Labour [ edit ] Lowan has advocated for \"aggressively expanding unionization \" and implementing sectoral bargaining , legislation which would allow unions to reach a collective agreement that covers all workers in a sector of the economy. [ 16 ] [ 17 ] [ 18 ] Lowan has criticized the BC NDP for their handling of the 2025 BCGEU public service strike, the longest public service strike in Canadian history."
+    },
+    {
+      "rank": 10,
+      "score": 1.2152,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": null,
+      "published": "2026-05-26",
+      "quote": "That is work that is contained in Budget 2026. We’re reducing the size of the public service by 15,000 people. These are hard things to do but necessary. We’re increasing, modestly, tax rates while protecting the lowest-income earners in British Columbia."
+    },
+    {
+      "rank": 11,
+      "score": 0.9347,
+      "source_id": "green-0037",
+      "source_type": "media",
+      "title": "The Tyee: Emily Lowan on Next Steps for the BC Greens",
+      "url": "https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens",
+      "archive_url": "http://web.archive.org/web/20260112091925/https://thetyee.ca/News/2026/01/05/Emily-Lowan-Next-Steps-BC-Greens/",
+      "published": "2026-01-05",
+      "quote": "29 Sep 2026 Masked Group in Kamloops Sparks Alarm and Racism Fears ‘I don’t want these people in my neighbourhood, in my city, in my country.’ 29 Sep 2026 BC’s Local Governments Call for Higher Taxes for AI Data Centres Currently, data centres pay the same rate as small businesses like cafés and stores. 29 Sep 2026 Pump the Brakes on the West Coast Oil Pipeline, Washington Says A letter obtained by The Tyee shows the state’s Ecology Department has serious concerns about spill risks and tanker traffic."
+    },
+    {
+      "rank": 12,
+      "score": 0.4802,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "Support small businesses through commercial rent control and Community Wealth Building. 04 Fight for the Future This government talks about protecting our climate, our forests, our rights, and our democracy — and hasn't delivered on any of them. We believe fighting for the future means protecting people and the planet. It means honouring Indigenous rights in full, protecting vulnerable communities, and acting on a growing climate crisis through record investments in renewables and good green union jobs."
+    }
+  ]
+}

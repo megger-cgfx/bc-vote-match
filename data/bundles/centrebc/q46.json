@@ -1,0 +1,151 @@
+{
+  "question_id": "q46",
+  "statement": "Public use of illegal drugs should be banned in BC.",
+  "topic": "public-safety",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:27:03Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "public",
+    "use",
+    "illegal",
+    "drugs",
+    "banned"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.7744,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "The purpose of this bill is simple — to end all provincial funding and enablement for unlawful drug use. Today millions in taxpayer dollars fund government-sanctioned drug consumption sites that permit the ongoing use of illegal substances. That will end. Under this bill, all 58 provincially authorized drug consumption sites will be shut down within six months."
+    },
+    {
+      "rank": 2,
+      "score": 4.4056,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "[10:15 a.m.] This government also turns a blind eye to the diversion of social assistance payments toward illegal drugs. Current policy allows individuals to classify drug addiction as a disability, unlocking benefits intended for those with legitimate mental and physical disabilities. This bill closes that loophole. Furthermore, there are presently no consequences when income or disability payments are misused to purchase illegal drugs."
+    },
+    {
+      "rank": 3,
+      "score": 2.3382,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "Freedom of information is one of the tools the public uses to examine power. It is how decisions are tested. It is how conduct is scrutinized. It is how trust is preserved."
+    },
+    {
+      "rank": 4,
+      "score": 1.7049,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "Jordan Kealy : I move that this bill be placed on the orders of the day for second reading at the next sitting of the House after today. Motion approved. Bill M235 — Drug Recovery and Community Safety Act Tara Armstrong : I move that a bill intituled Drug Recovery and Community Safety Act, of which notice has been given in my name on the order paper, be introduced and read a first time now. If we want to fight drugs, we shouldn’t pay people to use them."
+    },
+    {
+      "rank": 5,
+      "score": 1.6326,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "If the government is going to put me in a supportive housing unit, I don’t want to go there.” One of their main concerns is the use of drugs in those units. It’s not conducive to recovery. As somebody that’s gone through it, I had to move all the way up north to be able to go through my recovery after treatment because I knew that if I stayed in the Lower Mainland, I probably would not be able to stay sober. I think that it’s inhumane to expose people that are in recovery to continued and prolonged drug use around them."
+    },
+    {
+      "rank": 6,
+      "score": 1.4037,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "At its core, this legislation addresses a simple but profound principle of justice, that crime should never pay. Organized crime, money laundering and illicit financial networks do not survive on ideology. They survive on profit. They depend on houses used to grow drugs, vehicles used to transport illicit goods and bank accounts used to hide illegal proceeds."
+    },
+    {
+      "rank": 7,
+      "score": 1.3027,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "[3:15 p.m.] I’m curious if the minister could please elaborate on why the Surrey Union of Drug Users was consulted in regards to this piece of legislation, given the fact that it has absolutely no scope, whatsoever, around drug use and it doesn’t touch that in any way. The main reason I’m asking is because I had concerns over a lack of consultation with other key groups that I thought should’ve been consulted — whether that’s municipalities, fire departments, police. I have a fair bit of concern over the fact that they weren’t consulted in the drafting of this legislation, so I’m quite surprised to hear that this group was."
+    },
+    {
+      "rank": 8,
+      "score": 1.2836,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "Providing supports to victims and the community is only one aspect of civil forfeiture. The civil forfeiture office is giving our province one more tool to combat crime in our communities. The province will continue to go after gangs, guns and toxic drugs that are hurting loved ones, taking away their illegally acquired assets and protecting British Columbians. Funds gained from liquidated assets are distributed to the crime prevention funding stream from the civil forfeiture office."
+    },
+    {
+      "rank": 9,
+      "score": 1.2635,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "They really have no other option. They need to be in supportive housing, but their issue is that if a senior is being housed in a building with other people that are actively in addiction and struggling with substance use, they feel very fearful. They are exposed to drug use and activity that makes them uncomfortable, and rightly so. I think this really does speak to the issue of safety within supportive housing units and trying to find a solution that would provide the supportive housing providers with a bit of flexibility in how they are placing people within certain units."
+    },
+    {
+      "rank": 10,
+      "score": 1.2316,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "The province seized not only the Nanaimo Hell’s Angels clubhouse but also Hell’s Angels clubhouses in Vancouver and Kelowna. [4:20 p.m.] Our government will continue to go after gangs, guns and toxic drugs that are hurting loved ones and will continue to take away their illegally acquired assets and protect British Columbians. Funds gained from liquidated assets are distributed to the crime prevention funding stream from the civil forfeiture office. It awarded $1.643 million to 44 projects dedicated to crime prevention."
+    },
+    {
+      "rank": 11,
+      "score": 1.2213,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "Youth unemployment is skyrocketing. Crime is out of control. Businesses are fleeing British Columbia because, under this government, margins just keep shrinking. On top of slim margins, small business owners are asked to put up with and pay for smashed windows, defecation and open drug use in front of their stores."
+    },
+    {
+      "rank": 12,
+      "score": 1.1891,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "It’s beautiful. The business owners are committed to the community and to their businesses, and many have been there two and three decades. But we are at a tipping point, a crossroads. Crime and open drug use, social disorder — it is overshadowing the beauty and the livability in our downtown, and it is not okay."
+    }
+  ]
+}

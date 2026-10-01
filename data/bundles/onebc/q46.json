@@ -1,0 +1,87 @@
+{
+  "question_id": "q46",
+  "statement": "Public drug use should be illegal and the decriminalization pilot should not be revived.",
+  "topic": "public-safety",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:39:54Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "public",
+    "drug",
+    "use",
+    "illegal",
+    "decriminalization",
+    "pilot",
+    "revived"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.5923,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "consent and classroom transparency for parents of minor-age students Housing 1 Eliminate the Step Code that is raising housing costs with unnecessary green building requirements 2 Block municipal rent control programs that disincentivize development and new units being put up for rent Drugs & Addiction 1 Eliminate safe supply and drug consumption programs 2 Cancel all new drug consumption sites and turn current consumption sites into drug recovery centres 3 Involuntary drug rehab and housing for the severely addicted 4 Rollback all decriminalization programs and crack down on open drug use Firearms Owners 1 No provincial government participation in any federal firearms buy-back or"
+    },
+    {
+      "rank": 2,
+      "score": 0.574,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "The office was created to provide independent oversight of municipal governments and spending. Municipal governments in British Columbia manage billions of dollars of public funds. The public wants to know how that money is spent. They oversee infrastructure, land use, utilities, emergency services and housing."
+    },
+    {
+      "rank": 3,
+      "score": 0.5617,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "We’re going to have personal information now come to the public. We’ve had some in other areas. I think it was one of the drugstores that had all their information leaked. Expanding executive control over data sharing should come with stronger, not weaker, constraints."
+    },
+    {
+      "rank": 4,
+      "score": 0.4345,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "My hope for the rest of the FLPs — the 11 of them — is that we’ll be able to learn from those pilot FLPs and be able to speed things up, especially given that many nations who participate at those FLPs may be participating in other FLPs as well. Also, note that there are a couple of tables where they’re not formal forest landscape planning tables. I would just use the example that I shared on Tuesday, with the Chief of the Simpcw Nation. There’s an example where Chief Lampreau doesn’t have an FLP table established."
+    },
+    {
+      "rank": 5,
+      "score": 0.363,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "It’s my understanding that question period is allowing members to raise issues of urgent and important matters to the public of British Columbia. Is it the Speaker’s ruling that if you’ve had a bill brought in that’s defeated, you can never use any words that were used in that bill again, such as…? My friend from the Third Party has introduced a bill today about rent controls. If that bill is defeated, is he never allowed to refer to rent controls again?"
+    },
+    {
+      "rank": 6,
+      "score": 0.3574,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "I want to say thank you to the RCMP who responded and for the people who provide support to paramedics and other front-line workers when terrible circumstances like this unfold. The continuum of publicly funded services that this government is building out when it comes to mental health is absolutely unprecedented. This year’s budget has a $4.2 billion lift in health care, and that includes $500 million to expand the services of mental health and substance use across this province. It includes Foundry centres, interdisciplinary teams for youth."
+    }
+  ]
+}

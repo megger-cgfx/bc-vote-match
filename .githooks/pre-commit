@@ -1,0 +1,9 @@
+#!/bin/sh
+# Block any commit that would leak a local-machine or operational reference.
+# Install with: git config core.hooksPath .githooks
+python3 scripts/sanitize-check.py || {
+    echo "" >&2
+    echo "commit blocked: sanitize-check failed (see above)." >&2
+    echo "See docs/CONTRIBUTING.md - do not commit local paths or operational context." >&2
+    exit 1
+}

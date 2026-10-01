@@ -1,0 +1,59 @@
+{
+  "card": "<task-id>",
+  "title": "M3 adversarial verification of codings",
+  "verifier": "flower",
+  "verified_at": "2026-10-01T12:45:33-07:00",
+  "repo_commit_observed": "18838df",
+  "mode": "read-only",
+  "verdict": "NOT_PUBLISHABLE",
+  "headline": "Provenance holds; the dataset is not publishable. No frozen 18 exists in the repo, the coded set is not the proposed set, and OneBC is not double-coded in the published file.",
+  "provenance": {
+    "claim": "45/45 non-null quotes verbatim in cited source",
+    "independent_spotchecks": 4,
+    "passed": 4,
+    "failed": 0,
+    "samples": [
+      {"row": "ndp q10", "source_id": "ndp-0013", "text_path": "data/raw/ndp/ndp-0013.txt", "line": 137, "result": "verbatim"},
+      {"row": "ndp q01", "source_id": "ndp-0024", "text_path": "data/raw/ndp/ndp-0024.txt", "line": 741, "result": "verbatim (Hansard re-wrap)"},
+      {"row": "cpb q43", "source_id": "cpb-0026", "text_path": "data/raw/cpb/cpb-0026.txt", "line": "802-804", "result": "verbatim (line-break split)"},
+      {"row": "centrebc q04", "source_id": "centrebc-0050", "text_path": "data/raw/centrebc/centrebc-0039.txt", "line": 121, "result": "verbatim (id/file number offset; gate resolves via text_path)"}
+    ],
+    "split_rule": "holds — every split row publishes code=null with coder_codes preserved"
+  },
+  "blockers": [
+    {
+      "id": "no_frozen_set",
+      "severity": "blocker",
+      "detail": "data/questions/questions.json is still the 54-item candidate pool (0 frozen). docs/03-QUESTION-FREEZE.md still says PROPOSED - awaiting sign-off. docs/COMMANDER-BRIEF.md claims the freeze is DONE tagged q-v1, but tag q-v1 points at commit 1b64be3 whose tree has no question artifact (only data/archive/* and the brief). A parallel v2 rewrite exists (data/questions/questions.v2.json + data/questions/v2/). Three non-canonical sets: pool / freeze-proposal (v1 wording, q26,q37) / v2 (revised wording)."
+    },
+    {
+      "id": "coded_set_mismatch",
+      "severity": "blocker",
+      "detail": "codings.json codes q24/q43 in place of proposed q26/q37 for all parties. q43 has a single real code in the whole dataset (cpb, single-coder); q24 has zero. q37 is the freeze doc's 'defining flashpoint' with a five-party spread.",
+      "coded_but_not_proposed": ["q24", "q43"],
+      "proposed_but_not_coded": ["q26", "q37"]
+    },
+    {
+      "id": "onebc_not_double_coded",
+      "severity": "blocker",
+      "detail": "codings.json (written 12:37) holds only 9 OneBC rows, all coder_codes={A:...}. onebc-coderB-part1.json (12:42) and part2 (12:38) landed after the reconcile, so they are absent. Violates the locked 'two independent coders per party'. Card <task-id> (run 61) is still writing data/codings/v1/."
+    }
+  ],
+  "gates": {
+    "scripts/validate-dataset.py": {"result": "BLOCKED", "frozen_questions": 0, "codings": 99, "errors": 2020, "warnings": 9},
+    "agents/validate_codings.py": {"result": "FAIL", "files": 5, "rows": 180, "errors": 18, "warnings": 0, "note": "all 18 errors are missing archive_url where the source record has one"}
+  },
+  "minor": [
+    {"id": "gate_sidecar_bug", "detail": "validate-dataset.py parses every *.json in data/codings/, so process sidecars _coder-notes.json, _citation_audit.json, _verification.json, _conflicts.json fail schema as if they were codings. Skip _-prefixed files."},
+    {"id": "stale_v09_files", "detail": "data/codings/<party>.json (v0.9-prefreeze) sit beside codings.json; gate loads both -> mass 'duplicate coding' errors. Archive/remove."},
+    {"id": "schema_drift", "detail": "codings.json rows lack SCHEMA.md's required 'coder' and 'created_at' and add non-contract 'status','coder_codes'. File or SCHEMA.md must move."},
+    {"id": "superseded_citation", "detail": "ndp q38 and q39 cite ndp-0028, marked superseded_by green-0096 (duplicate capture) in data/raw/ndp/sources.json. Re-point."}
+  ],
+  "coded_row_counts": {"ndp": 18, "cpb": 18, "green": 18, "onebc": 9, "centrebc": 18},
+  "decision_needed": "Which issues make the 18 (park-and-wait: changing the 18 is Martin's call).",
+  "lean": "Freeze on the v1-wording proposal in data/questions/freeze-proposal.json (keep q26/q37), re-cut data/questions/questions.json to those 18 at status=frozen, archive the q24/q43 variant, then re-code q26/q37 (20 rows). Schedule the v2 wording rewrite as a separate full re-code via the existing recode cards <task-id> / <task-id>.",
+  "artifacts": [
+    "docs/04-CODINGS-ADVERSARIAL.md",
+    "docs/04-CODINGS-ADVERSARIAL.json"
+  ]
+}

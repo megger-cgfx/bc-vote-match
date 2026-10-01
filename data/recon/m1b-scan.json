@@ -1,0 +1,267 @@
+{
+  "generated_at": "2026-10-01T19:52:36Z",
+  "generator": "M1b duplicate + suspect scan",
+  "repo": "bc-vote-match",
+  "totals": {
+    "records": 222,
+    "dirs": [
+      "centrebc",
+      "cpb",
+      "green",
+      "ndp",
+      "onebc",
+      "ridings"
+    ],
+    "sha256_duplicate_groups": 5,
+    "url_duplicate_groups": 4,
+    "title_duplicate_groups": 0,
+    "records_flagged": 12,
+    "content_status_counts": {
+      "partial_capture": 2,
+      "boilerplate_only": 2,
+      "maintenance_page": 2,
+      "ocr_text": 1
+    }
+  },
+  "sha256_duplicate_groups": [
+    {
+      "sha256": "178a8ad7761c1f4deb3d8bba2a3d547726aa00c03c147819f11aeefc1eaa80b8",
+      "ids": [
+        "centrebc-0003",
+        "centrebc-0064"
+      ],
+      "same_party": true,
+      "resolved": true,
+      "resolution": {
+        "centrebc-0064": "centrebc-0003"
+      }
+    },
+    {
+      "sha256": "c24bba828a6aa2c3bac0f4a432e4e48626c5f97c447786ee5e1ca4204e61234c",
+      "ids": [
+        "centrebc-0059",
+        "cpb-0025"
+      ],
+      "same_party": false,
+      "resolved": true,
+      "resolution": {
+        "centrebc-0059": "cpb-0025"
+      }
+    },
+    {
+      "sha256": "276aeb40cd7828bc241ca0674818b188622a405960753b3863e741223dce0fad",
+      "ids": [
+        "centrebc-0067",
+        "cpb-0026"
+      ],
+      "same_party": false,
+      "resolved": true,
+      "resolution": {
+        "centrebc-0067": "cpb-0026"
+      }
+    },
+    {
+      "sha256": "6e5b2e245cd2043169412dd84ef45ce4fff93401e8720f627cb08c5b1b4ca28b",
+      "ids": [
+        "cpb-0024",
+        "ndp-0024"
+      ],
+      "same_party": false,
+      "resolved": true,
+      "resolution": {
+        "cpb-0024": "ndp-0024"
+      }
+    },
+    {
+      "sha256": "5e7275057fe35a64c1d4570fabf4039232315248bd1ac2073a960cc92f0a684e",
+      "ids": [
+        "green-0096",
+        "ndp-0028"
+      ],
+      "same_party": false,
+      "resolved": true,
+      "resolution": {
+        "ndp-0028": "green-0096"
+      }
+    }
+  ],
+  "url_duplicate_groups": [
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "ids": [
+        "centrebc-0059",
+        "cpb-0025"
+      ],
+      "identical_bytes": true,
+      "note": "byte-identical duplicate capture"
+    },
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "ids": [
+        "cpb-0024",
+        "ndp-0024"
+      ],
+      "identical_bytes": true,
+      "note": "byte-identical duplicate capture"
+    },
+    {
+      "url": "https://westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+      "ids": [
+        "green-0022",
+        "ndp-0036"
+      ],
+      "identical_bytes": false,
+      "note": "same URL captured twice by different recon runs; extracted text compared, article body absent in both"
+    },
+    {
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "ids": [
+        "green-0096",
+        "ndp-0028"
+      ],
+      "identical_bytes": true,
+      "note": "byte-identical duplicate capture"
+    }
+  ],
+  "title_duplicate_groups": [],
+  "flagged_records": [
+    {
+      "id": "centrebc-0059",
+      "party": "centrebc",
+      "type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "text_bytes": 65304,
+      "flags": [
+        "superseded_by:cpb-0025"
+      ],
+      "note": null
+    },
+    {
+      "id": "centrebc-0064",
+      "party": "centrebc",
+      "type": "policy",
+      "title": "Path Forward for B.C.",
+      "text_bytes": 4134,
+      "flags": [
+        "fetch_status:unresolved",
+        "superseded_by:centrebc-0003"
+      ],
+      "note": "Recorded URL https://www.centrebc.ca/path-foward-for-bc/ now 301-redirects to /vision/; no separate 'Path Forward for B.C.' page exists. Capture is byte-identical to centrebc-0003 (Our Vision for B.C.) - duplicate resolved via superseded_by."
+    },
+    {
+      "id": "centrebc-0067",
+      "party": "centrebc",
+      "type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "text_bytes": 467886,
+      "flags": [
+        "superseded_by:cpb-0026"
+      ],
+      "note": null
+    },
+    {
+      "id": "cpb-0024",
+      "party": "cpb",
+      "type": "hansard",
+      "title": "Hansard \u2014 Feb 18 2026 Afternoon, Issue No. 118",
+      "text_bytes": 301014,
+      "flags": [
+        "superseded_by:ndp-0024"
+      ],
+      "note": null
+    },
+    {
+      "id": "green-0022",
+      "party": "green",
+      "type": "media",
+      "title": "COST OF LIVING: What is each party promising British Columbians? (Western Standard)",
+      "text_bytes": 1832,
+      "flags": [
+        "content_status:partial_capture"
+      ],
+      "note": "Western Standard article captured by two parties (identical text, different bytes: ndp-0036). Extraction returns the headline and site chrome only - the article body is absent from the capture, so it supports no quote beyond the headline."
+    },
+    {
+      "id": "green-0039",
+      "party": "green",
+      "type": "speech",
+      "title": "Emily Lowan's Speech at UBCM, Sept 16 2026 (video; transcript in description)",
+      "text_bytes": 216,
+      "flags": [
+        "text_under_250_bytes",
+        "content_status:boilerplate_only"
+      ],
+      "note": "YouTube watch page: extraction returns only page chrome (216 chars, no transcript and no description body). Not usable as a quoting source; treat the record as a pointer to the video. A transcript would need a separate capture."
+    },
+    {
+      "id": "green-0040",
+      "party": "green",
+      "type": "speech",
+      "title": "BC Greens 2026 election presser, Sept 23 2026 (video; transcript in description)",
+      "text_bytes": 213,
+      "flags": [
+        "text_under_250_bytes",
+        "content_status:boilerplate_only"
+      ],
+      "note": "YouTube watch page: extraction returns only page chrome (213 chars, no transcript and no description body). Not usable as a quoting source; treat the record as a pointer to the video. A transcript would need a separate capture."
+    },
+    {
+      "id": "green-0098",
+      "party": "green",
+      "type": "release",
+      "title": "BC Greens statement on LNG Canada Phase 2 FID push (Lowan, Valeriote)",
+      "text_bytes": 193,
+      "flags": [
+        "text_under_250_bytes",
+        "content_status:maintenance_page"
+      ],
+      "note": "Recorded URL serves the site-wide \"BC Green Caucus is under maintenance\" page (verified live 2026-10-01; the Wayback capture recorded for this record is that same maintenance page, so the archive is not a usable fallback). The May 2026 FID-push release therefore has no usable capture. No live equivalent found on bcgreens.ca (its LNG items are different documents, e.g. green-0006, 2026-09-30). Wayback oEmbed captures from May 2026 confirm the page existed with this title (wp-json/oembed 20260515191221 + 20260519082022)."
+    },
+    {
+      "id": "green-0099",
+      "party": "green",
+      "type": "release",
+      "title": "BC Greens call on Auditor General to investigate lost gas royalties",
+      "text_bytes": 193,
+      "flags": [
+        "text_under_250_bytes",
+        "content_status:maintenance_page",
+        "replaced_by:green-0100"
+      ],
+      "note": "Recorded URL serves the site-wide \"BC Green Caucus is under maintenance\" page (verified live 2026-10-01; the Wayback capture recorded for this record is that same maintenance page, so the archive is not a usable fallback). Replaced by green-0100: the same release (BC Greens letter to the Auditor General on the ~$1.5B natural gas royalty forecast error, Rob Botterell) is captured live from the party site, bcgreens.ca, published 2026-08-31."
+    },
+    {
+      "id": "ndp-0004",
+      "party": "ndp",
+      "type": "platform",
+      "title": "(2024) An Action Plan for You - platform highlights (BC NDP platform PDF)",
+      "text_bytes": 12328,
+      "flags": [
+        "content_status:ocr_text"
+      ],
+      "note": "M1b repair 2026-10-01: PDF has no text layer (Illustrator outlines); text recovered by pdftoppm@300dpi + tesseract. OCR text, verify quotes against the PDF image before citing."
+    },
+    {
+      "id": "ndp-0028",
+      "party": "ndp",
+      "type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "text_bytes": 480939,
+      "flags": [
+        "superseded_by:green-0096"
+      ],
+      "note": null
+    },
+    {
+      "id": "ndp-0036",
+      "party": "ndp",
+      "type": "media",
+      "title": "COST OF LIVING: What is each party promising British Columbians? (Western Standard, 2024)",
+      "text_bytes": 1832,
+      "flags": [
+        "content_status:partial_capture"
+      ],
+      "note": "Western Standard article captured by two parties (identical text, different bytes: green-0022). Extraction returns the headline and site chrome only - the article body is absent from the capture, so it supports no quote beyond the headline."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "q37",
+    "statement": "BC should implement the Declaration on the Rights of Indigenous Peoples Act (DRIPA), the 2019 law aligning provincial laws with the UN declaration.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "glossed DRIPA for casual voters; dropped hedge 'fully'"
+  },
+  {
+    "id": "q38",
+    "statement": "DRIPA should be changed so that First Nations' consent is not required for resource projects.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "removed loaded 'veto power' framing"
+  },
+  {
+    "id": "q39",
+    "statement": "The province should share resource revenue with First Nations whose territories host resource projects.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "replaced unclear 'the projects' with 'resource projects'"
+  },
+  {
+    "id": "q40",
+    "statement": "Aboriginal rights, including title, should be affirmed in provincial law.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "split compound 'title and rights' into one idea"
+  },
+  {
+    "id": "q41",
+    "statement": "BC should fund Indigenous-led child welfare services.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "replaced compound 'child and family services' with one idea"
+  },
+  {
+    "id": "q42",
+    "statement": "Land-use decisions on traditional territories should require the consent of the local First Nations.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "replaced vague 'decisive role' with a clear consent rule"
+  },
+  {
+    "id": "q43",
+    "statement": "The province should prioritise Indigenous-owned businesses in public procurement.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q44",
+    "statement": "The province should speed up treaty negotiations with First Nations.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "dropped second idea and leading 'even if' clause"
+  },
+  {
+    "id": "q45",
+    "statement": "BC should increase funding for Indigenous language programs.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "removed second idea (cultural programs) joined by 'and'"
+  }
+]

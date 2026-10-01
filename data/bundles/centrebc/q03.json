@@ -1,0 +1,119 @@
+{
+  "question_id": "q03",
+  "statement": "The province should introduce a wealth tax on the largest personal fortunes.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:26:55Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "introduce",
+    "wealth",
+    "tax",
+    "largest",
+    "personal",
+    "fortunes"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.8713,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "Updating the tax system responsibly. To maintain essential services while navigating global uncertainty, Budget 2026 introduces measured tax changes. The first personal income tax bracket increases modestly, resulting in about $76 more annually for the average taxpayer, offset for many by increases to the B.C. tax reduction credit."
+    },
+    {
+      "rank": 2,
+      "score": 2.8543,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We even implemented the largest middle-class tax cut. This government eliminated MSP premiums for every British Columbian, saving $1,800 per year for working families, while the Conservatives wanted to introduce American-style privatized health care, putting everyone at risk. We will never let that happen. Let me assure British Columbians."
+    },
+    {
+      "rank": 3,
+      "score": 1.2099,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "More than 40 percent of taxpayers will see savings as a result. For the 2027 through 2030 tax years, Bill 2 amends the Income Tax Act to freeze personal income tax brackets and non-refundable tax credits at their 2026 levels. Bill 2 also creates new tax programs as well as renews existing ones to support a more innovative and productive B.C. Case in point, this bill creates a new temporary manufacturing and processing investment tax credit to support capital investments made in B.C."
+    },
+    {
+      "rank": 4,
+      "score": 1.2047,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "has the largest volume of foreign-serviced motion picture production in Canada and is the third largest for motion picture production overall. Creative B.C. has seen an increase in activity levels, largely through Budget 2025 tax credit increases. In 2025, several major productions confirmed B.C."
+    },
+    {
+      "rank": 5,
+      "score": 1.1946,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "I’ll highlight the two biggest revenue increases in our budget and talk about that a little bit. The first is a small 0.54 percent increase in our income tax, which is offset by a tax credit so that increase falls mostly on the most wealthy British Columbians. This tax measure generates the province approximately $353 million after the tax credits are taken into account. The second measure is expanding the PST to certain professional services."
+    },
+    {
+      "rank": 6,
+      "score": 1.1544,
+      "source_id": "centrebc-0050",
+      "source_type": "release",
+      "title": "Budget 2026: A Blueprint for Bankruptcy",
+      "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+      "archive_url": null,
+      "published": "2026-02-19",
+      "quote": "With no path to balancing the budget and a record-breaking $13.3 billion deficit, this government is spending the future of BC’s children to cover their own incompetence. Under this plan, total provincial debt will nearly double to a staggering $40,935 for every single person in B.C. by 2029. No Relief, Just Higher Bills Despite 74 per cent of residents disapproving of the government’s handling of the cost of living, Budget 2026 picks the pockets of everyday families: Income Tax Hit: The government is increasing the lowest personal income tax bracket by .6% which will cost the average tax payer an extra $76 this year."
+    },
+    {
+      "rank": 7,
+      "score": 0.9844,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "It’s not a talking point. It’s just math. When inflation pushes wages up just to keep pace with the cost of living and the tax brackets do not move with inflation, more of a person’s income gets taxed at higher rates. People pay more tax even if they’re not actually better off in real dollar terms."
+    },
+    {
+      "rank": 8,
+      "score": 0.9795,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "As an example of consistency, similar to Saskatchewan, B.C.’s PST will apply to 30 percent of the purchase price of architectural engineering and geosciences services instead of the full purchase price. In order to help protect core services, the bill amends the Income Tax Act to increase the personal income tax rate on the first $50,363 of income."
+    },
+    {
+      "rank": 9,
+      "score": 0.892,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "Let us be honest about who feels these kinds of changes most. It’s not the large institution with in-house counsel, not the ministry with taxpayer-funded staff, not the government with all the records and all the procedural leverage. [5:45 p.m.] It is the ordinary person. It is the local journalist on a tight budget."
+    }
+  ]
+}

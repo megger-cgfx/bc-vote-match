@@ -1,0 +1,29 @@
+{
+  "coder": "centrebc-coderA",
+  "party_slug": "centrebc",
+  "version": "v1",
+  "created_at": "2026-10-01T18:57:15Z",
+  "notes": {
+    "q04": "Code +1 (tie-breaker: goal supported, instrument differs). Party supports balancing (2026-02-19 release) but Vision page frames it as 'smarter investments and spending' and the same releases criticise service cuts/spending caps; no commitment to cuts per se. Confidence medium: right position on a related instrument. Document date of quote: 2026-02-19 (release centrebc-0050).",
+    "q22": "Code -1 low. Only party-voiced material on supervised consumption/harm reduction is Sturko's budget-speech aside disparaging supplies 'they're giving out in NDP government harm reduction sites' (Hansard 2026-02-24, source centrebc-0057). Mapping (disparaging harm-reduction sites -> weak oppose funding more) took judgment. Note: the bill to defund consumption sites (M235) was moved by Jordan Kealy (Conservative) and was excluded per data/raw/centrebc/SUMMARY.md.",
+    "q38": "Code -1 low. CentreBC treats consent as a genuine requirement that must not be substituted (Kirkpatrick, 2026-07-07, source centrebc-0048); party opposes weakening DRIPA via 'political messaging' repeals (Bernier, 2026-08-13) while criticising DRIPA as symbolic. Mapping (consent is necessary -> disagree with removing the consent requirement) took judgment. Document date: 2026-07-07.",
+    "q46": "Code +1 low. Sturko (Hansard 2026-03-03, source centrebc-0056) criticises non-prosecution of possession as 'de facto' decriminalisation; party seeks drug-law enforcement, which is a broader instrument than the statement's public-use ban (weaker value +1 per tie-breaker). Mapping took judgment.",
+    "q47": "Code +1 low. Sturko (Hansard 2026-03-03, source centrebc-0056) on federal bail reforms (Bill C-48 targeted repeat/violent offending) says the adjustments are not 'going far enough' — hedged Hansard inference that bail should be stricter; kept at +1/low per hedged language + Hansard inference rule.",
+    "q48": "Code +1 low. Sturko (Hansard 2026-02-24, source centrebc-0057) laments that a severely addicted/mentally ill person 'is free on the street and without adequate care' and calls that 'backwards'; implies compulsory care rather than a named instrument. Mapping took judgment; instrument 'involuntary care expansion' is never named verbatim."
+  },
+  "null_rationales": {
+    "q01": "No source states a position on carbon pricing (confirmed by data/raw/centrebc/SUMMARY.md gap list).",
+    "q03": "No stated position on income tax rates or taxes on high earners (SUMMARY.md gap list); Budget 2026 releases criticise bracket-indexation pause but say nothing about wealth taxes.",
+    "q10": "No housing supply/density policy document; only 'link housing policy to affordability outcomes' rhetoric (2026-02-16 release).",
+    "q11": "No rent-control position anywhere in the corpus.",
+    "q18": "No supportive-housing position; nothing on overriding local objections.",
+    "q19": "HIV clinic release defends funding of one specialized private clinic but is silent on allowing more for-profit clinics; instrument named nowhere.",
+    "q24": "No dental-care position (only dental-college regulation questions by other MLAs).",
+    "q28": "Pipeline advocacy covers bitumen pipelines; no position on approving LNG export projects. Ksi Lisims remarks belong to non-CentreBC MLAs and were excluded per SUMMARY.md.",
+    "q29": "No old-growth position; forestry material is about fibre supply/tenure reform (2026-07 forest worker release).",
+    "q31": "No transit-vs-highway position; vision page mentions transportation investment generically.",
+    "q39": "Indigenous co-ownership/energy-fund asks are equity, not resource-revenue sharing; instrument named nowhere.",
+    "q43": "'Local Jobs, Skills & Procurement' condition is pipeline-local procurement, not a public-procurement preference for Indigenous-owned businesses; instrument named nowhere."
+  },
+  "hansard_attribution": "Per data/raw/centrebc/SUMMARY.md: quotes attributed to Elenore Sturko's own remarks only (the other seven MLAs were CentreBC members only 18-22 Sep 2026 and their earlier statements were excluded). Sturko is the party's current leader and only MLA; the Hansard quotes used (2026-02-24, 2026-03-03) predate her leadership, which is why q46-q48 confidence is capped at low."
+}

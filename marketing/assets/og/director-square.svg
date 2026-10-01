@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-label="BC Vote Match">
+<rect width="1080" height="1080" fill="#14171c"/>
+<rect x="0" y="0" width="14" height="1080" fill="#1f4e79"/>
+<g transform="translate(88,97) scale(2.1250)"><rect width="64" height="64" rx="12" fill="#1f4e79"/><path d="M18 33 L29 44 L46 20" fill="none" stroke="#f7f8fa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="46" cy="11" r="5.5" fill="#f7f8fa"/></g>
+<text x="270" y="165" font-family="Inter, sans-serif" font-weight="600" font-size="40" fill="#f7f8fa" dominant-baseline="central">BC Vote Match</text>
+<text x="88" y="548" font-family="Inter, sans-serif" font-weight="600" font-size="79" fill="#f7f8fa">Answer 18 statements.</text>
+<text x="88" y="652" font-family="Inter, sans-serif" font-weight="400" font-size="41" fill="#b6bcc7">See where you line up with each party's</text>
+<text x="88" y="709" font-family="Inter, sans-serif" font-weight="400" font-size="41" fill="#b6bcc7">published positions.</text>
+<rect x="88" y="937" width="904" height="1" fill="#2b3038"/>
+<text x="88" y="992" font-family="Inter, sans-serif" font-weight="400" font-size="23" fill="#8b93a1">Every position quoted and archived · nothing about you leaves your browser</text>
+</svg>

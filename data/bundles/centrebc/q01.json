@@ -1,0 +1,85 @@
+{
+  "question_id": "q01",
+  "statement": "The province should reinstate the consumer carbon tax on fuel.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:26:54Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "reinstate",
+    "consumer",
+    "carbon",
+    "tax",
+    "fuel"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.0236,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "These changes don’t impact people’s day-to-day finances. Homeowners can use the program to have a bit of relief as they pay the province back later, like when they sell their house. The bill also amends the homeowner grant to remove the extra $200 grant to homeowners outside the capital, Metro Vancouver and Fraser Valley regional districts. The extra amount was meant to offset increased fuel costs that were associated with the carbon tax, which has now been repealed."
+    },
+    {
+      "rank": 2,
+      "score": 1.8518,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "[11:45 a.m.] In other words, this tax hits the services that keep businesses compliant, keep projects moving, keep buildings designed safely, keep properties managed and keep storefronts protected. That means this is not just a tax on business. It is a tax that cascades. It becomes higher costs for consumers — higher strata fees, higher commercial rents, higher bills, higher prices."
+    },
+    {
+      "rank": 3,
+      "score": 1.8323,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "That is higher fuel consumption. That is missed opportunities, more costs to the consumers, which are British Columbians. Infrastructure spending without delivery discipline compounds deficits, and deficits compound debt. Borrowing billions demands certainty."
+    },
+    {
+      "rank": 4,
+      "score": 1.6751,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "Motor fuel tax is the only way this works. A property tax increase is not feasible. They’re already spending it on their 52 percent share of local transit service in Squamish, Whistler and Pemberton. This is not a premium service for tourists."
+    },
+    {
+      "rank": 5,
+      "score": 1.4686,
+      "source_id": "centrebc-0050",
+      "source_type": "release",
+      "title": "Budget 2026: A Blueprint for Bankruptcy",
+      "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+      "archive_url": null,
+      "published": "2026-02-19",
+      "quote": "Cruel Credit Cuts: A low-income family of four will see their net tax credits plummet from $2,411 to just $1,623, losing nearly $800 in support. Stealth Taxes: By pausing tax bracket indexation until 2030, the government ensures that every time you get a cost-of-living raise, they take a bigger cut New PST Hike s: Rather than scrapping the PST on food production to lower grocery bills as CentreBC proposed, the government is expanding the PST to professional services like accounting and engineering which will flow through to consumers."
+    },
+    {
+      "rank": 6,
+      "score": 1.3266,
+      "source_id": "centrebc-0055",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-30 am: Sturko on violent crime, mental illness, community safety",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+      "archive_url": "https://web.archive.org/web/20261001085726/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+      "published": "2026-04-30",
+      "quote": "My question to the Premier: will this government implement a windfall tax, yes or no? Hon. Adrian Dix : That was a very, I think, admirable supplementary question to the first question on AI. The impact of gasoline prices on consumers here is profound, and the impact of the war between Israel and the United States and Iran on the world is profound."
+    }
+  ]
+}

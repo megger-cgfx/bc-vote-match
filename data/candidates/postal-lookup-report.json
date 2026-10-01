@@ -1,0 +1,16 @@
+{
+  "version": "v1.0",
+  "built_at": "2026-10-01T08:40:00Z",
+  "ridings": 93,
+  "polygons": 93,
+  "candidates": 208,
+  "postal_codes_mapped": 122334,
+  "postal_codes_unmatched": 0,
+  "postal_codes_boundary_nearest": 1,
+  "postal_codes_straddling": 1,
+  "fsa_count": 193,
+  "ridings_without_postal_codes": [],
+  "slug_mismatch_polygon_missing": [],
+  "slug_mismatch_data_missing": [],
+  "unmatched_sample": []
+}

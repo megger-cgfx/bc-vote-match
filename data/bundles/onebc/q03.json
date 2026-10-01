@@ -1,0 +1,53 @@
+{
+  "question_id": "q03",
+  "statement": "The province should introduce a wealth tax on the largest personal fortunes.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:40Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "introduce",
+    "wealth",
+    "tax",
+    "largest",
+    "personal",
+    "fortunes"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 1.0151,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "It softens timelines. It introduces new fees. It centralizes personal data authority. It shifts power away from the citizen."
+    },
+    {
+      "rank": 2,
+      "score": 0.9583,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "We must ensure that mechanisms intended to prevent abuse are not repurposed to suppress accountability. [4:35 p.m.] Bill 9 also introduces a profound structural change — the creation of “connected services providers” and an online platform enabling personal information to be shared across public bodies. Under sections 26 and 69.3, the minister may designate a public body to facilitate the sharing of personal information to determine program eligibility. Efficiency is cited as the objective."
+    },
+    {
+      "rank": 3,
+      "score": 0.8222,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I would also add, as it relates to coastal British Columbia, one of the key aspects of Budget 2026 was a PST tax credit. Coastal British Columbia’s forest sector has not seen a substantive investment in some time. We need to see more investments. We were proud to stand with Western Forest Products and invest in North America’s largest kiln project."
+    }
+  ]
+}

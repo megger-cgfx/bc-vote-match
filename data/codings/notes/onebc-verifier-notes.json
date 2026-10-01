@@ -1,0 +1,10 @@
+[
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-verifier",
+    "question_id": "q38",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Blind pass over the party's own corpus (19 sources). OneBC's own 'Our Priorities' page, under the Reconciliation heading, plank 1: repeal DRIPA and declare UNDRIP to have no force and effect in BC. That is the instrument that imports the consent/FPIC requirement into resource decisions, so removing it is a direct, unhedged match to the statement; plank 2 ('halt all voluntary transfers of cash, land, and control over public resources') reinforces it. Not hedged, so +2 rather than +1. Alternative weighed: +1 on the argument that a constitutional stance is broader than a resource-consent measure; rejected because repeal/no-force removes the consent requirement outright."
+  }
+]

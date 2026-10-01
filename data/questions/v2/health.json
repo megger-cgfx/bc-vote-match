@@ -1,0 +1,92 @@
+[
+  {
+    "id": "q19",
+    "statement": "BC should allow more private, for-profit clinics to operate.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "removed leading claim that clinics reduce wait times"
+  },
+  {
+    "id": "q20",
+    "statement": "The province should speed up licensing of health-care workers trained outside Canada.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "merged two worker groups into one category; single idea"
+  },
+  {
+    "id": "q21",
+    "statement": "Public drug coverage should be expanded to pay for more prescriptions.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "dropped 'for everyone' second scope idea and generous framing"
+  },
+  {
+    "id": "q22",
+    "statement": "The province should fund more supervised consumption sites.",
+    "topic": "health",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "split 'and' join; kept one program idea"
+  },
+  {
+    "id": "q23",
+    "statement": "Medically necessary care in BC should be covered only by the public health plan.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "collapsed redundant double phrasing into one policy idea"
+  },
+  {
+    "id": "q24",
+    "statement": "The province should cover dental care under the public health plan.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "removed 'and paid for' second clause; same idea stated once"
+  },
+  {
+    "id": "q25",
+    "statement": "The province should allow overdose-prevention sites to open despite local opposition.",
+    "topic": "health",
+    "dimensions": [
+      "social"
+    ],
+    "revised": true,
+    "change_reason": "replaced leading 'even where residents and businesses object' framing"
+  },
+  {
+    "id": "q26",
+    "statement": "The province should require hospitals to follow minimum nurse-to-patient ratios.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "replaced loaded 'impose' with neutral wording"
+  },
+  {
+    "id": "q27",
+    "statement": "BC should allow more private diagnostic imaging clinics to operate.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "removed leading claim that it cuts waiting lists"
+  }
+]

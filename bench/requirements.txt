@@ -1,0 +1,13 @@
+# bench harness — dependencies
+#
+# The harness core (harness/*.py) is pure Python standard library: it drives the
+# runtime over HTTP and needs nothing installed. That is deliberate - it must run
+# unattended on a rented GPU box where we do not control the image.
+#
+# Python: >= 3.11 (uses `X | None` annotations and argparse features)
+#
+# Optional, only for the vLLM backend (AWQ/GPTQ arms of the candidate list):
+#   pip install -r requirements.txt
+#
+# Pin the runtime you actually benchmark in VERSIONS.json, not here.
+vllm==0.30.0        # optional; only needed for --backend vllm

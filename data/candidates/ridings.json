@@ -1,0 +1,746 @@
+[
+  {
+    "slug": "abbotsford-south",
+    "name": "Abbotsford South",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 259,
+    "ed_abbreviation": "ABS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "abbotsford-west",
+    "name": "Abbotsford West",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 260,
+    "ed_abbreviation": "ABW",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "abbotsford-mission",
+    "name": "Abbotsford-Mission",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 258,
+    "ed_abbreviation": "ABM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "boundary-similkameen",
+    "name": "Boundary-Similkameen",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 261,
+    "ed_abbreviation": "BDS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "bulkley-valley-stikine",
+    "name": "Bulkley Valley-Stikine",
+    "region": "Northern British Columbia",
+    "district_id": 262,
+    "ed_abbreviation": "BLS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "burnaby-centre",
+    "name": "Burnaby Centre",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 263,
+    "ed_abbreviation": "BNC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "burnaby-east",
+    "name": "Burnaby East",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 264,
+    "ed_abbreviation": "BNE",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "burnaby-north",
+    "name": "Burnaby North",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 266,
+    "ed_abbreviation": "BNO",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "burnaby-south-metrotown",
+    "name": "Burnaby South-Metrotown",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 267,
+    "ed_abbreviation": "BNS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "burnaby-new-westminster",
+    "name": "Burnaby-New Westminster",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 265,
+    "ed_abbreviation": "BNN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "cariboo-chilcotin",
+    "name": "Cariboo-Chilcotin",
+    "region": "Prince George and the Cariboo",
+    "district_id": 268,
+    "ed_abbreviation": "CBC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "chilliwack-north",
+    "name": "Chilliwack North",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 270,
+    "ed_abbreviation": "CHN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "chilliwack-cultus-lake",
+    "name": "Chilliwack-Cultus Lake",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 269,
+    "ed_abbreviation": "CHC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "columbia-river-revelstoke",
+    "name": "Columbia River-Revelstoke",
+    "region": "The Kootenays",
+    "district_id": 271,
+    "ed_abbreviation": "CLR",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "coquitlam-burke-mountain",
+    "name": "Coquitlam-Burke Mountain",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 272,
+    "ed_abbreviation": "CQB",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "coquitlam-maillardville",
+    "name": "Coquitlam-Maillardville",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 273,
+    "ed_abbreviation": "CQM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "courtenay-comox",
+    "name": "Courtenay-Comox",
+    "region": "Vancouver Island",
+    "district_id": 274,
+    "ed_abbreviation": "CRC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "cowichan-valley",
+    "name": "Cowichan Valley",
+    "region": "Vancouver Island",
+    "district_id": 275,
+    "ed_abbreviation": "CWV",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "delta-north",
+    "name": "Delta North",
+    "region": "Richmond and Delta",
+    "district_id": 276,
+    "ed_abbreviation": "DLN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "delta-south",
+    "name": "Delta South",
+    "region": "Richmond and Delta",
+    "district_id": 277,
+    "ed_abbreviation": "DLS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "esquimalt-colwood",
+    "name": "Esquimalt-Colwood",
+    "region": "Greater Victoria",
+    "district_id": 278,
+    "ed_abbreviation": "ESC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "fraser-nicola",
+    "name": "Fraser-Nicola",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 279,
+    "ed_abbreviation": "FRN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "juan-de-fuca-malahat",
+    "name": "Juan de Fuca-Malahat",
+    "region": "Greater Victoria",
+    "district_id": 280,
+    "ed_abbreviation": "JFM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kamloops-centre",
+    "name": "Kamloops Centre",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 281,
+    "ed_abbreviation": "KAC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kamloops-north-thompson",
+    "name": "Kamloops-North Thompson",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 282,
+    "ed_abbreviation": "KAN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kelowna-centre",
+    "name": "Kelowna Centre",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 283,
+    "ed_abbreviation": "KEC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kelowna-lake-country-coldstream",
+    "name": "Kelowna-Lake Country-Coldstream",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 284,
+    "ed_abbreviation": "KLC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kelowna-mission",
+    "name": "Kelowna-Mission",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 285,
+    "ed_abbreviation": "KLM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kootenay-central",
+    "name": "Kootenay Central",
+    "region": "The Kootenays",
+    "district_id": 286,
+    "ed_abbreviation": "KOC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kootenay-monashee",
+    "name": "Kootenay-Monashee",
+    "region": "The Kootenays",
+    "district_id": 287,
+    "ed_abbreviation": "KOM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "kootenay-rockies",
+    "name": "Kootenay-Rockies",
+    "region": "The Kootenays",
+    "district_id": 288,
+    "ed_abbreviation": "KOR",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "ladysmith-oceanside",
+    "name": "Ladysmith-Oceanside",
+    "region": "Vancouver Island",
+    "district_id": 289,
+    "ed_abbreviation": "LAO",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "langford-highlands",
+    "name": "Langford-Highlands",
+    "region": "Greater Victoria",
+    "district_id": 290,
+    "ed_abbreviation": "LFH",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "langley-abbotsford",
+    "name": "Langley-Abbotsford",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 291,
+    "ed_abbreviation": "LLA",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "langley-walnut-grove",
+    "name": "Langley-Walnut Grove",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 292,
+    "ed_abbreviation": "LWG",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "langley-willowbrook",
+    "name": "Langley-Willowbrook",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 293,
+    "ed_abbreviation": "LWI",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "maple-ridge-east",
+    "name": "Maple Ridge East",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 294,
+    "ed_abbreviation": "MAE",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "maple-ridge-pitt-meadows",
+    "name": "Maple Ridge-Pitt Meadows",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "district_id": 295,
+    "ed_abbreviation": "MAP",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "mid-island-pacific-rim",
+    "name": "Mid Island-Pacific Rim",
+    "region": "Vancouver Island",
+    "district_id": 296,
+    "ed_abbreviation": "MPR",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "nanaimo-gabriola-island",
+    "name": "Nanaimo-Gabriola Island",
+    "region": "Vancouver Island",
+    "district_id": 297,
+    "ed_abbreviation": "NAI",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "nanaimo-lantzville",
+    "name": "Nanaimo-Lantzville",
+    "region": "Vancouver Island",
+    "district_id": 298,
+    "ed_abbreviation": "NAL",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "nechako-lakes",
+    "name": "Nechako Lakes",
+    "region": "Northern British Columbia",
+    "district_id": 299,
+    "ed_abbreviation": "NEC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "new-westminster-coquitlam",
+    "name": "New Westminster-Coquitlam",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 300,
+    "ed_abbreviation": "NMC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "north-coast-haida-gwaii",
+    "name": "North Coast-Haida Gwaii",
+    "region": "Northern British Columbia",
+    "district_id": 301,
+    "ed_abbreviation": "NOH",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "north-island",
+    "name": "North Island",
+    "region": "Vancouver Island",
+    "district_id": 302,
+    "ed_abbreviation": "NOI",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "north-vancouver-lonsdale",
+    "name": "North Vancouver-Lonsdale",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "district_id": 303,
+    "ed_abbreviation": "NVL",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "north-vancouver-seymour",
+    "name": "North Vancouver-Seymour",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "district_id": 304,
+    "ed_abbreviation": "NVS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "oak-bay-gordon-head",
+    "name": "Oak Bay-Gordon Head",
+    "region": "Greater Victoria",
+    "district_id": 305,
+    "ed_abbreviation": "OBG",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "peace-river-north",
+    "name": "Peace River North",
+    "region": "Northern British Columbia",
+    "district_id": 306,
+    "ed_abbreviation": "PCN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "peace-river-south",
+    "name": "Peace River South",
+    "region": "Northern British Columbia",
+    "district_id": 307,
+    "ed_abbreviation": "PCS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "penticton-summerland",
+    "name": "Penticton-Summerland",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 308,
+    "ed_abbreviation": "PES",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "port-coquitlam",
+    "name": "Port Coquitlam",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 309,
+    "ed_abbreviation": "POC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "port-moody-burquitlam",
+    "name": "Port Moody-Burquitlam",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "district_id": 310,
+    "ed_abbreviation": "POM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "powell-river-sunshine-coast",
+    "name": "Powell River-Sunshine Coast",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "district_id": 311,
+    "ed_abbreviation": "POR",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "prince-george-mackenzie",
+    "name": "Prince George-Mackenzie",
+    "region": "Prince George and the Cariboo",
+    "district_id": 312,
+    "ed_abbreviation": "PRM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "prince-george-north-cariboo",
+    "name": "Prince George-North Cariboo",
+    "region": "Prince George and the Cariboo",
+    "district_id": 313,
+    "ed_abbreviation": "PRO",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "prince-george-valemount",
+    "name": "Prince George-Valemount",
+    "region": "Prince George and the Cariboo",
+    "district_id": 314,
+    "ed_abbreviation": "PRV",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "richmond-centre",
+    "name": "Richmond Centre",
+    "region": "Richmond and Delta",
+    "district_id": 316,
+    "ed_abbreviation": "RCC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "richmond-bridgeport",
+    "name": "Richmond-Bridgeport",
+    "region": "Richmond and Delta",
+    "district_id": 315,
+    "ed_abbreviation": "RCB",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "richmond-queensborough",
+    "name": "Richmond-Queensborough",
+    "region": "Richmond and Delta",
+    "district_id": 317,
+    "ed_abbreviation": "RCQ",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "richmond-steveston",
+    "name": "Richmond-Steveston",
+    "region": "Richmond and Delta",
+    "district_id": 318,
+    "ed_abbreviation": "RCS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "saanich-north-and-the-islands",
+    "name": "Saanich North and the Islands",
+    "region": "Greater Victoria",
+    "district_id": 319,
+    "ed_abbreviation": "SAN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "saanich-south",
+    "name": "Saanich South",
+    "region": "Greater Victoria",
+    "district_id": 320,
+    "ed_abbreviation": "SAS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "salmon-arm-shuswap",
+    "name": "Salmon Arm-Shuswap",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 321,
+    "ed_abbreviation": "SHU",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "skeena",
+    "name": "Skeena",
+    "region": "Northern British Columbia",
+    "district_id": 322,
+    "ed_abbreviation": "SKE",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-city-centre",
+    "name": "Surrey City Centre",
+    "region": "Surrey",
+    "district_id": 323,
+    "ed_abbreviation": "SRC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-north",
+    "name": "Surrey North",
+    "region": "Surrey",
+    "district_id": 328,
+    "ed_abbreviation": "SUN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-south",
+    "name": "Surrey South",
+    "region": "Surrey",
+    "district_id": 331,
+    "ed_abbreviation": "SUS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-cloverdale",
+    "name": "Surrey-Cloverdale",
+    "region": "Surrey",
+    "district_id": 324,
+    "ed_abbreviation": "SRD",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-fleetwood",
+    "name": "Surrey-Fleetwood",
+    "region": "Surrey",
+    "district_id": 325,
+    "ed_abbreviation": "SRF",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-guildford",
+    "name": "Surrey-Guildford",
+    "region": "Surrey",
+    "district_id": 326,
+    "ed_abbreviation": "SRG",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-newton",
+    "name": "Surrey-Newton",
+    "region": "Surrey",
+    "district_id": 327,
+    "ed_abbreviation": "SRN",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-panorama",
+    "name": "Surrey-Panorama",
+    "region": "Surrey",
+    "district_id": 329,
+    "ed_abbreviation": "SUP",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-serpentine-river",
+    "name": "Surrey-Serpentine River",
+    "region": "Surrey",
+    "district_id": 330,
+    "ed_abbreviation": "SUR",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "surrey-white-rock",
+    "name": "Surrey-White Rock",
+    "region": "Surrey",
+    "district_id": 332,
+    "ed_abbreviation": "SWR",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-fraserview",
+    "name": "Vancouver-Fraserview",
+    "region": "Vancouver",
+    "district_id": 333,
+    "ed_abbreviation": "VFV",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-hastings",
+    "name": "Vancouver-Hastings",
+    "region": "Vancouver",
+    "district_id": 334,
+    "ed_abbreviation": "VHA",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-kensington",
+    "name": "Vancouver-Kensington",
+    "region": "Vancouver",
+    "district_id": 335,
+    "ed_abbreviation": "VKE",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-langara",
+    "name": "Vancouver-Langara",
+    "region": "Vancouver",
+    "district_id": 336,
+    "ed_abbreviation": "VLA",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-little-mountain",
+    "name": "Vancouver-Little Mountain",
+    "region": "Vancouver",
+    "district_id": 337,
+    "ed_abbreviation": "VLM",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-point-grey",
+    "name": "Vancouver-Point Grey",
+    "region": "Vancouver",
+    "district_id": 338,
+    "ed_abbreviation": "VNP",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-quilchena",
+    "name": "Vancouver-Quilchena",
+    "region": "Vancouver",
+    "district_id": 339,
+    "ed_abbreviation": "VNQ",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-renfrew",
+    "name": "Vancouver-Renfrew",
+    "region": "Vancouver",
+    "district_id": 340,
+    "ed_abbreviation": "VNR",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-south-granville",
+    "name": "Vancouver-South Granville",
+    "region": "Vancouver",
+    "district_id": 341,
+    "ed_abbreviation": "VNS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-strathcona",
+    "name": "Vancouver-Strathcona",
+    "region": "Vancouver",
+    "district_id": 342,
+    "ed_abbreviation": "VNT",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-west-end",
+    "name": "Vancouver-West End",
+    "region": "Vancouver",
+    "district_id": 343,
+    "ed_abbreviation": "VNW",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vancouver-yaletown",
+    "name": "Vancouver-Yaletown",
+    "region": "Vancouver",
+    "district_id": 344,
+    "ed_abbreviation": "VNY",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "vernon-lumby",
+    "name": "Vernon-Lumby",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 345,
+    "ed_abbreviation": "VRL",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "victoria-beacon-hill",
+    "name": "Victoria-Beacon Hill",
+    "region": "Greater Victoria",
+    "district_id": 346,
+    "ed_abbreviation": "VTB",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "victoria-swan-lake",
+    "name": "Victoria-Swan Lake",
+    "region": "Greater Victoria",
+    "district_id": 347,
+    "ed_abbreviation": "VTS",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "west-kelowna-peachland",
+    "name": "West Kelowna-Peachland",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "district_id": 348,
+    "ed_abbreviation": "WKP",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "west-vancouver-capilano",
+    "name": "West Vancouver-Capilano",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "district_id": 349,
+    "ed_abbreviation": "WVC",
+    "source_id": "ebc-ed-polygons"
+  },
+  {
+    "slug": "west-vancouver-sea-to-sky",
+    "name": "West Vancouver-Sea to Sky",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "district_id": 350,
+    "ed_abbreviation": "WVS",
+    "source_id": "ebc-ed-polygons"
+  }
+]

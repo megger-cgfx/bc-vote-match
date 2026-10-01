@@ -1,0 +1,34 @@
+[
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-verifier",
+    "question_id": "q01",
+    "code": -2,
+    "confidence": "low",
+    "rationale": "Full-corpus blind pass 2 (46 NDP sources). Hansard ndp-0024: Finance Minister Brenda Bailey, the government's own voice, states the rural homeowner grant was designed to offset the carbon tax and that 'when the carbon tax was removed, so too did we remove that', defending the removal on fairness grounds. The only other mentions of the consumer carbon tax are opposition MLAs attacking the government for killing it, so they are not the party's position. An outright enacted repeal defended without hedge earns the strong negative; low confidence because mapping a past removal onto a stance on reinstatement is a Hansard inference (CODEBOOK s5). Rejected -1 because the removal was an unconditional enacted repeal, not a hedge."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-verifier",
+    "question_id": "q04",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Full-corpus blind pass 2. Hansard ndp-0025: government member Steve Morissette, Budget 2026 debate, states the goal is reducing the deficit while continuing to support housing, health care, education and social services, and the same file has the party disavowing austerity. The party shares the deficit-reduction goal but names instruments the statement excludes (expenditure management, revenue measures, hiring restraint) and never promises to balance by cutting, so the weaker positive value is coded; medium confidence for a right-position/related-instrument match. Rejected +2: the party calls it prudent stewardship, protects front-line services and forecasts declining deficits rather than a balanced budget."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-verifier-pass1-window",
+    "question_id": "q01",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "Narrow-window blind pass 1: same ndp-0024 sentence, read as an expression of disagreement with reinstating or raising the tax, but -1 rather than -2 because the quote is a retrospective explanation of the removal rather than an explicit pledge against reinstatement. Competing reading with pass 2 (-2)."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-verifier-pass1-window",
+    "question_id": "q04",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Narrow-window blind pass 1 returned null: all six mechanically-ranked passages looked like other speakers' remarks, and the decisive NDP sentence ('This approach will achieve our goal of reducing the deficit...', ndp-0025 line 2484) was not inside any window excerpt, so the window, not the corpus, produced this null. Discarded as under-powered for the decision; retained for audit."
+  }
+]

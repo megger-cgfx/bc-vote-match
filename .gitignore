@@ -1,0 +1,39 @@
+# deps / build output
+node_modules/
+.next/
+out/
+dist/
+next-env.d.ts
+*.tsbuildinfo
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# local
+.DS_Store
+*.log
+.env*
+secrets/
+*.token
+
+# bulk raw captures are not versioned; provenance lives in sources.json (sha256) + archive URLs
+data/raw/**/*.html
+data/raw/**/*.txt
+data/raw/**/*.pdf
+data/raw/**/*.zip
+data/raw/**/*.geojson
+data/raw/**/*.png
+data/raw/**/*.bak
+data/tmp/
+
+# benchmark run artifacts (models, runtimes, eval sets, results)
+bench/models/
+bench/runtime/
+bench/eval/
+bench/results/
+
+# scratch / archived attempts
+attic/

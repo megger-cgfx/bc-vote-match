@@ -1,0 +1,325 @@
+{
+  "ndp-0035": {
+    "party": "ndp",
+    "url": "https://bcballot.ca/platforms/",
+    "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+    "note": "save ok (http 200)",
+    "done": true,
+    "attempts": 1
+  },
+  "cpb-0028": {
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+    "note": "save ok (http 200)"
+  },
+  "cpb-0030": {
+    "party": "cpb",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+    "note": "save ok (http 200)"
+  },
+  "cpb-0034": {
+    "party": "cpb",
+    "url": "https://hopestandard.com/2026/09/24/former-rodeo-rider-doerkson-seeks-to-buck-off-eby-in-b-c-election/",
+    "attempts": 3,
+    "archive_url": "https://web.archive.org/web/20261001083917/https://hopestandard.com/2026/09/24/former-rodeo-rider-doerkson-seeks-to-buck-off-eby-in-b-c-election/",
+    "note": "save ok (http 200)"
+  },
+  "cpb-0035": {
+    "party": "cpb",
+    "url": "https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001083613/https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
+    "note": "save ok (http 200)"
+  },
+  "cpb-0036": {
+    "party": "cpb",
+    "url": "https://www.theglobeandmail.com/canada/british-columbia/article-lorne-doerkson-takes-the-reins-of-bc-conservatives-with-a-party-to/",
+    "attempts": 2,
+    "archive_url": "https://web.archive.org/web/20261001083945/https://www.theglobeandmail.com/canada/british-columbia/article-lorne-doerkson-takes-the-reins-of-bc-conservatives-with-a-party-to/",
+    "note": "save http 520; cdx existing capture"
+  },
+  "cpb-0043": {
+    "party": "cpb",
+    "url": "https://vancouversun.com/news/ndp-bc-conservatives-both-take-credit-growing-lng-sector-final-investment-lng-canada-phase-2-looms",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001082120/https://vancouversun.com/news/ndp-bc-conservatives-both-take-credit-growing-lng-sector-final-investment-lng-canada-phase-2-looms",
+    "note": "save ok (http 200)"
+  },
+  "cpb-0050": {
+    "party": "cpb",
+    "url": "https://bcballot.ca/platforms/conservative-party/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001082150/https://bcballot.ca/platforms/conservative-party/",
+    "note": "save ok (http 404)"
+  },
+  "cpb-0051": {
+    "party": "cpb",
+    "url": "https://bcballot.ca/platforms/bc-ndp-vs-conservative/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001082211/https://bcballot.ca/platforms/bc-ndp-vs-conservative/",
+    "note": "save ok (http 200)"
+  },
+  "cpb-0052": {
+    "party": "cpb",
+    "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+    "note": "save ok (http 200)"
+  },
+  "green-0006": {
+    "party": "green",
+    "url": "https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001083232/https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+    "note": "save ok (http 404)"
+  },
+  "green-0020": {
+    "party": "green",
+    "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084105/https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+    "note": "save ok (http 200)"
+  },
+  "green-0021": {
+    "party": "green",
+    "url": "https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084140/https://dailyhive.com/vancouver/bc-greens-vacancy-control-rentals",
+    "note": "save ok (http 200)"
+  },
+  "green-0024": {
+    "party": "green",
+    "url": "https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084218/https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+    "note": "save ok (http 200)"
+  },
+  "green-0026": {
+    "party": "green",
+    "url": "https://ca.news.yahoo.com/first-weekend-provincial-campaigns-wrap-161847057.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084254/https://ca.news.yahoo.com/first-weekend-provincial-campaigns-wrap-161847057.html",
+    "note": "save ok (http 200)"
+  },
+  "green-0028": {
+    "party": "green",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+    "note": "save ok (http 404)"
+  },
+  "green-0033": {
+    "party": "green",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+    "note": "save ok (http 404)"
+  },
+  "green-0097": {
+    "party": "green",
+    "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+    "attempts": 1,
+    "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+    "note": "save http 520; availability-api closest snapshot"
+  },
+  "onebc-0009": {
+    "party": "onebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+    "attempts": 2,
+    "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+    "note": "save http 520; cdx existing capture"
+  },
+  "onebc-0013": {
+    "party": "onebc",
+    "url": "https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084457/https://www.castanet.net/news/Kelowna/632900/OneBC-names-candidate-for-riding-held-by-former-party-member-Tara-Armstrong",
+    "note": "save ok (http 200)"
+  },
+  "onebc-0017": {
+    "party": "onebc",
+    "url": "https://www.theepochtimes.com/world/onebc-promises-not-to-challenge-candidates-it-calls-true-conservatives-6096966",
+    "attempts": 1,
+    "archive_url": "http://web.archive.org/web/20261001084521/https://www.theepochtimes.com/world/onebc-promises-not-to-challenge-candidates-it-calls-true-conservatives-6096966",
+    "note": "save http 520; availability-api closest snapshot"
+  },
+  "centrebc-0004": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/resources/independent-adjudicator/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084535/https://www.centrebc.ca/resources/independent-adjudicator/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0005": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/candidates/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001080624/https://www.centrebc.ca/candidates/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0027": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-bc-legislative-gong-show-why-we-need-a-new-alternative/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084614/https://www.centrebc.ca/news/opinion-bc-legislative-gong-show-why-we-need-a-new-alternative/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0029": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+    "attempts": 6,
+    "archive_url": "https://web.archive.org/web/20261001214441/https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0031": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/statement-tragic-shooting-in-tumbler-ridge/",
+    "attempts": 8,
+    "archive_url": "https://web.archive.org/web/20261001214912/https://www.centrebc.ca/news/statement-tragic-shooting-in-tumbler-ridge/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0032": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-facing-trump-threat-bc-needs-more-than-government-by-clickbait/",
+    "attempts": 5,
+    "archive_url": "https://web.archive.org/web/20261001214230/https://www.centrebc.ca/news/opinion-facing-trump-threat-bc-needs-more-than-government-by-clickbait/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0033": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/bc-conservatives-applaud-trump-aggression-against-another-country/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001084918/https://www.centrebc.ca/news/news-release/bc-conservatives-applaud-trump-aggression-against-another-country/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0035": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/centrebc-slams-ndp-look-west-plan-as-more-empty-promises/",
+    "attempts": 2,
+    "archive_url": "https://web.archive.org/web/20261001090520/https://www.centrebc.ca/news/news-release/centrebc-slams-ndp-look-west-plan-as-more-empty-promises/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0039": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/news-release-eby-remains-uncommitted-to-workers-rewards-friends/",
+    "attempts": 9,
+    "archive_url": "https://web.archive.org/web/20261001215112/https://www.centrebc.ca/news/news-release/news-release-eby-remains-uncommitted-to-workers-rewards-friends/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0043": {
+    "party": "centrebc",
+    "url": "https://www.timescolonist.com/2026-bc-votes/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc-12824686",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001085148/https://www.timescolonist.com/2026-bc-votes/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc-12824686",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0045": {
+    "party": "centrebc",
+    "url": "https://donshafer1.substack.com/p/bc-election-2026-a-conversation-with-acd",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001085221/https://donshafer1.substack.com/p/bc-election-2026-a-conversation-with-acd",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0046": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-the-hard-work-of-certainty-resolving-bcs-original-sin/",
+    "attempts": 5,
+    "archive_url": "https://web.archive.org/web/20261001214617/https://www.centrebc.ca/news/opinion-the-hard-work-of-certainty-resolving-bcs-original-sin/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0050": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+    "attempts": 9,
+    "archive_url": null,
+    "note": "save http 520; available http 200, cdx http 200"
+  },
+  "centrebc-0053": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/centrebc-demands-provincial-action-on-closure-of-crofton-mill/",
+    "attempts": 3,
+    "archive_url": "https://web.archive.org/web/20261001091345/https://www.centrebc.ca/news/news-release/centrebc-demands-provincial-action-on-closure-of-crofton-mill/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0054": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/opinion-ending-intimate-partner-violence-requires-more-than-announcements/",
+    "attempts": 2,
+    "archive_url": "https://web.archive.org/web/20261001090810/https://www.centrebc.ca/news/opinion-ending-intimate-partner-violence-requires-more-than-announcements/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0055": {
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001085726/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0056": {
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0057": {
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0058": {
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0059": {
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0060": {
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0061": {
+    "party": "centrebc",
+    "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0063": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/news/news-release/bc-conservatives-elect-hard-right-leader/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20260927072716/https://www.centrebc.ca/news/news-release/bc-conservatives-elect-hard-right-leader/",
+    "note": "save http 520; cdx existing capture"
+  },
+  "centrebc-0064": {
+    "party": "centrebc",
+    "url": "https://www.centrebc.ca/path-foward-for-bc/",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20260918220810/https://www.centrebc.ca/vision/",
+    "note": "save ok (http 200)"
+  },
+  "centrebc-0065": {
+    "party": "centrebc",
+    "url": "https://vancouversun.com/news/peter-milobar-mike-bernier-announce-centre-right-alternative-bc-party",
+    "attempts": 1,
+    "archive_url": "https://web.archive.org/web/20261001090155/https://vancouversun.com/news/peter-milobar-mike-bernier-announce-centre-right-alternative-bc-party",
+    "note": "save ok (http 200)"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "question_id": "q39",
+  "statement": "The province should share resource revenue with First Nations whose territories host the projects.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:23Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "share",
+    "resource",
+    "revenue",
+    "first",
+    "nations",
+    "whose",
+    "territories",
+    "host",
+    "projects"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 7.063,
+      "source_id": "green-0029",
+      "source_type": "release",
+      "title": "BC Greens' statement on National Day for Truth and Reconciliation",
+      "url": "https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+      "archive_url": "http://web.archive.org/web/20261001080835/https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+      "published": "2026-09-30",
+      "quote": "Indigenous leaders have been clear that “economic urgency does not override our inherent and constitutionally protected First Nations title and rights, nor does it diminish the Crown’s obligation to consult and cooperate in good faith with First Nations in order to obtain their free, prior, and informed consent before approving or advancing projects affecting our lands, territories or resources”, and made clear the protections for Indigenous women, girls, and 2-spirited people that must be centered in any discussion on extractive industry."
+    },
+    {
+      "rank": 2,
+      "score": 6.7541,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Anyway, that’s something for me to pursue another day. In terms of resource revenue sharing, I think we’ve covered off a lot of that in terms of subsurface, a little bit in terms of forestry. I’m just wondering. It’s common practice for British Columbia to enter into resource revenue sharing with all First Nations, treaty or non-treaty, in terms of activities, whether it’s forestry or otherwise."
+    },
+    {
+      "rank": 3,
+      "score": 5.6234,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "That would be not under the sole ownership of the K’ómoks Nation. Again, in the broader treaty area, there still would be the opportunity for the province to collect mineral tax revenue. There could be revenue-sharing agreements, based on what the project is and who the proponent is that’s doing the work on the land base. But it’s only the treaty settlement lands, which have subsurface resource rights fully owned by the K’ómoks Nation, for which there is no obligation to share or any sort of revenue-sharing structure."
+    },
+    {
+      "rank": 4,
+      "score": 5.349,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "of wood fibre. Revenue-sharing with First Nations,\nmunicipalities and regional districts will ensure that the\nbenefits of these practices are shared equitably."
+    },
+    {
+      "rank": 5,
+      "score": 4.4277,
+      "source_id": "green-0020",
+      "source_type": "media",
+      "title": "BC Greens focus on renters and childcare as NDP and Conservatives roll out economic plans (Victoria Buzz)",
+      "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "archive_url": "https://web.archive.org/web/20261001084105/https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "published": "",
+      "quote": "Conservatives propose LNG expansion and PST relief The Conservative Party of BC has also placed resource development near the centre of its campaign. On Monday, Conservative leader Lorne Doerkson announced what the party calls its BC Energy Superpower Plan, pledging to double the province’s LNG production by 2032 and triple it by 2035. The Conservative proposal calls for faster and more predictable project approvals, additional energy infrastructure, a stable royalty framework and expanded opportunities for First Nations ownership and partnerships in resource projects."
+    },
+    {
+      "rank": 6,
+      "score": 4.2891,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Mount Milligan. We cut permitting time in half, a $400 million investment. Artemis Gold’s Blackwater Mine — generating $2.3 billion in provincial revenue, strong partnerships with First Nations. At this pace, by 2040, new and expanded critical minerals projects could represent an investment opportunity of $44 billion for our province."
+    },
+    {
+      "rank": 7,
+      "score": 4.2545,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "traditionally found space to share.\nHistorically, governments in this province have devalued\nart and culture. Colonization resulted in the theft of First\nNations’ art and culture, alongside the destruction and\nburning of numerous heritage sites. Preserving\nthe province’s rich and vibrant history is essential,\nas is providing Indigenous communities with the\nnecessary resources to sustain their cultural practices."
+    },
+    {
+      "rank": 8,
+      "score": 3.8641,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Ensure local authorities and First Nations have the\ncapacity, resources, and authority to prepare and"
+    },
+    {
+      "rank": 9,
+      "score": 3.1391,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Work is underway to confirm the eligibility requirements for category 2 projects. These are the projects that are not administered by government. Once eligibility requirements for provincially significant designations are in place, recommendations to cabinet for a decision for a project to be designated under the act can be made. In terms of First Nations consultations, consultation has occurred with more than 49 First Nations, primarily on the provincially significant eligibility criteria, with some initial engagement on the qualified professional reliance model."
+    },
+    {
+      "rank": 10,
+      "score": 3.1152,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "The Chair : Minister, do you have any opening remarks? Hon. Bowinn Ma : I’m pleased to be here today on the territories of the lək̓ʷəŋən Peoples, the Songhees and Esquimalt First Nations. I’d like to start by identifying those ministry staff who are with me here today."
+    },
+    {
+      "rank": 11,
+      "score": 2.9716,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "Institute selective logging and value-added industries to create sustainable jobs. Fully fund old-growth deferrals, with fair compensation for First Nations and forestry communities. Modernize our mining laws to protect communities and prioritize the resources BC needs for a renewable revolution. Reject culture wars — uphold the rights of Indigenous, 2SLGBTQ+, and all vulnerable communities."
+    },
+    {
+      "rank": 12,
+      "score": 2.8562,
+      "source_id": "green-0028",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 154 (Apr 16 2026 am) - Woodfibre LNG Expansion & Local Taxation (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "archive_url": "https://web.archive.org/web/20261001075929/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260416am-Hansard-n154.html",
+      "published": "2026-04-16",
+      "quote": "Adrian Dix Government Position on Comments by First Nations Chief Tara Armstrong Hon. Spencer Chandra Herbert Hon."
+    }
+  ]
+}

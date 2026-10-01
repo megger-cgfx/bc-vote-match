@@ -1,0 +1,57 @@
+{
+  "schema_version": "bench/v1",
+  "pinned_at": "2026-10-01",
+  "target_hardware": {
+    "gpu": "NVIDIA RTX 3090 (Ampere, compute capability 8.6, 24576 MiB)",
+    "vram_budget_mb": 24576,
+    "notes": "single GPU, no NVLink; PCIe Gen4 host"
+  },
+  "runtimes": {
+    "llamacpp": {
+      "tag": "b11316",
+      "version_string": "0.5.0-dev (build 11316, commit 2232bc8b5)",
+      "released": "2026-10-01",
+      "source": "https://github.com/ggml-org/llama.cpp/releases/tag/b11316",
+      "asset_cuda_12_8": "llama-b11316-bin-ubuntu-cuda-12.8-x64.tar.gz",
+      "asset_cudart_12_8": "cudart-llama-b11316-bin-ubuntu-cuda-12.8-x64.tar.gz",
+      "asset_cpu": "llama-b11316-bin-ubuntu-x64.tar.gz",
+      "why_cuda_12_8": "bundled CUDA runtime 12.8 runs on any driver advertising CUDA 12.0+; deliberately NOT the 13.4 build because the vast.ai host driver advertises max CUDA 13.2 and PTX JIT from a newer toolkit fails with CUDA_ERROR_UNSUPPORTED_PTX_VERSION",
+      "verified_on": "vast.ai instance <instance-id>, 2026-10-01: CUDA0: NVIDIA GeForce RTX 3090 (24126 MiB, 16843 MiB free)"
+    },
+    "vllm": {
+      "version": "0.30.0",
+      "latest_on_pypi_at_pin_time": "0.30.0 (uploaded 2026-09-22, requires_python >=3.10,<3.15)",
+      "status": "supported by the harness, NOT verified in this run",
+      "note": "required only for the AWQ/GPTQ 4-bit arms of the candidate list; install into /venv/main on the GPU box with `uv pip install vllm==0.30.0` (or pip) and pass --vllm-python /venv/main/bin/python",
+      "wheel_cuda": "the default index wheels bundle their own CUDA runtime; sm_86 (Ampere) is comfortably covered"
+    }
+  },
+  "host_assumptions": {
+    "vast_image": "vastai/comfy:v0.37.0-cuda-13.2-py312",
+    "os": "Ubuntu 24.04",
+    "nvidia_driver": "595.84",
+    "driver_max_cuda": "13.2",
+    "system_cuda_toolkit": "13.2 (unused by the harness: the llama.cpp CUDA bundle ships its own runtime)",
+    "cpu": "AMD Ryzen Threadripper PRO 3975WX (10.67 effective cores on this instance)",
+    "ram_gb": 253,
+    "disk": "64 GB overlay, ~58 GB free",
+    "python": "3.12.14 (/venv/main)"
+  },
+  "harness_python": {
+    "runtime_requirement": ">=3.11, standard library only",
+    "optional": ["vllm==0.11.2 (only for the vllm backend)"]
+  },
+  "decoding_defaults": {
+    "perf_suite": {"temperature": 0.0, "top_p": 1.0, "seed": 42, "prompt_cache": false},
+    "quality_eval": {"temperature": 0.0, "top_p": 1.0, "seed": 0, "max_tokens": 512, "stop": ["}"]}
+  },
+  "metric_definitions": {
+    "load_time_s": "wall time from runtime process start to the server answering /health with 200",
+    "peak_vram_mb": "max of nvidia-smi memory.used sampled every 100 ms for the whole session (device-wide, so a co-tenant process inflates it; see baseline_vram_mb)",
+    "prefill_tps": "prompt_tokens / ttft_s, computed client-side from the stream",
+    "decode_tps": "(completion_tokens - 1) / (t_last_token - t_first_token), computed client-side from the stream",
+    "ttft_s": "request sent -> first streamed content token",
+    "agg_tps_cN": "total completion tokens over N concurrent requests / wall time of the batch (system throughput)",
+    "per_stream_tps_cN": "mean of the per-request decode_tps values inside the batch"
+  }
+}

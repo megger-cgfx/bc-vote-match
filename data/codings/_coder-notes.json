@@ -1,0 +1,1442 @@
+[
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q01",
+    "code": -2,
+    "confidence": "medium",
+    "rationale": "Finance minister defends removal of the consumer carbon tax on fairness grounds, so the party opposes reinstating or raising it."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q03",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "NDP asks top earners and owners of $3M-plus homes to pay more, a tax-the-wealthy stance though framed as income/property tax not a wealth tax."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q04",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Throne speech rejects leaving people to fend for themselves as leading to deep cuts, so the party opposes balancing the budget through cuts."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q10",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "Government says it removed barriers and invested $400M to add density near transit hubs, matching provincial overrides of local zoning near transit."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q11",
+    "code": 1,
+    "confidence": "low",
+    "rationale": "NDP capped rent increases below inflation, supporting stronger rent controls, but states no commitment to extend controls to more units."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q18",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Throne speech commits to moving people from encampments into more secure housing, supporting expansion of housing for vulnerable residents."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q19",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "NDP release says privatizing healthcare would drain doctors and nurses from the public system, so it opposes expanding for-profit clinics."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q22",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Health minister defends harm reduction including overdose prevention services and prescribed alternatives, aligning with funding these programs."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q26",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched NDP platform, releases, throne speeches and Hansard for nurse-to-patient ratios; no NDP position found, only a BC Green commitment."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q28",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "NDP release states a real commitment to continuing to support LNG expansion with new projects net-zero-ready, matching approval of new LNG."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q29",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "NDP defers harvest of 2.6M hectares of at-risk old growth but does not commit to ending all old-growth logging."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q31",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "NDP campaign pledge delivers an expanded highway alongside rapid transit, so it does not prioritize transit over highway expansion."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q37",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Throne speech commits government to implementing the Declaration on the Rights of Indigenous Peoples Act."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q38",
+    "code": -2,
+    "confidence": "medium",
+    "rationale": "Government stated it would not introduce legislation to suspend or amend DRIPA, opposing the proposed veto-clarifying amendment."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q39",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "An NDP minister confirms the province will enter a new resource-revenue-sharing agreement with K’ómoks, supporting sharing revenue with host First Nations."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q46",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "NDP pledges police powers against public drug use and its government ended the decriminalization pilot as unsuccessful."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q47",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "NDP policy page states it championed and secured stricter federal bail rules targeting repeat offenders."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-a",
+    "question_id": "q48",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "Party platform, quoted in analysis, commits to opening secure facilities for involuntary care under the Mental Health Act."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q01",
+    "code": -2,
+    "confidence": "medium",
+    "rationale": "NDP finance minister states the government removed the consumer carbon tax, indicating the party opposes reinstating or raising it."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q03",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "NDP states it asked the top 2% of earners and owners of $3-million-plus homes to pay more, i.e. higher taxes on high earners to fund services."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q04",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "NDP throne speech rejects pulling back or reducing services in a downturn, i.e. it opposes balancing the budget by cutting spending."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q10",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "NDP reports removing barriers to add about 100,000 homes near transit hubs, showing it overrides local rules to increase density near transit."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q11",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "NDP capped rent increases below inflation and added a renters rebate, supporting stronger rent regulation though not explicitly extending controls to more units."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q18",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "NDP MLA cites building more than 5,000 supportive housing units, indicating support for expanding supportive housing."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q19",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "NDP release says privatizing healthcare would drain the public system and worsen care, showing strong opposition to for-profit clinics."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q22",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "NDP health minister defends prescribed alternatives (safer supply) as saving lives, indicating support for safer-supply programs."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q26",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched corpus and Hansard for 'nurse-to-patient ratio', 'ratios' and safe staffing by the NDP; nurses are said to be calling for ratios but no NDP commitment was found."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q28",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "NDP release celebrates securing final approval for LNG Canada Phase 2, showing strong support for approving new LNG projects."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q29",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "NDP reports deferring harvest of 2.6 million hectares of at-risk old growth, a partial measure rather than a full halt to old-growth logging."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q31",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "NDP pledges both an expanded highway and a rapid-transit project, so it invests in transit but also expands highways, disagreeing with the either/or framing."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q37",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "NDP throne speech states the government remains committed to implementing DRIPA, showing strong support for full implementation."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q38",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "NDP minister defends using DRIPA and consent-based cooperation with nations rather than amendments limiting Indigenous consent; government dropped plans to suspend the act."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q39",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched for 'revenue sharing', 'resource revenue' and 'royalties' with First Nations; only a treaty-specific Hansard exchange appeared, with no NDP position on sharing resource revenue."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q46",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "NDP release says it gives police more power to address public drug use, matching the call to make public drug use illegal."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q47",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "NDP throne speech credits stricter bail rules with keeping repeat offenders off the streets, showing strong support for tougher bail."
+  },
+  {
+    "party_slug": "ndp",
+    "coder": "ndp-coder-b",
+    "question_id": "q48",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "NDP budget speech announces new involuntary treatment beds, showing strong support for expanding involuntary care."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q01",
+    "code": -2,
+    "confidence": "medium",
+    "rationale": "Blanket pledge that his government will never raise taxes rules out reinstating and raising the consumer carbon tax; no carbon-tax-specific statement exists in the sources."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q03",
+    "code": -2,
+    "confidence": "medium",
+    "rationale": "Categorical pledge of no new taxes rules out a wealth tax on high earners; the release also derides the NDP's 'taxing the rich' framing."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q04",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched all trusted sources for a balanced-budget or spending-cut commitment; found only criticism of the $13.8B deficit and NDP spending, no pledge to balance the budget."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q10",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for zoning, density, municipal override or transit-oriented housing policy; nothing stated."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q11",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for rent control or rent regulation statements; the housing release addresses only taxes and red tape, not rent controls."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q18",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for supportive/social housing and neighbourhood siting policy; only a platform heading about ending the housing shortage appears."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q19",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for private or for-profit clinics and wait-time policy; only the 'Putting Patients First' platform heading on wait times appears."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q22",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for supervised consumption, safer supply or decriminalization positions; only a general overdose-crisis platform heading appears."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q26",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for nurse staffing levels or nurse-to-patient ratio commitments in hospitals; nothing stated."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q28",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party statement explicitly welcomes the LNG Canada Phase 2 investment decision and demands many more LNG project approvals to grow the industry."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q29",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for old-growth logging positions; forestry content covers lost jobs and a 'Forestry for the Future' platform heading only."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q31",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for transit, rail or highway expansion positions; only the generic 'Get BC Moving' platform heading appears."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q37",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "The party's stated election plan pledges to repeal DRIPA outright, the opposite of fully implementing it."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q38",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Repealing DRIPA entirely rules out any Indigenous veto over resource projects, going further than amending it, so the party shares the no-veto aim but prefers repeal to amendment."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q39",
+    "code": 1,
+    "confidence": "low",
+    "rationale": "LNG plan commits to First Nations expanded ownership and partnership at the centre of resource development, an indirect endorsement of sharing resource benefits with host First Nations."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q46",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for public drug use, decriminalization or drug policy statements; nothing stated in the supplied sources."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q47",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for bail or sentencing positions on repeat violent offenders; only the 'Safe and Secure' platform heading on public safety appears."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-a",
+    "question_id": "q48",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for involuntary care, treatment mandates or severe addiction/mental illness policy; only a mental-wellness platform heading appears."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q01",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Policy declaration plank 4.06(a) says scrap the carbon tax, the opposite of reinstating and raising it."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q03",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "Leader pledges his government will never raise taxes on British Columbians, ruling out introducing a wealth tax even though none is named."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q04",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "Party commits to long-term balanced budgets but explicitly exempts recessions and emergencies, so it agrees while rejecting balance in uncertain times."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q10",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched zoning, density and transit-oriented-area overrides; the housing article (Bill 47) sits past the corpus truncation and no citable statement was found."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q11",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched rent control, rent caps and tenancy; the party addresses housing taxes and supply only and states no position on strengthening rent controls."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q18",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched supportive and social housing; the party pledges to end tent cities and fund recovery housing but states no position on expanding supportive housing over objections."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q19",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Policy plank 5.04 delivers care through public and non-governmental facilities, agreeing with more private clinics under a public single-payer system."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q22",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform rejects safer-supply handouts and promises treatment instead, the opposite of funding more supervised consumption and safer-supply programs."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q26",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Party health critic names safe nurse-to-patient ratios as what nurses need and says government must address it, implying support for minimum ratios."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q28",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party release commits to doubling LNG production by 2032 and tripling by 2035, strongly agreeing BC should approve new LNG export projects."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q29",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched old growth, old-growth deferrals and logging; the party discusses forestry and harvest generally but states no position on stopping old-growth logging."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q31",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "Party would build new highway bridges and tunnels, so it rejects investing in transit rather than expanding highways, though it also funds transit."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q37",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Party release states the party will repeal DRIPA, directly opposing full implementation of the Declaration on the Rights of Indigenous Peoples Act."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q38",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Party would repeal DRIPA outright rather than amend it, removing any Indigenous veto over resource projects, agreeing but going further than the statement."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q39",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched resource revenue and benefit sharing; the party commits to economic reconciliation and First Nations ownership and partnership but states no revenue-sharing policy."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q46",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "Party platform pledges zero tolerance for drug use on public transit, consistent with making public drug use illegal and rejecting decriminalization."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q47",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform pledges to stop catch-and-release and lock up repeat and violent offenders, strongly agreeing with tougher bail for repeat violent offenders."
+  },
+  {
+    "party_slug": "cpb",
+    "coder": "cpb-coder-b",
+    "question_id": "q48",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform pledges mandatory treatment for people with addictions who are a danger to themselves or the public, strongly supporting expanded involuntary care."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q01",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "2024 platform commits to continuing planned annual carbon-price increases, indicating support for raising carbon pricing; framed with revenue rebated to households."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q03",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party policy pledges a one-time 5% wealth tax on the richest British Columbians to fund public services such as social housing and community health care."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q04",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "Party rejects austerity and spending cuts as a way to balance the budget, proposing tax reform to raise revenue instead."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q10",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Platform backs provincial override of municipal zoning through province-wide upzoning, though stated for non-market housing rather than transit-adjacent density."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q11",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "2026 plan pledges vacancy control, tying rent increases to the unit rather than the tenant, strengthening and extending rent controls."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q18",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "2026 plan commits to building 26,000 permanently affordable non-market homes a year, strongly supporting expansion of social and supportive housing."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q19",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "2026 plan pledges to keep all public health funding in public care, opposing expansion of for-profit private clinics."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q22",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party policy commits to expanding prescribed safer supply and overdose prevention services, supporting supervised consumption and safer-supply programs."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q26",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "2026 plan commits to finishing delivery of safe nurse-to-patient ratios, directly supporting minimum ratios."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q28",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "2026 plan commits to stopping new fossil fuel development, opposing approval of new LNG projects."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q29",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "2026 plan commits to fully funding old-growth deferrals, i.e. halting logging in at-risk old-growth forests."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q31",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "Platform commits to transit, walking and cycling spending at least matching highway spending, prioritizing transit and rail over highway expansion."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q37",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party commit to fully implementing DRIPA through legislation, supporting full implementation of the Act."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q38",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Party insists reconciliation means respecting Indigenous nations' right to say no to projects on their lands, opposing amendments removing that consent."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q39",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "Platform commits to sharing resource revenue with First Nations so benefits are shared equitably, supporting revenue sharing with host nations."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q46",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform works toward decriminalizing substance use, opposing criminalizing public drug use or abandoning the decriminalization approach."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q47",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched bail, repeat violent offenders and public-safety materials; only NDP and Conservative members discussed bail in the caucus and media sources, so no Green position is stated."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-a",
+    "question_id": "q48",
+    "code": -1,
+    "confidence": "low",
+    "rationale": "2026 plan emphasizes harm reduction and voluntary care rather than involuntary treatment, so the party leans against expanding involuntary care."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q01",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "2024 platform commits to continuing and raising the price on emissions with revenue rebated to British Columbians."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q03",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party policy announces an Ultra-Wealthy Fairness Tax: a one-time 5% wealth tax on centimillionaires and billionaires in the province."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q04",
+    "code": -1,
+    "confidence": "high",
+    "rationale": "Lowan rejects austerity/spending cuts and proposes raising revenue instead, a qualified disagreement with cutting spending to balance."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q10",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "Platform commits to province-wide upzoning ending exclusionary zoning, overriding municipal rules, though framed for non-market housing."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q11",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "2026 plan pledges vacancy control so rent increases are tied to the unit, strengthening and extending rent controls."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q18",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform commits $1.5 billion a year for 26,000 new non-market homes, a large expansion of social housing."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q19",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform rejects privatization and commits to not-for-profit public delivery of health care, opposing for-profit clinics."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q22",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party drug policy expands prescribed safer supply and regulated pharmaceutical alternatives, supporting harm-reduction services."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q26",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "2026 plan commits to finishing delivery of safe nurse-to-patient ratios, i.e. minimum ratios in hospitals."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q28",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform policy is to prohibit any new LNG projects, opposing approval of new LNG."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q29",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "2026 plan commits to fully funding old-growth deferrals (protection of at-risk old growth), a qualified stop on old-growth logging."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q31",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform requires transit/walking/cycling spending to match highway spending, prioritizing transit and rail over highways."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q37",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party pledges to implement DRIPA through legislation, i.e. full implementation of the Act."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q38",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Lowan says a government willing to weaken Indigenous rights for political expediency cannot expect Green support, opposing DRIPA amendments limiting consent."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q39",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform commits to sharing more resource revenues with First Nations, municipalities and regional districts."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q46",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Party works towards decriminalization of substance use, opposing criminalizing public drug use and refusing to revive the pilot."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q47",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the corpus and the 2024 platform's Justice and Public Safety policy for 'bail' and 'repeat violent offenders'; only NDP and Conservative MLA statements appeared, with no BC Green position."
+  },
+  {
+    "party_slug": "green",
+    "coder": "green-coder-b",
+    "question_id": "q48",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "2026 plan frames the toxic-drugs response around harm reduction and investment in voluntary care, a qualified disagreement with expanding involuntary care."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q01",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched platform, priorities, constitution and all 12 OK sources for carbon tax / carbon pricing / fuel levy; OneBC states no position on a consumer carbon tax."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q03",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched all OK OneBC sources for wealth tax, high earners, new revenue tools; the party only pledges rate cuts (25% each bracket, 2% PST), never a wealth tax."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q04",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "Party commits to balanced budgets and surpluses, agreeing with the goal but setting a four-year horizon rather than immediate cuts."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q10",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched all OK OneBC sources for zoning, transit-oriented density, municipal override; housing plan covers the Step Code and rent control only, not zoning."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q11",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform pledges to block municipal rent control programs, the opposite of strengthening and extending rent controls."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q18",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched all OK OneBC sources for supportive housing, social housing, neighbourhood opposition; the only housing plank addresses addiction treatment housing."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q19",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "Party backs private healthcare provision, agreeing with expanding private clinics but qualified by keeping public healthcare fully funded."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q22",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform pledges to eliminate safe supply and consumption programs, the direct opposite of funding more supervised consumption and safer supply."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q26",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched all OK OneBC sources for nurse ratios, staffing levels, nurse-to-patient; healthcare plan mentions only shifting administration spending to frontline."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q28",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Party backs approving energy-export infrastructure to overseas markets, which aligns with new export projects, though LNG is not named specifically."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q29",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "Party pledges a higher allowable annual cut for the forest sector, implying it disagrees with halting old-growth logging, though old growth is not named."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q31",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched all OK OneBC sources for transit, rail, highways, infrastructure spending; no plank addresses transit, rail or highway expansion."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q37",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform's first reconciliation plank is to repeal DRIPA and strip UNDRIP of effect, the direct opposite of fully implementing the Act."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q38",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party rejects any Indigenous consent role over resources by seeking full repeal of DRIPA, going beyond and agreeing with the statement's intent."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q39",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform pledges to halt transfers of cash, land and resource control to band governments, directly opposing resource-revenue sharing."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q46",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform pledges to roll back decriminalization and crack down on open drug use, matching the statement that public drug use be illegal."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q47",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Party's justice plank targets repeat and violent offenders, agreeing with the intent though bail is not named as the specific mechanism."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-a",
+    "question_id": "q48",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform explicitly calls for involuntary drug rehab for the severely addicted, strongly agreeing with expanding involuntary care."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q01",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched platform, home, petitions, constitution and media for carbon tax or carbon pricing; OneBC states no position on a consumer carbon tax."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q03",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "Platform pledges 25% cuts to every tax bracket including corporate, a tax-cutting stance opposed to creating a new wealth tax."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q04",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform commits to balanced budgets within four years and to running budget surpluses, squarely agreeing with balancing the budget."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q10",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched platform, home, petitions and media for municipal zoning, density or transit-station rules; no OneBC statement found."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q11",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform pledges to block rent control programs, the opposite of strengthening and extending rent controls."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q18",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched platform, home, petitions and media for supportive or social housing; OneBC only mentions involuntary rehab housing, not social housing expansion."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q19",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "Platform endorses private healthcare alongside fully-funded public healthcare, agreeing with private clinics but qualifying it with a funded public system."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q22",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform pledges to eliminate safe supply and drug consumption programs, directly opposing more supervised consumption sites and safer supply."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q26",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched platform, home, petitions, constitution and media for nurse-to-patient ratios or nurse staffing guarantees; no OneBC statement found."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q28",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Platform commits to approving a pipeline to Kitimat or Prince Rupert to export Canadian energy, implying support for new energy export projects."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q29",
+    "code": -1,
+    "confidence": "medium",
+    "rationale": "Platform pledges to increase the allowable yearly cut so the forest sector can grow, inconsistent with stopping old-growth logging."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q31",
+    "code": null,
+    "confidence": "medium",
+    "rationale": "Searched platform, home, petitions and media for transit, rail or highway-expansion positions; no OneBC statement found."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q37",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform calls to repeal DRIPA and declare UNDRIP of no force and effect, directly rejecting full implementation of DRIPA."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q38",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Platform pledges to halt transfers of control over public resources to band governments, consistent with removing any veto, though it wants full repeal."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q39",
+    "code": -2,
+    "confidence": "high",
+    "rationale": "Platform pledges to halt voluntary transfers of cash, land and control to band governments, opposing resource-revenue sharing."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q46",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform pledges to roll back all decriminalization programs and crack down on open drug use, matching making public drug use illegal."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q47",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Platform pledges to crack down on repeat and violent offenders and weigh past convictions, aligning with tougher bail though bail is not named."
+  },
+  {
+    "party_slug": "onebc",
+    "coder": "onebc-coder-b",
+    "question_id": "q48",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Platform pledges involuntary drug rehab and housing for the severely addicted, directly supporting expanded involuntary care."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q01",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched all trusted CentreBC sources for carbon tax, carbon pricing or emissions pricing; the party mentions climate action and green tech but no consumer carbon tax position."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q03",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for wealth tax, tax on high earners or tax-the-rich proposals; no such statement appears in any CentreBC material."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q04",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Party commits to balancing the budget over the long term, but frames it as smarter investment and spending rather than outright cuts, a qualified agreement."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q10",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for zoning, density, transit-oriented development or municipal override; CentreBC's housing content mentions affordability outcomes only."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q11",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for rent control or rent regulation; the party discusses housing supply and affordability but never rent controls."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q18",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for supportive housing, social housing and neighbourhood siting; only general affordable-housing values statements appear, no policy on siting over objection."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q19",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for private, for-profit clinics or private delivery of health care; CentreBC's health material is about staffing, funding and long-term care, not private clinics."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q22",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for supervised consumption sites, safer supply or decriminalization; the party notes the toxic drug crisis but states no position on these programs."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q26",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for nurse-to-patient ratios or mandated hospital nurse staffing levels; no such commitment appears in CentreBC materials."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q28",
+    "code": 1,
+    "confidence": "low",
+    "rationale": "Party champions energy and resource development and rejects a 'never' stance, implying qualified support for approving LNG-type projects, though it sets conditions and never names LNG."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q29",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for old-growth logging or old-growth protection; forestry material covers mill closures, fibre supply and tenure reform, not old growth."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q31",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for transit, rail or highway expansion priorities; the party promises only generic long-term infrastructure and transportation investments."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q37",
+    "code": -1,
+    "confidence": "high",
+    "rationale": "Party leader states he was the only MLA to vote against DRIPA and calls it largely symbolic, so the party does not support fully implementing the Act as written."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q38",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Party wants DRIPA-era uncertainty resolved with clear decision criteria and certainty for major projects, aligning with clarifying limits rather than vetoes over resource projects."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q39",
+    "code": 2,
+    "confidence": "high",
+    "rationale": "Party explicitly calls for co-developing revenue-sharing agreements with First Nations communities, matching the statement on sharing resource revenue with host nations."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q46",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for public drug use, decriminalization or reviving the pilot; CentreBC mentions the toxic drug crisis only in passing with no position."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q47",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for bail reform or tougher bail for repeat violent offenders; safety material covers extortion, courts and treatment but never bail."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-a",
+    "question_id": "q48",
+    "code": null,
+    "confidence": "low",
+    "rationale": "Searched trusted sources for involuntary care or mandatory treatment for severe addiction and mental illness; no such position is stated in CentreBC materials."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q01",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for carbon tax or carbon pricing; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q03",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for a wealth tax or high-income tax; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q04",
+    "code": 1,
+    "confidence": "high",
+    "rationale": "Platform commits to balancing the budget over the long term through smarter spending, agreeing while qualifying with a long-term framing and protected services."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q10",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for zoning, density and transit-oriented housing; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q11",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for rent control or tenancy rules; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q18",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for supportive or social housing expansion; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q19",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for private or for-profit clinics; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q22",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for supervised consumption and safer supply; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q26",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for nurse-to-patient ratios; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q28",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for LNG; only pipeline-condition statements exist, no stated LNG position."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q29",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for old-growth logging; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q31",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page and news releases for transit, rail and highway spending; no stated position found."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q37",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Bernier opposes repealing DRIPA and commits to meeting constitutional responsibilities, supporting implementation with qualifications about certainty and private property."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q38",
+    "code": 1,
+    "confidence": "low",
+    "rationale": "CentreBC calls for addressing Indigenous title while protecting private land owners and giving certainty to business, aligning with amending DRIPA to remove veto-like uncertainty."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q39",
+    "code": 2,
+    "confidence": "medium",
+    "rationale": "Release calls on government to co-develop land-use plans and revenue-sharing agreements with First Nations partnerships, supporting sharing resource revenue."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q46",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Sturko criticizes the government for continuing decriminalization on a de facto basis, indicating agreement that possession should not be effectively decriminalized."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q47",
+    "code": 1,
+    "confidence": "medium",
+    "rationale": "Sturko says the bail adjustments may not go far enough, indicating support for tougher bail for repeat violent offenders."
+  },
+  {
+    "party_slug": "centrebc",
+    "coder": "centrebc-coder-b",
+    "question_id": "q48",
+    "code": null,
+    "confidence": null,
+    "rationale": "Searched the platform, policy page, releases and the leader's legislature statements for involuntary care; found only scrutiny of forensic beds, no stated position."
+  }
+]

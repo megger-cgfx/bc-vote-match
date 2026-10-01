@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q46",
+    "statement": "Public use of illegal drugs should be banned in BC.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "revised": true,
+    "change_reason": "Split two-idea statement; kept the public-use ban only."
+  },
+  {
+    "id": "q47",
+    "statement": "It should be harder for repeat violent offenders to be released on bail.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "revised": true,
+    "change_reason": "Clarified vague wording 'made tougher'."
+  },
+  {
+    "id": "q48",
+    "statement": "The province should expand involuntary care for people with severe addiction and mental illness.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q49",
+    "statement": "Funding for police should be increased to address street disorder.",
+    "topic": "public-safety",
+    "dimensions": ["economic", "social"],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q50",
+    "statement": "The province should scale back safer-supply programs that give drug users alternatives to street drugs.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "revised": true,
+    "change_reason": "Removed second idea (shift to treatment); defined safer supply for casual readers."
+  },
+  {
+    "id": "q51",
+    "statement": "BC should create many more publicly funded treatment and recovery beds.",
+    "topic": "public-safety",
+    "dimensions": ["economic"],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q52",
+    "statement": "Municipalities should be allowed to ban public drug use in their own bylaws.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q53",
+    "statement": "Courts should be able to order addiction treatment for repeat offenders.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q54",
+    "statement": "BC should spend more on youth programs intended to prevent crime.",
+    "topic": "public-safety",
+    "dimensions": ["social"],
+    "revised": true,
+    "change_reason": "Removed 'and' join of two program ideas; single clearer statement."
+  }
+]

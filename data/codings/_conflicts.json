@@ -1,0 +1,479 @@
+{
+  "version": "v1",
+  "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human",
+  "human_tie_break_rule": "docs/CODEBOOK.md s7.2 - the editor breaks the tie; the decision is final and must adopt a code already read on the row",
+  "human_decisions_source": "data/codings/_human-decisions.json",
+  "generated_by": "scripts/reconcile-codings.py",
+  "counts": {
+    "numeric_conflicts": 7,
+    "tie_broken": 3,
+    "human_tie_broken": 4,
+    "escalated": 0,
+    "awaiting_verification": 0,
+    "code_vs_null": 7
+  },
+  "conflicts": [
+    {
+      "party_slug": "ndp",
+      "question_id": "q01",
+      "kind": "numeric",
+      "coder_a": {
+        "code": -1,
+        "confidence": "low",
+        "quote": "We recognized that the carbon tax did not land evenly on everyone, that some rural communities people were transiting further in their vehicles, so when the carbon tax was removed, so too did we remove that.",
+        "source_id": "ndp-0024"
+      },
+      "coder_b": {
+        "code": -2,
+        "confidence": "low",
+        "quote": "We recognized that the carbon tax did not land evenly on everyone, that some rural communities people were transiting further in their vehicles, so when the carbon tax was removed, so too did we remove that.",
+        "source_id": "ndp-0024"
+      },
+      "spread": 1,
+      "verifier": {
+        "code": -2,
+        "confidence": "low",
+        "quote": "We recognized that the carbon tax did not land evenly on everyone, that some rural communities people were transiting further in their vehicles, so when the carbon tax was removed, so too did we remove that.",
+        "source_id": "ndp-0024",
+        "coder": "ndp-verifier",
+        "rationale": null
+      },
+      "disposition": "human-tie-broken",
+      "published_code": -2,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7.2 - the editor breaks the tie; the decision is final and must adopt a code already read on the row",
+      "verifier_passes": [
+        null,
+        {
+          "coder": "ndp-verifier",
+          "code": -2,
+          "confidence": "low",
+          "quote": "We recognized that the carbon tax did not land evenly on everyone, that some rural communities people were transiting further in their vehicles, so when the carbon tax was removed, so too did we remove that.",
+          "source_id": "ndp-0024"
+        }
+      ],
+      "human_decision": -2,
+      "human_reason": "The party's own government repealed the consumer carbon tax in 2025 and its Finance Minister defended the removal in Hansard (ndp-0024: 'when the carbon tax was removed, so too did we remove that'), giving the fairness ground that the tax 'did not land evenly' - the same cost tradeoff the statement accepts. CODEBOOK s2 counts the party's own record in government and an enacted opposite action as strong disagreement, so the code is -2 rather than the -1 both passages also weighed. Confidence stays low because the only evidence is a retrospective budget explanation, not a pledge about reinstatement (s5 Hansard inference).",
+      "decided_by": "flower (agent, provisional - editor sign-off pending)",
+      "decided_at": "2026-10-01T20:28:15Z",
+      "statement_coded": "The province should reinstate the consumer carbon tax on fuel."
+    },
+    {
+      "party_slug": "ndp",
+      "question_id": "q04",
+      "kind": "numeric",
+      "coder_a": {
+        "code": -1,
+        "confidence": "medium",
+        "quote": "This approach will achieve our goal of reducing the deficit while continuing to support the housing, health care, education and social services British Columbians need.",
+        "source_id": "ndp-0025"
+      },
+      "coder_b": {
+        "code": -2,
+        "confidence": "medium",
+        "quote": "Let me state plainly that this is not an austerity budget.",
+        "source_id": "ndp-0025"
+      },
+      "spread": 1,
+      "verifier": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "This approach will achieve our goal of reducing the deficit while continuing to support the housing, health care, education and social services British Columbians need.",
+        "source_id": "ndp-0025",
+        "coder": "ndp-verifier",
+        "rationale": null
+      },
+      "disposition": "human-tie-broken",
+      "published_code": -1,
+      "matched_coder": "A",
+      "tie_break_rule": "docs/CODEBOOK.md s7.2 - the editor breaks the tie; the decision is final and must adopt a code already read on the row",
+      "verifier_passes": [
+        null,
+        {
+          "coder": "ndp-verifier",
+          "code": 1,
+          "confidence": "medium",
+          "quote": "This approach will achieve our goal of reducing the deficit while continuing to support the housing, health care, education and social services British Columbians need.",
+          "source_id": "ndp-0025"
+        }
+      ],
+      "escalation_reason": "verifier-agrees-with-neither-coder",
+      "human_decision": -1,
+      "human_reason": "Budget 2026 (ndp-0025) shares a partial deficit-reduction goal ('reducing the deficit while continuing to support the housing, health care, education and social services British Columbians need') while explicitly rejecting the statement's instrument ('this is not an austerity budget. This budget does not cut the foundations of our social and economic strength'). CODEBOOK s2's weaker-value rule - the party supports the goal but names the instrument the statement excludes - gives -1, not -2; the blind pass's +1 is a goal-vs-instrument slip and is rejected.",
+      "decided_by": "flower (agent, provisional - editor sign-off pending)",
+      "decided_at": "2026-10-01T20:28:15Z",
+      "statement_coded": "BC should balance the provincial budget by cutting spending."
+    },
+    {
+      "party_slug": "ndp",
+      "question_id": "q38",
+      "kind": "code-vs-null",
+      "coder_a": {
+        "code": null,
+        "confidence": null,
+        "quote": null,
+        "source_id": null
+      },
+      "coder_b": {
+        "code": 1,
+        "confidence": "low",
+        "quote": "The member will know that it was government's intention to introduce legislation that would temporarily suspend key provisions of the Declaration Act.",
+        "source_id": "ndp-0028"
+      },
+      "spread": null,
+      "verifier": null,
+      "disposition": "single-coder-published",
+      "published_code": 1,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human"
+    },
+    {
+      "party_slug": "cpb",
+      "question_id": "q19",
+      "kind": "numeric",
+      "coder_a": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "The Conservative Party of BC will advance Patient-Based Funding (Activity Based Funding) models by expanding publicly funded partnerships with non-governmental clinics for speciﬁc priority procedures and diagnostic services.",
+        "source_id": "cpb-0001"
+      },
+      "coder_b": {
+        "code": 2,
+        "confidence": "medium",
+        "quote": "The Conservative Party of BC will advance Patient-Based Funding (Activity Based Funding) models by expanding publicly funded partnerships with non-governmental clinics for speciﬁc priority procedures and diagnostic services.",
+        "source_id": "cpb-0001"
+      },
+      "spread": 1,
+      "verifier": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "The Conservative Party of BC will advance Patient-Based Funding (Activity Based Funding) models by expanding publicly funded partnerships with non-governmental clinics for speciﬁc priority procedures and diagnostic services.",
+        "source_id": "cpb-0001",
+        "coder": "cpb-verifier",
+        "rationale": null
+      },
+      "disposition": "tie-broken",
+      "published_code": 1,
+      "matched_coder": "A",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human",
+      "verifier_passes": [
+        null,
+        {
+          "coder": "cpb-verifier",
+          "code": 1,
+          "confidence": "medium",
+          "quote": "The Conservative Party of BC will advance Patient-Based Funding (Activity Based Funding) models by expanding publicly funded partnerships with non-governmental clinics for speciﬁc priority procedures and diagnostic services.",
+          "source_id": "cpb-0001"
+        }
+      ]
+    },
+    {
+      "party_slug": "cpb",
+      "question_id": "q31",
+      "kind": "code-vs-null",
+      "coder_a": {
+        "code": null,
+        "confidence": null,
+        "quote": null,
+        "source_id": null
+      },
+      "coder_b": {
+        "code": -1,
+        "confidence": "medium",
+        "quote": "Highway 1 is the most critical transportation link in BC.",
+        "source_id": "cpb-0052"
+      },
+      "spread": null,
+      "verifier": null,
+      "disposition": "single-coder-published",
+      "published_code": -1,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human"
+    },
+    {
+      "party_slug": "cpb",
+      "question_id": "q38",
+      "kind": "numeric",
+      "coder_a": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "A Conservative Government of British Columbia will repeal the Declaration of the Rights of Indigenous Peoples Act (DRIPA), which mandates alignment with the United Nations’ UNDRIP.",
+        "source_id": "cpb-0001"
+      },
+      "coder_b": {
+        "code": 2,
+        "confidence": "high",
+        "quote": "The Conservative Party of BC is united and will run on a clear plan to get the economy working for British Columbians, repeal DRIPA, and end the ideological politics that have divided communities across the province.",
+        "source_id": "cpb-0012"
+      },
+      "spread": 1,
+      "verifier": {
+        "code": 2,
+        "confidence": "medium",
+        "quote": "A Conservative Government of British Columbia will repeal the Declaration of the Rights of Indigenous Peoples Act (DRIPA), which mandates alignment with the United Nations’ UNDRIP.",
+        "source_id": "cpb-0001",
+        "coder": "cpb-verifier",
+        "rationale": null
+      },
+      "disposition": "tie-broken",
+      "published_code": 2,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human",
+      "verifier_passes": [
+        null,
+        {
+          "coder": "cpb-verifier",
+          "code": 2,
+          "confidence": "medium",
+          "quote": "A Conservative Government of British Columbia will repeal the Declaration of the Rights of Indigenous Peoples Act (DRIPA), which mandates alignment with the United Nations’ UNDRIP.",
+          "source_id": "cpb-0001"
+        }
+      ]
+    },
+    {
+      "party_slug": "cpb",
+      "question_id": "q43",
+      "kind": "code-vs-null",
+      "coder_a": {
+        "code": null,
+        "confidence": null,
+        "quote": null,
+        "source_id": null
+      },
+      "coder_b": {
+        "code": 1,
+        "confidence": "low",
+        "quote": "Jon Coleman is a direct result of how exclusionary procurement has left out First Nations on contracts.",
+        "source_id": "cpb-0026"
+      },
+      "spread": null,
+      "verifier": null,
+      "disposition": "single-coder-published",
+      "published_code": 1,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human"
+    },
+    {
+      "party_slug": "green",
+      "question_id": "q11",
+      "kind": "numeric",
+      "coder_a": {
+        "code": 2,
+        "confidence": "medium",
+        "quote": "Pass vacancy control to ensure landlords can’t raise the rent every time a tenant moves out.",
+        "source_id": "green-0009"
+      },
+      "coder_b": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "Pass vacancy control to ensure landlords can't raise the rent every time a tenant moves out.",
+        "source_id": "green-0009"
+      },
+      "spread": 1,
+      "verifier": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "Pass vacancy control to ensure landlords can’t raise the rent every time a tenant moves out.",
+        "source_id": "green-0009",
+        "coder": "green-verifier",
+        "rationale": null
+      },
+      "disposition": "human-tie-broken",
+      "published_code": 1,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7.2 - the editor breaks the tie; the decision is final and must adopt a code already read on the row",
+      "verifier_passes": [
+        null,
+        {
+          "coder": "green-verifier",
+          "code": 1,
+          "confidence": "medium",
+          "quote": "Pass vacancy control to ensure landlords can’t raise the rent every time a tenant moves out.",
+          "source_id": "green-0009"
+        }
+      ],
+      "human_decision": 1,
+      "human_reason": "The Green pledge is vacancy control (green-0009 2026 plan: 'Pass vacancy control to ensure landlords can't raise the rent every time a tenant moves out'; green-0004 explains rent is tied to the unit across tenancies). That re-regulates the vacancy reset on units already under rent control; it does not extend control to additional units, which is the statement's action. Same direction, adjacent instrument, so the weaker value +1 (CODEBOOK s2 weaker-instrument rule). The coded wording dropped the v1 word 'strengthened', which would have made the vacancy-control pledge a closer match - hence the wording flag in the report.",
+      "decided_by": "flower (agent, provisional - editor sign-off pending)",
+      "decided_at": "2026-10-01T20:28:15Z",
+      "statement_coded": "Rent controls should be expanded to cover more rental units."
+    },
+    {
+      "party_slug": "green",
+      "question_id": "q22",
+      "kind": "numeric",
+      "coder_a": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "Immediately enhance accessibility to supervised consumption services and overdose prevention sites to save lives and connect individuals to care and recovery resources.",
+        "source_id": "green-0091"
+      },
+      "coder_b": {
+        "code": 2,
+        "confidence": "medium",
+        "quote": "Immediately enhance accessibility to supervised consumption services and overdose prevention sites to save lives and connect individuals to care and recovery resources.",
+        "source_id": "green-0091"
+      },
+      "spread": 1,
+      "verifier": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "Immediately enhance accessibility to supervised consumption services and overdose prevention sites to save lives and connect individuals to care and recovery resources.",
+        "source_id": "green-0091",
+        "coder": "green-verifier",
+        "rationale": null
+      },
+      "disposition": "human-tie-broken",
+      "published_code": 1,
+      "matched_coder": "A",
+      "tie_break_rule": "docs/CODEBOOK.md s7.2 - the editor breaks the tie; the decision is final and must adopt a code already read on the row",
+      "verifier_passes": [
+        null,
+        {
+          "coder": "green-verifier",
+          "code": 1,
+          "confidence": "medium",
+          "quote": "Immediately enhance accessibility to supervised consumption services and overdose prevention sites to save lives and connect individuals to care and recovery resources.",
+          "source_id": "green-0091"
+        }
+      ],
+      "human_decision": 1,
+      "human_reason": "The plank (green-0091, the 2024 platform) says 'Immediately enhance accessibility to supervised consumption services and overdose prevention sites' and 'Continue the expansion of supervised consumption services'. The direction matches, but the named actions are enhancing accessibility and continuing an expansion, not funding more sites, and no 2026 source carries the plank forward. Weaker value +1 at medium confidence; the superseded 2024 platform caps confidence at medium (CODEBOOK s4). Resolved under the coded v2 wording; the same code holds under the v1 wording that also named safer-supply programs, so the wording fault does not change this row.",
+      "decided_by": "flower (agent, provisional - editor sign-off pending)",
+      "decided_at": "2026-10-01T20:28:15Z",
+      "statement_coded": "The province should fund more supervised consumption sites."
+    },
+    {
+      "party_slug": "green",
+      "question_id": "q48",
+      "kind": "code-vs-null",
+      "coder_a": {
+        "code": null,
+        "confidence": null,
+        "quote": null,
+        "source_id": null
+      },
+      "coder_b": {
+        "code": -1,
+        "confidence": "low",
+        "quote": "Fight the toxic drugs crisis with effective harm reduction and real investment in voluntary care.",
+        "source_id": "green-0009"
+      },
+      "spread": null,
+      "verifier": null,
+      "disposition": "single-coder-published",
+      "published_code": -1,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human"
+    },
+    {
+      "party_slug": "onebc",
+      "question_id": "q04",
+      "kind": "code-vs-null",
+      "coder_a": {
+        "code": null,
+        "confidence": null,
+        "quote": null,
+        "source_id": null
+      },
+      "coder_b": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "Balanced budgets within 4 years, with an aim towards running surplus budgets",
+        "source_id": "onebc-0001"
+      },
+      "spread": null,
+      "verifier": null,
+      "disposition": "single-coder-published",
+      "published_code": 1,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human"
+    },
+    {
+      "party_slug": "onebc",
+      "question_id": "q38",
+      "kind": "numeric",
+      "coder_a": {
+        "code": 2,
+        "confidence": "medium",
+        "quote": "Repeal DRIPA and declare UNDRIP to have no force and effect in BC",
+        "source_id": "onebc-0001"
+      },
+      "coder_b": {
+        "code": 1,
+        "confidence": "medium",
+        "quote": "Repeal DRIPA and declare UNDRIP to have no force and effect in BC",
+        "source_id": "onebc-0001"
+      },
+      "spread": 1,
+      "verifier": {
+        "code": 2,
+        "confidence": "high",
+        "quote": "Repeal DRIPA and declare UNDRIP to have no force and effect in BC",
+        "source_id": "onebc-0001",
+        "coder": "onebc-verifier",
+        "rationale": null
+      },
+      "disposition": "tie-broken",
+      "published_code": 2,
+      "matched_coder": "A",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human",
+      "verifier_passes": [
+        null,
+        {
+          "coder": "onebc-verifier",
+          "code": 2,
+          "confidence": "high",
+          "quote": "Repeal DRIPA and declare UNDRIP to have no force and effect in BC",
+          "source_id": "onebc-0001"
+        }
+      ]
+    },
+    {
+      "party_slug": "centrebc",
+      "question_id": "q39",
+      "kind": "code-vs-null",
+      "coder_a": {
+        "code": null,
+        "confidence": null,
+        "quote": null,
+        "source_id": null
+      },
+      "coder_b": {
+        "code": 1,
+        "confidence": "low",
+        "quote": "Our five conditions make that real; with Indigenous co-ownership, world-class safeguards and a sovereign fund that accelerates Canada’s clean-energy future without leaving our kids in debt.",
+        "source_id": "centrebc-0038"
+      },
+      "spread": null,
+      "verifier": null,
+      "disposition": "single-coder-published",
+      "published_code": 1,
+      "matched_coder": "B",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human"
+    },
+    {
+      "party_slug": "centrebc",
+      "question_id": "q46",
+      "kind": "code-vs-null",
+      "coder_a": {
+        "code": 1,
+        "confidence": "low",
+        "quote": "In my opinion, this essentially continues decriminalization on a de facto basis.",
+        "source_id": "centrebc-0056"
+      },
+      "coder_b": {
+        "code": null,
+        "confidence": null,
+        "quote": null,
+        "source_id": null
+      },
+      "spread": null,
+      "verifier": null,
+      "disposition": "single-coder-published",
+      "published_code": 1,
+      "matched_coder": "A",
+      "tie_break_rule": "docs/CODEBOOK.md s7 - blind third pass decides; a second pass that disagrees, or a pass that matches neither coder, escalates to a human"
+    }
+  ]
+}

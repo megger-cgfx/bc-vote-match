@@ -1,0 +1,153 @@
+{
+  "question_id": "q24",
+  "statement": "Dental care should be added to the public health system and paid for by the province.",
+  "topic": "health",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:21Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "dental",
+    "care",
+    "added",
+    "public",
+    "health",
+    "system",
+    "paid"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 12.0389,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Josie Osborne : It’s why we’ve added 128 new medical seats at UBC. It’s why we went out with a recruitment campaign to the U.S. to ask people to come to British Columbia and be part of our public health care system here, with 581 job offers accepted already. This is the work that needs to be done to build the health care system, to strengthen the health care system, to ensure that it is there for people."
+    },
+    {
+      "rank": 2,
+      "score": 6.2746,
+      "source_id": "green-0024",
+      "source_type": "media",
+      "title": "BC Greens Plan Free Childcare Expansion and Name Greater Victoria Candidate (West Coast Current)",
+      "url": "https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+      "archive_url": "https://web.archive.org/web/20261001084218/https://westcoastcurrent.ca/bc-greens-plan-free-childcare-expansion-and-name-greater-victoria-candidate/",
+      "published": "2026-09-28",
+      "quote": "Lowan noted that the strategy includes establishing a centralized registration system to eliminate individual waiting lists, reducing administrative hurdles for operators, and building long-lasting facilities. To support the childcare workforce, the party proposes introducing paid practicums alongside a dedicated wage grid. Under the plan, early childhood educator wages would reach $35 to $45 per hour by 2028, backed by access to extended health benefits and pension plans. Lowan emphasized that public investments in early childhood care generate economic returns by enabling parents to rejoin the workforce."
+    },
+    {
+      "rank": 3,
+      "score": 6.0787,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "We’ve heard it from members on the opposite side of the bench before. We know that this government believes in investing in the public health care system of British Columbians so that they have access, reliably and predictably, to the care that they need. The Speaker : The member has a second supplemental. Anna Kindy : How many ob-gyn oncologists are there in Fraser Health?"
+    },
+    {
+      "rank": 4,
+      "score": 5.9377,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "NDP government that understands, believes in investment in health care and will continue to deliver this public health care system for British Columbians. The Speaker : Member, supplemental. Budget Priorities and Government Financial Management Peter Milobar : Well, this is what five credit downgrades in a row get you from a government that doesn’t know how to manage their budget. You get punitive tax measures for seniors in a budget."
+    },
+    {
+      "rank": 5,
+      "score": 4.5554,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "We will ensure that the care you, or your loved ones, need will be there when they need it. The BC Greens will: Build Community Health Centres in every region, with team-based care and long-term support. Finish delivering safe nurse-to-patient ratios. Keep every public health dollar in public care."
+    },
+    {
+      "rank": 6,
+      "score": 4.3211,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "staffing conditions, facing forced overtime and\nmoral distress, with many leaving the public system\naltogether. Health workers across the system are\ngrappling with the emotional toll of being unable to\nprovide the level of care their patients deserve."
+    },
+    {
+      "rank": 7,
+      "score": 4.273,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Improve the continuity of care in the mental health\nsystem and provide comprehensive support for\nindividuals with concurrent conditions."
+    },
+    {
+      "rank": 8,
+      "score": 3.8527,
+      "source_id": "green-0015",
+      "source_type": "policy",
+      "title": "BC Greens propose comprehensive policies to address BC's drug poisoning crisis",
+      "url": "https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+      "archive_url": "http://web.archive.org/web/20260609052817/https://bcgreens.ca/bc-greens-propose-comprehensive-policies-to-address-bcs-drug-poisoning-crisis/",
+      "published": "",
+      "quote": "All of these people are at risk of imminent harm. Given the magnitude of this public health emergency, evidence-based treatment is essential, along with a range of evidence-grounded, health-focused responses. The BC Green Party’s health-focused drug policy, with its emphasis on evidence, evaluation and collaboration, is a plan that will finally approach this public health emergency with the care and attention it demands.” Quick facts: More than 15,000 British Columbians have died since April 2016 – when the toxic drug crisis was declared a public health emergency."
+    },
+    {
+      "rank": 9,
+      "score": 3.8088,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "Cover mental health care through the public system. Fight the toxic drugs crisis with effective harm reduction and real investment in voluntary care. 03 Economic Fairness for All Those who are profiting most from British Columbia should pay their fair share just like everyone else. The teacher, the trades worker, and the small business all pay their share."
+    },
+    {
+      "rank": 10,
+      "score": 3.6099,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "We’ve increased the amount of funding to our third-party partners, who are so integral to delivering these services to people. The member knows that our budget has been raised for health care across British Columbia because we know that is one of the most important things that British Columbians depend on — that public, universal access to our health care system. The member knows that we are hiring doctors and nurses at record rates, streamlining the credentialing for physicians and nurses to come to this country, building a new medical school, expanding the seats at UBC, adding nursing seats, adding physiotherapy seats."
+    },
+    {
+      "rank": 11,
+      "score": 3.4957,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "role. In Canada, it is linked to thousands of premature\ndeaths each year, and in BC air pollution costs the\nhealthcare system at least $14 billion annually.\nThere is no safe level of exposure to wildfire smoke.\nEven at low concentrations, it poses serious health\nrisks. As climate change continues to accelerate, our\nexposure to this harmful pollution will only intensify,\nmaking it clear that urgent action is needed to protect\npublic health."
+    },
+    {
+      "rank": 12,
+      "score": 2.8387,
+      "source_id": "green-0012",
+      "source_type": "release",
+      "title": "Leader's Statement: BC Greens Will Not Renew CARGA",
+      "url": "https://bcgreens.ca/leaders-statement-will-not-renew-carga/",
+      "archive_url": "http://web.archive.org/web/20260609060334/https://bcgreens.ca/leaders-statement-will-not-renew-carga/",
+      "published": "2026-02-09",
+      "quote": "While important health system reviews and data collection initiated under the agreement have filled long-standing gaps and been widely welcomed by healthcare workers, the BC NDP has failed to act on their own findings."
+    }
+  ]
+}

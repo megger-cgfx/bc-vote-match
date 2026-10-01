@@ -1,0 +1,152 @@
+{
+  "question_id": "q11",
+  "statement": "Rent controls should be expanded to cover more rental units.",
+  "topic": "housing",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:26:57Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "rent",
+    "controls",
+    "expanded",
+    "cover",
+    "rental",
+    "units"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.4225,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "We wouldn’t tolerate it. Are we considering people that are living in rental units, supportive housing, as second-class citizens? We have to remember, too, that in those units, there are a lot of people in recovery that are trying their best to get better, and it’s a huge trigger to be exposed to people doing drugs. We know that doing drugs also harms you and risks of overdose."
+    },
+    {
+      "rank": 2,
+      "score": 4.6774,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "Bill 2 maintains momentum on the construction of housing by amending the Property Transfer Tax Act to extend purpose-built rental exemptions to situations in which the developer has leased the housing units to tenants prior to the sale of the newly constructed purpose-built rental building. This practice is common among developers, and the change being implemented is after consultations with industry. In order for the sale to be eligible for these exemptions, the sale must occur within 24 months of the commencement date of the first lease and meet all the existing eligible requirements of the purpose-built rental exemptions."
+    },
+    {
+      "rank": 3,
+      "score": 4.4946,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "I think it’s a minor adjustment to do when you think of the safety factors. I would consider that people living in those supportive rental units are not second-class citizens. Claire Rattée : I just want to summarize a couple of things about this amendment. I understand that the minister has already said that she won’t be supporting it, but I think it’s really important to recognize that I’ve just had three of my colleagues speaking in favour of this amendment."
+    },
+    {
+      "rank": 4,
+      "score": 4.341,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Claire Rattée : I’ll just speak to the amendment here. The reason that I’m bringing forward this amendment is because I believe that it actually addresses one of the biggest concerns that I’ve heard when it comes to supportive housing from workers, tenants and others. That is that people’s peaceful enjoyment of their home is being interrupted by the decision of some to smoke drugs within their rental units and sometimes within common areas. I think that this is a pretty simple amendment that would actually prevent that from continuing."
+    },
+    {
+      "rank": 5,
+      "score": 1.8422,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "Every seat in a trade program is a concrete response to labour shortages that are holding back housing construction, infrastructure projects and business expansion. It is a plan to secure good-paying jobs and economic prosperity for people and families. If we want to talk honestly about affordability, we also need to talk honestly about student housing. British Columbian families know how tight the rental market has been for years — low vacancy rates, rising rent and a high demand in rental housing."
+    },
+    {
+      "rank": 6,
+      "score": 1.7835,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "Of course there’s more to do. But I will tell you, as well, in a city that has a higher-than-average percent of renters than in Metro Vancouver, 45.3 in New West compared to 37.8 in Metro Van, it matters. It matters a lot to everyday people that our government’s renters tax credit is estimated to return $232 million to renters in B.C. in ’26-27, and it matters that our work on housing is helping to bend the curve on rental costs and that in 2025, rent declined by over 16 percent in my community."
+    },
+    {
+      "rank": 7,
+      "score": 1.6276,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "The Rent Bank is still available to SDPR clients, and I’ll leave the conversation on that to the Housing Minister. SDPR income assistance clients are eligible to apply to the Rent Bank. But I would say our more common experience is that SDPR clients, income assistance clients, would come to us and ask for a crisis grant for shelter, or any of the other crisis supplements that we have available. Rent Bank, I think, is taken up in particular by people who are not SDPR clients because SDPR clients have other tools in-house when they get into an emergency situation in relation to income supports or an unexpected cost, and that can include shelter."
+    },
+    {
+      "rank": 8,
+      "score": 1.5312,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "[4:10 p.m.] We aren’t just building classrooms; we are building homes for students. We know that the rental market in Burnaby is tight. That is why we completed the Tall Timber Student Housing project at BCIT, providing 470 new, affordable spaces. By moving students into dedicated housing, we are taking the pressure off the local private rental market, making it easier for everyone in Burnaby to find a place to live."
+    },
+    {
+      "rank": 9,
+      "score": 0.9855,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "As the member knows, income assistance levels, including the shelter rate, are the same across the entire province, wherever you live. That’s the same as every province and territory. There is a single shelter rate. It’s not tiered to different cities and what their average rental cost is or their vacancy rate or anything."
+    },
+    {
+      "rank": 10,
+      "score": 0.9207,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "The bill also modernizes the Provincial Sales Tax Act by extending its application to professional services, notably accounting and bookkeeping services, architectural services, engineering and geoscience services, non-residential rental property and non-residential strata management services, commissions related to buying and selling non-residential real estate, and security and private investigation services. Expanding the PST to these services is generally consistent with how the tax applies to these services in most provinces."
+    },
+    {
+      "rank": 11,
+      "score": 0.8927,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "Kristina Loewen : Yesterday we were talking about income assistance, temporary income assistance. We established that there were 73,939 cases, that the caseload is expected to increase — I got those figures — and then that 97 percent of the budget goes towards the clients, not admin. Moving on. How does the current monthly assistance rate compare with the average rental cost in major cities and the market basket measure in those cities — such as Kelowna, Victoria and Vancouver?"
+    },
+    {
+      "rank": 12,
+      "score": 0.7665,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "MAiD was introduced in 2016 and expanded in 2021. It operates under two legal pathways: track 1, where you have a terminal illness and natural death is reasonably foreseeable; and track 2 for persons with chronic disabilities or illnesses whose deaths are not reasonably foreseeable. A government document obtained through FOI entitled “MAiD oversight unit 2023 MAiD reporting issues and completion errors detailed report” details infractions by medical practitioners or pharmacists that required follow-up. There was a staggering 2,833 in a year where there were 2,767 deaths."
+    }
+  ]
+}

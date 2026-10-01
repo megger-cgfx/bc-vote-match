@@ -1,0 +1,182 @@
+[
+  {
+    "party_slug": "cpb",
+    "question_id": "q01",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": -2,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025 AGM; sources.json published 2025-07-01), Art. 4.06(a): the party commits to scrapping the carbon tax — the opposite of reinstating it. No 2026-era source states a carbon-tax position, so confidence is capped at medium per CODEBOOK §4; the position is not presented as current."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q03",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": -2,
+    "confidence": "high",
+    "source_id": "cpb-0017",
+    "rationale": "2026-09-27 release quotes leader Doerkson pledging no new taxes; a blanket ban on new taxes excludes a wealth tax (CODEBOOK worked example maps this pledge type to -2). 2026-era release states the action itself."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q04",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 1,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 4.02 commits to spending restraint via cost savings and 4.03 to balanced budgets, but the party never commits to balancing the budget specifically by cutting spending (2026-09-28 Global News, cpb-0041: Doerkson gave no balancing details, pointing to growth) — agree via the related instrument, capped at medium (doc predates 2026 campaign)."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q10",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 1,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 19.07: party keeps the provincial Bill 47 transit-oriented density regime (the override of municipal zoning) while amending it for amenities, and 19.02 has the province issue permits over city inaction — agree, hedged. Document dated March 2025; 2024 platform (cpb-0052) corroborates; no 2026 source speaks to Bill 47."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q11",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": null,
+    "confidence": null,
+    "source_id": null,
+    "rationale": "Null: no fetched source states a position on rent control or its expansion (no hits for rent control/rent stabilization/vacancy control across the corpus; SAFER and rent-rebate planks are rental subsidies, not rent controls)."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q18",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 1,
+    "confidence": "low",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 9.16 contemplates current and future supportive housing (expansion) but conditions it on treatment integration, and 9.04 makes facilities accountable to neighbours; no source addresses the 'even where local residents object' clause, so agreement is weakened and confidence kept low. Document dated March 2025."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q19",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 1,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 5.12 (and 5.04/5.11): expands partnerships with non-governmental clinics — a related instrument with the right direction for 'allow more private, for-profit clinics'; non-governmental is not specified as for-profit, so agree (not strongly agree), medium. Quote retains the PDF's 'ﬁ' ligature exactly as extracted."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q22",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": -1,
+    "confidence": "low",
+    "source_id": "cpb-0052",
+    "rationale": "2024 Policy Platform 'Common Sense Change for BC' (prior election platform; no published date in sources.json — section states Conservative Party of British Columbia 2024): only some EXISTING overdose prevention sites may be required temporarily, others to be shut down — disagrees with funding MORE sites, but stops short of abolishing all, so -1; older document, no 2026 corroboration, low confidence."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q24",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": null,
+    "confidence": null,
+    "source_id": null,
+    "rationale": "Null: dental care is named only as an affordability problem for low-income seniors (cpb-0052); no fetched source commits to covering dental care under the public health plan (cpb-0001 seniors planks cover eyeglasses, hearing aids, vaccines — not dental)."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q28",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 2,
+    "confidence": "high",
+    "source_id": "cpb-0020",
+    "rationale": "2026-09-29 release (with cpb-0018 'BC Energy Superpower Plan' 2026-09-28 promising to double LNG production by 2032): commits with emphasis to more LNG export project approvals. 2026-era release states the action itself."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q29",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": null,
+    "confidence": null,
+    "source_id": null,
+    "rationale": "Null: no fetched source states a Conservative position on old-growth logging; all corpus mentions of old-growth are by a Green MLA in Hansard (cpb-0024/25/27), and the party's forestry planks speak only to harvest-vs-biodiversity zoning, not to stopping old-growth logging."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q31",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": null,
+    "confidence": null,
+    "source_id": null,
+    "rationale": "Null: the party funds both transit (cpb-0001 13.05-13.07, cpb-0052 transit chapter) and highway expansion (13.01 'Expand Highway 1 to six lanes'), but no source states a priority ranking of transit over highway expansion; coding the ranking would be inference."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q38",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 1,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 16.02 commits to repealing DRIPA entirely; corroborated 2026-04-13 Hansard (cpb-0026, Conservative MLA Scott McInnis): 'repeal the Declaration Act once and for all'. Repeal removes any consent requirement but is a different instrument from the statement's amendment (CODEBOOK tie-breaker caps at +1). Document dated March 2025; 2026 corroboration of the repeal position exists."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q39",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": null,
+    "confidence": null,
+    "source_id": null,
+    "rationale": "Null: no source commits to sharing resource revenue with First Nations; 16.01 is a belief statement on economic reconciliation and cpb-0018 promises 'expanded ownership and true partnership' — neither names revenue sharing."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q43",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": null,
+    "confidence": null,
+    "source_id": null,
+    "rationale": "Null: no source states a position on prioritising Indigenous-owned businesses in public procurement; the party's procurement planks push open tendering for all qualified contractors (cpb-0052) — about union preference lists, not Indigenous procurement priority; one Hansard complaint (cpb-0026, Van Popta) that procurement 'has left out First Nations on contracts' addresses exclusion, not prioritisation."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q46",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 2,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 9.01 (headline commitment, with 9.06) commits to ending decriminalization, which makes drug use — including public use — illegal again; 2024 platform (cpb-0052) states 'No more free-for-all drug use near schools and playgrounds, no more spilling-out onto residential streets' and cpb-0025 Hansard (2026-04-02, Conservative MLA Claire Rattée) criticises the 'decriminalization experiment'. Strong agreement; medium because the statement's public-use scope is narrower than the party's instrument."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q47",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 2,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 8.02(e) 'End Catch-and-Release' commits to cracking down on bail offenders — covers and exceeds the statement's subset of repeat violent offenders; 2024 platform (cpb-0052) states 'Lock-up the repeat and violent offenders who make communities unsafe'. Strong agree; medium (document dated March 2025, no 2026 source names bail)."
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q48",
+    "coder": "cpb-coderA",
+    "version": "v1",
+    "code": 2,
+    "confidence": "medium",
+    "source_id": "cpb-0001",
+    "rationale": "Policy Declaration (March 2025), Art. 9.19 ('Christian's Law' involuntary treatment legislation) plus 9.02 mandatory mental health treatment; corroborated 2026-02-18 Hansard (cpb-0024, Conservative MLA Kiel Giddens) advocating 'involuntary treatment' expansion. Strong agree; medium because the party's addiction clause covers those 'unable to make life-saving decisions' rather than the statement's full 'severe addiction and mental illness' scope."
+  }
+]

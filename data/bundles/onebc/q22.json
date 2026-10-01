@@ -1,0 +1,40 @@
+{
+  "question_id": "q22",
+  "statement": "The province should fund more supervised consumption sites.",
+  "topic": "health",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:41Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "fund",
+    "supervised",
+    "consumption",
+    "sites"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.2846,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "consent and classroom transparency for parents of minor-age students Housing 1 Eliminate the Step Code that is raising housing costs with unnecessary green building requirements 2 Block municipal rent control programs that disincentivize development and new units being put up for rent Drugs & Addiction 1 Eliminate safe supply and drug consumption programs 2 Cancel all new drug consumption sites and turn current consumption sites into drug recovery centres 3 Involuntary drug rehab and housing for the severely addicted 4 Rollback all decriminalization programs and crack down on open drug use Firearms Owners 1 No provincial government participation in any federal firearms buy-back or"
+    },
+    {
+      "rank": 2,
+      "score": 2.9844,
+      "source_id": "onebc-0019",
+      "source_type": "other",
+      "title": "iVoteOneBC.ca — OneBC Priorities (independent supporter summary of official 53 planks)",
+      "url": "https://ivoteonebc.ca/policies",
+      "archive_url": "http://web.archive.org/web/20261001080306/https://ivoteonebc.ca/policies",
+      "published": "2026-06-17",
+      "quote": "Policies — OneBC Priorities | iVoteOneBC.ca Independent supporter site · Not authorized by, affiliated with, or funded by OneBC or Dallas Brodie iVote OneBC.ca Home Movement Dallas Brodie Timeline Growth Monitor Issues Policies Taxes & Prosperity Property Rights / DRIPA Housing Education Healthcare Family Law & Order Media Blog Videos Town Halls Alliance Tracker 🇨🇦 English 🇨🇦 English 🇫🇷 Français ਪੰਜਾਬੀ 🇪🇸 Español 简体中文 繁體中文 🇵🇭 Filipino 🇮🇳 हिन्दी Language framework is active; major site labels translate now and new sections can be added to the dictionary as the site grows."
+    }
+  ]
+}

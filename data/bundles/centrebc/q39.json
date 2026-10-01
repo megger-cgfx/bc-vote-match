@@ -1,0 +1,155 @@
+{
+  "question_id": "q39",
+  "statement": "The province should share resource revenue with First Nations whose territories host resource projects.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:27:02Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "share",
+    "resource",
+    "revenue",
+    "first",
+    "nations",
+    "whose",
+    "territories",
+    "host",
+    "projects"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.0165,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "Thank you, Chair. Good afternoon, everyone. I’d like to start by acknowledging that this afternoon we’re gathered on the traditional territories of the lək̓ʷəŋən-speaking Peoples, the Songhees and Esquimalt First Nations, whose lands I’m grateful that we’re able to live, work and play on. I’d also like to recognize my ministry staff who are present with me today and will be supporting me through the estimates proceedings."
+    },
+    {
+      "rank": 2,
+      "score": 3.6602,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "I don’t think it stops the project or it should lead to stopping all agreements and arrangements with First Nations people, as I know some people have argued. I think, in fact, it means that we need to lean into it and do better to understand each other, do better to work together and give each other the grace and the space and not go to — as I know some members of this House have shared recently — the “First Nations are coming for your home.” Well, they’re not, and I want that to stop. It doesn’t lead to reconciliation if we have elected leaders making allegations which are not based in any fact and leading to unfortunate circumstances."
+    },
+    {
+      "rank": 3,
+      "score": 3.56,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "Of those ten energy projects I talked about, all of them together are majority First Nations–owned. That’s good news for B.C. [10:40 a.m.] The Ksi Lisims project is led by the Nisga’a First Nation. That’s good for B.C."
+    },
+    {
+      "rank": 4,
+      "score": 3.5281,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "Over the past six months, we have done extensive consultation and cooperation with 46 First Nations and engaged with First Nations organizations, industry representatives and project proponents. We have listened. We have learned. And we have reflected."
+    },
+    {
+      "rank": 5,
+      "score": 3.4931,
+      "source_id": "centrebc-0056",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "archive_url": "https://web.archive.org/web/20261001085756/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "published": "2026-03-03",
+      "quote": "These are not hypothetical resource projects. These are happening in the here and the now, so I’m just trying to clarify with the minister. Lookit, I’m not here to try and cast a negative light in any way, shape or form on the Tāłtān People. I’m trying to understand the thinking behind the government here as far as setting up an agreement with a First Nation that — it’s plain as day here — has the ability to say: “No, this doesn’t move ahead.” When we’re in a time here where…."
+    },
+    {
+      "rank": 6,
+      "score": 3.4842,
+      "source_id": "centrebc-0052",
+      "source_type": "release",
+      "title": "Statement: Reconciliation, Certainty, and Prosperity",
+      "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+      "archive_url": "http://web.archive.org/web/20260930145033/https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+      "published": "2026-08-13",
+      "quote": "What would CentreBC do differently? We would: Create a single provincial framework for treaties and reconciliation agreements which would coordinate negotiating mandates, funding approvals, implementation standards, and timelines across ministries and Crown agencies. Bring affected parties together earlier in the process so First Nations, local governments, communities, workers, businesses, and environmental experts can identify shared interests before positions become entrenched, and so the government can be held to public accountability in an open manner. Create greater certainty for major projects through transparent timelines, clear decision criteria, and accountability for all parties."
+    },
+    {
+      "rank": 7,
+      "score": 3.2448,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "First Nations have with the province, while upholding our consultation obligations to U.S. tribes. These amendments reflect consultation and cooperation with First Nations, engagements with other parties that participate in environmental assessments and collaboration on the path forward. This shared commitment to improving environmental assessments in British Columbia was clear throughout our discussions."
+    },
+    {
+      "rank": 8,
+      "score": 3.1763,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "The Cedar LNG project is led by First Nations, the Haisla people. That’s good for B.C. Woodfibre LNG, an agreement with the Sḵwx̱wú7mesh First Nation — that’s good for B.C. Fortis and their work on Tilbury with the xʷməθkʷəy̓əm — that’s good for B.C."
+    },
+    {
+      "rank": 9,
+      "score": 3.0299,
+      "source_id": "centrebc-0055",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-30 am: Sturko on violent crime, mental illness, community safety",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+      "archive_url": "https://web.archive.org/web/20261001085726/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+      "published": "2026-04-30",
+      "quote": "We have the lowest-emission LNG in the world, and it’s succeeding for British Columbians, as in the Ksi Lisims contract, in cooperation with First Nations — like, in this case, the Nisg̱a’a First Nation. Home Care Services for Seniors Donegal Wilson : My office is working with a family whose mother recently broke her femur. This is her third fall and fourth hospitalization in a single year. She cannot stand without a walker."
+    },
+    {
+      "rank": 10,
+      "score": 3.0262,
+      "source_id": "centrebc-0067",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-13 pm: Sturko introduces Bill M241 Interpretation Amendment Act (DRIPA interpretation clause)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "These amendments respond directly to what we’ve heard from First Nations, industry and participants across the province. For First Nations, they offer a process that respects governance and treaty rights through early consensus-seeking and issues resolution. For industry, they provide increased transparency, predictability and the certainty needed to invest in British Columbia. For the public, they give assurance that our natural resources are managed through a fair, rigorous and predictable system."
+    },
+    {
+      "rank": 11,
+      "score": 2.9842,
+      "source_id": "centrebc-0061",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "archive_url": "https://web.archive.org/web/20261001090038/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "published": "2026-03-31",
+      "quote": "First Nations have with the province while continuing to meet our consultation obligations to U.S. tribes. By refining these elements, we can ensure that critical reviews of proposed major projects remain a bridge to sustainable growth in a timely, predictable process. The Speaker : Members, the question is the first reading of the bill."
+    },
+    {
+      "rank": 12,
+      "score": 2.9702,
+      "source_id": "centrebc-0059",
+      "source_type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "archive_url": "https://web.archive.org/web/20261001080910/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "published": "2026-04-02",
+      "quote": "So let me take a different approach. Let’s try the Minister of Water, Land and Resource Stewardship instead. We know that the solution to protecting old growth and respecting the sovereignty of First Nations is conservation financing. This government, alongside the feds, committed $1 billion to the cause in 2023."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "bc-vote-match",
+  "version": "0.1.0",
+  "private": true,
+  "description": "BC Vote Match — a neutral, sourced, party-level voter alignment tool for the BC 2026 provincial election.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "launch": "bash scripts/launch.sh",
+    "launch:test": "python3 scripts/test-launch.py",
+    "og": "python3 scripts/make-og.py",
+    "serve:out": "npx --yes serve out",
+    "ridings:build": "python3 scripts/build-ridings.py all",
+    "ridings:validate": "python3 scripts/validate-ridings.py",
+    "ridings:check": "node scripts/check-riding-export.mjs"
+  },
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.8.3"
+  }
+}

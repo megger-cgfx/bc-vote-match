@@ -1,0 +1,560 @@
+[
+  {
+    "slug": "abbotsford-south",
+    "name": "Abbotsford South",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "abbotsford-west",
+    "name": "Abbotsford West",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "abbotsford-mission",
+    "name": "Abbotsford-Mission",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "boundary-similkameen",
+    "name": "Boundary-Similkameen",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "bulkley-valley-stikine",
+    "name": "Bulkley Valley-Stikine",
+    "region": "Northern British Columbia",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "burnaby-centre",
+    "name": "Burnaby Centre",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "burnaby-east",
+    "name": "Burnaby East",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "burnaby-north",
+    "name": "Burnaby North",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "burnaby-south-metrotown",
+    "name": "Burnaby South-Metrotown",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "burnaby-new-westminster",
+    "name": "Burnaby-New Westminster",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "cariboo-chilcotin",
+    "name": "Cariboo-Chilcotin",
+    "region": "Prince George and the Cariboo",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "chilliwack-north",
+    "name": "Chilliwack North",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "chilliwack-cultus-lake",
+    "name": "Chilliwack-Cultus Lake",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "columbia-river-revelstoke",
+    "name": "Columbia River-Revelstoke",
+    "region": "The Kootenays",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "coquitlam-burke-mountain",
+    "name": "Coquitlam-Burke Mountain",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "coquitlam-maillardville",
+    "name": "Coquitlam-Maillardville",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "courtenay-comox",
+    "name": "Courtenay-Comox",
+    "region": "Vancouver Island",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "cowichan-valley",
+    "name": "Cowichan Valley",
+    "region": "Vancouver Island",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "delta-north",
+    "name": "Delta North",
+    "region": "Richmond and Delta",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "delta-south",
+    "name": "Delta South",
+    "region": "Richmond and Delta",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "esquimalt-colwood",
+    "name": "Esquimalt-Colwood",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "fraser-nicola",
+    "name": "Fraser-Nicola",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "juan-de-fuca-malahat",
+    "name": "Juan de Fuca-Malahat",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kamloops-centre",
+    "name": "Kamloops Centre",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kamloops-north-thompson",
+    "name": "Kamloops-North Thompson",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kelowna-centre",
+    "name": "Kelowna Centre",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kelowna-lake-country-coldstream",
+    "name": "Kelowna-Lake Country-Coldstream",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kelowna-mission",
+    "name": "Kelowna-Mission",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kootenay-central",
+    "name": "Kootenay Central",
+    "region": "The Kootenays",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kootenay-monashee",
+    "name": "Kootenay-Monashee",
+    "region": "The Kootenays",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "kootenay-rockies",
+    "name": "Kootenay-Rockies",
+    "region": "The Kootenays",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "ladysmith-oceanside",
+    "name": "Ladysmith-Oceanside",
+    "region": "Vancouver Island",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "langford-highlands",
+    "name": "Langford-Highlands",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "langley-abbotsford",
+    "name": "Langley-Abbotsford",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "langley-walnut-grove",
+    "name": "Langley-Walnut Grove",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "langley-willowbrook",
+    "name": "Langley-Willowbrook",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "maple-ridge-east",
+    "name": "Maple Ridge East",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "maple-ridge-pitt-meadows",
+    "name": "Maple Ridge-Pitt Meadows",
+    "region": "Fraser Valley-Langley-Maple Ridge",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "mid-island-pacific-rim",
+    "name": "Mid Island-Pacific Rim",
+    "region": "Vancouver Island",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "nanaimo-gabriola-island",
+    "name": "Nanaimo-Gabriola Island",
+    "region": "Vancouver Island",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "nanaimo-lantzville",
+    "name": "Nanaimo-Lantzville",
+    "region": "Vancouver Island",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "nechako-lakes",
+    "name": "Nechako Lakes",
+    "region": "Northern British Columbia",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "new-westminster-coquitlam",
+    "name": "New Westminster-Coquitlam",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "north-coast-haida-gwaii",
+    "name": "North Coast-Haida Gwaii",
+    "region": "Northern British Columbia",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "north-island",
+    "name": "North Island",
+    "region": "Vancouver Island",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "north-vancouver-lonsdale",
+    "name": "North Vancouver-Lonsdale",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "north-vancouver-seymour",
+    "name": "North Vancouver-Seymour",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "oak-bay-gordon-head",
+    "name": "Oak Bay-Gordon Head",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "peace-river-north",
+    "name": "Peace River North",
+    "region": "Northern British Columbia",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "peace-river-south",
+    "name": "Peace River South",
+    "region": "Northern British Columbia",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "penticton-summerland",
+    "name": "Penticton-Summerland",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "port-coquitlam",
+    "name": "Port Coquitlam",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "port-moody-burquitlam",
+    "name": "Port Moody-Burquitlam",
+    "region": "Burnaby-New Westminster-Tri-Cities",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "powell-river-sunshine-coast",
+    "name": "Powell River-Sunshine Coast",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "prince-george-mackenzie",
+    "name": "Prince George-Mackenzie",
+    "region": "Prince George and the Cariboo",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "prince-george-north-cariboo",
+    "name": "Prince George-North Cariboo",
+    "region": "Prince George and the Cariboo",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "prince-george-valemount",
+    "name": "Prince George-Valemount",
+    "region": "Prince George and the Cariboo",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "richmond-centre",
+    "name": "Richmond Centre",
+    "region": "Richmond and Delta",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "richmond-bridgeport",
+    "name": "Richmond-Bridgeport",
+    "region": "Richmond and Delta",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "richmond-queensborough",
+    "name": "Richmond-Queensborough",
+    "region": "Richmond and Delta",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "richmond-steveston",
+    "name": "Richmond-Steveston",
+    "region": "Richmond and Delta",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "saanich-north-and-the-islands",
+    "name": "Saanich North and the Islands",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "saanich-south",
+    "name": "Saanich South",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "salmon-arm-shuswap",
+    "name": "Salmon Arm-Shuswap",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "skeena",
+    "name": "Skeena",
+    "region": "Northern British Columbia",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-city-centre",
+    "name": "Surrey City Centre",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-north",
+    "name": "Surrey North",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-south",
+    "name": "Surrey South",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-cloverdale",
+    "name": "Surrey-Cloverdale",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-fleetwood",
+    "name": "Surrey-Fleetwood",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-guildford",
+    "name": "Surrey-Guildford",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-newton",
+    "name": "Surrey-Newton",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-panorama",
+    "name": "Surrey-Panorama",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-serpentine-river",
+    "name": "Surrey-Serpentine River",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "surrey-white-rock",
+    "name": "Surrey-White Rock",
+    "region": "Surrey",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-fraserview",
+    "name": "Vancouver-Fraserview",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-hastings",
+    "name": "Vancouver-Hastings",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-kensington",
+    "name": "Vancouver-Kensington",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-langara",
+    "name": "Vancouver-Langara",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-little-mountain",
+    "name": "Vancouver-Little Mountain",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-point-grey",
+    "name": "Vancouver-Point Grey",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-quilchena",
+    "name": "Vancouver-Quilchena",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-renfrew",
+    "name": "Vancouver-Renfrew",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-south-granville",
+    "name": "Vancouver-South Granville",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-strathcona",
+    "name": "Vancouver-Strathcona",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-west-end",
+    "name": "Vancouver-West End",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vancouver-yaletown",
+    "name": "Vancouver-Yaletown",
+    "region": "Vancouver",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "vernon-lumby",
+    "name": "Vernon-Lumby",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "victoria-beacon-hill",
+    "name": "Victoria-Beacon Hill",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "victoria-swan-lake",
+    "name": "Victoria-Swan Lake",
+    "region": "Greater Victoria",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "west-kelowna-peachland",
+    "name": "West Kelowna-Peachland",
+    "region": "Thompson, Okanagan, Shuswap and Boundary",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "west-vancouver-capilano",
+    "name": "West Vancouver-Capilano",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "source_id": "wiki-candidates"
+  },
+  {
+    "slug": "west-vancouver-sea-to-sky",
+    "name": "West Vancouver-Sea to Sky",
+    "region": "North Shore-Sea to Sky-Sunshine Coast",
+    "source_id": "wiki-candidates"
+  }
+]

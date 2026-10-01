@@ -1,0 +1,74 @@
+{
+  "question_id": "q04",
+  "statement": "BC should balance the provincial budget by cutting spending.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:40Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "balance",
+    "provincial",
+    "budget",
+    "cutting",
+    "spending"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.4157,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "Downgrades, High Interests Cost, Increases unaffordability 2 Tax dollars spent on debt servicing is tax dollars not spent on healthcare 3 Balanced budgets within 4 years, with an aim towards running surplus budgets 4 A portion of budget surpluses will be put towards debt repayment to quickly reduce the costs of debt servicing in the budget Healthcare 1 Private Healthcare alongside fully-funded public healthcare 2 Shift administration/HR spending to frontline employees and resources Education 1 Bring back standardized testing — Focus on reading, writing and mathematics 2 Remove SOGI-123 and politicized content from classrooms 3 Institute a Parental Bill of Rights guaranteeing informed"
+    },
+    {
+      "rank": 2,
+      "score": 1.1769,
+      "source_id": "onebc-0009",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-30: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "archive_url": "https://web.archive.org/web/20261001090309/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251030am-Hansard-n94.html",
+      "published": "2025-10-30",
+      "quote": "Will his government commit today to spending at least half of its advertising budget with B.C.-based news media? Hon. David Eby : Thank you to the member for the question. Following the actions of the U.S."
+    },
+    {
+      "rank": 3,
+      "score": 1.1176,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Not a lot of people would know that or appreciate that about the Ministry of Forests and the incredible team and the engineering branch that, obviously, takes that role. I would have advised both members across the way last year that recent budget uplifts to the engineering program over the last several years have increased the provincial road maintenance budget from $6.1 million in the 2022-2023 fiscal year to $16½ million in 2025-2026. That’s representing a net annual increase of $10.4 million allocated to the forest service road maintenance program."
+    },
+    {
+      "rank": 4,
+      "score": 1.086,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Again, even the district of Clearwater still needs about $100,000 a year to try to maintain their budget that they have for their mitigation work, and much of that funding was coming from the provincial government."
+    },
+    {
+      "rank": 5,
+      "score": 1.0081,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I remember when I worked at the school board. We were well ahead of the game as far as spending a lot of money on computers and security around our computer systems and our data collection. But we would get hit hundreds, if not thousands, of times a week. [4:20 p.m.] I’m sure this provincial government gets that as well."
+    }
+  ]
+}

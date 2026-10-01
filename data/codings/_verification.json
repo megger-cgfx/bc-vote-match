@@ -1,0 +1,66 @@
+{
+  "source_snapshot_sha256": {
+    "ndp": "63f28fbd71ea020e7dddd3db9fde4c197ad21c79d1061bdbce6f3052557efc96",
+    "cpb": "f037e6a6a55d245fab10f762d0b68ededc5c55390cbd39b88f9b5e27f9f0685c",
+    "green": "d8dce0177e024081c4b20ce1c4e7b189fd8f30e1d1ebdd4c5e1cddc866214b1c",
+    "onebc": "ef703f5c6452897589ab808d251e0ef553ed9912d633f998d0aeebe9bf6f8d6c",
+    "centrebc": "41eac903fb8b7377c9c6e31038397d2715b8b921dfb84681082d7b1e72f791a3"
+  },
+  "parties": {
+    "ndp": {
+      "coders_present": [
+        "a",
+        "b"
+      ],
+      "missing_coders": [],
+      "rows_written": 36,
+      "agree": 14,
+      "disagree": 3,
+      "both_null": 1
+    },
+    "cpb": {
+      "coders_present": [
+        "a",
+        "b"
+      ],
+      "missing_coders": [],
+      "rows_written": 36,
+      "agree": 4,
+      "disagree": 10,
+      "both_null": 4
+    },
+    "green": {
+      "coders_present": [
+        "a",
+        "b"
+      ],
+      "missing_coders": [],
+      "rows_written": 36,
+      "agree": 15,
+      "disagree": 2,
+      "both_null": 1
+    },
+    "onebc": {
+      "coders_present": [
+        "a",
+        "b"
+      ],
+      "missing_coders": [],
+      "rows_written": 36,
+      "agree": 10,
+      "disagree": 3,
+      "both_null": 5
+    },
+    "centrebc": {
+      "coders_present": [
+        "a",
+        "b"
+      ],
+      "missing_coders": [],
+      "rows_written": 36,
+      "agree": 3,
+      "disagree": 4,
+      "both_null": 11
+    }
+  }
+}

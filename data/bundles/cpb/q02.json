@@ -1,0 +1,157 @@
+{
+  "question_id": "q02",
+  "statement": "The government should cut taxes for middle- and higher-income earners even if that means smaller public services.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T08:33:04Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "cut",
+    "taxes",
+    "middle",
+    "higher-income",
+    "earners",
+    "means",
+    "smaller",
+    "public",
+    "services"
+  ],
+  "sources_searched": 53,
+  "sources_missing_text": [
+    "cpb-0005"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.6089,
+      "source_id": "cpb-0039",
+      "source_type": "media",
+      "title": "Global News: BC Conservatives promise no new taxes if elected",
+      "url": "https://globalnews.ca/news/12075070/bc-election-september-27-conservative-platform/",
+      "archive_url": "http://web.archive.org/web/20260928221228/https://globalnews.ca/news/12075070/bc-election-september-27-conservative-platform/",
+      "published": "2026-09-27",
+      "quote": "NDP treat public funds like “free money” because from their perspective it is. Anonymous September 27, 2026 at 7:32 pm Looks like there is some NDP Clowns on here. Anonymous September 27, 2026 at 7:21 pm They need to cut taxes and give chinks the boot Creedence85 September 27, 2026 at 7:19 pm @michael if every government department had to limit spending to within budget and also had to find savings through cutting red tape a s other inefficiencies, current rates should be able to cover all curre t services and maybe even more. Creedence85 September 27, 2026 at 7:16 pm So what you’re saying is you won’t increase taxes."
+    },
+    {
+      "rank": 2,
+      "score": 2.9925,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": null,
+      "published": "2026-05-28",
+      "quote": "Two different tranches. That’s true, we have increased those taxes. We ask those who have a little bit more to contribute a little bit more to ensure that we’re able to deliver public services for people. For businesses, generally low corporate income tax rates."
+    },
+    {
+      "rank": 3,
+      "score": 2.6918,
+      "source_id": "cpb-0004",
+      "source_type": "policy",
+      "title": "Appendix - Platform Costing 2024",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/06/Appendix_-_Platform_Costing_2024.final_.pdf",
+      "archive_url": "http://web.archive.org/web/20251017100234/https://conservativebc.ca/wp-content/uploads/2025/06/Appendix_-_Platform_Costing_2024.final_.pdf",
+      "published": "2025-06-24",
+      "quote": "In fact, under the Conservative Plan, the government’s share of the economy would\ndecrease while still generating more revenue for public services."
+    },
+    {
+      "rank": 4,
+      "score": 2.6144,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": null,
+      "published": "2026-05-28",
+      "quote": "I take the member’s question under advisement. It’s a little bit more “do what I say, not what my party did.” We have increased some taxes. If you are buying property in British Columbia and you do not pay income tax here, we are increasing the property tax rate for you from 3 percent to 4 percent. [2:50 p.m.] This is the speculation and vacancy tax that the member opposes, because he opposes our government’s work to ensure that homes are lived in and that people who benefit from the public services of British Columbia contribute to those public services."
+    },
+    {
+      "rank": 5,
+      "score": 2.4103,
+      "source_id": "cpb-0037",
+      "source_type": "media",
+      "title": "B.C. Conservatives promise no new taxes if elected (CFJC/CP)",
+      "url": "https://cfjctoday.com/2026/09/27/b-c-conservatives-promise-no-new-taxes-if-elected-on-october-24/",
+      "archive_url": "http://web.archive.org/web/20261001082019/https://cfjctoday.com/2026/09/27/b-c-conservatives-promise-no-new-taxes-if-elected-on-october-24/",
+      "published": "2026-09-27",
+      "quote": "Doerkson also said that the B.C. New Democrats have raised taxes multiple times during the last decade and will plan to do so again if elected, referring to an announcement last week in Burnaby, B.C., where Eby promised to impose a new two per cent tax on unsold condominiums and raise the speculation and vacancy tax. “The solution to so many problems for David Eby has been to raise taxes,” Doerkson said. “British Columbians have never paid more tax and got less in return.” When asked how a future Doerkson government would propose to pay for public services in case of economic turndowns, the Conservative leader promised to reverse policies that have hampered growth."
+    },
+    {
+      "rank": 6,
+      "score": 2.3709,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": null,
+      "published": "2026-05-28",
+      "quote": "I do understand that the members have a perspective on these things that’s important. But it’s also important to recognize the work that’s being done that’s delivering major investments in this province that will help to pay for the public services that people depend on, with the lowest income taxes in Canada for people earning less than $149,000 annually. [3:25 p.m.] Sheldon Clare : The question that I have might take a little bit of additional research, so I understand that. I’ll just let fly and see how it goes."
+    },
+    {
+      "rank": 7,
+      "score": 2.2693,
+      "source_id": "cpb-0041",
+      "source_type": "media",
+      "title": "Economic, budget promises the focus of week 2 of B.C. election campaign (Global News)",
+      "url": "https://globalnews.ca/news/12076424/bc-election-eby-cut-deficit-wasteful-spending/",
+      "archive_url": "http://web.archive.org/web/20260929131435/https://globalnews.ca/news/12076424/bc-election-eby-cut-deficit-wasteful-spending/",
+      "published": "2026-09-28",
+      "quote": "Interim Conservative leader Lorne Doerkson promised to double liquefied natural gas production by 2032 in the province, if elected, while NDP Leader David Eby announced  his government would double the export of critical minerals within five years. Doerkson said there’s a global energy crisis and “our allies in Asia and Europe desperately need Canadian LNG.” While Eby picked up on the same theme, saying B.C. has an abundance of critical minerals that other countries need. “Getting them to world markets means less dependence on the U.S., while creating family-supporting jobs and the prosperity needed to strengthen health care and public services,” said Eby, who was in Prince Rupert on Monday."
+    },
+    {
+      "rank": 8,
+      "score": 2.1564,
+      "source_id": "cpb-0051",
+      "source_type": "other",
+      "title": "BC Ballot — NDP vs Conservative platforms 2026 (aggregator)",
+      "url": "https://bcballot.ca/platforms/bc-ndp-vs-conservative/",
+      "archive_url": null,
+      "published": "2026-09-30",
+      "quote": "bcndp.ca: David Eby launches election with plan to build B.C. strong amid Trump’s attacks , September 22 . Strengthen the health care and public services British Columbians rely on Sep 22 Support workers and businesses facing tariffs, keep costs down for families and strengthen the health care and public services British Columbians rely on more than ever during a trade war. bcndp.ca: David Eby launches election with plan to build B.C."
+    },
+    {
+      "rank": 9,
+      "score": 1.8959,
+      "source_id": "cpb-0051",
+      "source_type": "other",
+      "title": "BC Ballot — NDP vs Conservative platforms 2026 (aggregator)",
+      "url": "https://bcballot.ca/platforms/bc-ndp-vs-conservative/",
+      "archive_url": null,
+      "published": "2026-09-30",
+      "quote": "Offer a free, tailored relocation process through Health Match BC Sep 23 Health Match BC will offer a free, tailored relocation process, building on the work communities are already doing to welcome, support and retain new health-care workers. bcndp.ca: Eby to triple U.S. health worker recruitment , September 23 . Keep costs down for families Sep 22 Support workers and businesses facing tariffs, keep costs down for families and strengthen the health care and public services British Columbians rely on more than ever during a trade war."
+    },
+    {
+      "rank": 10,
+      "score": 1.8667,
+      "source_id": "cpb-0017",
+      "source_type": "release",
+      "title": "Press release: Conservative Party of BC pledges no new taxes on British Columbians",
+      "url": "https://conservativebc.ca/conservative-party-of-bc-pledges-no-new-taxes-on-british-columbians/",
+      "archive_url": "http://web.archive.org/web/20260929023334/https://conservativebc.ca/conservative-party-of-bc-pledges-no-new-taxes-on-british-columbians/",
+      "published": "2026-09-27",
+      "quote": "Brackets are also frozen through 2030 – a quiet tax hike that hits British Columbians every time their pay keeps up with inflation. Despite the government taxing and spending more than ever recorded, British Columbians don’t even have the functioning public services they need. Emergency Rooms have rotating closures, people have never waited longer to see a doctor, the construction of hospitals and schools are delayed, our young people are leaving because they can’t afford to live in our beautiful province, and crime is out of control in our communities."
+    },
+    {
+      "rank": 11,
+      "score": 1.8579,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": null,
+      "published": "2026-05-25",
+      "quote": "But $2,500 doesn’t come close to offsetting the costs this government has piled on — higher payroll costs, carbon costs, property costs, insurance costs, more red tape, rising costs from the public safety crisis, growing uncertainty around land title and now a PST expansion on services that businesses rely on. Why does this government continue ignoring the real-world cost burden that is forcing small businesses to shut down, sell out or leave B.C.? Hon. Ravi Kahlon : B.C."
+    },
+    {
+      "rank": 12,
+      "score": 1.7586,
+      "source_id": "cpb-0024",
+      "source_type": "hansard",
+      "title": "Hansard — Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "It tells us that balance sheets are more important than our environment, that debt repayments are more important than caring for our elders, but in doing so, it forgets that budgets are self-fulfilling prophecies. In the midst of an economic downturn, in the midst of the many challenges we face, what is needed is investment in people, in infrastructure, in hope. [4:15 p.m.] There are no major cuts to services, but Budget 2026 is a slow retreat of public services. There are no supports for people who are struggling with affordability pressures on anywhere near the scale that is needed, no supports for low-income families lining up at the food bank, no support for people who are unhoused."
+    }
+  ]
+}

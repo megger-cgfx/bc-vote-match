@@ -1,0 +1,47 @@
+{
+  "party_slug": "centrebc",
+  "sources": [
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260430am-Hansard-n168.html",
+      "type": "hansard",
+      "title": "Hansard 2026-04-30 am: Sturko on violent crime, mental illness, community safety",
+      "published": "2026-04-30"
+    },
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260303pm-Hansard-n131.html",
+      "type": "hansard",
+      "title": "Hansard 2026-03-03 pm: Attorney General Ministry estimates debate (Sturko)",
+      "published": "2026-03-03"
+    },
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "published": "2026-02-24"
+    },
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "published": "2026-03-05"
+    },
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260402am-Hansard-n147.html",
+      "type": "hansard",
+      "title": "Hansard 2026-04-02 am: hospital staffing and emergency services access (Sturko)",
+      "published": "2026-04-02"
+    },
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "published": "2026-05-04"
+    },
+    {
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260331am-Hansard-n144.html",
+      "type": "hansard",
+      "title": "Hansard 2026-03-31 am: petition - proposed hydro substation in Cloverdale (Sturko)",
+      "published": "2026-03-31"
+    }
+  ]
+}

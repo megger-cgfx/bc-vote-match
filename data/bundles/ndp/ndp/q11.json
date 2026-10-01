@@ -1,0 +1,154 @@
+{
+  "question_id": "q11",
+  "statement": "Rent controls should be expanded to cover more rental units.",
+  "topic": "housing",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:19Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "rent",
+    "controls",
+    "expanded",
+    "cover",
+    "rental",
+    "units"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 14.046,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Block municipal rent control programs Plan page Block municipal rent control programs that disincentivize development and new units being put up for rent Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities ."
+    },
+    {
+      "rank": 2,
+      "score": 6.7337,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "The loss of existing buildings and an overall lack of supply can’t meet the needs of our growing population. That’s why your government has recently removed unfair strata restrictions so empty condos become rental units for people. It is investing $500 million in a new Rental Protection Fund . A fund that will safeguard renters against evictions or rent hikes by the big investment companies that want to buy affordable rental buildings and make money through exploitation and eviction."
+    },
+    {
+      "rank": 3,
+      "score": 5.9981,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Budget 2026 raised the lowest personal income tax rate from 5.06 percent to 5.60 percent. That means every worker, from the nurse to the retail clerk, the teacher to the tradesperson, is paying more on the first dollars that they earn. Meanwhile, the government has expanded the provincial sales tax to cover services that were once exempt: accounting, bookkeeping, engineering, strata management, even security services. Small businesses that already juggle payroll, rent and overhead now face 7 percent added costs on services they cannot avoid."
+    },
+    {
+      "rank": 4,
+      "score": 5.7044,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "A housing-first strategy gives people certainty, calm and the ability to make long-term decisions in their own best interests. So what’s the plan? Well, the ministry’s target for affordable housing units consists of affordable rental units, social housing and co-ops. What’s the plan?"
+    },
+    {
+      "rank": 5,
+      "score": 4.8523,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "bcgreens.ca: BC Greens announce plan to support renters, unveil two new candidates for South Island , September 29 . Make it easier and quicker to build all forms of housing Plan page Build and protect 26,000 permanently affordable, non-market homes a year, and make it easier and quicker to build all forms of housing. Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca . Bring in commercial rent control for small businesses Plan page Support small businesses through commercial rent control and Community Wealth Building."
+    },
+    {
+      "rank": 6,
+      "score": 4.5795,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Build and protect 26,000 housing units per year New Sep 29 Immediately restart the Community Housing Fund and Indigenous Housing Fund, with a goal of building and protecting 26,000 housing units per year. bcgreens.ca: BC Greens announce plan to support renters, unveil two new candidates for South Island , September 29 . Also posted: Plan page, bcgreens.ca/our-plan . Develop management guidelines on pets in rentals New Sep 29 Instead, we will develop appropriate management guidelines on pets in rentals."
+    },
+    {
+      "rank": 7,
+      "score": 4.2582,
+      "source_id": "ndp-0034",
+      "source_type": "media",
+      "title": "BC NDP Unveils $2.9B Platform (2024) Amid Massive Deficit and Fiscal Concerns (Coastal Front)",
+      "url": "https://coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "archive_url": "http://web.archive.org/web/20250807230503/https://www.coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "published": "2024-10-04",
+      "quote": "Rustad’s platform, which includes opening ICBC to competition, has drawn sharp criticism from Eby, who argues it would drive up insurance costs for young drivers and large fleet owners. Interestingly, the NDP platform mentions Rustad by name 56 times, compared to 29 mentions of Eby himself. The platform reiterates several previously announced promises, including expanding free off-peak transit for seniors, eliminating \"no-pet\" clauses in purpose-built rental units, and implementing a ban on blind bidding in real estate transactions."
+    },
+    {
+      "rank": 8,
+      "score": 4.1884,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "They align with bringing into force other tools within the bill and allow future flexibility, which is why often administrative elements are left to regulation. Claire Rattée : In light of that, I would like to move an amendment that: [Clause 7 is amended by adding the following 4. 3 (4) A tenancy agreement for supportive housing must include provisions to protect tenants from exposure to hazardous substances, including smoke or vapour, originating from other rental units or common areas.] On the amendment."
+    },
+    {
+      "rank": 9,
+      "score": 3.2612,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "We changed local government legislation to provide new and updated development finance tools that local governments can use to fund infrastructure, services and amenities needed to support homes. Kicked off BC Builds with up to 10,000 new middle-income homes The first 20 BC Builds sites will partner with local governments, non-profits and First Nations to use public and non-profit land to bring down the cost of a new home for up to 10,000 families. All BC Builds projects have requirement that a minimum of 20% of units must rent at 20% below market,and a target of middle-income households spending no more than 30% of their income on rent."
+    },
+    {
+      "rank": 10,
+      "score": 2.9099,
+      "source_id": "ndp-0007",
+      "source_type": "policy",
+      "title": "Eby to turn more empty condos into homes people can afford",
+      "url": "https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+      "archive_url": "http://web.archive.org/web/20260927070507/https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+      "published": "2026-09-25",
+      "quote": "“Our plan is making a difference: housing prices are falling faster here than anywhere else in the country, and we need to keep going. Conservatives would rip up our plan and send rents skyrocketing. We can’t afford that, especially right now.” Eby says he will increase the speculation and vacancy tax by one percentage point, from 1% to 2% for domestic speculators and from 4% to 5% for foreign speculators. The change will help put more empty units into the long-term rental market, while any additional revenue will go to building more affordable homes people need."
+    },
+    {
+      "rank": 11,
+      "score": 2.7717,
+      "source_id": "ndp-0007",
+      "source_type": "policy",
+      "title": "Eby to turn more empty condos into homes people can afford",
+      "url": "https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+      "archive_url": "http://web.archive.org/web/20260927070507/https://www.bcndp.ca/releases/eby-turn-more-empty-condos-homes-people-can-afford",
+      "published": "2026-09-25",
+      "quote": "Over 1,300 of these condos were finished over two years ago, with some dating back to 2019. “People shouldn’t pay sky-high prices to rent or buy a home while developers sit on thousands of finished condos waiting for prices to go up,” said Eby. “In this election, British Columbians have a choice: a government that keeps pushing to lower home costs for working families or Conservatives who have always opposed our plan and sided with those who profit from higher prices.” The Speculation Tax has already successfully turned 20,000 empty units into homes for British Columbians. Under David Eby and the BC NDP, starting rents in B.C."
+    },
+    {
+      "rank": 12,
+      "score": 2.6641,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "This agreement is with the city of Vancouver. FIFA pays rent to occupy the venue during this time and to have full control of the facility during the time of the World Cup. The expenditure here is relatively modest compared to the $18 million that was spent during the Olympics on business hosting. I note that the Leader of the Opposition was the staff member who worked in the Minister of Small Business and Economic Development’s office when they ran their program that cost $18 million."
+    }
+  ]
+}

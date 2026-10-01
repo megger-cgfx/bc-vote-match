@@ -1,0 +1,157 @@
+{
+  "question_id": "q39",
+  "statement": "The province should share resource revenue with First Nations whose territories host resource projects.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:24Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "share",
+    "resource",
+    "revenue",
+    "first",
+    "nations",
+    "whose",
+    "territories",
+    "host",
+    "projects"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.6473,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Anyway, that’s something for me to pursue another day. In terms of resource revenue sharing, I think we’ve covered off a lot of that in terms of subsurface, a little bit in terms of forestry. I’m just wondering. It’s common practice for British Columbia to enter into resource revenue sharing with all First Nations, treaty or non-treaty, in terms of activities, whether it’s forestry or otherwise."
+    },
+    {
+      "rank": 2,
+      "score": 6.5207,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "Read the full text of the Speech from the Throne Good afternoon, Mr. Speaker and Honourable Members. Welcome back. I would like to start by acknowledging the Lekwungen peoples, the Songhees and Esquimalt First Nations, upon whose territories we are gathered today – and to thank them for sharing these lands in peace and friendship."
+    },
+    {
+      "rank": 3,
+      "score": 5.5025,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "That would be not under the sole ownership of the K’ómoks Nation. Again, in the broader treaty area, there still would be the opportunity for the province to collect mineral tax revenue. There could be revenue-sharing agreements, based on what the project is and who the proponent is that’s doing the work on the land base. But it’s only the treaty settlement lands, which have subsurface resource rights fully owned by the K’ómoks Nation, for which there is no obligation to share or any sort of revenue-sharing structure."
+    },
+    {
+      "rank": 4,
+      "score": 5.4332,
+      "source_id": "ndp-0046",
+      "source_type": "speech",
+      "title": "(2024) A stronger BC working better for people: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "published": "2024-02-20",
+      "quote": "This session, your government will take new actions to help people with costs, while tackling the root causes that are making life so expensive – like housing affordability. And it will do more to help small and growing businesses, many of whom are still finding their feet after the pandemic and are facing new challenges today. Leveraging our natural strengths Foundational to our province, and the backbone of many local economies, are our natural resources. From First Nations whose deep connection to the land and water here goes back millennia."
+    },
+    {
+      "rank": 5,
+      "score": 4.2277,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Mount Milligan. We cut permitting time in half, a $400 million investment. Artemis Gold’s Blackwater Mine — generating $2.3 billion in provincial revenue, strong partnerships with First Nations. At this pace, by 2040, new and expanded critical minerals projects could represent an investment opportunity of $44 billion for our province."
+    },
+    {
+      "rank": 6,
+      "score": 3.4173,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "The member will note that there has been a substantive reduction in harvesting of our old forests over the course of the last number of years, since we took action with the work that we’re doing to implement the old-growth strategic review project, work that I’m not just doing alone but also doing alongside my colleague the Minister of Water, Land and Resource Stewardship as well. I would just note for the member that it’s just so critically important that when we talk about doing this work, we do this work with First Nations at the table."
+    },
+    {
+      "rank": 7,
+      "score": 3.3625,
+      "source_id": "ndp-0039",
+      "source_type": "other",
+      "title": "BC welcomes Bail and Sentencing Reform Act receiving royal assent (gov.bc.ca)",
+      "url": "https://news.gov.bc.ca/releases/2026AG0040-000711",
+      "archive_url": "http://web.archive.org/web/20260927130252/https://news.gov.bc.ca/releases/2026AG0040-000711",
+      "published": "2026-06-16",
+      "quote": "The B.C. Public Service acknowledges the territories of First Nations around B.C. and is grateful to carry out our work on these lands. We acknowledge the rights, interests, priorities, and concerns of all Indigenous Peoples - First Nations, Métis, and Inuit - respecting and acknowledging their distinct cultures, histories, rights, laws, and governments."
+    },
+    {
+      "rank": 8,
+      "score": 3.2136,
+      "source_id": "ndp-0042",
+      "source_type": "policy",
+      "title": "Strengthening response to vandalism, theft, street disorder (C-POII provincewide, Public Safety ministry)",
+      "url": "https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "archive_url": "http://web.archive.org/web/20260909045354/https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "published": "2026-07-23",
+      "quote": "15 September 3, 2026 2:30 PM Connect with the Ministry Photos View the Ministry's latest photos on Flickr. Videos Watch the Ministry's latest videos on YouTube. The B.C. Public Service acknowledges the territories of First Nations around B.C."
+    },
+    {
+      "rank": 9,
+      "score": 3.1136,
+      "source_id": "ndp-0012",
+      "source_type": "policy",
+      "title": "(2017) Reconciliation, respect and a better future",
+      "url": "https://www.bcndp.ca/latest/reconciliation-respect-and-better-future",
+      "archive_url": "http://web.archive.org/web/20250904044022/https://www.bcndp.ca/latest/reconciliation-respect-and-better-future",
+      "published": "2017-05-05",
+      "quote": "Share Share John Horgan and the BC NDP are committed to making reconciliation a priority. We believe First Nations in BC deserve respect and reconciliation is a key part of a better future for all of us. We know that 16 years of BC Liberal neglect has set progress back on this front. Three years ago, the Supreme Court of Canada set down law on the legal rights of First Nations people in this province."
+    },
+    {
+      "rank": 10,
+      "score": 3.0475,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "Members. Hon. David Eby : Fights with First Nations…. Interjections."
+    },
+    {
+      "rank": 11,
+      "score": 3.0429,
+      "source_id": "ndp-0046",
+      "source_type": "speech",
+      "title": "(2024) A stronger BC working better for people: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "published": "2024-02-20",
+      "quote": "Speaker, Premier, and Honourable Members. I am pleased to deliver The Speech from the Throne, laying out your government’s plan to build a stronger BC that works better for people – now, and into the future. I would like to start by acknowledging the Lekwungen peoples, the Songhees and Esquimalt Nations, upon whose territories we are gathered today. Thank you to Elder Butch Dick of the Songhees Nation and Elder Mary Ann Thomas of the Esquimalt Nation for starting us off in a good way."
+    },
+    {
+      "rank": 12,
+      "score": 2.8994,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "Protected and enhanced our watersheds We’ve allocated $157 million and established the BC-First Nations Water Table to add an unprecedented $100-million investment in healthy, sustainable watersheds for communities throughout BC while restoring iconic salmon populations. Helped communities reduce disaster risk We funded local governments and First Nations to reduce disaster risk, with $39 million for more than 50 local projects. These 50 local disaster-risk reduction and climate-adaptation projects, such as small-scale structural flood projects and improvements to community flood-mitigation strategies, including more accurate flood mapping."
+    }
+  ]
+}

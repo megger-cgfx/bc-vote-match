@@ -1,0 +1,353 @@
+{
+  "summary": {
+    "sheets": [
+      "marketing/06-review/contact-sheets/sheet-01.png",
+      "marketing/06-review/contact-sheets/sheet-02.png",
+      "marketing/06-review/contact-sheets/sheet-03.png"
+    ],
+    "images": 31,
+    "verdict_counts": {
+      "selected": 4,
+      "unselected": 4,
+      "unregistered": 23
+    },
+    "unregistered": [
+      "public/og.png",
+      "public/previews/preview-d1-1024px.png",
+      "public/previews/preview-d1-16px.png",
+      "public/previews/preview-d1-24px.png",
+      "public/previews/preview-d1-256px.png",
+      "public/previews/preview-d1-32px.png",
+      "public/previews/preview-d1-64px.png",
+      "public/previews/preview-d2-1024px.png",
+      "public/previews/preview-d2-16px.png",
+      "public/previews/preview-d2-24px.png",
+      "public/previews/preview-d2-256px.png",
+      "public/previews/preview-d2-32px.png",
+      "public/previews/preview-d2-64px.png",
+      "public/previews/preview-d2-light-1024px.png",
+      "public/previews/preview-d2-light-16px.png",
+      "public/previews/preview-d2-light-24px.png",
+      "public/previews/preview-d2-light-256px.png",
+      "public/previews/preview-d2-light-32px.png",
+      "public/previews/preview-d2-light-64px.png",
+      "src/app/icon-d1.svg",
+      "src/app/icon-d2-light.svg",
+      "src/app/icon-d2.svg",
+      "src/app/icon.svg"
+    ],
+    "index": "marketing/06-review/contact-sheets/sheet-index.json"
+  },
+  "items": [
+    {
+      "path": "marketing/assets/og/director-og.png",
+      "sheet": "sheet-01.png",
+      "verdict": "selected",
+      "width": 1200,
+      "height": 630,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Primary card for og:image and X: legible at feed thumbnail, neutral palette, no party colour.",
+      "registered": true
+    },
+    {
+      "path": "marketing/assets/og/director-og.svg",
+      "sheet": "sheet-01.png",
+      "verdict": "selected",
+      "width": 1200,
+      "height": 630,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Source for director-og.png (primary og:image card).",
+      "registered": true
+    },
+    {
+      "path": "marketing/assets/og/director-portrait.png",
+      "sheet": "sheet-01.png",
+      "verdict": "unselected",
+      "width": 1080,
+      "height": 1350,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Same design at square/portrait ratio, produced for completeness. Generated on request but not the agreed v1 channel set, so not selected. Consciously not shipped.",
+      "registered": true
+    },
+    {
+      "path": "marketing/assets/og/director-portrait.svg",
+      "sheet": "sheet-01.png",
+      "verdict": "unselected",
+      "width": 1080,
+      "height": 1350,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Source for the portrait ratio; not in the agreed v1 channel set.",
+      "registered": true
+    },
+    {
+      "path": "marketing/assets/og/director-square.png",
+      "sheet": "sheet-01.png",
+      "verdict": "unselected",
+      "width": 1080,
+      "height": 1080,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Same design at square/portrait ratio, produced for completeness. Generated on request but not the agreed v1 channel set, so not selected. Consciously not shipped.",
+      "registered": true
+    },
+    {
+      "path": "marketing/assets/og/director-square.svg",
+      "sheet": "sheet-01.png",
+      "verdict": "unselected",
+      "width": 1080,
+      "height": 1080,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Source for the square ratio; not in the agreed v1 channel set.",
+      "registered": true
+    },
+    {
+      "path": "marketing/assets/og/director-x.png",
+      "sheet": "sheet-01.png",
+      "verdict": "selected",
+      "width": 1600,
+      "height": 900,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Primary card for og:image and X: legible at feed thumbnail, neutral palette, no party colour.",
+      "registered": true
+    },
+    {
+      "path": "marketing/assets/og/director-x.svg",
+      "sheet": "sheet-01.png",
+      "verdict": "selected",
+      "width": 1600,
+      "height": 900,
+      "produced_by": "flower (marketing director)",
+      "rationale": "Source for director-x.png (X/Twitter card).",
+      "registered": true
+    },
+    {
+      "path": "public/og.png",
+      "sheet": "sheet-01.png",
+      "verdict": "unregistered",
+      "width": 1200,
+      "height": 630,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d1-1024px.png",
+      "sheet": "sheet-01.png",
+      "verdict": "unregistered",
+      "width": 1024,
+      "height": 1024,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d1-16px.png",
+      "sheet": "sheet-01.png",
+      "verdict": "unregistered",
+      "width": 16,
+      "height": 16,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d1-24px.png",
+      "sheet": "sheet-01.png",
+      "verdict": "unregistered",
+      "width": 24,
+      "height": 24,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d1-256px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 256,
+      "height": 256,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d1-32px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 32,
+      "height": 32,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d1-64px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 64,
+      "height": 64,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-1024px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 1024,
+      "height": 1024,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-16px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 16,
+      "height": 16,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-24px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 24,
+      "height": 24,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-256px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 256,
+      "height": 256,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-32px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 32,
+      "height": 32,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-64px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 64,
+      "height": 64,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-light-1024px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 1024,
+      "height": 1024,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-light-16px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 16,
+      "height": 16,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-light-24px.png",
+      "sheet": "sheet-02.png",
+      "verdict": "unregistered",
+      "width": 24,
+      "height": 24,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-light-256px.png",
+      "sheet": "sheet-03.png",
+      "verdict": "unregistered",
+      "width": 256,
+      "height": 256,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-light-32px.png",
+      "sheet": "sheet-03.png",
+      "verdict": "unregistered",
+      "width": 32,
+      "height": 32,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "public/previews/preview-d2-light-64px.png",
+      "sheet": "sheet-03.png",
+      "verdict": "unregistered",
+      "width": 64,
+      "height": 64,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "src/app/icon-d1.svg",
+      "sheet": "sheet-03.png",
+      "verdict": "unregistered",
+      "width": 64,
+      "height": 64,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "src/app/icon-d2-light.svg",
+      "sheet": "sheet-03.png",
+      "verdict": "unregistered",
+      "width": 64,
+      "height": 64,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "src/app/icon-d2.svg",
+      "sheet": "sheet-03.png",
+      "verdict": "unregistered",
+      "width": 64,
+      "height": 64,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    },
+    {
+      "path": "src/app/icon.svg",
+      "sheet": "sheet-03.png",
+      "verdict": "unregistered",
+      "width": 64,
+      "height": 64,
+      "produced_by": null,
+      "rationale": null,
+      "registered": false
+    }
+  ]
+}

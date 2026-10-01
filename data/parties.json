@@ -1,0 +1,17 @@
+[
+  { "slug": "ndp", "name": "BC New Democratic Party", "short": "BC NDP",
+    "leader": "David Eby", "leader_status": "permanent", "color": "#F58220",
+    "url": "https://bcndp.ca", "note": "governing party since 2017; slogan 'Build BC Strong'" },
+  { "slug": "cpb", "name": "Conservative Party of British Columbia", "short": "BC Conservatives",
+    "leader": "Lorne Doerkson", "leader_status": "interim (since 2026-09-20)", "color": "#1A4C8B",
+    "url": "https://www.bcconservative.ca", "note": "official opposition; leader churn in 2026" },
+  { "slug": "green", "name": "Green Party of British Columbia", "short": "BC Greens",
+    "leader": "Emily Lowan", "leader_status": "permanent (since 2025-09-24)", "color": "#3D9B35",
+    "url": "https://www.bcgreens.ca", "note": "slogan 'Believe in Better'" },
+  { "slug": "onebc", "name": "OneBC", "short": "OneBC",
+    "leader": "Dallas Brodie", "leader_status": "interim", "color": "#8A1C1C",
+    "url": "", "note": "formed 2025 from ex-Conservative MLAs; verify platform URL" },
+  { "slug": "centrebc", "name": "CentreBC", "short": "CentreBC",
+    "leader": "Elenore Sturko", "leader_status": "permanent (since 2026-09-22)", "color": "#2E7D8F",
+    "url": "", "note": "formed 2025 by Karin Kirkpatrick; gained MLAs Sept 2026; verify platform URL" }
+]

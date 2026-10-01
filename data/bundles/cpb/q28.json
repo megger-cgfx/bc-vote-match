@@ -1,0 +1,155 @@
+{
+  "question_id": "q28",
+  "statement": "BC should approve new liquefied natural gas (LNG) export projects.",
+  "topic": "climate-environment",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T18:27:09Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "approve",
+    "liquefied",
+    "natural",
+    "gas",
+    "lng",
+    "export",
+    "projects"
+  ],
+  "sources_searched": 53,
+  "sources_missing_text": [
+    "cpb-0005"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 11.3325,
+      "source_id": "cpb-0041",
+      "source_type": "media",
+      "title": "Economic, budget promises the focus of week 2 of B.C. election campaign (Global News)",
+      "url": "https://globalnews.ca/news/12076424/bc-election-eby-cut-deficit-wasteful-spending/",
+      "archive_url": "http://web.archive.org/web/20260929131435/https://globalnews.ca/news/12076424/bc-election-eby-cut-deficit-wasteful-spending/",
+      "published": "2026-09-28",
+      "quote": "Interim Conservative leader Lorne Doerkson promised to double liquefied natural gas production by 2032 in the province, if elected, while NDP Leader David Eby announced  his government would double the export of critical minerals within five years. Doerkson said there’s a global energy crisis and “our allies in Asia and Europe desperately need Canadian LNG.” While Eby picked up on the same theme, saying B.C. has an abundance of critical minerals that other countries need. “Getting them to world markets means less dependence on the U.S., while creating family-supporting jobs and the prosperity needed to strengthen health care and public services,” said Eby, who was in Prince Rupert on Monday."
+    },
+    {
+      "rank": 2,
+      "score": 9.2698,
+      "source_id": "cpb-0043",
+      "source_type": "media",
+      "title": "Vancouver Sun: NDP, Conservatives both take credit for growing LNG sector",
+      "url": "https://vancouversun.com/news/ndp-bc-conservatives-both-take-credit-growing-lng-sector-final-investment-lng-canada-phase-2-looms",
+      "archive_url": "https://web.archive.org/web/20261001082120/https://vancouversun.com/news/ndp-bc-conservatives-both-take-credit-growing-lng-sector-final-investment-lng-canada-phase-2-looms",
+      "published": "2026-09-29",
+      "quote": "Liberal Premier Christy Clark, the liquefied natural gas industry has been slow to get going in the province but now has five terminals either under construction or awaiting final investment decisions. Article content Last year, the $40 billion LNG Canada Phase 1 began shipping gas to Asia. Article content Asked whether his government can take credit for the development of the sector, Eby’s answer was a definitive yes."
+    },
+    {
+      "rank": 3,
+      "score": 6.5727,
+      "source_id": "cpb-0020",
+      "source_type": "release",
+      "title": "Press release: BC Conservatives welcome LNG Canada Phase 2",
+      "url": "https://conservativebc.ca/bc-conservatives-welcome-lng-canada-phase-2-we-will-treat-energy-as-an-urgent-mission/",
+      "archive_url": "http://web.archive.org/web/20260930001057/https://conservativebc.ca/bc-conservatives-welcome-lng-canada-phase-2-we-will-treat-energy-as-an-urgent-mission/",
+      "published": "2026-09-29",
+      "quote": "The BC Energy Superpower Plan will : More than double natural gas production by 2032 and more than triple it by 2035; Designate the liquid-rich Montney Formation as a strategic provincial asset; Pass a 120 Day Permitting Act for major projects; Harmonize BC’s permitting, approvals and consultation with the federal government’s Bill C-39, so that BC-led projects are approved within one year; Invite foreign investors to Vancouver and make the case that British Columbia is the better place for their capital."
+    },
+    {
+      "rank": 4,
+      "score": 6.3972,
+      "source_id": "cpb-0040",
+      "source_type": "media",
+      "title": "B.C. Conservative leader pledges to triple LNG production (Black Press)",
+      "url": "https://agassizharrisonobserver.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production/",
+      "archive_url": "http://web.archive.org/web/20260929022258/https://agassizharrisonobserver.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production/",
+      "published": "2026-09-28",
+      "quote": "22, 2026, the day Premier David Eby announced a snap election. (Lauren Collins/Today in BC) Getting your Trinity Audio player ready... Interim B.C. Conservative Leader Lorne Doerkson unveiled another party platform plank on Monday, promising to turbocharge the provincial economy by leaning into liquefied natural gas production."
+    },
+    {
+      "rank": 5,
+      "score": 5.3342,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "Does she impose her will to ban natural gas in homes while her government champions natural exports? [2:35 p.m.] Interjections. The Speaker : Shhh. Members, the minister has the floor."
+    },
+    {
+      "rank": 6,
+      "score": 5.1429,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "Non-Renewable Resources – Oil and Gas\n11.15 The Oil and Gas industries are important to BC’s economy, and these sectors should be developed for the\n benefit of all British Columbians through a fair, stable and predictable royalty regime.\n11.16 Support the construction or upgrading of pipelines or other movement corridors to primarily facilitate domestic\n use for natural gas and secondarily the export of oil and natural gas through BC ports."
+    },
+    {
+      "rank": 7,
+      "score": 5.1038,
+      "source_id": "cpb-0031",
+      "source_type": "media",
+      "title": "The Tyee: The BC Conservative Platform - A Road Map to the 1950s",
+      "url": "https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "archive_url": "http://web.archive.org/web/20260915092040/https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "published": "2026-09-14",
+      "quote": "safe from climate impacts, leaving B.C. with increasing emissions, dirtier air, and a greater risk of extreme flooding and forest fires. Article 11 of the Conservatives’ Nanaimo declaration, on natural resources, has plenty of emissions-rich proposals: to use wood fibre for power generation, to “reverse the NDP’s radical plans to ban natural gas heating and non-electric vehicles,” to build and upgrade pipelines “to primarily facilitate domestic use for natural gas and secondarily the export of oil and natural gas through B.C."
+    },
+    {
+      "rank": 8,
+      "score": 4.6315,
+      "source_id": "cpb-0050",
+      "source_type": "other",
+      "title": "BC Ballot — Conservative Party platform 2026 (aggregator)",
+      "url": "https://bcballot.ca/platforms/conservative-party/",
+      "archive_url": "https://web.archive.org/web/20261001082150/https://bcballot.ca/platforms/conservative-party/",
+      "published": "2026-09-30",
+      "quote": "gets emissions credit when its LNG replaces coal and higher-emitting LNG New Sep 29 Work with the federal government to ensure B.C. gets credit for the global emissions reductions our low-carbon LNG delivers when it replaces coal and higher-emitting LNG in other countries. conservativebc.ca: BC Conservatives Welcome LNG Canada Phase 2: We Will Treat Energy as an Urgent Mission , September 29 . Grow natural gas production to more than double by 2032 and more than triple by 2035 New Sep 29 More than double natural gas production by 2032 and more than triple it by 2035; conservativebc.ca: BC Conservatives Welcome LNG Canada Phase 2: We Will Treat Energy as an Urgent Mission , September 29 ."
+    },
+    {
+      "rank": 9,
+      "score": 4.4007,
+      "source_id": "cpb-0031",
+      "source_type": "media",
+      "title": "The Tyee: The BC Conservative Platform - A Road Map to the 1950s",
+      "url": "https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "archive_url": "http://web.archive.org/web/20260915092040/https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "published": "2026-09-14",
+      "quote": "By comparison, the BC NDP may be promoting liquid natural gas exports, but at least it’s talking about climate change on its website: RELATED STORIES Despite Losing MLAs, BC Conservatives’ Public Funding Is Unchanged Will Kerry-Lynne Findlay’s First Stand Also Be Her Last?"
+    },
+    {
+      "rank": 10,
+      "score": 3.4145,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "Josie Osborne Broadway Transit Project Traffic Diversion Impacts Harman Bhangu Hon. Mike Farnworth Provincial Sales Tax and Support for Small Business Gavin Dew Hon. Ravi Kahlon Correspondence with Vancouver City Council on Natural Gas Heating Policy for New Housing Trevor Halford Hon. Adrian Dix Tabling Documents Office of the Merit Commissioner, annual report, 2025-26 Petitions Jennifer Blatherwick Jody Toor Brennan Day Orders of the Day Government Motions on Notice Motion 18 — Extension of Sitting Hours on May 27 Hon."
+    },
+    {
+      "rank": 11,
+      "score": 3.3449,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "Renewable Resources – Hydroelectric Energy\n11.14 BC needs a common sense approach to power production centered around affordability, reliability, and\n independence. To achieve this, the Conservative Party of BC will:\n (a) Reverse the NDP’s radical plans to ban natural gas heating and non-electric vehicles.\n (b) Accelerate BC Hydro’s 10-year transmission and distribution capital plan to keep pace with\n population growth and proactive maintenance needs.\n (c) Support BC Hydro’s drought resilience efforts, which include capital projects and improved\n forecasting and monitoring technology."
+    },
+    {
+      "rank": 12,
+      "score": 2.7779,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "So this minister and this Premier…. The Minister of Energy signs off on a letter from the Minister of Housing interfering in a council decision about banning natural gas. In what world does that make sense — that you have a Minister of Energy that thinks it’s okay for us to interfere in a council decision that bans natural gas? My question is to the Minister of Housing."
+    }
+  ]
+}

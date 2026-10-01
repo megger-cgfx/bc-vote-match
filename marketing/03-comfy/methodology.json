@@ -1,0 +1,149 @@
+{
+  "status": "proven",
+  "generated": "2026-10-01T02:45:00-07:00",
+  "proven_at": "2026-10-01T15:20:00-07:00",
+  "instance_id": "<instance-id>",
+  "instance_note": "provenance block below was re-pointed from the dead instance <instance-id> to the live RTX 2080 Ti box <instance-id>; <instance-id> no longer exists",
+  "reachability": {
+    "ssh_resolution": "vastai ssh-url <instance-id> (authoritative; never hand-build host/port)",
+    "helper": "<vast-ssh-helper> <instance-id> '<cmd>'",
+    "comfyui_internal_url": "http://localhost:18188",
+    "api_wrapper_internal_url": "http://localhost:18288",
+    "comfyui_root": "/workspace/ComfyUI",
+    "output_dir": "/workspace/ComfyUI/output",
+    "verified": "2026-10-02: /system_stats returns 200 and lists RTX 2080 Ti, 23262527488 bytes VRAM"
+  },
+  "api": {
+    "submit": {
+      "method": "POST",
+      "url": "http://localhost:18188/prompt",
+      "body": {
+        "prompt": "<class_type graph>"
+      }
+    },
+    "poll": {
+      "method": "GET",
+      "url": "http://localhost:18188/history/<prompt_id>",
+      "result_path": "outputs.<node>.images[]"
+    },
+    "queue_gate": {
+      "method": "GET",
+      "url": "http://localhost:18188/queue",
+      "condition": "queue_running and queue_pending both empty"
+    },
+    "verified": "proven 2026-10-01 by prompt_id 7b8b0aa5-266d-4dd9-9070-ab63d25403da"
+  },
+  "lock_protocol": {
+    "lock_dir": "/workspace/locks/comfy.lock",
+    "acquire": "mkdir /workspace/locks/comfy.lock (atomic; non-zero exit = held), retry ~10s backoff up to lock_timeout (default 900s)",
+    "holder_file": "<lock_dir>/holder with pid, hostname, ISO timestamp",
+    "queue_gate": "GET /queue; wait until running and pending are empty before POST /prompt",
+    "release": "rm -f holder; rmdir <lock_dir> in a finally block",
+    "stale_after_seconds": 1200,
+    "stale_action": "log 'stale lock taken over' and take it (rm -rf + mkdir)",
+    "failure_modes": [
+      "crash between acquire and finally leaves the lock until the 20-minute stale timer",
+      "two agents racing on a stale lock: last mkdir wins, loser backs off and re-gates on /queue",
+      "rmdir fails on a leftover holder file: we rm -f holder first",
+      "staleness uses the box's own date/stat, so local clock skew is irrelevant"
+    ],
+    "verified": "exercised end to end by the proven run (acquire, holder write, queue gate, release)"
+  },
+  "workflow": {
+    "file": "marketing/03-comfy/example-workflow-flux.json",
+    "model": "flux1-schnell-fp8.safetensors",
+    "loader": "CheckpointLoaderSimple (all-in-one fp8 checkpoint: diffusion + T5 + CLIP + VAE bundled)",
+    "steps": 4,
+    "cfg": 1.0,
+    "sampler": "euler",
+    "scheduler": "simple",
+    "width": 1216,
+    "height": 576,
+    "batch_size": 1,
+    "seed": 20261002,
+    "prompt": "a calm Pacific Northwest coastline at dawn, soft mist over evergreen trees along a rocky shore, gentle muted colours, wide landscape, photographic, neutral mood"
+  },
+  "measured": {
+    "prompt_id": "7b8b0aa5-266d-4dd9-9070-ab63d25403da",
+    "wall_clock_s": 75.9,
+    "wall_clock_scope": "comfy_run.py end to end: lock acquire + queue gate + submit + history polling (5s granularity) + scp back + PNG validation",
+    "comfyui_execution_s": 25.255,
+    "comfyui_execution_scope": "execution_start -> execution_success timestamps from /history (includes checkpoint load, 4 sampling steps, VAE decode, save)",
+    "gpu_s": null,
+    "gpu_s_note": "not exposed by ComfyUI history; use comfyui_execution_s as the job time",
+    "vram_peak_mb": 19074,
+    "vram_peak_method": "nvidia-smi memory.used sampled every ~1.2s on the box across the whole job window (123 samples), max taken",
+    "vram_baseline_mb": 166,
+    "vram_note": "comfy_run.py's own sampler reported 5252 MB because it snapshots sparsely; the 19074 MB figure from the independent 1s sampler is the real peak. fp8 FLUX.1-schnell on the 22.5GB 2080 Ti: tight but no OOM, no --lowvram needed.",
+    "proof_image": {
+      "path": "marketing/assets/comfy-raw/pipeline-proof.png",
+      "width": 1216,
+      "height": 576,
+      "sha256": "1a23239753dacab153ecf2072329c0abb71a9c1b932af2e49a234d2c7031255a",
+      "bytes": 946833,
+      "looked_like": "coherent photographic-style render of the prompt: misty Pacific NW dawn coastline, rocky shore with scattered stones, small evergreen islet right of centre, mist over a headland, soft pink-blue sky; no noise, no flat rectangle"
+    }
+  },
+  "comfy_run_fixes": [
+    "ssh_base() resolved the DEFAULT_INSTANCE (dead <instance-id>) before the --instance override was consulted; now ssh_base(args.instance) resolves the passed instance first",
+    "acquire_lock(): the shell fragment $(date +%s) inside a Python %-format string consumed a format arg (TypeError: %d format: a real number is required, not str); escaped as %%%%",
+    "holder-file printf: remote printf %s placeholders were being eaten by Python %-formatting; escaped as %%%%"
+  ],
+  "downloads": {
+    "fetch_order_source": "marketing/03-comfy/DOWNLOADS.md (recommended set only)",
+    "fetcher": "/tmp/fetch_models.sh on the box (sequential aria2c -x8 -s8 -c, resumes via .aria2 control files) left by the interrupted previous worker and kept running; parallel duplicate transfers it raced with were killed and their partials resumed by the script via .aria2 control files; log /tmp/fetch.log",
+    "status": "COMPLETE 2026-10-01 ~15:55 PDT: all 7 recommended-set files on disk and size-verified; 39.38 GB total, every size matches the DOWNLOADS.md expected figures",
+    "achieved": {
+      "flux1-schnell-fp8.safetensors": {
+        "bytes": 17236328572,
+        "gb": 17.236,
+        "dir": "checkpoints",
+        "state": "complete"
+      },
+      "sd_xl_base_1.0.safetensors": {
+        "bytes": 6938078334,
+        "gb": 6.938,
+        "dir": "checkpoints",
+        "state": "complete"
+      },
+      "Chroma1-HD-fp8mixed.safetensors": {
+        "bytes": 9193379316,
+        "gb": 9.193,
+        "dir": "diffusion_models",
+        "state": "complete"
+      },
+      "t5xxl_fp8_e4m3fn_scaled.safetensors": {
+        "bytes": 5157348688,
+        "gb": 5.157,
+        "dir": "text_encoders",
+        "state": "complete"
+      },
+      "ae.safetensors": {
+        "bytes": 335304388,
+        "gb": 0.335,
+        "dir": "vae",
+        "state": "complete"
+      },
+      "minimal_flat_illustration,_emotional_scene.safetensors": {
+        "bytes": 456500044,
+        "gb": 0.457,
+        "dir": "loras",
+        "state": "complete"
+      },
+      "RealESRGAN_x4plus.pth": {
+        "bytes": 67040989,
+        "gb": 0.067,
+        "dir": "upscale_models",
+        "state": "complete"
+      }
+    },
+    "note": "ckpt/ on this image is a symlink of checkpoints/ - do not double-count; all byte counts verified by stat on the box after fetch completion"
+  },
+  "production_guidance_22gb_flux": {
+    "resolution": "1216x576 proven; 1216x832-style landscape plates should fit, but measure before batching",
+    "batch_size": "1 per prompt; keep sequential submission through the lock",
+    "steps_cfg": "FLUX.1-schnell: 4 steps, cfg 1.0, euler/simple (guidance ignored at cfg 1.0)",
+    "vram_expectation": "measured: ~19.1 GB peak at 1216x576 fp8 (22.5 GB card) — about 3.4 GB headroom; larger batches or parallel jobs would OOM",
+    "wall_clock_expectation": "measured: ~25 s job time per 1216x576 4-step image after the checkpoint is loaded; first job of a session pays model load"
+  }
+}

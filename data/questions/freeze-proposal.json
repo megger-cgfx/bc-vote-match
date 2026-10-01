@@ -1,0 +1,185 @@
+[
+  {
+    "id": "q01",
+    "statement": "The province should reinstate and raise the consumer carbon tax to cut emissions, even if it increases the cost of fuel.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "NDP scrapped the consumer carbon tax in 2025; Greens want a rising carbon price; Conservatives and OneBC oppose any consumer carbon tax. Sharp three-way split that also separates the NDP from its 2024 base."
+  },
+  {
+    "id": "q03",
+    "statement": "The province should introduce a wealth tax on the highest earners to fund public services.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "NDP and Greens are open to higher taxes on top earners; Conservatives/OneBC oppose; CentreBC cautious. Tests the left flank against the centre-right."
+  },
+  {
+    "id": "q04",
+    "statement": "BC should balance its budget even in uncertain economic times, cutting spending to get there.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "The ballooning deficit is a top-3 issue for Conservative voters (44%) but near-irrelevant to NDP voters (7%). Conservatives/OneBC centre it; NDP argues invest-first; Greens prioritise climate spend."
+  },
+  {
+    "id": "q10",
+    "statement": "The province should override municipal zoning rules to force more density near transit stations.",
+    "topic": "housing",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "NDP's signature housing intervention; Conservatives and property-rights voices push back; CentreBC is sympathetic; Greens supportive. Tests provincial power over local planning."
+  },
+  {
+    "id": "q11",
+    "statement": "Rent controls should be strengthened and extended to more units.",
+    "topic": "housing",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "NDP/Greens favour; Conservatives/OneBC say rent controls suppress new supply; CentreBC cautious."
+  },
+  {
+    "id": "q18",
+    "statement": "Supportive and social housing should be expanded even in neighbourhoods that object.",
+    "topic": "housing",
+    "dimensions": [
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "A NIMBY test. NDP/Greens/BCE supportive; Conservatives/OneBC emphasise neighbourhood consultation first."
+  },
+  {
+    "id": "q19",
+    "statement": "BC should expand private, for-profit clinics to reduce health-care wait times.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "The sharpest health divide. Conservatives/OneBC favour for-profit expansion; NDP, CentreBC and Greens defend public single-payer."
+  },
+  {
+    "id": "q22",
+    "statement": "The province should fund more supervised consumption sites and safer-supply programs.",
+    "topic": "health",
+    "dimensions": [
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "NDP/Greens support harm reduction; Conservatives/OneBC oppose and prefer treatment-first. High-salience values line."
+  },
+  {
+    "id": "q26",
+    "statement": "The province should impose minimum nurse-to-patient ratios in hospitals.",
+    "topic": "health",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "NDP/CentreBC support staffing mandates; Conservatives prefer administrative flexibility and warn of cost; Greens support."
+  },
+  {
+    "id": "q28",
+    "statement": "BC should approve new liquefied natural gas (LNG) projects to grow the export economy.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "Cross-cutting: NDP champions LNG exports; Greens strongly oppose; Conservatives/OneBC pro. Splits the NDP from its environmental base."
+  },
+  {
+    "id": "q29",
+    "statement": "The province should stop logging old-growth forests.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "social",
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "Greens/BCE strong yes; NDP mixed and balancing forestry jobs; Conservatives/OneBC prioritise the resource economy."
+  },
+  {
+    "id": "q31",
+    "statement": "The province should invest in public transit and rail rather than expanding highways.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "Greens/progressives yes; Conservatives/OneBC are highway-focused. Clear spending-direction split."
+  },
+  {
+    "id": "q37",
+    "statement": "BC should fully implement the Declaration on the Rights of Indigenous Peoples Act (DRIPA).",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "The defining flashpoint of the 2026 campaign. NDP/CentreBC/Greens affirm; Conservatives call repeal a top priority; OneBC is critical. Even though only ~6-13% rank it a top issue, it is a strong values differentiator."
+  },
+  {
+    "id": "q38",
+    "statement": "DRIPA should be amended to make clear that Indigenous nations do not have veto power over resource projects.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic",
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "Conservatives/OneBC framing; Eby has floated amendments to the NDP's own law; splits the NDP base. Pairs with q37 to map the whole debate."
+  },
+  {
+    "id": "q39",
+    "statement": "The province should share resource revenue with First Nations whose territories host the projects.",
+    "topic": "indigenous-reconciliation",
+    "dimensions": [
+      "economic"
+    ],
+    "status": "frozen",
+    "notes": "NDP/Greens/BCE support revenue sharing; Conservatives wary of the precedent; tested by pipeline and LNG benefit agreements."
+  },
+  {
+    "id": "q46",
+    "statement": "Public drug use should be illegal and the decriminalization pilot should not be revived.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "Eby already ended the pilot; Conservatives/OneBC want the ban permanent; Greens/BCE object on health grounds. Post-hoc but sharply differentiating."
+  },
+  {
+    "id": "q47",
+    "statement": "Bail should be made tougher for repeat violent offenders.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "Conservatives/OneBC centre street-crime and bail reform; NDP has moved toward it; Greens/BCE worry about Charter rights and jailing the un-convicted."
+  },
+  {
+    "id": "q48",
+    "statement": "The province should expand involuntary care for people with severe addiction and mental illness.",
+    "topic": "public-safety",
+    "dimensions": [
+      "social"
+    ],
+    "status": "frozen",
+    "notes": "NDP has expanded it (and would go further); Conservatives/OneBC want more; Greens/BCE raise civil-liberties concerns. Cuts across left-right."
+  }
+]

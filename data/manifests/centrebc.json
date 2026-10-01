@@ -1,0 +1,276 @@
+{
+  "party_slug": "centrebc",
+  "note": "CentreBC recon manifest; party pages + all party-authored posts + direct external media",
+  "sources": [
+    {
+      "url": "https://www.centrebc.ca/resources/independent-adjudicator/",
+      "type": "other",
+      "title": "CentreBC: Independent Adjudicator",
+      "published": "2026-09-25"
+    },
+    {
+      "url": "https://www.centrebc.ca/candidates/",
+      "type": "other",
+      "title": "CentreBC: Candidates",
+      "published": "2026-09-23"
+    },
+    {
+      "url": "https://www.centrebc.ca/leader/",
+      "type": "other",
+      "title": "CentreBC: Get to Know Elenore Sturko",
+      "published": "2026-07-18"
+    },
+    {
+      "url": "https://www.centrebc.ca/resources/",
+      "type": "other",
+      "title": "CentreBC: Resources",
+      "published": "2026-07-02"
+    },
+    {
+      "url": "https://www.centrebc.ca/our-policy/",
+      "type": "policy",
+      "title": "CentreBC: Our Policy",
+      "published": "2026-06-18"
+    },
+    {
+      "url": "https://www.centrebc.ca/our-core-values/",
+      "type": "platform",
+      "title": "CentreBC: Our Core Values",
+      "published": "2025-07-25"
+    },
+    {
+      "url": "https://www.centrebc.ca/our-team/",
+      "type": "other",
+      "title": "CentreBC: Our Team",
+      "published": "2025-07-23"
+    },
+    {
+      "url": "https://www.centrebc.ca/vision/",
+      "type": "platform",
+      "title": "CentreBC: Our Vision for B.C.",
+      "published": "2025-07-23"
+    },
+    {
+      "url": "https://www.centrebc.ca/",
+      "type": "platform",
+      "title": "CentreBC: Home",
+      "published": "2025-07-08"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/centrebc-announces-andrew-weaver-as-candidate-in-oak-bay-gordon-head/",
+      "type": "release",
+      "title": "News Release: CentreBC Leader Elenore Sturko welcomes Andrew Weaver as candidate in Oak Bay-Gordon Head",
+      "published": "2026-09-23"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/milobar-flips-again/",
+      "type": "release",
+      "title": "News Release: Milobar flips\u2013Again",
+      "published": "2026-09-22"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/lakhwinder-jhaj-candidate-abbotsford-mission-by-election/",
+      "type": "release",
+      "title": "News Release: CentreBC Names Lakhwinder Jhaj as Candidate for Abbotsford\u2013Mission By-Election",
+      "published": "2026-08-30"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/statement-reconciliation-certainty-and-prosperity/",
+      "type": "release",
+      "title": "Statement: Reconciliation, Certainty, and Prosperity",
+      "published": "2026-08-13"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/ndp-marches-in-pride-parade-while-cutting-hiv-care-funding/",
+      "type": "release",
+      "title": "Opinion: NDP Marches in Pride Parade While Cutting HIV Care Funding",
+      "published": "2026-08-05"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/british-columbians-deserve-answers-as-wildfires-rage/",
+      "type": "release",
+      "title": "Statement: British Columbians Deserve Answers as Wildfires Rage",
+      "published": "2026-08-03"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/bc-deserves-better-than-chaos-or-extremism/",
+      "type": "release",
+      "title": "Opinion: BC Deserves Better Than Chaos or Extremism",
+      "published": "2026-07-31"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/former-cabinet-minister-mike-bernier-to-lead-centrebc/",
+      "type": "release",
+      "title": "Former Cabinet Minister Mike Bernier to Lead CentreBC",
+      "published": "2026-07-18"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/ottawa-and-bc-just-moved-toward-centrebc-pipeline-conditions/",
+      "type": "release",
+      "title": "Opinion: Ottawa and B.C. Just Moved Toward CentreBC\u2019s Pipeline Conditions",
+      "published": "2026-07-07"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/centrebc-completes-landmark-first-agm/",
+      "type": "release",
+      "title": "CentreBC Completes Landmark First AGM: New Executive Council Elected, Constitution Adopted, Party Financially Strong",
+      "published": "2026-06-20"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/ai-strategy-vacuum/",
+      "type": "release",
+      "title": "Opinion: B.C.&#8217;s AI Strategy Vacuum Is Leaving Schools to Fend for Themselves \u2014 and Preparing Students for the Wrong Game",
+      "published": "2026-06-18"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/statement-resurrecting-zombie-political-parties-wont-build-the-future/",
+      "type": "release",
+      "title": "Statement: Resurrecting Zombie Political Parties Won\u2019t Build the Future",
+      "published": "2026-06-12"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/opinion-healthcare-crisis-was-never-a-surprise/",
+      "type": "release",
+      "title": "Opinion: Healthcare &#8220;Crisis&#8221; Was Never a Surprise",
+      "published": "2026-06-08"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/bc-conservatives-elect-hard-right-leader/",
+      "type": "release",
+      "title": "BC Conservatives Elect Hard Right Leader",
+      "published": "2026-05-30"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/fool-me-once/",
+      "type": "release",
+      "title": "Opinion: Fool me once\u2026",
+      "published": "2026-05-27"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/centrebc-agm-next-phase-of-growth/",
+      "type": "release",
+      "title": "CentreBC Prepares for First AGM, Leadership Change, and Next Phase of Growth",
+      "published": "2026-03-19"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/opinion-the-hard-work-of-certainty-resolving-bcs-original-sin/",
+      "type": "release",
+      "title": "Opinion: The Hard Work of Certainty: Resolving B.C.\u2019s Original Sin",
+      "published": "2026-03-06"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/opinion-bc-legislative-gong-show-why-we-need-a-new-alternative/",
+      "type": "release",
+      "title": "Opinion: B.C.\u2019s Legislative Gong Show: Why We Need a New Alternative Now",
+      "published": "2026-02-28"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/budget-2026-a-blueprint-for-bankruptcy/",
+      "type": "release",
+      "title": "Budget 2026: A Blueprint for Bankruptcy",
+      "published": "2026-02-19"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/budget-2026-managing-decline-is-not-leadership/",
+      "type": "release",
+      "title": "Budget 2026: Managing Decline is Not Leadership",
+      "published": "2026-02-16"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/opinion-ending-intimate-partner-violence-requires-more-than-announcements/",
+      "type": "release",
+      "title": "Opinion: Ending intimate partner violence requires more than announcements",
+      "published": "2026-02-11"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/statement-tragic-shooting-in-tumbler-ridge/",
+      "type": "release",
+      "title": "Statement: Tragic shooting in Tumbler Ridge",
+      "published": "2026-02-10"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/opinion-facing-trump-threat-bc-needs-more-than-government-by-clickbait/",
+      "type": "release",
+      "title": "Opinion: Facing Trump Threat, BC Needs More Than Government by Clickbait",
+      "published": "2026-01-13"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/bc-conservatives-applaud-trump-aggression-against-another-country/",
+      "type": "release",
+      "title": "News Release: BC Conservatives Applaud Trump Aggression Against Another Country",
+      "published": "2026-01-07"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/centrebc-demands-provincial-action-on-closure-of-crofton-mill/",
+      "type": "release",
+      "title": "News Release: CentreBC Demands Provincial Action on Closure of Crofton Mill",
+      "published": "2025-12-05"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/centrebc-slams-ndp-look-west-plan-as-more-empty-promises/",
+      "type": "release",
+      "title": "News Release: CentreBC slams NDP &#8216;Look West&#8217; Plan as more empty promises",
+      "published": "2025-11-19"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/centrebc-unveils-3-step-plan-to-crush-transnational-extortion-terrorizing-surrey/",
+      "type": "release",
+      "title": "News Release: CentreBC Unveils 3-Step Plan to Crush Transnational Extortion Terrorizing Surrey",
+      "published": "2025-11-06"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/news-release-eby-tariff-ad-upsets-team-canada-approach-to-trade/",
+      "type": "release",
+      "title": "News Release: Eby Tariff Ad Upsets Team Canada Approach to Trade",
+      "published": "2025-10-30"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/news-release-centrebc-sets-five-hard-conditions-for-any-northern-pipeline/",
+      "type": "release",
+      "title": "News Release: CentreBC sets five hard conditions for any Northern Pipeline",
+      "published": "2025-10-23"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/news-release-eby-remains-uncommitted-to-workers-rewards-friends/",
+      "type": "release",
+      "title": "News Release: Eby Remains Uncommitted to Workers, Rewards Friends",
+      "published": "2025-10-16"
+    },
+    {
+      "url": "https://www.centrebc.ca/news/news-release/former-mla-karin-kirkpatrick-officially-launches-centrebc/",
+      "type": "release",
+      "title": "Former MLA Karin Kirkpatrick officially launches CentreBC",
+      "published": "2025-04-10"
+    },
+    {
+      "url": "https://globalnews.ca/news/12072863/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc/",
+      "type": "media",
+      "title": "Global News: Elenore Sturko's roller-coaster political ride lands her as leader of CentreBC",
+      "published": "2026-09-25"
+    },
+    {
+      "url": "https://www.ctvnews.ca/vancouver/article/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc/",
+      "type": "media",
+      "title": "CTV News: B.C. election: Elenore Sturko lands as leader of CentreBC",
+      "published": "2026-09-25"
+    },
+    {
+      "url": "https://www.timescolonist.com/2026-bc-votes/elenore-sturkos-roller-coaster-political-ride-lands-her-as-leader-of-centrebc-12824686",
+      "type": "media",
+      "title": "Times Colonist: Elenore Sturko's roller-coaster political ride lands her as leader of CentreBC",
+      "published": "2026-09-25"
+    },
+    {
+      "url": "https://coastmountainnews.com/2026/09/25/centre-bc-leader-elenore-sturko-running-in-surrey-south-for-provincial-election/",
+      "type": "media",
+      "title": "Coast Mountain News: Centre BC leader Elenore Sturko running in Surrey South for provincial election",
+      "published": "2026-09-25"
+    },
+    {
+      "url": "https://donshafer1.substack.com/p/bc-election-2026-a-conversation-with-acd",
+      "type": "media",
+      "title": "Don Shafer: BC Election 2026 - A Conversation with Elenore Sturko",
+      "published": ""
+    }
+  ]
+}

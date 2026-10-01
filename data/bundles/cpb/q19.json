@@ -1,0 +1,107 @@
+{
+  "question_id": "q19",
+  "statement": "BC should allow more private, for-profit clinics to operate.",
+  "topic": "health",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T20:29:55Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "allow",
+    "private",
+    "for-profit",
+    "clinics",
+    "operate"
+  ],
+  "sources_searched": 54,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.6862,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "○ Furthermore, contrary to criticisms of the SSI, the province's universal\n access to healthcare was not compromised by contracting medical\n procedures to privately owned for-proﬁt clinics."
+    },
+    {
+      "rank": 2,
+      "score": 1.9351,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "By signing long-term contracts to ensure ﬁnancial viability, we will attract those who\nwant to open publicly funded non-governmental clinics. This allows new clinics to have\nthe certainty to purchase equipment, train, and recruit & hire staff."
+    },
+    {
+      "rank": 3,
+      "score": 1.5252,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "published": "2026-05-28",
+      "quote": "In my opinion, she would earn a lot more in the private sector. I note that the member for Surrey–Serpentine River when she was the mayor received a car allowance. I note that members in this place, when they drive, receive mileage. I note that federal deputies receive car allowances."
+    },
+    {
+      "rank": 4,
+      "score": 1.449,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Expanding IVF capacity in BC by working in partnership with private sector\n experts to expand capacity in fertility clinics, ensuring that couples can access\n timely and effective care."
+    },
+    {
+      "rank": 5,
+      "score": 1.0229,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "That’s also making the numbers at brick-and-mortar a little more tenuous, at best, in terms of what we’re seeing. [5:15 p.m.] Have there been discussions with nations around the revenue agreement that brick-and-mortar casinos have in order to operate within British Columbia, in terms of a change of that or an expectation of a change with that with the change in ownership as well? Hon. Brenda Bailey : Casino sales, including the recent sales to First Nations, are private commercial transactions."
+    },
+    {
+      "rank": 6,
+      "score": 1.0224,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "How do we make sure those silos don’t start, and how do we address them, going forward? I think that many of these details would allow communities to understand how the processes operate and figure out how they can be involved in it. I think that this bill reflects some of the direction identified through engagement, particularly around earlier issue resolution and structured collaboration between governments. But I think most of the most important expectations identified in the report remain deferred to regulation rather than established in this statute."
+    },
+    {
+      "rank": 7,
+      "score": 0.9486,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "As we move to committee stage, I look forward to examining how the changes proposed in Bill 15 will operate in practice. I think that it allows us to examine how those are implemented and perhaps see the template. In legislation that introduces new coordination mechanisms and new issue resolution pathways within the EA program, I think that distinction matters. I think that it’s important that we put it on the record so that all of the proponents that are looking to invest in British Columbia clearly know what to expect when this bill passes and what it means for investing in B.C., that we clearly get that done."
+    },
+    {
+      "rank": 8,
+      "score": 0.8885,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "Spencer Chandra Herbert : Well, the province was not party to those conversations between a private company and the K’ómoks Nation. So of course, as we were not part of it, the member’s characterization of us allowing those talks to collapse is probably more of a political argument. We were not involved in those conversations, so we couldn’t have been involved in the discussion or be characterized as the member did. [3:45 p.m.] Brennan Day : Certainly, the base of this problem is that the buck has been passed between your ministry and the Ministry of Forests, and there has been no resolution."
+    }
+  ]
+}

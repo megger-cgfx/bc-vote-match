@@ -1,0 +1,74 @@
+{
+  "question_id": "q19",
+  "statement": "BC should allow more private, for-profit clinics to operate.",
+  "topic": "health",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:35:41Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "allow",
+    "private",
+    "for-profit",
+    "clinics",
+    "operate"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 1.2066,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Then we have to decide: what is the right thing to say, and more importantly, what is the right thing to do? It’s to honour and trust what people have placed on me. That is the duty to lead. For some, maybe, that’s easy and the set of values that they operate on and with allows for the answers to arrive without great distress or journey."
+    },
+    {
+      "rank": 2,
+      "score": 1.0798,
+      "source_id": "onebc-0002",
+      "source_type": "platform",
+      "title": "OneBC — Home (mission & issue summaries)",
+      "url": "https://1bc.ca/",
+      "archive_url": "http://web.archive.org/web/20260930142037/https://1bc.ca/",
+      "published": "",
+      "quote": "Housing Increase the allowable yearly cut, reduce stumpage fees for lumber companies, and speed up permit approvals to let BC’s forest industry grow. Forestry Private healthcare alongside fully-funded public healthcare, and a shift of administration spending to frontline employees and resources. Healthcare 25% tax cuts for every single tax bracket — including corporate, a 2% PST reduction, and pipeline approval to foreign markets. End DRIPA and UNDRIP."
+    },
+    {
+      "rank": 3,
+      "score": 0.9685,
+      "source_id": "onebc-0018",
+      "source_type": "other",
+      "title": "Wikipedia: OneBC (political party) - history and policy summary",
+      "url": "https://en.wikipedia.org/wiki/OneBC_(political_party)",
+      "archive_url": "http://web.archive.org/web/20260923165706/https://en.wikipedia.org/wiki/OneBC_(political_party)",
+      "published": "",
+      "quote": "[ 19 ] [ 21 ] On September 22, 2026, Conservative MLA for Surrey South , Brent Chapman crossed the floor from the Conservatives to OneBC, bringing the party to official status in the legislature. [ 22 ] Policies [ edit ] OneBC outlined a number of its policies in a press release on June 12, 2025. The party proposes cutting income taxes , allowing private healthcare , ending \"mass immigration\", defunding \"the reconciliation industry\" and banning teacher strikes. [ 23 ] It has also called for an end to mail-in voting and early voting , as well as for all votes to be counted by hand."
+    },
+    {
+      "rank": 4,
+      "score": 0.9373,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I will just end with the words and tone, just like the AG. I genuinely hope that’s where we will get to today, because too much is at stake. For too long, we have allowed this government to play political games, instead of actually working to solve the problem and the mess this government has created. I genuinely hope that today we can discuss and debate the issues that truly matter to British Columbians — the growing deficit, jobs for younger generations, senior care, long ER wait times, private property rights, growing our economy, strengthening our education system and improving public safety."
+    },
+    {
+      "rank": 5,
+      "score": 0.8942,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "I want to start off by revisiting the very specific wording in the motion just to ground the conversation a little bit that we’re having here today and to allow for the public to understand, as we’ve worked really hard, what processes happen within the House and what they really mean. There has been misunderstanding about the difference between a private member’s bill — which could be debated as legislation, which could be passed; the chances of that are very different than legislation that governments would bring forward — or the ability for members to bring forward motions and the difference of when government has the ability to bring forward motions that can be debated."
+    }
+  ]
+}

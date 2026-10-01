@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q01",
+    "statement": "The province should reinstate the consumer carbon tax on fuel.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Dropped 'and raise' second idea and the leading 'even if' cost clause."
+  },
+  {
+    "id": "q02",
+    "statement": "The government should cut income taxes for middle- and higher-income earners.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed the 'even if smaller public services' second idea; named the tax."
+  },
+  {
+    "id": "q03",
+    "statement": "The province should introduce a wealth tax on the largest personal fortunes.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Fixed confusion between a wealth tax and taxes on high earners."
+  },
+  {
+    "id": "q04",
+    "statement": "BC should balance the provincial budget by cutting spending.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Merged two clauses into one policy direction; dropped 'even in uncertain times'."
+  },
+  {
+    "id": "q05",
+    "statement": "The government should cap retail prices for essentials such as groceries and fuel.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed leading 'to fight the rising cost of living' framing."
+  },
+  {
+    "id": "q06",
+    "statement": "The minimum wage should rise automatically with inflation.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed the 'even if it pressures small businesses' second idea."
+  },
+  {
+    "id": "q07",
+    "statement": "BC should reduce the deficit mainly by shrinking the size of the public service.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q08",
+    "statement": "Cost-of-living relief should be delivered through targeted rebates to low-income households.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": true,
+    "change_reason": "Removed the 'rather than broad tax cuts' second idea; one policy direction."
+  },
+  {
+    "id": "q09",
+    "statement": "The province should raise taxes on large corporations to pay for public services.",
+    "topic": "cost-of-living-taxes",
+    "dimensions": ["economic"],
+    "revised": false,
+    "change_reason": ""
+  }
+]

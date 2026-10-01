@@ -1,0 +1,51 @@
+{
+  "question_id": "q22",
+  "statement": "The province should fund more supervised consumption sites.",
+  "topic": "health",
+  "party_slug": "centrebc",
+  "generated_at": "2026-10-01T18:26:58Z",
+  "method": "keyword + tf-idf over data/raw/centrebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "fund",
+    "supervised",
+    "consumption",
+    "sites"
+  ],
+  "sources_searched": 56,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 14.2865,
+      "source_id": "centrebc-0058",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-05 am: home care, home support, hospital capital projects (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "archive_url": "https://web.archive.org/web/20261001085859/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260305am-Hansard-n133.html",
+      "published": "2026-03-05",
+      "quote": "The purpose of this bill is simple — to end all provincial funding and enablement for unlawful drug use. Today millions in taxpayer dollars fund government-sanctioned drug consumption sites that permit the ongoing use of illegal substances. That will end. Under this bill, all 58 provincially authorized drug consumption sites will be shut down within six months."
+    },
+    {
+      "rank": 2,
+      "score": 2.4018,
+      "source_id": "centrebc-0060",
+      "source_type": "hansard",
+      "title": "Hansard 2026-05-04 pm: Health Ministry estimates debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "archive_url": "https://web.archive.org/web/20261001090008/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260504pm-Hansard-n171.html",
+      "published": "2026-05-04",
+      "quote": "We would have simply taken the first question at face value, which was a question that later turned out — literally, by “later,” the next question or two — to not be entirely accurate and not paint an accurate picture of something as fundamentally important as the expansion of online gaming or not and the regulatory framework that would look like for online gaming in British Columbia. To the average person at home, you might think: “Well, what’s the big deal around that?” Well, there are pros and cons with gaming, and there are pros and cons with online gaming especially, in terms of addiction, in terms of gambling problems and issues that come forward in that way."
+    },
+    {
+      "rank": 3,
+      "score": 1.604,
+      "source_id": "centrebc-0057",
+      "source_type": "hansard",
+      "title": "Hansard 2026-02-24 pm: Budget debate (Sturko)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "archive_url": "https://web.archive.org/web/20261001085827/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260224pm-Hansard-n124.html",
+      "published": "2026-02-24",
+      "quote": "We have an approach that really brings together all partners to support this work, including investments by the province of $187,000 in CSTEP and site funding, which supports the police with their enhanced downtown foot patrol, ensuring that they have a presence. We’ve invested in a situation table for youth. We know that it takes a village and that we need to work together to get these results. Budget 2026 provides essential public services with new investments in education, health care and social supports, and it also introduces updated revenue measures and careful capital spending to maintain our long-term fiscal stability."
+    }
+  ]
+}

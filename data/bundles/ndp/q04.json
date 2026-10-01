@@ -1,0 +1,129 @@
+{
+  "question_id": "q04",
+  "statement": "BC should balance the provincial budget by cutting spending.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T20:29:55Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "balance",
+    "provincial",
+    "budget",
+    "cutting",
+    "spending"
+  ],
+  "sources_searched": 46,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.5726,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Importantly, these investments were made even as the provincial budget was either balanced or ran surpluses year over year. Farmers and stakeholders recognized that a well-funded ALC was essential to maintain B.C.’s farmland for future generations. Fast-forward to Budget 2026, and we see a troubling pattern. ALC’s operating budget is flat, at $5.5 million, now for multiple years in a row."
+    },
+    {
+      "rank": 2,
+      "score": 5.1742,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Balance budgets within 4 years, aiming towards running surplus budgets Plan page Balanced budgets within 4 years, with an aim towards running surplus budgets Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities . Put a portion of budget surpluses towards debt repayment Plan page A portion of budget surpluses will be put towards debt repayment to quickly reduce the costs of debt servicing in the budget Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities . 1 more from OneBC Shift administration/HR spending to frontline employees and resources Plan page Shift administration/HR spending to frontline employees and resources Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities ."
+    },
+    {
+      "rank": 3,
+      "score": 4.1884,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "That means fewer dollars available for long-term-care beds, health care recruitment, infrastructure and, certainly, education. Debt interest payments are becoming one of the largest spending items in government, only behind health and education, and this trajectory is simply unsustainable. It makes it clear that British Columbians simply can’t afford more of this NDP government. Now, as a former chamber of commerce president, I can tell you that this is one of the most concerning provincial budgets I’ve seen in several years for small businesses."
+    },
+    {
+      "rank": 4,
+      "score": 3.7124,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "Again, British Columbians and myself are asking: where has all the money gone? Well, let’s look at record spending, record debt and record disappointment. Government spending has exploded from $52 billion in 2017 to nearly $98.8 billion today, a 90 percent increase in less than a decade. The bureaucracy has grown dramatically — tens of thousands of additional full-time-equivalent positions over the past decade — yet this budget now proposes cutting 15,000 FTEs without any credible or transparent plan."
+    },
+    {
+      "rank": 5,
+      "score": 3.6062,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Budget 2026 does not adequately address the structural realities facing rural and remote communities. Although overall spending continues, the budget still lacks the rural-specific design, targeting and accountability needed to improve real access. “Our concern is straightforward: broad provincial commitments do not automatically produce equitable rural outcomes. Instead, in many areas, this budget relies on systemwide framing rather than rural-specific solutions."
+    },
+    {
+      "rank": 6,
+      "score": 3.4985,
+      "source_id": "ndp-0024",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "So while the government promises no cuts to front-line services, it quietly chips away at school budgets instead. Education spending continues to fall as both a percentage of operating spending and a percentage of B.C.’s gross domestic product. In 2026-27, this coming fiscal, the provincial government will spend 4.3 percent of GDP on education — on the most important component in building the type of future workforce, skilled workforce and healthy, well-supported families that are needed for us to prosper as a province. And 4.3 percent is a shockingly low number."
+    },
+    {
+      "rank": 7,
+      "score": 3.3838,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Cutting housing capital doesn’t save money. It simply shifts the cost somewhere else. In tight fiscal times, the real test of a budget is what we choose to protect, and the people who depend on social housing deserved better. In transportation, I see a capital spending of $13.8 billion across three years."
+    },
+    {
+      "rank": 8,
+      "score": 2.223,
+      "source_id": "ndp-0027",
+      "source_type": "hansard",
+      "title": "Hansard - Apr 14 2026 Morning, Issue No. 151",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "archive_url": "http://web.archive.org/web/20261001075729/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260414am-Hansard-n151.html",
+      "published": "2026-04-14",
+      "quote": "Agricultural Insurance Program and Support for Farmers Ian Paton : Farmers in British Columbia are facing rising costs, climate uncertainty and growing risks to their operations. Yet this year’s provincial budget includes a $16 million cut to the agricultural insurance program, a program designed specifically to help farmers manage those risks during drought, climate change, landslides and frozen blueberry bushes and grapevines. To the Minister of Agriculture, at a time when food security and food sovereignty should be a priority, why is the government reducing support for farmers who rely on this program to protect their crops and their livelihoods? Hon."
+    },
+    {
+      "rank": 9,
+      "score": 2.1,
+      "source_id": "ndp-0014",
+      "source_type": "release",
+      "title": "OneBC Platform would raise deficit by 10 billion, force massive cuts",
+      "url": "https://www.bcndp.ca/releases/onebc-platform-would-raise-deficit-10-billion-force-massive-cuts",
+      "archive_url": "http://web.archive.org/web/20260927065825/https://www.bcndp.ca/releases/onebc-platform-would-raise-deficit-10-billion-force-massive-cuts",
+      "published": "2026-09-26",
+      "quote": "OneBC Platform would raise deficit by $10 billion, force massive cuts Donate $5 $10 $20 $50 $100 Other Meet David Eby Team Volunteer Events Media Centre Results for You Join us Thanks for adding your name We're so happy to have you on David Eby's BC NDP team. We'll be in touch soon. September 26, 2026 OneBC Platform would raise deficit by $10 billion, force massive cuts Share Share OneBC’s reckless platform would set British Columbia back and force people to pay the cost with massive cuts to healthcare and services. Their plan to cut personal and corporate income taxes by 25% and slash the PST would blow a $10.6 billion hole in the provincial budget."
+    },
+    {
+      "rank": 10,
+      "score": 1.5407,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Also posted: YouTube: OneBC believes that You Can Spend Your money Better Than The Government Can! , September 29 . Cut 2% off the Provincial Sales Tax (PST) Plan page 2% off the Provincial Sales Tax (PST) Plan page, 1bc.ca/priorities: Our Plan, 1bc.ca/priorities . Also posted: YouTube: OneBC believes that You Can Spend Your money Better Than The Government Can!"
+    }
+  ]
+}

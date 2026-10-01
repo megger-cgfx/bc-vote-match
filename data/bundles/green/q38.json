@@ -1,0 +1,155 @@
+{
+  "question_id": "q38",
+  "statement": "DRIPA should be amended to make clear that Indigenous nations do not have veto power over resource projects.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:22Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "dripa",
+    "amended",
+    "clear",
+    "indigenous",
+    "nations",
+    "veto",
+    "power",
+    "resource",
+    "projects"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 6.586,
+      "source_id": "green-0034",
+      "source_type": "media",
+      "title": "CBC: B.C. Greens pull out of governing accord with B.C. NDP",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-greens-pull-out-of-governing-accord-with-b-c-ndp-9.7081452",
+      "archive_url": "http://web.archive.org/web/20260217181432/https://www.cbc.ca/news/canada/british-columbia/b-c-greens-pull-out-of-governing-accord-with-b-c-ndp-9.7081452",
+      "published": "2026-02-09",
+      "quote": "fast-tracking 18 resource projects to reduce reliance on United States Lowan said the B.C. NDP is ceding its values to “corporate interests,” isn't supporting workers and is wrong to amend the Declaration on the Rights of Indigenous Peoples Act (DRIPA). “We are proud to be the only party in British Columbia consistently standing up for the workers — on labour, on affordability and on our climate,” she said. WATCH | Greens terminate CARGA: B.C."
+    },
+    {
+      "rank": 2,
+      "score": 5.8847,
+      "source_id": "green-0020",
+      "source_type": "media",
+      "title": "BC Greens focus on renters and childcare as NDP and Conservatives roll out economic plans (Victoria Buzz)",
+      "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "archive_url": "https://web.archive.org/web/20261001084105/https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "published": "",
+      "quote": "Lowan criticized both the BC NDP and BC Conservatives for supporting further LNG development, arguing that public resources should instead be directed toward renewable energy and Canadian and community-owned industries. She also raised concerns about the long-term employment benefits of the expansion, its environmental impacts and Indigenous nations that oppose projects connected to LNG development. The Greens said they would instead prioritize renewable energy projects and unionized jobs while increasing community ownership of energy infrastructure. The LNG Canada decision highlights one of the clearer differences emerging between the three parties during the campaign."
+    },
+    {
+      "rank": 3,
+      "score": 5.5177,
+      "source_id": "green-0029",
+      "source_type": "release",
+      "title": "BC Greens' statement on National Day for Truth and Reconciliation",
+      "url": "https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+      "archive_url": "http://web.archive.org/web/20261001080835/https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+      "published": "2026-09-30",
+      "quote": "Indigenous leaders have been clear that “economic urgency does not override our inherent and constitutionally protected First Nations title and rights, nor does it diminish the Crown’s obligation to consult and cooperate in good faith with First Nations in order to obtain their free, prior, and informed consent before approving or advancing projects affecting our lands, territories or resources”, and made clear the protections for Indigenous women, girls, and 2-spirited people that must be centered in any discussion on extractive industry."
+    },
+    {
+      "rank": 4,
+      "score": 4.2596,
+      "source_id": "green-0029",
+      "source_type": "release",
+      "title": "BC Greens' statement on National Day for Truth and Reconciliation",
+      "url": "https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+      "archive_url": "http://web.archive.org/web/20261001080835/https://bcgreens.ca/statement-on-national-day-for-truth-and-reconciliation/",
+      "published": "2026-09-30",
+      "quote": "In a time of rising division, where anti-Indigenous racism is rife in political discourse, where masked men walk on the lands of Indigenous nations, to intimidate and spread hatred, we must be absolutely clear that the rights of Indigenous people are inherent, existing, and inextinguishable. On this National Day for Truth and Reconciliation, the BC Greens recommit to standing with Indigenous rights, to confront hatred and disinformation, and to uphold Indigenous self-determination. To that end, we pledge to: Remove uncertainty and opacity that currently exists by implementing the Declaration on the Rights of Indigenous Peoples Act (DRIPA) through legislation."
+    },
+    {
+      "rank": 5,
+      "score": 3.5682,
+      "source_id": "green-0006",
+      "source_type": "release",
+      "title": "Statement from Emily Lowan on LNG Canada Phase 2",
+      "url": "https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+      "archive_url": "https://web.archive.org/web/20261001083232/https://bcgreens.ca/statement-from-emily-lowan-on-lng-canada-phase-2/",
+      "published": "2026-09-30",
+      "quote": "The BC Greens will put that money to work here instead—building out renewable energy, backed by good union jobs that don’t disappear the moment a foreign shareholder changes their mind. Power that’s owned by our communities, not leased from a pipeline. Energy that brings our bills down instead of tying them to a roller coaster gas price. On the eve of the National Day for Truth and Reconciliation, my heart goes out to all the Indigenous nations that have opposed this project, were never consulted, and have been standing up to protect their lands."
+    },
+    {
+      "rank": 6,
+      "score": 3.3441,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "That’s still the case. I wasn’t totally clear, though, just to the member’s question. The duty of government to consult on major projects, like major resource projects or other projects, is not created by the Declaration Act. It is under section 35 of the Constitution of Canada."
+    },
+    {
+      "rank": 7,
+      "score": 2.9953,
+      "source_id": "green-0020",
+      "source_type": "media",
+      "title": "BC Greens focus on renters and childcare as NDP and Conservatives roll out economic plans (Victoria Buzz)",
+      "url": "https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "archive_url": "https://web.archive.org/web/20261001084105/https://victoriabuzz.com/2026/09/bc-greens-focus-on-renters-and-childcare-as-ndp-and-conservatives-roll-out-economic-plans/",
+      "published": "",
+      "quote": "Conservatives propose LNG expansion and PST relief The Conservative Party of BC has also placed resource development near the centre of its campaign. On Monday, Conservative leader Lorne Doerkson announced what the party calls its BC Energy Superpower Plan, pledging to double the province’s LNG production by 2032 and triple it by 2035. The Conservative proposal calls for faster and more predictable project approvals, additional energy infrastructure, a stable royalty framework and expanded opportunities for First Nations ownership and partnerships in resource projects."
+    },
+    {
+      "rank": 8,
+      "score": 2.7822,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "I’ll use a name here because it’s listed in the press release, Madam Chair. “Premier David Eby and the First Nations Leadership Council have released the following statement regarding the Declaration on the Rights of Indigenous Peoples Act: “‘The government of B.C. will not be introducing legislation to suspend or amend DRIPA or UN declaration–related provisions in the Interpretation Act in the spring legislative session. The government and the First Nations Leadership Council are committed to working together with all First Nations leaders on a path forward to discuss and consider the government’s stated legal concerns, while upholding the title and rights and human rights of First Nations."
+    },
+    {
+      "rank": 9,
+      "score": 2.7046,
+      "source_id": "green-0025",
+      "source_type": "other",
+      "title": "Emily Lowan (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Emily_Lowan",
+      "archive_url": "http://web.archive.org/web/20260908223402/https://en.wikipedia.org/wiki/Emily_Lowan",
+      "published": "",
+      "quote": "[ 24 ] [ 25 ] She successfully campaigned to have the University of Victoria’s working capital fund divest $256 million of investments in fossil fuel corporations. [ 26 ] She is the former Fossil Fuel Supply Campaigns Lead at Climate Action Network Canada. [ 27 ] Indigenous rights [ edit ] Lowan supports the implementation of the Declaration on the Rights of Indigenous Peoples Act (DRIPA), calling for the government to \"build a shared vision with First Nations on a stable, clear path forward with the implementation of DRIPA.\" [ 28 ] Electoral reform [ edit ] Lowan campaigns for reforming British Columbia's electoral system, supporting proportional representation."
+    },
+    {
+      "rank": 10,
+      "score": 2.5754,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "In terms of the environmental assessment process, the process outlined in the K’ómoks treaty is generally in alignment with the process available to all First Nations that are participating Indigenous nations in the Environmental Assessment Act."
+    },
+    {
+      "rank": 11,
+      "score": 2.1427,
+      "source_id": "green-0009",
+      "source_type": "platform",
+      "title": "BC Greens 2026: Our Plan for British Columbia (platform)",
+      "url": "https://bcgreens.ca/our-plan/",
+      "archive_url": "http://web.archive.org/web/20261001075544/https://bcgreens.ca/our-plan/",
+      "published": "",
+      "quote": "Implement a windfall tax on mega-corporation to bring in British Columbians fair share and build our revenue base to pay for community health centres, transit, and reign in the provincial debt. Create a fair royalty deal for oil and gas. We will eliminate the subsidies fossil fuel companies receive, regain control over royalty rates, and ensure existing LNG projects cover their own power costs instead of leaning on the public system. Deliver stronger public returns from B.C.'s natural resources, with community and Indigenous ownership."
+    },
+    {
+      "rank": 12,
+      "score": 2.0998,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Skilled trades are urgently needed for infrastructure, housing, energy development and resource projects, yet workers face barriers to employment because credentials recognized in one province are not automatically recognized in another. A welder does not become less skilled at a provincial border. A nurse does not lose their training when they move west. A heavy-equipment operator doesn’t forget how to run machinery because paperwork differs in different provinces."
+    }
+  ]
+}

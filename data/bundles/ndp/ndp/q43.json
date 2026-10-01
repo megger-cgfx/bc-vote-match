@@ -1,0 +1,153 @@
+{
+  "question_id": "q43",
+  "statement": "The province should prioritise Indigenous-owned businesses in public procurement.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:24Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "prioritise",
+    "indigenous-owned",
+    "businesses",
+    "public",
+    "procurement"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 3.0704,
+      "source_id": "ndp-0006",
+      "source_type": "policy",
+      "title": "Eby pledges new Built in B.C. and Canada buying rules",
+      "url": "https://www.bcndp.ca/releases/eby-pledges-new-built-bc-and-canada-buying-rules",
+      "archive_url": "http://web.archive.org/web/20260927060753/https://www.bcndp.ca/releases/eby-pledges-new-built-bc-and-canada-buying-rules",
+      "published": "2026-09-24",
+      "quote": "and Canada” buying rules Share Share Conservatives would roll over for Trump, cut projects, abandon workers during trade war MAPLE RIDGE – To drive British Columbia’s economic growth in the face of Trump’s trade war and create good jobs for people here, David Eby has committed to bring in new “Built in B.C. and Canada” procurement rules for public infrastructure projects. “With Donald Trump attacking our workers and businesses, we must become our own best customer – making sure we leverage our historic plan to build schools, hospitals, and transportation projects to create more opportunities for people in B.C.,” said David Eby, BC NDP leader."
+    },
+    {
+      "rank": 2,
+      "score": 1.9744,
+      "source_id": "ndp-0043",
+      "source_type": "speech",
+      "title": "FULL SPEECH: Eby calls early B.C. election (CBC live coverage)",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/british-columbia-snap-election-2026-ndp-leader-david-eby-9.7349059",
+      "archive_url": "http://web.archive.org/web/20260924205451/https://www.cbc.ca/news/canada/british-columbia/livestory/british-columbia-snap-election-2026-ndp-leader-david-eby-9.7349059",
+      "published": "2026-09-22",
+      "quote": "British Columbia's next provincial election set for Oct. 24 after Eby calls early vote | CBC Skip to Main Content Accessibility Help Menu Menu Television CBC Gem headphone CBC Listen Search Search Sign In Quick Links News Sports Radio Music Listen Live TV Watch news Top Stories Local Climate World Canada Politics Indigenous Business The National Health Entertainment Science CBC News Investigates Disability Life Go Public About CBC News Being Black in Canada More British Columbia's next provincial election set for Oct. 24 after Eby calls early vote | CBC Loaded RECAP · BRITISH COLUMBIA VOTES British Columbia's next provincial election set for Oct."
+    },
+    {
+      "rank": 3,
+      "score": 1.9337,
+      "source_id": "ndp-0044",
+      "source_type": "media",
+      "title": "1.2M British Columbians have no family doctor even as BC NDP touts successes (CBC)",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/family-doctors-bc-ndp-9.7356810",
+      "archive_url": "http://web.archive.org/web/20260927043839/https://www.cbc.ca/news/canada/british-columbia/family-doctors-bc-ndp-9.7356810",
+      "published": "2026-09-25",
+      "quote": "1.2M British Columbians have no family doctor — even as B.C. NDP touts successes | CBC News Skip to Main Content Accessibility Help Menu Menu Television CBC Gem headphone CBC Listen Search Search Sign In Quick Links News Sports Radio Music Listen Live TV Watch news Top Stories Local Climate World Canada Politics Indigenous Business The National Health Entertainment Science CBC News Investigates Disability Life Go Public About CBC News Being Black in Canada More 1.2M British Columbians have no family doctor — even as B.C. NDP touts successes | CBC News Loaded British Columbia 1.2M British Columbians have no family doctor — even as B.C."
+    },
+    {
+      "rank": 4,
+      "score": 1.9171,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Bring in “Built in B.C. and Canada” procurement rules for public infrastructure projects Sep 24 To drive British Columbia’s economic growth in the face of Trump’s trade war and create good jobs for people here, David Eby has committed to bring in new “Built in B.C. and Canada” procurement rules for public infrastructure projects. bcndp.ca: Eby pledges new “Built in B.C."
+    },
+    {
+      "rank": 5,
+      "score": 1.6784,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "John Rustad : In terms of environmental assessments and approval of projects, in accordance with the Tŝilhqot’in case, the province and the country have the ability to infringe on Indigenous rights, which could include Indigenous title or treaty land, if it’s a project or if it’s something that’s in the interest of the broader public. I’m just wondering whether that still applies. Obviously, I see from here that the intent is to try to have free, prior and informed consent in terms of projects going forward, and I know all opportunity would be considered and taken to try to achieve that."
+    },
+    {
+      "rank": 6,
+      "score": 1.5987,
+      "source_id": "ndp-0036",
+      "source_type": "media",
+      "title": "COST OF LIVING: What is each party promising British Columbians? (Western Standard, 2024)",
+      "url": "https://westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+      "archive_url": "http://web.archive.org/web/20251005125051/https://www.westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+      "published": "2024-10-17",
+      "quote": "COST OF LIVING: What is each party promising British Columbians? Subscribe NEWS NEWS News BC News Alberta News Saskatchewan News Manitoba News Ontario News Eastern News Canadian News USA News International News Reporters OPINION OPINION Opinion Editorials Submit a Letter Letters to the Editor Columnists WATCH WATCH The Pipeline Fildebrandt Cory Morgan Show Hannaford The Business Standard Marty Up North Watch BUSINESS BUSINESS Business Energy Agriculture Real Estate The Business Standard FEATURES FEATURES FEATURES DONATE ABOUT US ABOUT US About Us Editorial Principles News Reporters Opinion Columnists Senior Management Careers Corrections Corrections Policy PUBLICATIONS PUBLICATIONS Free"
+    },
+    {
+      "rank": 7,
+      "score": 1.3041,
+      "source_id": "ndp-0034",
+      "source_type": "media",
+      "title": "BC NDP Unveils $2.9B Platform (2024) Amid Massive Deficit and Fiscal Concerns (Coastal Front)",
+      "url": "https://coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "archive_url": "http://web.archive.org/web/20250807230503/https://www.coastalfront.ca/read/bc-ndp-unveils-29b-platform-amid-massive-deficit-and-fiscal-concerns",
+      "published": "2024-10-04",
+      "quote": "However, Eby’s assurances have not eased concerns from financial analysts and business leaders. Credit rating agencies have flagged BC’s rising capital spending—particularly on infrastructure projects—as a significant risk to the province’s fiscal stability, contributing to recent credit downgrades. Business Reactions and Economic Uncertainty In response to rising deficits and credit downgrades, business leaders have urged the government to adopt a more cautious approach. The Business Council of BC and other groups have emphasized the need for economic clarity, particularly as the province faces public safety concerns and growing debt."
+    },
+    {
+      "rank": 8,
+      "score": 1.2565,
+      "source_id": "ndp-0042",
+      "source_type": "policy",
+      "title": "Strengthening response to vandalism, theft, street disorder (C-POII provincewide, Public Safety ministry)",
+      "url": "https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "archive_url": "http://web.archive.org/web/20260909045354/https://news.gov.bc.ca/releases/2026PSSG0062-000857",
+      "published": "2026-07-23",
+      "quote": "Public safety and justice partners share information to support timely enforcement decisions and stronger court outcomes. People involved with repeat offending are connected with services, such as income assistance, housing, and mental-health and substance-use supports to address underlying factors contributing to offending. “Businesses and communities across British Columbia deserve to feel safe and supported,” said Nina Krieger, Minister of Public Safety and Solicitor General. “That is why we are targeting chronic property offending and dedicating more resources to proven, evidence-based initiatives that strengthen enforcement and support local businesses."
+    },
+    {
+      "rank": 9,
+      "score": 1.2376,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "David Eby : Here are the quotes from business leadership on the introduction of the Declaration Act. Greg D’Avignon, B.C. Business Council: “Business Council of British Columbia membership is optimistic for the long-term potential of B.C.’s UNDRIP legislation to advance meaningful reconciliation. Together, we can collectively inform the work ahead, building on the experience and success of nearly 500 agreements formed over the past two decades between business and Indigenous People, many of which incorporate UNDRIP principles."
+    },
+    {
+      "rank": 10,
+      "score": 1.1901,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "To deal with all situations, all different aspects that involve public safety, if you do not properly fund public safety enforcement tools, that public safety problem will not be resolved. It doesn’t matter which area we are dealing with. Whether it’s schools, religious places where we worship, business venues or neighbourhoods, this government needs to do better. Like I mentioned earlier, we already have laws."
+    },
+    {
+      "rank": 11,
+      "score": 1.1518,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "strong amid Trump’s attacks , September 22 . Support workers and businesses facing tariffs Sep 22 Support workers and businesses facing tariffs, keep costs down for families and strengthen the health care and public services British Columbians rely on more than ever during a trade war. bcndp.ca: David Eby launches election with plan to build B.C. strong amid Trump’s attacks , September 22 ."
+    },
+    {
+      "rank": 12,
+      "score": 1.1266,
+      "source_id": "ndp-0013",
+      "source_type": "policy",
+      "title": "Results for You",
+      "url": "https://www.bcndp.ca/action-for-you",
+      "archive_url": "http://web.archive.org/web/20260927060714/https://www.bcndp.ca/action-for-you",
+      "published": "2024-01-04",
+      "quote": "Business owners can apply for the Security Small Business Rebate to help cover the costs of repairing vandalism and implementing crime prevention measures so they can keep their business strong and our downtowns thriving. Standing up to hate We’re standing up to hate, racism and discrimination to keep people safe and build stronger communities, together. Addressing systemic racism We passed the New Anti-Racism Data Act to safely collect data to help fight systemic racism and break down barriers in government programs. And introduced new Anti-Racism Legislation that requires all provincial public institutions to develop and implement an anti-racism action plan to make sure everyone in B.C."
+    }
+  ]
+}

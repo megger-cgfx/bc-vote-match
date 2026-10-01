@@ -1,0 +1,28 @@
+[
+  {
+    "party_slug": "cpb",
+    "question_id": "q19",
+    "code": 1,
+    "quote": "By signing long-term contracts to ensure ﬁnancial viability, we will attract those who want to open publicly funded non-governmental clinics.",
+    "source_id": "cpb-0052",
+    "source_url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+    "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+    "coder": "cpb-verifier-pass1-window",
+    "version": "v1",
+    "created_at": "2026-10-01T20:10:00Z",
+    "confidence": "medium"
+  },
+  {
+    "party_slug": "cpb",
+    "question_id": "q38",
+    "code": null,
+    "quote": null,
+    "source_id": null,
+    "source_url": null,
+    "archive_url": null,
+    "coder": "cpb-verifier-pass1-window",
+    "version": "v1",
+    "created_at": "2026-10-01T20:10:00Z",
+    "confidence": "low"
+  }
+]

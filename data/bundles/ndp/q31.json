@@ -1,0 +1,154 @@
+{
+  "question_id": "q31",
+  "statement": "The province should prioritize funding for public transit over highway expansion.",
+  "topic": "climate-environment",
+  "party_slug": "ndp",
+  "generated_at": "2026-10-01T18:26:55Z",
+  "method": "keyword + tf-idf over data/raw/ndp/*.txt (stdlib, offline)",
+  "query_terms": [
+    "prioritize",
+    "funding",
+    "public",
+    "transit",
+    "highway",
+    "expansion"
+  ],
+  "sources_searched": 45,
+  "sources_missing_text": [
+    "ndp-0004"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.0127,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "Families in North Vancouver are also benefiting from new child care centres, including 37 new spaces in the Lynn Creek Community Recreation Centre, through the new spaces fund, all eligible for the province’s fee reduction program, to keep child care affordable. Improving affordability includes investing in infrastructure and reliable public transit. Provincial funding is expanding active transportation in North Vancouver. We invested over $300,000 in the Spirit Trail eastern extension in order to add new cycling routes, multi-use pathways and safer pedestrian walkways that connect Horseshoe Bay to Deep Cove."
+    },
+    {
+      "rank": 2,
+      "score": 4.0005,
+      "source_id": "ndp-0026",
+      "source_type": "hansard",
+      "title": "Hansard - Mar 30 2026 Afternoon, Issue No. 143",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "archive_url": "http://web.archive.org/web/20260424064103/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260330pm-House-Blues.htm",
+      "published": "2026-03-30",
+      "quote": "Despite my ministry’s growing and increasingly complicated caseload, our staff continue to find opportunities to improve system efficiencies, reduce administrative costs and prioritize funding to front-line services. We’ve made good progress. Real innovation that has been able to happen during this time — just a couple of examples of responsive and innovative technologies that our public service staff have found and used to keep services stable. Automation of monthly reports to support additional service channels to clients while maintaining program integrity."
+    },
+    {
+      "rank": 3,
+      "score": 2.9323,
+      "source_id": "ndp-0046",
+      "source_type": "speech",
+      "title": "(2024) A stronger BC working better for people: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "published": "2024-02-20",
+      "quote": "Setting municipal targets for new housing construction. Getting more homes built near public transit. Building student housing at an unprecedented pace. And protecting affordable rentals from being turned into luxury condos by big real estate corporations."
+    },
+    {
+      "rank": 4,
+      "score": 2.9132,
+      "source_id": "ndp-0046",
+      "source_type": "speech",
+      "title": "(2024) A stronger BC working better for people: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "archive_url": "https://web.archive.org/web/20261001081340/https://www.bcndp.ca/latest/stronger-bc-working-better-people-read-speech-throne",
+      "published": "2024-02-20",
+      "quote": "Eliminating MSP premiums, the largest middle-class tax cut in a generation. Ending tolls on the Port Mann and Golden Ears bridges. Making public transit free for kids twelve and under. And stopping interest payments on student loans."
+    },
+    {
+      "rank": 5,
+      "score": 2.8491,
+      "source_id": "ndp-0021",
+      "source_type": "release",
+      "title": "(2024) Eby to deliver transportation infrastructure, including building Skytrain from Langley to Abbotsford",
+      "url": "https://bcndp.ca/releases/eby-deliver-transportation-infrastructure-including-building-skytrain-langley-ubc",
+      "archive_url": "http://web.archive.org/web/20241211224802/https://www.bcndp.ca/releases/eby-deliver-transportation-infrastructure-including-building-skytrain-langley-ubc",
+      "published": "2024-10-12",
+      "quote": "“In public, he claims he’ll build more, but behind closed doors he says he would cancel or delay. Cancelling the Langley Skytrain extension and Highway 1 expansion would leave you stuck in traffic. It’s a risk nobody can afford.” In 2008, John Rustad’s old government promised to extend Skytrain in Surrey and to Broadway by 2020, but they never delivered. He also refused to widen Highway 1, even as the population in the Fraser Valley was skyrocketing."
+    },
+    {
+      "rank": 6,
+      "score": 2.5311,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "It has to be an economy that works for people, that supports people in having more money in their pocket at the end of the day. Higher wages. Supports in their communities like affordable child care, strong public transit and strong community infrastructure, including health care, especially in rural British Columbia. We are moving in the right direction on these important issues."
+    },
+    {
+      "rank": 7,
+      "score": 2.4947,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "It is working with municipalities to set ambitious targets to deliver more housing where it is needed most. And it is breaking down permitting barriers that are preventing new homes from getting built quickly. In the months ahead, your government will make major new investments to increase housing and services near public transit hubs around the province. It will also launch a refreshed housing strategy."
+    },
+    {
+      "rank": 8,
+      "score": 2.3633,
+      "source_id": "ndp-0041",
+      "source_type": "speech",
+      "title": "(2023) A BC where we all belong: Speech from the Throne (BC NDP reprint)",
+      "url": "https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "archive_url": "http://web.archive.org/web/20250113125411/https://www.bcndp.ca/latest/bc-where-we-all-belong-read-speech-throne",
+      "published": "2023-02-06",
+      "quote": "It will ensure we build the hospitals, schools, childcare centres, roads, and public transit that make us stronger. It will introduce new measures to address the cost of living, especially for those most vulnerable. And it will help people train for the jobs of the future, while helping businesses find the talent they need to grow. Helping people with costs By far the biggest source of anxiety for people right now is the rising cost of living."
+    },
+    {
+      "rank": 9,
+      "score": 2.3048,
+      "source_id": "ndp-0028",
+      "source_type": "hansard",
+      "title": "Hansard - May 27 2026 Afternoon, Issue No. 186",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "It was important that he was there, and I appreciate his reflections on it. On the important and welcome initiative of local governments and First Nations along the Sea to Sky corridor around transit, I know that this has been a priority of the member’s for some time. He and I have met on multiple occasions and shared the sentiment that this is an important project to serve a congested corridor, one that is seeing more and more traffic, and that strong public transit services are a priority for him and, certainly, for me and for our government. To his specific question, work on initiatives is initiated by, led by ministries."
+    },
+    {
+      "rank": 10,
+      "score": 1.5262,
+      "source_id": "ndp-0025",
+      "source_type": "hansard",
+      "title": "Hansard - Feb 19 2026 Afternoon, Issue No. 120",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "archive_url": "https://web.archive.org/web/20261001081748/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260219pm-Hansard-n120.html",
+      "published": "2026-02-19",
+      "quote": "This government has promised to transition long-term-care homes to stable, hospital-style funding agreements through the Health Employers Association of B.C. That transition was expected to begin this year, but this budget contains no clear funding to help implement that transition. Without that funding, providers cannot hire more staff and they cannot expand capacity. They cannot sign agreements based on promises alone."
+    },
+    {
+      "rank": 11,
+      "score": 1.4268,
+      "source_id": "ndp-0035",
+      "source_type": "media",
+      "title": "BC election platforms 2026: Compare the party platforms (bcballot.ca)",
+      "url": "https://bcballot.ca/platforms/",
+      "archive_url": "https://web.archive.org/web/20261001082612/https://bcballot.ca/platforms/",
+      "published": "2026-10-01",
+      "quote": "Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca . Modernize mining laws to protect communities and prioritize resources BC needs for renewables Plan page Modernize our mining laws to protect communities and prioritize the resources BC needs for a renewable revolution. Plan page, bcgreens.ca/our-plan: Our Plan for British Columbia, bcgreens.ca . BC NDP Continue to support LNG expansion Sep 28 The BC NDP has made a real commitment to continuing to support LNG expansion and rural economic development."
+    },
+    {
+      "rank": 12,
+      "score": 1.0492,
+      "source_id": "ndp-0021",
+      "source_type": "release",
+      "title": "(2024) Eby to deliver transportation infrastructure, including building Skytrain from Langley to Abbotsford",
+      "url": "https://bcndp.ca/releases/eby-deliver-transportation-infrastructure-including-building-skytrain-langley-ubc",
+      "archive_url": "http://web.archive.org/web/20241211224802/https://www.bcndp.ca/releases/eby-deliver-transportation-infrastructure-including-building-skytrain-langley-ubc",
+      "published": "2024-10-12",
+      "quote": "Rustad said: “You’re right. There’s so many projects going on right now. We don’t have the capacity to build them all at the same time.” Rustad’s plan would mean cancelling or delaying projects that people need, like the Surrey-Langley Skytrain extension, or the Highway 1 expansion. “John Rustad broke his promise to build the Surrey-Langley Skytrain and expand Highway 1 before, and how he says we’re building too many infrastructure projects,” said Eby."
+    }
+  ]
+}

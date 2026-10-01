@@ -1,0 +1,153 @@
+{
+  "question_id": "q46",
+  "statement": "Public use of illegal drugs should be banned in BC.",
+  "topic": "public-safety",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T18:27:12Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "public",
+    "use",
+    "illegal",
+    "drugs",
+    "banned"
+  ],
+  "sources_searched": 53,
+  "sources_missing_text": [
+    "cpb-0005"
+  ],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.2149,
+      "source_id": "cpb-0031",
+      "source_type": "media",
+      "title": "The Tyee: The BC Conservative Platform - A Road Map to the 1950s",
+      "url": "https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "archive_url": "http://web.archive.org/web/20260915092040/https://thetyee.ca/Analysis/2026/09/14/BC-Conservative-Platform-Road-Map-1950s/",
+      "published": "2026-09-14",
+      "quote": "As for public transit, the Conservatives want to build out the SkyTrain to Newton in Surrey, put in regional rail service in the Fraser Valley and “implement a zero-tolerance policy for drug use, threats and violence on public transit.” Again, they say nothing about funding."
+    },
+    {
+      "rank": 2,
+      "score": 3.9423,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "published": "2026-05-28",
+      "quote": "This includes the drug laws and all laws. As soon as we found out that this organization was engaged in illegal activity and had been receiving public funding through Vancouver Coastal Health, we immediately acted, and their funding was cancelled. The individuals involved have been convicted. There is a constitutional challenge, I understand, that is ongoing."
+    },
+    {
+      "rank": 3,
+      "score": 3.4595,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Implement a zero-tolerance policy for drug use, threats, and violence on\n public transit. Offences against both riders and operators will be prosecuted to\n the fullest extent of the law, and we will work with TransLink and the Transit Police\n to make sure they have all tools needed to keep the system safe."
+    },
+    {
+      "rank": 4,
+      "score": 2.8992,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "Implement a zero-tolerance policy for drug use, threats, and violence on public transit.\n Offences against both riders and operators will be prosecuted to the fullest extent of the law,\n and we will work with TransLink and the Transit Police to make sure they have all tools\n needed to keep the system safe.\n (g) Invest in BC Transit services across the province, focusing on high-growth areas where\n services just haven’t kept up.\n (h) Expand HandyDART services to areas of greatest need, and strictly enforce quality\n standards for contractors providing the service."
+    },
+    {
+      "rank": 5,
+      "score": 2.516,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Cutting-off drug supply: No more deadly drugs from \"safe supply\" sources. We\n will halt the government-sanctioned distribution of drugs and go after illegal\n sources with new urgency."
+    },
+    {
+      "rank": 6,
+      "score": 1.6266,
+      "source_id": "cpb-0024",
+      "source_type": "hansard",
+      "title": "Hansard — Feb 18 2026 Afternoon, Issue No. 118",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "archive_url": "https://web.archive.org/web/20261001081728/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260218pm-Hansard-n118.html",
+      "published": "2026-02-18",
+      "quote": "[2:15 p.m.] To the Premier, why is the Premier creating one standard of court review for Indigenous rights and another for everyone else? Hon. Spencer Chandra Herbert : I respect the role of the court, and I respect the role that First Nations can use that court. As you’ll know, there was a time when our House and the federal parliament banned the use of courts."
+    },
+    {
+      "rank": 7,
+      "score": 1.562,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "published": "2026-05-28",
+      "quote": "Obvious statement No. 1: drug trafficking is illegal. Laws are enforced by the police and typically prosecuted by the federal prosecution service, and rightly so. The second obvious thing: government-funded organizations must follow the law."
+    },
+    {
+      "rank": 8,
+      "score": 1.5565,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "If the government is going to put me in a supportive housing unit, I don’t want to go there.” One of their main concerns is the use of drugs in those units. It’s not conducive to recovery. As somebody that’s gone through it, I had to move all the way up north to be able to go through my recovery after treatment because I knew that if I stayed in the Lower Mainland, I probably would not be able to stay sober. I think that it’s inhumane to expose people that are in recovery to continued and prolonged drug use around them."
+    },
+    {
+      "rank": 9,
+      "score": 1.5416,
+      "source_id": "cpb-0030",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-28 pm, Issue 188 (Komoks Treaty Act third reading, Conservative speeches)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "archive_url": "https://web.archive.org/web/20261001083503/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260528pm-Hansard-n188.html",
+      "published": "2026-05-28",
+      "quote": "I assumed that the Premier might know what those unhappy consequences were, but I guess he doesn’t want to put them on the record, because, obviously, that would be the doing of his own government. Nevertheless, I’m glad to see that, after ten years, they have finally decided to do what we’ve been asking for this entire time and encourage treatment and recovery rather than allowing permissive structures that allow drug use. Last year founders of the Drug User Liberation Front were convicted in the B.C. Supreme Court for procurement and trafficking of illicit drugs."
+    },
+    {
+      "rank": 10,
+      "score": 1.458,
+      "source_id": "cpb-0001",
+      "source_type": "platform",
+      "title": "CPBC Policy Declaration (March 2025)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "archive_url": "http://web.archive.org/web/20261001075612/https://conservativebc.ca/wp-content/uploads/2025/07/CPBC_March_2025_Policy_Declaration.pdf",
+      "published": "2025-07-01",
+      "quote": "After consultation with\n his family, the law will be named after Christian DeSousa, a young man who lost his life to drugs after\n struggling with addiction since age 13. The NDP government refused to place Christian in involuntary\n treatment that his mother pleaded for, repeatedly.\n 9.20 Build specialized housing for complex needs: We will establish housing for those with anoxic brain injuries\n due to drug use, who cannot thrive in traditional treatment environments."
+    },
+    {
+      "rank": 11,
+      "score": 1.357,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Build specialized housing for complex needs: We will establish housing for\n those with anoxic brain injuries due to drug use, who cannot thrive in\n traditional treatment environments."
+    },
+    {
+      "rank": 12,
+      "score": 1.2384,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "[3:15 p.m.] I’m curious if the minister could please elaborate on why the Surrey Union of Drug Users was consulted in regards to this piece of legislation, given the fact that it has absolutely no scope, whatsoever, around drug use and it doesn’t touch that in any way. The main reason I’m asking is because I had concerns over a lack of consultation with other key groups that I thought should’ve been consulted — whether that’s municipalities, fire departments, police. I have a fair bit of concern over the fact that they weren’t consulted in the drafting of this legislation, so I’m quite surprised to hear that this group was."
+    }
+  ]
+}

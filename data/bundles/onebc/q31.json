@@ -1,0 +1,131 @@
+{
+  "question_id": "q31",
+  "statement": "The province should invest in public transit and rail rather than expanding highways.",
+  "topic": "climate-environment",
+  "party_slug": "onebc",
+  "generated_at": "2026-10-01T19:39:53Z",
+  "method": "keyword + tf-idf over data/raw/onebc/*.txt (stdlib, offline)",
+  "query_terms": [
+    "invest",
+    "public",
+    "transit",
+    "rail",
+    "rather",
+    "expanding",
+    "highways"
+  ],
+  "sources_searched": 19,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 2.0732,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "If you have orders in council, it doesn’t come into this chamber so we can shine the light of day on it. Regulations made behind closed doors are not. When access-to-information laws weaken at the same time that regulatory powers expand, the public loses visibility in both directions. Decisions move further from public debate, and the tools available to investigate those decisions become weaker."
+    },
+    {
+      "rank": 2,
+      "score": 1.0153,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "That is an investment that should have happened a long time ago but is happening now. We need to see more investments in coastal British Columbia to be able to transition away from our primary forest to our second-growth hemlock. There’s huge potential, from my conversations in Japan and South Korea — lots of interest. We’re going to be committed as a government to working alongside industry to be able to make those investments."
+    },
+    {
+      "rank": 3,
+      "score": 0.7828,
+      "source_id": "onebc-0018",
+      "source_type": "other",
+      "title": "Wikipedia: OneBC (political party) - history and policy summary",
+      "url": "https://en.wikipedia.org/wiki/OneBC_(political_party)",
+      "archive_url": "http://web.archive.org/web/20260923165706/https://en.wikipedia.org/wiki/OneBC_(political_party)",
+      "published": "",
+      "quote": "[ 13 ] The bill would have prohibited doctors from providing puberty blockers and hormone therapy to minors, public funds from being used for gender transitions , and imposed the misgendering of students in schools. It would have also given parents and children 25 years after gender transition treatments to sue their doctors. The bill was defeated before its first reading, a rare occurrence, by a vote of 48 to 40. [ 14 ] Later that same month, on October 23, the party proposed a bill that would have banned public institutions and employees from making land acknowledgements ; [ 15 ] the bill was defeated 88 to 5 in the first reading."
+    },
+    {
+      "rank": 4,
+      "score": 0.7826,
+      "source_id": "onebc-0015",
+      "source_type": "media",
+      "title": "CTV News: OneBC pledges not to run against eight principled B.C. Conservative candidates",
+      "url": "https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates",
+      "archive_url": "http://web.archive.org/web/20261001080705/https://www.ctvnews.ca/vancouver/article/onebc-pledges-not-to-run-against-eight-principled-bc-conservative-candidates/",
+      "published": "",
+      "quote": "RCMP Video Kinew sits with First Nations leaders to honour children at school burial site Man dead, 7 injured in three Winnipeg crashes Video Brett Lauther returns to Rider Nation in trade with Redblacks Here’s what’s happening in Regina on National Day for Truth and Reconciliation Video Guelph police investigate ‘dangerous behaviour’ during unsanctioned Homecoming gathering Video Swiss court rejects Hockey Canada’s bid to block Team Canada jersey deal ‘It’s hard not to be emotional’: Residential school survivor speaks at Wanuskewin event Video ‘Absolutely no evidence’: Saskatoon judge rejects request to stop encampment clearing Video Highway 69 closure now focus of SIU investigation Crash"
+    },
+    {
+      "rank": 5,
+      "score": 0.7322,
+      "source_id": "onebc-0019",
+      "source_type": "other",
+      "title": "iVoteOneBC.ca — OneBC Priorities (independent supporter summary of official 53 planks)",
+      "url": "https://ivoteonebc.ca/policies",
+      "archive_url": "http://web.archive.org/web/20261001080306/https://ivoteonebc.ca/policies",
+      "published": "2026-06-17",
+      "quote": "iVoteOneBC is an independent supporter and commentary site; all wording below is summarized from OneBC’s public page. Prosperity — 5 planks Income-tax and corporate-tax cuts, lower government costs, red-tape reduction, competitive infrastructure delivery, and removing UNDRIP / band veto barriers to investment. Housing — 6 planks Agricultural Land Commission reform, support for resource-community housing, rental-construction investment, step-code cost relief, real-estate tax review, and stable property taxation."
+    },
+    {
+      "rank": 6,
+      "score": 0.7009,
+      "source_id": "onebc-0010",
+      "source_type": "hansard",
+      "title": "Hansard 2026-03-12: Brodie statements and questions (OneBC)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "archive_url": "http://web.archive.org/web/20261001080313/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260312pm-Hansard-n141.html",
+      "published": "2026-03-12",
+      "quote": "Those families who have an adjusted net income of over $200,000 a year will be supported in our community-based programming. That phased approach that we’re taking and the immediate investment this year of the 75 FTEs will help support us with that phased approach. Reann Gasper : Will families be permitted to continue working with their existing service providers during the transition period? Hon."
+    },
+    {
+      "rank": 7,
+      "score": 0.5209,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "It seems to me that this government is more concerned about press releases and photo ops than it is about protecting the public assets of this province that the taxpayers have paid for — dearly, I might add. I don’t think that anybody wants to see this government do ribbon-cutting deals rather than doing their duty, which is to ensure a transparent, accountable and, more importantly or just as importantly, serious management of critical public infrastructure. We’re talking about the electrical grid. This government has done huge backflips over saying how important the electrical grid is for the future."
+    },
+    {
+      "rank": 8,
+      "score": 0.5155,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "Power is supposed to serve people. That’s the simple truth at the heart of public service, whether it is electrical power or political power. When power becomes about itself, about control, it forgets its purpose. We are told this bill will attract investment and innovation, but what kind of innovation puts decision-making further from the people it affects?"
+    },
+    {
+      "rank": 9,
+      "score": 0.4655,
+      "source_id": "onebc-0001",
+      "source_type": "platform",
+      "title": "OneBC — Our Priorities (platform plan)",
+      "url": "https://1bc.ca/priorities",
+      "archive_url": "http://web.archive.org/web/20261001075614/https://1bc.ca/priorities",
+      "published": "",
+      "quote": "Downgrades, High Interests Cost, Increases unaffordability 2 Tax dollars spent on debt servicing is tax dollars not spent on healthcare 3 Balanced budgets within 4 years, with an aim towards running surplus budgets 4 A portion of budget surpluses will be put towards debt repayment to quickly reduce the costs of debt servicing in the budget Healthcare 1 Private Healthcare alongside fully-funded public healthcare 2 Shift administration/HR spending to frontline employees and resources Education 1 Bring back standardized testing — Focus on reading, writing and mathematics 2 Remove SOGI-123 and politicized content from classrooms 3 Institute a Parental Bill of Rights guaranteeing informed"
+    },
+    {
+      "rank": 10,
+      "score": 0.4255,
+      "source_id": "onebc-0008",
+      "source_type": "hansard",
+      "title": "Hansard 2025-10-28: Brodie (OneBC) debate",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "archive_url": "https://web.archive.org/web/20261001081034/https://lims.leg.bc.ca/hdms/file/Debates/43rd1st/20251028am-Hansard-n91.html",
+      "published": "2025-10-28",
+      "quote": "I want to say thank you to the RCMP who responded and for the people who provide support to paramedics and other front-line workers when terrible circumstances like this unfold. The continuum of publicly funded services that this government is building out when it comes to mental health is absolutely unprecedented. This year’s budget has a $4.2 billion lift in health care, and that includes $500 million to expand the services of mental health and substance use across this province. It includes Foundry centres, interdisciplinary teams for youth."
+    }
+  ]
+}

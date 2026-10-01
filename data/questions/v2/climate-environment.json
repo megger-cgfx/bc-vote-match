@@ -1,0 +1,93 @@
+[
+  {
+    "id": "q28",
+    "statement": "BC should approve new liquefied natural gas (LNG) export projects.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed leading rationale ('to grow the export economy'); kept single policy idea."
+  },
+  {
+    "id": "q29",
+    "statement": "The province should stop logging old-growth forests.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "social",
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q30",
+    "statement": "BC should require oil and gas companies to cut their greenhouse gas emissions.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Replaced emotive 'steep emissions cuts' with a plain mandate wording."
+  },
+  {
+    "id": "q31",
+    "statement": "The province should prioritize funding for public transit over highway expansion.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Split the two-idea 'transit and rail rather than highways' into one spending-priority idea."
+  },
+  {
+    "id": "q32",
+    "statement": "Industrial carbon pricing should apply to BC's largest emitters.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q33",
+    "statement": "BC should protect at least 30% of its land and water by 2030.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "social"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q34",
+    "statement": "BC should require that all new cars sold by 2035 be electric.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  },
+  {
+    "id": "q35",
+    "statement": "BC should speed up the approval of new mining projects.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": true,
+    "change_reason": "Removed 'and resource projects' second idea and leading 'to create jobs' rationale."
+  },
+  {
+    "id": "q36",
+    "statement": "BC should end public subsidies to the fossil fuel industry.",
+    "topic": "climate-environment",
+    "dimensions": [
+      "economic"
+    ],
+    "revised": false,
+    "change_reason": ""
+  }
+]

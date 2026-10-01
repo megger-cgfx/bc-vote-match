@@ -1,0 +1,132 @@
+{
+  "question_id": "q38",
+  "statement": "DRIPA should be changed so that First Nations' consent is not required for resource projects.",
+  "topic": "indigenous-reconciliation",
+  "party_slug": "cpb",
+  "generated_at": "2026-10-01T20:29:56Z",
+  "method": "keyword + tf-idf over data/raw/cpb/*.txt (stdlib, offline)",
+  "query_terms": [
+    "dripa",
+    "changed",
+    "first",
+    "nations",
+    "consent",
+    "required",
+    "resource",
+    "projects"
+  ],
+  "sources_searched": 54,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 5.1333,
+      "source_id": "cpb-0009",
+      "source_type": "release",
+      "title": "Press release: BC Conservatives call out NDP government secrecy on DRIPA amendments",
+      "url": "https://conservativebc.ca/bc-conservatives-call-out-ndp-government-secrecy-on-dripa-amendments/",
+      "archive_url": "http://web.archive.org/web/20260411112953/https://conservativebc.ca/bc-conservatives-call-out-ndp-government-secrecy-on-dripa-amendments/",
+      "published": "2026-03-25",
+      "quote": "According to public reporting, the government has circulated proposed DRIPA changes behind closed doors, shielded key documents from public scrutiny, and required non-disclosure agreements before some First Nations leaders could even review the details. At the same time, the broader public has been kept in the dark about what exactly the government wants to change, why it wants those changes, and what the legal and economic consequences could be. That is not how a serious government builds trust. And it is not how a government brings people along on an issue as important as reconciliation."
+    },
+    {
+      "rank": 2,
+      "score": 4.6134,
+      "source_id": "cpb-0005",
+      "source_type": "policy",
+      "title": "Make BC an Energy Superpower (2026 campaign policy PDF)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2026/09/BC-ENERGY-SUPERPOWER_5_compressed.pdf",
+      "archive_url": "http://web.archive.org/web/20260929023653/https://conservativebc.ca/wp-content/uploads/2026/09/BC-ENERGY-SUPERPOWER_5_compressed.pdf",
+      "published": "2026-09-28",
+      "quote": "9\n BUILD MORE FASTER\nBC ENERGY \nSUPERPOWER \nPLAN\nFIRST NATIONS PARTICIPATION:\n•We will honour First Nations agreements on resources, pipelines and transmission, \nand expand loan guarantees so more First Nations can own a share of the projects on \ntheir territory.\n•We will work with the federal government to ensure the Indigenous Loan Guarantee \nPrograms deliver faster development and improved economic and social outcomes for \nIndigenous peoples in BC.\n•We will partner with the First Nations Major Projects Coalition to ensure BC is a good \n•We will partner with the First Nations Major Projects Coalition to ensure BC is a good \npartner with First Nations and to work with proponents and other"
+    },
+    {
+      "rank": 3,
+      "score": 3.5892,
+      "source_id": "cpb-0052",
+      "source_type": "other",
+      "title": "2024 Policy Platform 'Common Sense Change for BC' (prior general election, Rustad era; 2026 plank names reuse its chapters)",
+      "url": "https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "archive_url": "https://web.archive.org/web/20261001083846/https://da1a036c-b798-4e6b-a8c4-5a6d84a800d4.filesusr.com/ugd/b66bba_2405be57332842f987dbe5f9d8971abd.pdf",
+      "published": "",
+      "quote": "● Provide loan guarantees to assist First Nations in acquiring equity positions in\n natural resources and other major commercial projects."
+    },
+    {
+      "rank": 4,
+      "score": 3.3309,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "We do also receive requests for commission structure changes from municipal governments, as well as First Nations. Peter Milobar : Have BCLC and the government taken any review of the impact and the potential impact of the provisions with DRIPA in relation to these requests, moving forward? We have a court case right now where a hydro project that was bought into and signed off on a contract by a First Nation at a set rate is now being taken to court because, under DRIPA, they feel that they should be getting it at a different rate with B.C. Hydro, in terms of the rate paid for the power generated."
+    },
+    {
+      "rank": 5,
+      "score": 3.2673,
+      "source_id": "cpb-0026",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-04-13 pm, Issue 150 (DRIPA repeal debate; Halford, McInnis, Doerkson)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "archive_url": "http://web.archive.org/web/20261001080449/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260413pm-Hansard-n150.html",
+      "published": "2026-04-13",
+      "quote": "We listened and are taking action to change the dispute resolution framework — making it better able to support the process and create more predictability and certainty for industry, creating transparency and trust between all parties. The EAO has worked tirelessly over the past six months to consult with First Nations and industry alike. Hearing from proponents, First Nations organizations and project proponents, our government listened and learned, and we are taking action now. There was a strong interest in working towards early issues resolution."
+    },
+    {
+      "rank": 6,
+      "score": 2.8512,
+      "source_id": "cpb-0027",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-20 pm, Issue 179 (DRIPA, supportive housing, Coastal GasLink, log exports)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "archive_url": "https://web.archive.org/web/20261001081938/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "published": "2026-05-20",
+      "quote": "It’s also the traditional territory of the Wei Wai Kum. I’m going to just be really specific. At issue in this K’ómoks treaty, in the opinion of the Wei Wai Kum First Nation, is that it contains portions of land overlapping traditional territory. The primary concern is that the Wei Wai Kum will be required to seek free, prior and informed consent on what they consider to be their own territory."
+    },
+    {
+      "rank": 7,
+      "score": 2.7208,
+      "source_id": "cpb-0009",
+      "source_type": "release",
+      "title": "Press release: BC Conservatives call out NDP government secrecy on DRIPA amendments",
+      "url": "https://conservativebc.ca/bc-conservatives-call-out-ndp-government-secrecy-on-dripa-amendments/",
+      "archive_url": "http://web.archive.org/web/20260411112953/https://conservativebc.ca/bc-conservatives-call-out-ndp-government-secrecy-on-dripa-amendments/",
+      "published": "2026-03-25",
+      "quote": "Instead, this government is fuelling uncertainty on all sides. First Nations leaders have raised alarm about compressed timelines and gag orders. British Columbians are left wondering what is changing and what it will mean for the future of law-making, court decisions, resource development, and the government’s overall reconciliation agenda. The BC Conservative Caucus is calling on the government to: Immediately release the details of their DRIPA amendments for public review."
+    },
+    {
+      "rank": 8,
+      "score": 2.6167,
+      "source_id": "cpb-0028",
+      "source_type": "hansard",
+      "title": "Hansard — May 25 2026 Afternoon, Issue No. 183",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "archive_url": "https://web.archive.org/web/20261001083113/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260525pm-Hansard-n183.html",
+      "published": "2026-05-25",
+      "quote": "1: “The development of a co-management agreement in accordance with this chapter will be based upon (a) implementation of the United Nations Declaration on the Rights of Indigenous Peoples, including aiming to secure the free, prior and informed consent of K’ómoks for land and resources decisions within the K’ómoks traditional territory; (b) K’ómoks exercisable section 35 rights; and (c) recognition of K’ómoks Aboriginal rights and title, including the inherent right to self-government in accordance with this agreement.” [5:20 p.m.] Now, the first thing I find interesting…."
+    },
+    {
+      "rank": 9,
+      "score": 2.3996,
+      "source_id": "cpb-0027",
+      "source_type": "hansard",
+      "title": "BC Hansard 2026-05-20 pm, Issue 179 (DRIPA, supportive housing, Coastal GasLink, log exports)",
+      "url": "https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "archive_url": "https://web.archive.org/web/20261001081938/https://lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260520pm-Hansard-n179.html",
+      "published": "2026-05-20",
+      "quote": "It’s been expressed to me that this is already causing some disputes with a natural resources project, a wind farm that is already in discussions and the planning phase. Because of this dispute over territory, it’s actually causing a problem already. There’s no framework in the treaty to resolve the dispute. Furthermore, if we pass this implementation legislation and the treaty is ratified, First Nations who are in conflict over the territory that is overlapping within the treaty agreement have already said that they would take immediate court action."
+    },
+    {
+      "rank": 10,
+      "score": 2.3805,
+      "source_id": "cpb-0035",
+      "source_type": "media",
+      "title": "B.C. Conservative leader Lorne Doerkson suddenly gunning for premier (Vancouver Sun)",
+      "url": "https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
+      "archive_url": "https://web.archive.org/web/20261001083613/https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
+      "published": "2026-09-25",
+      "quote": "Article content Under Doerkson as interim leader, the Conservatives have indicated they intend to shift to pocket-book issues . Article content But Doerkson has not shied completely away from culture-war issues, and has already said he would repeal the Declaration on the Rights of Indigenous Peoples Act (DRIPA), which has been one of the flashpoints of reconciliation with First Nations in B.C. Article content He told Postmedia this week that he would remove sexual orientation and gender identity resources — known as SOGI — from schools. Article content Former Vancouver city councillor George Affleck, a friend who got to know Doerkson while working with the B.C."
+    }
+  ]
+}

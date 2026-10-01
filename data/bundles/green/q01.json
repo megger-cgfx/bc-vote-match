@@ -1,0 +1,156 @@
+{
+  "question_id": "q01",
+  "statement": "The province should reinstate and raise the consumer carbon tax to cut emissions, even if it increases the cost of fuel.",
+  "topic": "cost-of-living-taxes",
+  "party_slug": "green",
+  "generated_at": "2026-10-01T18:53:17Z",
+  "method": "keyword + tf-idf over data/raw/green/*.txt (stdlib, offline)",
+  "query_terms": [
+    "reinstate",
+    "raise",
+    "consumer",
+    "carbon",
+    "tax",
+    "cut",
+    "emissions",
+    "increases",
+    "cost",
+    "fuel"
+  ],
+  "sources_searched": 42,
+  "sources_missing_text": [],
+  "passages": [
+    {
+      "rank": 1,
+      "score": 4.1634,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "Increase the industrial carbon tax and redirect\nrevenue from industrial carbon pricing to fund"
+    },
+    {
+      "rank": 2,
+      "score": 3.9113,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "the carbon tax. The BC Greens would ensure that these emissions\nwere treated the same as all other emissions in British Columbia."
+    },
+    {
+      "rank": 3,
+      "score": 3.3531,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "One of the things that’s not talked about — at least, I haven’t noticed it yet, and I may have missed this in other chapters of the treaty — is, for example, carbon emissions, carbon tax, those types of things associated with mining activity."
+    },
+    {
+      "rank": 4,
+      "score": 3.2185,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "Brenda Bailey : With all due respect, the member is simply wrong. This is not an efficiency-saving measure. [11:10 a.m.] The reality is, when the carbon tax came in, we knew it was true that it would have an outsized effect on rural homeowners because they often use fossil fuel for their home heating. This is related to the carbon tax."
+    },
+    {
+      "rank": 5,
+      "score": 2.8599,
+      "source_id": "green-0091",
+      "source_type": "platform",
+      "title": "BC Greens 2024 Platform (full policy document, superseded by 2026 plan)",
+      "url": "https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "archive_url": "http://web.archive.org/web/20260831094354/https://bcgreens.ca/wp-content/uploads/2024/09/BCGreens-Platform-2024.pdf",
+      "published": "2024-09-27",
+      "quote": "All additional revenue from the Carbon Tax will deliver CleanBC projects or be rebated to British Columbians."
+    },
+    {
+      "rank": 6,
+      "score": 2.8378,
+      "source_id": "green-0011",
+      "source_type": "platform",
+      "title": "2024 BC Green Party Platform - Putting People First",
+      "url": "https://bcgreens.ca/2024-platform/",
+      "archive_url": "http://web.archive.org/web/20260922213746/https://bcgreens.ca/2024-platform/",
+      "published": "",
+      "quote": "This will raise an additional $938 million per annum. A new marginal tax rate of 18% for corporate profits over $1 billion per year. This will raise an additional $410 million per annum. We will ensure all polluters, including the fossil fuel industry, are paying for their emissions fairly."
+    },
+    {
+      "rank": 7,
+      "score": 2.7753,
+      "source_id": "green-0097",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 184 (May 26 2026 am) - Botterell / Valeriote",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "archive_url": "http://web.archive.org/web/20261001084402/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260526am-Hansard-n184.html",
+      "published": "2026-05-26",
+      "quote": "Brenda Bailey : The homeowner grant is one of the many ways in which the province supports people facing high costs of necessities like housing and food, and we’re going to continue to provide the support, just like we support renters and provide cost-of-living relief to those who need it most. For 2026, 92 percent of homeowners will still continue to be eligible for the grant, with an additional grant for seniors, veterans and people with a disability. What this member is referencing is a $200 top-up that was related to the carbon tax. The carbon tax is gone, and the top-up is too."
+    },
+    {
+      "rank": 8,
+      "score": 2.5937,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "Obviously, when there’s a mine or where there’s some sort of extraction of a subsurface resource, often there’s CO 2 associated with it, or if, quite frankly, there’s any industrial activity, there’s CO 2 associated with it, and we have an industrial carbon tax that’s put in place. We have emission targets that have been set in place, working towards net zero and all these sorts of things. How does that apply to the treaty, and can the K’ómoks Nation override or write its own rules associated with the emission of CO 2 ? Hon."
+    },
+    {
+      "rank": 9,
+      "score": 2.5057,
+      "source_id": "green-0011",
+      "source_type": "platform",
+      "title": "2024 BC Green Party Platform - Putting People First",
+      "url": "https://bcgreens.ca/2024-platform/",
+      "archive_url": "http://web.archive.org/web/20260922213746/https://bcgreens.ca/2024-platform/",
+      "published": "",
+      "quote": "Year 1 ($, million) Year 2 ($, million) Year 3 ($, million) Corporate Taxes 410 410 410 Property Taxes 938 938 938 Marginal Income Taxes 394.50 394.50 394.50 Carbon Tax 3,549 5,462 4,818 TOTAL 5,291.50 7,204.50 6,560.50 Expenditure We estimate the additional costs included in this platform to be in line with the figures below. These do not account for the offsets from cutting existing government programs, as they will require review before they can be costed – for example, the review and amalgamation of the Health Authorities."
+    },
+    {
+      "rank": 10,
+      "score": 2.4701,
+      "source_id": "green-0033",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 127 (Feb 26 2026 pm) - Second Reading, Bill 5 Trade Recognition Act (Valeriote)",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "archive_url": "https://web.archive.org/web/20261001080856/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260226pm-Hansard-n127.html",
+      "published": "2026-02-26",
+      "quote": "Transportation is another example. Trucking companies operating across provincial lines have to comply with different rules regarding vehicle weights, dimensions, permits and safety standards. These inconsistencies increase costs; cause delays; and, ultimately, raise prices for consumers. Construction is another sector greatly affected, with differences in building codes."
+    },
+    {
+      "rank": 11,
+      "score": 2.3831,
+      "source_id": "green-0096",
+      "source_type": "hansard",
+      "title": "Hansard 43-2, Issue 186 (May 27 2026 pm) - Botterell bill debate",
+      "url": "https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "archive_url": "http://web.archive.org/web/20260813213255/https://api.lims.leg.bc.ca/hdms/file/Debates/43rd2nd/20260527pm-Hansard-n186.html",
+      "published": "2026-05-27",
+      "quote": "It can’t just be any sort of mine. The provincial standards, federal standards would prevail. K’ómoks tax-making authority. When it comes to something like a carbon tax, they have the right to do a direct tax on their members but no one else in that relation."
+    },
+    {
+      "rank": 12,
+      "score": 2.2328,
+      "source_id": "green-0022",
+      "source_type": "media",
+      "title": "COST OF LIVING: What is each party promising British Columbians? (Western Standard)",
+      "url": "https://westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+      "archive_url": "http://web.archive.org/web/20251005125051/https://www.westernstandard.news/news/cost-of-living-what-is-each-party-promising-british-columbians/58635",
+      "published": "",
+      "quote": "Carbon Tax Bcpoli David Eby British Columbia Cost Of Living Bc Conservatives John Rustad Bc Ndp Poverty Sonia Furstenau Bc Greens rustad rebate Related Stories Day 6 of the 2026 BC election: Party leaders react to 'masked gathering' in Kamloops Alex Zoltan 27 Sep 2026 BRULOTTE: The rest of Canada can't afford to ignore BC election Western Standard Guest Columnist 27 Sep 2026 Day 3 of the BC election: Eby's Maple Ridge press conference goes less than swimmingly Alex Zoltan 24 Sep 2026 OSMOND-JONES: Anatomy of a meltdown inside the BC Conservatives Western Standard Guest Columnist 22 Sep 2026 © westernstandard 2026 Powered by Quintype Western Standard www.westernstandard.news INSTALL APP"
+    }
+  ]
+}
