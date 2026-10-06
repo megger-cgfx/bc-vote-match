@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /results/
+
+Sitemap: https://bcvotematch.ca/sitemap.xml
